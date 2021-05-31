@@ -9,7 +9,7 @@ As we learned about [Trie](./), in our previous page, Now lets see its implement
 using namespace std;
  
 // Define the character size
-#define CHAR_SIZE 128
+#define CHAR_SIZE 26
  
 // A class to store a Trie node
 class Trie
@@ -21,7 +21,7 @@ public:
     // Constructor
     Trie()
     {
-        this->isLeaf = false;
+        this->index = -1;
  
         for (int i = 0; i < CHAR_SIZE; i++) {
             this->character[i] = nullptr;
@@ -32,26 +32,27 @@ public:
     bool deletion(Trie*&, string);
     bool search(string);
     bool haveChildren(Trie const*);
+    bool preorder(vector<string>&);
 };
  
 // Iterative function to insert a key into a Trie
-void Trie::insert(string key)
+void Trie::insert(string key, int index)
 {
     // start from the root node
     Trie* curr = this;
     for (int i = 0; i < key.length(); i++)
     {
         // create a new node if the path doesn't exist
-        if (curr->character[key[i]] == nullptr) {
-            curr->character[key[i]] = new Trie();
+        if (curr->character[key[i] - 'a'] == nullptr) {
+            curr->character[key[i] - 'a'] = new Trie();
         }
  
         // go to the next node
-        curr = curr->character[key[i]];
+        curr = curr->character[key[i] - 'a'];
     }
  
     // mark the current node as a leaf
-    curr->isLeaf = true;
+    curr->isLeaf = index;
 }
  
 // Iterative function to search a key in a Trie. It returns true
@@ -67,7 +68,7 @@ bool Trie::search(string key)
     for (int i = 0; i < key.length(); i++)
     {
         // go to the next node
-        curr = curr->character[key[i]];
+        curr = curr->character[key[i] - 'a'];
  
         // if the string is invalid (reached end of a path in the Trie)
         if (curr == nullptr) {
@@ -77,7 +78,7 @@ bool Trie::search(string key)
  
     // return true if the current node is a leaf and the
     // end of the string is reached
-    return curr->isLeaf;
+    return curr->index != -1;
 }
  
 // Returns true if a given node has any children
@@ -89,7 +90,6 @@ bool Trie::haveChildren(Trie const* curr)
             return true;    // child found
         }
     }
- 
     return false;
 }
  
@@ -108,9 +108,9 @@ bool Trie::deletion(Trie*& curr, string key)
         // and if it returns true, delete the current node (if it is non-leaf)
  
         if (curr != nullptr &&
-            curr->character[key[0]] != nullptr &&
-            deletion(curr->character[key[0]], key.substr(1)) &&
-            curr->isLeaf == false)
+            curr->character[key[0] - 'a'] != nullptr &&
+            deletion(curr->character[key[0] - 'a'], key.substr(1)) &&
+            curr->index == -1)
         {
             if (!haveChildren(curr))
             {
@@ -141,7 +141,7 @@ bool Trie::deletion(Trie*& curr, string key)
         // if the current node is a leaf node and has children
         else {
             // mark the current node as a non-leaf node (DON'T DELETE IT)
-            curr->isLeaf = false;
+            curr->index = -1;
  
             // don't delete its parent nodes
             return false;
@@ -151,6 +151,27 @@ bool Trie::deletion(Trie*& curr, string key)
     return false;
 }
  
+/* function for preorder traversal */
+/* products is the string vector contains all the keys in the trie with their index */
+bool Trie::preorder(vector<string>& products)
+{
+    if (this == nullptr)
+        return false;
+        
+    Trie* curr = this;
+    for (int i = 0; i < CHAR_SIZE; i++) {
+        if (curr->character[i] != NULL) {
+    
+            /* if leaf node then print key*/
+            if (curr->character[i]->index != -1)
+                cout << products[curr->character[i]->index] << endl;
+  
+            curr->character[i]->preorder(products);
+        }
+    }
+    return true;
+}
+
 // C++ implementation of Trie data structure
 int main()
 {
