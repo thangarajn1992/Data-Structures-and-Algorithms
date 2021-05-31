@@ -153,6 +153,7 @@ bool Trie::deletion(Trie*& curr, string key)
  
 /* function for preorder traversal */
 /* products is the string vector contains all the keys in the trie with their index */
+/* Preorder Traversal results is Lexicographical order */
 bool Trie::preorder(vector<string>& products)
 {
     if (this == nullptr)
