@@ -1,4 +1,4 @@
-# Heap
+# Heap / Priority Queues
 
 ## Heap
 
