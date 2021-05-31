@@ -2,6 +2,8 @@
 
 As we learned about [Trie](./), in our previous page, Now lets see its implementation in C++, which is way cleaner than the [C Implementation.](trie-c-implementation.md)
 
+For memory efficient implementation of Trie in C++ using maps to track child nodes, use this link
+
 ### Code
 
 ```cpp
