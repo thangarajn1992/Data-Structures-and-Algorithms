@@ -14,6 +14,7 @@
 * [Heap / Priority Queues](data-structures/heap/README.md)
   * [Heap/Priority Queue Problems](data-structures/heap/heap-priority-queue-problems.md)
   * [Implementation of Priority Queue](data-structures/heap/implementation-of-priority-queue.md)
+  * [Priority Queue Based Problems](data-structures/heap/priority-queue-based-problems.md)
 * [Hash Tables](data-structures/hash-tables.md)
 * [Graphs](data-structures/graphs/README.md)
   * [Breadth First Search](data-structures/graphs/breadth-first-search.md)
