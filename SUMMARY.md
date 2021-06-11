@@ -6,7 +6,8 @@
 
 * [Arrays](data-structures/arrays.md)
 * [Strings](data-structures/strings.md)
-* [Linked Lists](data-structures/linked-lists.md)
+* [Linked Lists](data-structures/linked-lists/README.md)
+  * [Linked List Operations](data-structures/linked-lists/linked-list-operations.md)
 * [Stacks](data-structures/stacks.md)
 * [Queues](data-structures/queues.md)
 * [Binary Trees](data-structures/binary-trees/README.md)
