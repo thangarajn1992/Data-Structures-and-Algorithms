@@ -35,3 +35,7 @@
 * [Bellman Ford Algorithm](algorithms/bellman-ford-algorithm.md)
 * [Boyer-Moore String Search Algorithm](algorithms/boyer-moore-string-search-algorithm.md)
 
+## General Theory
+
+* [Arithmetic Expressions \( Notations \)](general-theory/arithmetic-expressions-notations.md)
+
