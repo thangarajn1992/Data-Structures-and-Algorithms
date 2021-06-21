@@ -19,6 +19,7 @@
   * [Priority Queue Based Problems](data-structures/heap/priority-queue-based-problems.md)
 * [Hash Tables](data-structures/hash-tables.md)
 * [Graphs](data-structures/graphs/README.md)
+  * [Graph Terminology](data-structures/graphs/graph-terminology.md)
   * [Breadth First Search](data-structures/graphs/breadth-first-search.md)
   * [Graph Based Problems](data-structures/graphs/graph-based-problems.md)
 * [Trie](data-structures/trie/README.md)
@@ -35,6 +36,7 @@
 * [Parallel Computing](algorithms/parallel-computing.md)
 * [Bellman Ford Algorithm](algorithms/bellman-ford-algorithm.md)
 * [Boyer-Moore String Search Algorithm](algorithms/boyer-moore-string-search-algorithm.md)
+* [Kosaraju's algorithm](algorithms/kosarajus-algorithm.md)
 
 ## General Theory
 
