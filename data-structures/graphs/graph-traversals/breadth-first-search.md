@@ -2,7 +2,7 @@
 
 Breadth First Traversal\(search\) for a graph is similar to Breadth First Traversal of a tree. The only difference here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array.
 
-![](../../../.gitbook/assets/image%20%287%29.png)
+![](../../../.gitbook/assets/image%20%2819%29.png)
 
 The BFS traversal of this graph is `[2, 0, 3, 1]`
 
@@ -97,4 +97,58 @@ int main()
 ```
 
 ### Modified BFS for Disconnected Graphs
+
+
+
+## Applications of Breadth-First Search
+
+### 1. Shortest Path and Minimum Spanning Tree for Unweighted Graph
+
+In an unweighted graph, the shortest path is the path with least number of edges. With Breadth First, we always reach a vertex from a given source using the minimum number of edges. Also, in case of unweighted graphs, any spanning tree is Minimum Spanning Tree and we can either Depth or Breadth first traversal for finding a spanning tree.
+
+### 2. Peer to Peer Networks
+
+In Peer to Peer Networks like BitTorrent, Breadth First Search is used to find all neighbor nodes.
+
+### 3. Crawlers in Search Engines:
+
+Crawlers build index using Breadth First. The idea is to start from source page and follow all links from source and keep doing same. Depth first traversal can also be used for crawlers, but the advantages with BF traversal is, depth or levels of the built tree can be limited.
+
+### 4. Social Networking Websites:
+
+In solcial networks, we can find people within a given distance 'k' from a person using Breadth First Search till 'k' levels.
+
+### 5. GPS Navigation Systems:
+
+BFS is used to find all neighboring locations.
+
+### 6. Broadcasting in Network:
+
+In networks, a broadcasted packet follows BFS to reach all nodes.
+
+### 7. Garbage Collection
+
+BFS is used in copying garbage collection using [Cheney's algorithm](../../../algorithms/cheneys-algorithm.md). BFS is preferred over DFS because of better locality of references.
+
+### 8. Cycle detection in undirected graph
+
+In undirected graph, we can use BFS to detect cycle. We can also use BFS to detect cycle in directed graph.
+
+### 9. Ford-Fulkerson Algorithm
+
+In [Ford-Fulkerson Algorithm](../graph-algorithms/ford-fulkerson-algorithm-for-maximum-flow-problem.md), we can use BF traversal or DF traversal to find the maximum flow. BF traversal reduces worst case time complexity to O\(VE^2\).
+
+### 10. To test if a graph is Bipartite
+
+To test if a graph is Bipartite, we can either use BF or DF traversal
+
+### 11. Path Finding
+
+We can either use BF or DF traversal to find if there is a path between two vertices.
+
+### 12. Finding all nodes within one connected component
+
+We can use BF or DF traversal to find all nodes reachable from a given node
+
+
 

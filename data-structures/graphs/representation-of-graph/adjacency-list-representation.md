@@ -2,9 +2,9 @@
 
 An array if lists is used to represent the Graph. The size of the array is equal to the number of vertices. Let the array be an array\[\]. An entry array\[i\] represents the list of vertices adjacent to ith vertex. This representation can also be used to represent a weighted graph. The weights of the edges can be represented as lists of pairs.
 
-![](../../../.gitbook/assets/image%20%284%29.png)
+![](../../../.gitbook/assets/image%20%288%29.png)
 
-![Adjacency List Representation](../../../.gitbook/assets/image%20%285%29.png)
+![Adjacency List Representation](../../../.gitbook/assets/image%20%2812%29.png)
 
 ### Advantages of Adjacency List Representation
 

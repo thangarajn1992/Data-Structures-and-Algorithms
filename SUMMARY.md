@@ -27,7 +27,15 @@
     * [Depth First Search](data-structures/graphs/graph-traversals/depth-first-search.md)
   * [Graph Related Links](data-structures/graphs/graph-related-links.md)
   * [Graph Terminology](data-structures/graphs/graph-terminology.md)
-  * [Graph Based Problems](data-structures/graphs/graph-based-problems.md)
+  * [Graph Algorithms](data-structures/graphs/graph-algorithms/README.md)
+    * [Ford-Fulkerson Algorithm for Maximum Flow Problem](data-structures/graphs/graph-algorithms/ford-fulkerson-algorithm-for-maximum-flow-problem.md)
+    * [Dinic’s algorithm for Maximum Flow](data-structures/graphs/graph-algorithms/dinics-algorithm-for-maximum-flow.md)
+    * [Kahn's Algorithm - Topological Sorting for Directed Acyclic Graph \(DAG\)](data-structures/graphs/graph-algorithms/kahns-algorithm-topological-sorting-for-directed-acyclic-graph-dag.md)
+  * [Graph Based Problems](data-structures/graphs/graph-based-problems/README.md)
+    * [Detect Cycle in a Directed Graph using BFS](data-structures/graphs/graph-based-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
+    * [Detect Cycle in Undirected Graph using BFS](data-structures/graphs/graph-based-problems/detect-cycle-in-undirected-graph-using-bfs.md)
+    * [Is Graph Bipartite](data-structures/graphs/graph-based-problems/is-graph-bipartite.md)
+    * [m coloring a graph](data-structures/graphs/graph-based-problems/m-coloring-a-graph.md)
 * [Trie](data-structures/trie/README.md)
   * [Untitled](data-structures/trie/untitled.md)
   * [Trie - C Implementation](data-structures/trie/trie-c-implementation.md)
@@ -43,6 +51,7 @@
 * [Bellman Ford Algorithm](algorithms/bellman-ford-algorithm.md)
 * [Boyer-Moore String Search Algorithm](algorithms/boyer-moore-string-search-algorithm.md)
 * [Kosaraju's algorithm](algorithms/kosarajus-algorithm.md)
+* [Cheney's Algorithm](algorithms/cheneys-algorithm.md)
 
 ## General Theory
 
