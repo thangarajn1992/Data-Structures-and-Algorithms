@@ -4,7 +4,7 @@ Adjacency Matrix is a 2D array of size V x V, where V is the number of vertices 
 
 ![](../../../.gitbook/assets/image%20%283%29.png)
 
-![Adjacency Matrix Representation of Graph](../../../.gitbook/assets/image%20%284%29.png)
+![Adjacency Matrix Representation of Graph](../../../.gitbook/assets/image%20%285%29.png)
 
 ### Advantages of Adjacency Matrix Representation
 

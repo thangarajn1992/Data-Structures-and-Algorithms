@@ -2,7 +2,7 @@
 
 Breadth First Traversal\(search\) for a graph is similar to Breadth First Traversal of a tree. The only difference here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array.
 
-![](../../../.gitbook/assets/image%20%2819%29.png)
+![](../../../.gitbook/assets/image%20%2822%29.png)
 
 The BFS traversal of this graph is `[2, 0, 3, 1]`
 

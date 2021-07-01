@@ -10,11 +10,11 @@
 * [Kosaraju's Algorithm for Finding Strongly Connected Components](../graph-algorithms/kosarajus-algorithm.md)
 * [Is Graph Bipartite](is-graph-bipartite.md)
 * [m coloring a graph](m-coloring-a-graph.md)
+* [Find a Mother Vertex in a Graph](find-a-mother-vertex-in-a-graph.md)
 
 ### Leetcode Problems
 
 * [Open the Lock - Leetcode 752](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/leetcode-medium/leetcode-752-open-the-lock)
-* [Strongly Connected Components](https://app.gitbook.com/@thangarajn1992/s/geeksforgeeks/gfg-medium/strongly-connected-components-kosarajus-algo)
 
 
 

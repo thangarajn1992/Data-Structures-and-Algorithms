@@ -4,14 +4,14 @@
 
 Maximum Flow problems involve finding a feasible flow through a single-source, single-sink flow network that is maximum.
 
-![](../../../.gitbook/assets/image%20%2818%29.png)
+![](../../../.gitbook/assets/image%20%2821%29.png)
 
 Each edge is labeled with capcity, the maximum amount of stuff that it can carry. The goal is to figure out how much stuff can be pushed from the vertex s\(source\) to the vertex t\(sink\).
 
 1. Flow on an edge doesn't exceed the given capacity of the edge
 2. Incoming flow is equal to outgoing flow for every vertex except s and t.
 
-![](../../../.gitbook/assets/image%20%2810%29.png)
+![](../../../.gitbook/assets/image%20%2812%29.png)
 
 Greedy Algorithm won't provide us the best possible solution, hence we need to use residual graphs approach
 

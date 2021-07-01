@@ -7,7 +7,7 @@ Given a graph which represents a flow network where every edge has a capacity. A
 1. Flow on an edge doesn’t exceed the given capacity of the edge.
 2. Incoming flow is equal to outgoing flow for every vertex except s and t.
 
-![](../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../.gitbook/assets/image%20%2813%29.png)
 
 ![](../../../.gitbook/assets/image%20%282%29.png)
 
@@ -21,9 +21,9 @@ Like Ford Fulkerson, Dinic's algorithm uses following concepts:
 
 A flow is **Blocking flow** if no more flow can be sent using level graph, i.e., no more s-t path exists such that path vertices have current levels 0,1,2... in order.
 
-![Initial Residual Graph](../../../.gitbook/assets/image%20%286%29.png)
+![Initial Residual Graph](../../../.gitbook/assets/image%20%287%29.png)
 
-![Level marking](../../../.gitbook/assets/image%20%287%29.png)
+![Level marking](../../../.gitbook/assets/image%20%288%29.png)
 
 Now we find blocking flow using levels \(means every flow path should have levels as 0, 1, 2, 3\). We send three flows together. This is where it is optimized compared to Edmond Karp where we send one flow at a time. 
 
@@ -33,11 +33,11 @@ Now we find blocking flow using levels \(means every flow path should have level
 
 Total flow = Total flow + 4 + 6 + 4 = 14
 
-![After First Iteration](../../../.gitbook/assets/image%20%2815%29.png)
+![After First Iteration](../../../.gitbook/assets/image%20%2818%29.png)
 
 We assign new levels to all nodes using BFS of above modified residual graph. We also check if more flow is possible \(or there is a s-t path in residual graph\).
 
-![Level Marking in Second Iteration](../../../.gitbook/assets/image%20%285%29.png)
+![Level Marking in Second Iteration](../../../.gitbook/assets/image%20%286%29.png)
 
 Now we find blocking flow using levels \(means every flow path should have levels as 0, 1, 2, 3, 4\). We can send only one flow this time. 
 
@@ -45,7 +45,7 @@ Now we find blocking flow using levels \(means every flow path should have level
 
 Total flow = Total flow + 5 = 19
 
-![Residual Graph After 2nd Iteration](../../../.gitbook/assets/image%20%289%29.png)
+![Residual Graph After 2nd Iteration](../../../.gitbook/assets/image%20%2810%29.png)
 
 **Third Iteration :** We run BFS and create a level graph. We also check if more flow is possible and proceed only if possible. This time there is no s-t path in residual graph, so we terminate the algorithm.
 
