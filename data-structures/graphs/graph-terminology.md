@@ -26,7 +26,7 @@ We can find all strongly connected components in \(V+E\) time using [kosaraju's 
 
 ### Transitive Closure of a Graph
 
-Given a directed graph, find for all vetex pairs \(u,v\) if there is a path exists between them. The reach-ability matrix of \[v\]\[v\] is called transitive closure of a graph
+Given a directed graph, find for all vertex pairs \(u,v\) if there is a path exists between them. The reach-ability matrix of \[v\]\[v\] is called transitive closure of a graph. This can be done using [Floyd Warshall Algorithm](graph-algorithms/floyd-warshall-algorithm-for-transitive-closure.md) in O\(V^3\) or using another algorithm in O\(v^2\) discussed [here](graph-based-problems/transitive-closure-of-graph-using-dfs.md)
 
 
 

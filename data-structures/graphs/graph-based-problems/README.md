@@ -11,6 +11,7 @@
 * [Is Graph Bipartite](is-graph-bipartite.md)
 * [m coloring a graph](m-coloring-a-graph.md)
 * [Find a Mother Vertex in a Graph](find-a-mother-vertex-in-a-graph.md)
+* [Transitive Closure of Graph using DFS](transitive-closure-of-graph-using-dfs.md)
 
 ### Leetcode Problems
 
