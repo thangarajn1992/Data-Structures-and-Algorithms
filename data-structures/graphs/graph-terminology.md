@@ -16,7 +16,7 @@ A directed graph is strongly connected if there is a **path between all pairs of
 
 ![Strongly Connected Components](../../.gitbook/assets/image%20%281%29.png)
 
-We can find all strongly connected components in \(V+E\) time using [kosaraju's algorithm](../../algorithms/kosarajus-algorithm.md).
+We can find all strongly connected components in \(V+E\) time using [kosaraju's algorithm](graph-algorithms/kosarajus-algorithm.md).
 
 
 

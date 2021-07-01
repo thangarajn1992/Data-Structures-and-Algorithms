@@ -24,10 +24,11 @@
     * [Adjacency List Representation](data-structures/graphs/representation-of-graph/adjacency-list-representation.md)
   * [Graph Traversals](data-structures/graphs/graph-traversals/README.md)
     * [Breadth First Traversal](data-structures/graphs/graph-traversals/breadth-first-search.md)
-    * [Depth First Search](data-structures/graphs/graph-traversals/depth-first-search.md)
+    * [Depth First Traversal](data-structures/graphs/graph-traversals/depth-first-search.md)
   * [Graph Related Links](data-structures/graphs/graph-related-links.md)
   * [Graph Terminology](data-structures/graphs/graph-terminology.md)
   * [Graph Algorithms](data-structures/graphs/graph-algorithms/README.md)
+    * [Kosaraju's algorithm for strongly connected components](data-structures/graphs/graph-algorithms/kosarajus-algorithm.md)
     * [Ford-Fulkerson Algorithm for Maximum Flow Problem](data-structures/graphs/graph-algorithms/ford-fulkerson-algorithm-for-maximum-flow-problem.md)
     * [Dinic’s algorithm for Maximum Flow](data-structures/graphs/graph-algorithms/dinics-algorithm-for-maximum-flow.md)
     * [Kahn's Algorithm - Topological Sorting for Directed Acyclic Graph \(DAG\)](data-structures/graphs/graph-algorithms/kahns-algorithm-topological-sorting-for-directed-acyclic-graph-dag.md)
@@ -50,7 +51,6 @@
 * [Parallel Computing](algorithms/parallel-computing.md)
 * [Bellman Ford Algorithm](algorithms/bellman-ford-algorithm.md)
 * [Boyer-Moore String Search Algorithm](algorithms/boyer-moore-string-search-algorithm.md)
-* [Kosaraju's algorithm](algorithms/kosarajus-algorithm.md)
 * [Cheney's Algorithm](algorithms/cheneys-algorithm.md)
 
 ## General Theory
