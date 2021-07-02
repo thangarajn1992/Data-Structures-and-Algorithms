@@ -15,7 +15,10 @@
 
 ### Leetcode Problems
 
+* [Redundant Connection - Leetcode 684](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-684-redundant-connection)
 * [Open the Lock - Leetcode 752](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/leetcode-medium/leetcode-752-open-the-lock)
+* [Find the Town Judge - Leetcode 997](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge)
+* [Find the Centre of Star Graph - Leetcode 1791](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph)
 
 
 
