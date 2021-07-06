@@ -16,6 +16,7 @@
 ### Leetcode Problems
 
 * [Clone Graph - Leetcode 133](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-133-clone-graph)
+* [Course Schedule - Leetcode 207](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-207-course-schedule)
 * [Redundant Connection - Leetcode 684](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-684-redundant-connection)
 * [Open the Lock - Leetcode 752](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/leetcode-medium/leetcode-752-open-the-lock)
 * [Find the Town Judge - Leetcode 997](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge)
