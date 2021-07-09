@@ -24,6 +24,7 @@
 * [Evaluate Division - Leetcode 399](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-399-evaluate-division)
 * [Number of Provinces - Leetcode 547](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-547-number-of-provinces)
 * [Redundant Connection - Leetcode 684](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-684-redundant-connection)
+* [Network Delay Time - Leetcode 743](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-743-network-delay-time)
 * [Open the Lock - Leetcode 752](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/leetcode-medium/leetcode-752-open-the-lock)
 * [Find the Town Judge - Leetcode 997](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge)
 * [Find the Centre of Star Graph - Leetcode 1791](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph)

@@ -30,6 +30,7 @@
   * [Graph Related Links](data-structures/graphs/graph-related-links.md)
   * [Graph Terminology](data-structures/graphs/graph-terminology.md)
   * [Graph Algorithms](data-structures/graphs/graph-algorithms/README.md)
+    * [Dijkstra’s shortest path algorithm](data-structures/graphs/graph-algorithms/dijkstras-shortest-path-algorithm.md)
     * [Floyd Warshall Algorithm for Transitive Closure](data-structures/graphs/graph-algorithms/floyd-warshall-algorithm-for-transitive-closure.md)
     * [Kosaraju's algorithm for strongly connected components](data-structures/graphs/graph-algorithms/kosarajus-algorithm.md)
     * [Ford-Fulkerson Algorithm for Maximum Flow Problem](data-structures/graphs/graph-algorithms/ford-fulkerson-algorithm-for-maximum-flow-problem.md)
