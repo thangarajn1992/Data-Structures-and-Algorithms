@@ -1,5 +1,7 @@
 # Is Graph Bipartite
 
+[Leetcode 785](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-785-is-graph-bipartite)
+
 A Bipartite Graph is a graph whose vertices can be divided into two independent sets, U and V such that every edge \(u, v\) either connects a vertex from U to V or a vertex from V to U. In other words, for every edge \(u, v\), either u belongs to U and v to V, or u belongs to V and v to U. We can also say that there is no edge that connects vertices of same set.
 
 ![](../../../.gitbook/assets/image%20%2815%29.png)
@@ -13,7 +15,7 @@ One approach would be to use [backtracking algorithm - m coloring problem](m-col
 1. Assign RED color to the source vertex \( Putting into set U\).
 2. Color all the neighbors with BLUE color \(Putting into set V\).
 3. Color all neighbor's neighbor with RED color \(Putting into set U\).
-4. While assigning colors, if we find a neighbor which is colored with same color as currennt vertex, then the graph cannot be colored with 2 vertices \(or graph is not Bipartite\).
+4. While assigning colors, if we find a neighbor which is colored with same color as current vertex, then the graph cannot be colored with 2 vertices \(or graph is not Bipartite\).
 
 ### Implementation
 

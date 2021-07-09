@@ -8,7 +8,7 @@
 * [Ford-Fulkerson Algorithm for Maximum Flow Problem](../graph-algorithms/ford-fulkerson-algorithm-for-maximum-flow-problem.md)
 * [Dinic’s algorithm for Maximum Flow](../graph-algorithms/dinics-algorithm-for-maximum-flow.md)
 * [Kosaraju's Algorithm for Finding Strongly Connected Components](../graph-algorithms/kosarajus-algorithm.md)
-* [Is Graph Bipartite](is-graph-bipartite.md)
+* [Is Graph Bipartite](is-graph-bipartite.md)  & [Leetcode 785](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-785-is-graph-bipartite)
 * [m coloring a graph](m-coloring-a-graph.md)
 * [Find a Mother Vertex in a Graph](find-a-mother-vertex-in-a-graph.md)
 * [Transitive Closure of Graph using DFS](transitive-closure-of-graph-using-dfs.md)
@@ -26,6 +26,7 @@
 * [Redundant Connection - Leetcode 684](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-684-redundant-connection)
 * [Network Delay Time - Leetcode 743](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-743-network-delay-time)
 * [Open the Lock - Leetcode 752](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/leetcode-medium/leetcode-752-open-the-lock)
+* [Is Graph Bipartite - Leetcode 785](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-785-is-graph-bipartite)
 * [Find the Town Judge - Leetcode 997](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge)
 * [Find the Centre of Star Graph - Leetcode 1791](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph)
 
