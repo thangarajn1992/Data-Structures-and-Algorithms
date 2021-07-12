@@ -31,6 +31,7 @@
 * [Find the Town Judge - Leetcode 997](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge)
 * [Find the Centre of Star Graph - Leetcode 1791](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph)
 * [Nearest Exit from Entrance in Maze - Leetcode 1926](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze)
+* [Minimum Cost to Reach Destination in Time - Leetcode 1928](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-hard/leetcode-1928-minimum-cost-to-reach-destination-in-time)
 
 
 
