@@ -8,7 +8,7 @@
 * [Ford-Fulkerson Algorithm for Maximum Flow Problem](../graph-algorithms/ford-fulkerson-algorithm-for-maximum-flow-problem.md)
 * [Dinic’s algorithm for Maximum Flow](../graph-algorithms/dinics-algorithm-for-maximum-flow.md)
 * [Kosaraju's Algorithm for Finding Strongly Connected Components](../graph-algorithms/kosarajus-algorithm.md)
-* [Is Graph Bipartite](is-graph-bipartite.md)  & [Leetcode 785](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-785-is-graph-bipartite)
+* [Is Graph Bipartite](is-graph-bipartite.md)  & [Leetcode 785](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-785-is-graph-bipartite) & [Leetcode 886\( Possible Bipartite\)](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-886-possible-bipartition)
 * [m coloring a graph](m-coloring-a-graph.md)
 * [Find a Mother Vertex in a Graph](find-a-mother-vertex-in-a-graph.md)
 * [Transitive Closure of Graph using DFS](transitive-closure-of-graph-using-dfs.md)
