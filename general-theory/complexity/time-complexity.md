@@ -113,9 +113,113 @@ For `T(n) = n^3 + 3n^2 + 4n + 2`  , for larger n, the lower degree becomes insig
 
 Running time of an algorithm is sum of run-time of fragments in the algorithm
 
+```cpp
+// O(1) - Fragment 1
+int a;
+a = 5;
+a++;
 
+// O(n) - Fragment 2
+for(int num = 0; num < 10; num++)
+    total += nums[num];
+    
+// O(n^2) - Fragment 3
+for(int row = 0; row < matrix.size(); row++)
+    for(int col = 0; col < matrix[0].size(); col++)
+        total += matrix[row][col];
 
+// Total Time = O(1) + O(n) + O(n^2)
+// For very large n, T(n) = O(n^2)
+```
 
+For larger n, the fragment that has maximum run-time decides the overall complexity of the algorithm
+
+For conditional Statements, we select the worst case fragment rather than adding each fragment.
+
+```cpp
+if(yes)
+{
+    // O(n) - Fragment 1
+    for(int num = 0; num < 10; num++)
+        total += nums[num];
+}
+else
+{
+    // O(n^2) - Fragment 2
+    for(int row = 0; row < matrix.size(); row++)
+        for(int col = 0; col < matrix[0].size(); col++)
+            total += matrix[row][col];
+}
+
+// We always compute time complexity for Worst Case
+// T(n) = O(n^2)
+```
+
+We always consider the worst case scenario while computing the time complexity of an algorithm.
+
+## Why Time Complexity is More Important?
+
+Lets assume we ask 2 interviewees `A` and `B`to write a program to detect if a number `N >= 2` is prime.
+
+> A number is prime if it is divisible by exactly 2 distinct positive numbers 1 and the number itself.  
+>  https://www.mathsisfun.com/prime-composite-number.html
+
+`A` comes up with the following code :
+
+```text
+ i = 2 
+ while i < N
+   if N is divisible by i
+      N is not prime
+   add 1 to i   
+```
+
+`B` comes up with the following code :
+
+```text
+i = 2
+while i <= square root of N
+  if N is divisible by i 
+    N is not prime
+  add 1 to i
+```
+
+For now, lets assume that both codes are correct.  
+ Now, `B` claims that his code is much better as it takes much less time to check if `N` is prime.  
+ Lets look into why that is the case.
+
+Lets assume that the operation `N is divisible by i` takes 1 ms.  
+ Lets look at few examples on time taken :
+
+**Example 1 :**
+
+```text
+N = 1000033 ( Prime number ) 
+Time taken by A's program = 1 ms * number of divisions
+                          = 1 ms * 1000033
+                          = approximately 1000 seconds or 16.7 mins. 
+
+Time taken by B's program = 1ms * number of divisions 
+                          = 1ms * square root of 1000033
+                          = approximately 1000ms = 1 second. 
+```
+
+**Example 2 :**
+
+```text
+N = 1500450271 ( Prime number ) 
+Time taken by A's program = 1 ms * number of divisions
+                          = 1 ms * 1500450271
+                          = approximately 1000000 seconds or 11.5 days 
+
+Time taken by B's program = 1ms * number of divisions 
+                          = 1ms * square root of 1500450271
+                          = approximately 40000ms = 40 seconds.
+```
+
+As you can see B’s program is significantly faster even though both methods of solving the problem are correct.  
+This is where time complexity of programs comes in, which is a measure of how efficient \( or quick \) a program is for large inputs.  
+In first case, time taken is directly proportional to N, whereas in second case it is directly proportional to square root of N.
 
 
 
