@@ -94,5 +94,30 @@ Theta =&gt; Tight Bound.
 
 Always good to evaluate the time complexity of algorithm in theta notation.
 
+## General Rules
+
+We analyze time complexity for 
+
+1. Very Large Input Size
+2. Worst Case Scenario
+
+For `T(n) = n^3 + 3n^2 + 4n + 2`  , for larger n, the lower degree becomes insiginicant and it approximated to `T(n) ~ n^3 for n -> ∞`
+
+**Rule 1: Big O notation for polynomial expression:**
+
+1. Drop all lower order elements
+2. Drop all constant multipliers
+3. Drop log\(n\) as well since for higher n, log\(n\) is insignificant compared to 'n' in expression `n + log(n)`  
+
+**Rule 2: Running Time of Algorithm**
+
+Running time of an algorithm is sum of run-time of fragments in the algorithm
+
+
+
+
+
+
+
 
 
