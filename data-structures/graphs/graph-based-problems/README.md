@@ -30,6 +30,8 @@
 * [Cheapest Flights within K Stops - Leetcode 787 ](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-787-cheapest-flights-within-k-stops)
 * [All Paths From Source to Target - Leetcode 797](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-797-all-paths-from-source-to-target)
 * [Find Eventual Safe States - Leetcode 802](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-802-find-eventual-safe-states)
+* [Keys and Rooms - Leetcode 841](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-841-keys-and-rooms)
+* [Loud and Rich - Leetcode 851](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-851-loud-and-rich)
 * [Find the Town Judge - Leetcode 997](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge)
 * [Find the Centre of Star Graph - Leetcode 1791](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph)
 * [Nearest Exit from Entrance in Maze - Leetcode 1926](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze)
