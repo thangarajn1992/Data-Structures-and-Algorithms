@@ -4,7 +4,10 @@
 
 ## Data Structures
 
-* [Arrays](data-structures/arrays.md)
+* [Arrays](data-structures/arrays/README.md)
+  * [1-D Arrays](data-structures/arrays/1-d-arrays.md)
+  * [2D-Arrays](data-structures/arrays/2d-arrays.md)
+  * [n-D Arrays](data-structures/arrays/n-d-arrays.md)
 * [Strings](data-structures/strings.md)
 * [Linked Lists](data-structures/linked-lists/README.md)
   * [Linked List Operations](data-structures/linked-lists/linked-list-operations.md)
@@ -30,6 +33,7 @@
   * [Graph Related Links](data-structures/graphs/graph-related-links.md)
   * [Graph Terminology](data-structures/graphs/graph-terminology.md)
   * [Graph Algorithms](data-structures/graphs/graph-algorithms/README.md)
+    * [Bellman Ford Algorithm](data-structures/graphs/graph-algorithms/bellman-ford-algorithm.md)
     * [Dijkstra’s shortest path algorithm](data-structures/graphs/graph-algorithms/dijkstras-shortest-path-algorithm.md)
     * [Floyd Warshall Algorithm for Transitive Closure](data-structures/graphs/graph-algorithms/floyd-warshall-algorithm-for-transitive-closure.md)
     * [Kosaraju's algorithm for strongly connected components](data-structures/graphs/graph-algorithms/kosarajus-algorithm.md)
@@ -52,10 +56,19 @@
 
 ## Algorithms
 
+* [Sorting Algorithms](algorithms/sorting-algorithms/README.md)
+  * [Bubble Sort](algorithms/sorting-algorithms/bubble-sort.md)
+  * [Insertion Sort](algorithms/sorting-algorithms/insertion-sort.md)
+  * [Selection Sort](algorithms/sorting-algorithms/selection-sort.md)
+  * [Merge Sort](algorithms/sorting-algorithms/merge-sort.md)
+  * [Quick Sort](algorithms/sorting-algorithms/quick-sort.md)
+  * [Heap Sort](algorithms/sorting-algorithms/heap-sort.md)
+  * [Shell Sort](algorithms/sorting-algorithms/shell-sort.md)
+  * [Radix Sort](algorithms/sorting-algorithms/radix-sort.md)
+  * [Bucket Sort](algorithms/sorting-algorithms/bucket-sort.md)
 * [Dynamic Programming](algorithms/dynamic-programming.md)
 * [Greedy Algorithm](algorithms/greedy-algorithm.md)
 * [Parallel Computing](algorithms/parallel-computing.md)
-* [Bellman Ford Algorithm](algorithms/bellman-ford-algorithm.md)
 * [Boyer-Moore String Search Algorithm](algorithms/boyer-moore-string-search-algorithm.md)
 * [Cheney's Algorithm](algorithms/cheneys-algorithm.md)
 
