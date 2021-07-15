@@ -14,10 +14,10 @@ Sorting Algorithms are classified based on
 
 ### Types of Sorting Algorithms
 
-1. Bubble Sort
-2. Insertion Sort
-3. Selection Sort
-4. Merge Sort
+1. [Bubble Sort](bubble-sort.md)
+2. [Insertion Sort](insertion-sort.md)
+3. [Selection Sort](selection-sort.md)
+4. [Merge Sort](merge-sort.md)
 5. Quick Sort
 6. Heap Sort
 7. Shell Sort
