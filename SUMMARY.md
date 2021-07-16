@@ -80,3 +80,8 @@
   * [Space Complexity](general-theory/complexity/space-complexity.md)
   * [Problems On Time and Space Complexity](general-theory/complexity/problems-on-time-and-space-complexity.md)
 
+## Problem Set
+
+* [1D Array Problems](problem-set/1d-array-problems/README.md)
+  * [Pick N items from both sides](problem-set/1d-array-problems/pick-n-items-from-both-sides.md)
+
