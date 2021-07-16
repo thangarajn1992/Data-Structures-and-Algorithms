@@ -121,3 +121,26 @@ int main()
 }
 ```
 
+#### Complexity Analysis <a id="h827ske1ht0ea2fcemd1dxxl7u1ndu40q"></a>
+
+**Time Complexity of Quick sort**
+
+* **Best case scenario:** The best case scenario occurs when the partitions are as evenly balanced as possible, i.e their sizes on either side of the pivot element are either are equal or are have size difference of 1 of each other.
+
+  * Case 1: The case when sizes of sub-list on either side of pivot becomes equal occurs when the subarray has an odd number of elements and the pivot is right in the middle after partitioning. Each partition will have `(n-1)/2` elements.
+  * Case 2: The size difference of 1 between the two sub-lists on either side of pivot happens if the sub-array has an even number, `n`, of elements. One partition will have `n/2` elements with the other having `(n/2)-1`.
+
+  In either of these cases, each partition will have at most `n/2` elements, and the tree representation of the sub-problem sizes will be as below:
+
+![Best Case](https://s3.ap-south-1.amazonaws.com/myinterviewtrainer-domestic/public_assets/assets/000/000/285/original/quick-sort.png?1617203748)
+
+The best-case complexity of the quick sort algorithm is O\(n log\(n\)\)
+
+* **Worst case scenario:** This happens when we encounter the most unbalanced partitions possible, then the original call takes `n` time, the recursive call on `n-1` elements will take `(n-1)` time, the recursive call on `(n-2)` elements will take `(n-2)` time, and so on. The worst case time complexity of Quick Sort would be **O\(n2\)**.
+
+![Quick Sort - Worst Case](https://i.pinimg.com/564x/49/3c/2e/493c2ea77dc9ea4ce978b485b8b46bae.jpg)
+
+**Space Complexity of Quick sort**
+
+The space complexity is calculated based on the space used in the recursion stack. The worst case space used will be `O(n)` . The average case space used will be of the order `O(log n)`. The worst case space complexity becomes `O(n)`, when the algorithm encounters its worst case where for getting a sorted list, we need to make `n` recursive calls.
+
