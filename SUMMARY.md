@@ -84,4 +84,6 @@
 
 * [1D Array Problems](problem-set/1d-array-problems/README.md)
   * [Pick N items with Maximum sum from both ends](problem-set/1d-array-problems/pick-n-items-from-both-sides.md)
+* [2D Array Problems](problem-set/2d-array-problems/README.md)
+  * [Spiral Traversal of Matrix](problem-set/2d-array-problems/spiral-traversal-of-matrix.md)
 
