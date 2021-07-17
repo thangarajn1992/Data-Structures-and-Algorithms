@@ -1,4 +1,4 @@
-# Pick N items from both sides
+# Pick N items with Maximum sum from both ends
 
 [Interview-Bit](https://www.interviewbit.com/problems/pick-from-both-sides/)
 

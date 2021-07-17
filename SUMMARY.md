@@ -83,5 +83,5 @@
 ## Problem Set
 
 * [1D Array Problems](problem-set/1d-array-problems/README.md)
-  * [Pick N items from both sides](problem-set/1d-array-problems/pick-n-items-from-both-sides.md)
+  * [Pick N items with Maximum sum from both ends](problem-set/1d-array-problems/pick-n-items-from-both-sides.md)
 
