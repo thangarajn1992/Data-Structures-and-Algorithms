@@ -57,11 +57,11 @@ int Partition(int a[], int low, int high)
 		// Getting index of the pivot.
 		for(i = low; i < high; i++)
 		{
-			if(a[i] < a[pivot])
-			{
-				swap(&a[i], &a[index]);
-				index++;
-			}
+				if(a[i] < a[pivot])
+				{
+						swap(&a[i], &a[index]);
+						index++;
+				}
 		}
 		// Swapping value at high and at the index obtained.
 		swap(&a[pivot], &a[index]);
