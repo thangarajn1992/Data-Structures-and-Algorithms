@@ -88,4 +88,5 @@
   * [Spiral Traversal of Matrix](problem-set/2d-array-problems/spiral-traversal-of-matrix.md)
   * [Generate Matrix in Spiral Order](problem-set/2d-array-problems/generate-matrix-in-spiral-order.md)
   * [Spiral Traversal from Any Co-ordinate](problem-set/2d-array-problems/spiral-traversal-from-any-co-ordinate.md)
+  * [Search in 2D Array](problem-set/2d-array-problems/search-in-2d-array.md)
 
