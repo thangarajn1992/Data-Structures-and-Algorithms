@@ -1,4 +1,4 @@
-# Search in 2D Array
+# Search in Sorted 2D Array
 
 [Leetcode 74](https://leetcode.com/problems/search-a-2d-matrix/)
 
