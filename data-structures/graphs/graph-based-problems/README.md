@@ -33,6 +33,8 @@
 * [Keys and Rooms - Leetcode 841](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-841-keys-and-rooms)
 * [Loud and Rich - Leetcode 851](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-851-loud-and-rich)
 * [Find the Town Judge - Leetcode 997](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-997-find-the-town-judge)
+* [Reorder Routes to Make All Paths Lead to the City Zero - Leetcode 1466](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero)
+* [Minimum Number of Vertices to Reach All Nodes - Leetcode 1557](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-1557-minimum-number-of-vertices-to-reach-all-nodes)
 * [Find the Centre of Star Graph - Leetcode 1791](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-easy/leetcode-1791-find-center-of-star-graph)
 * [Nearest Exit from Entrance in Maze - Leetcode 1926](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-1926-nearest-exit-from-entrance-in-maze)
 * [Minimum Cost to Reach Destination in Time - Leetcode 1928](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-hard/leetcode-1928-minimum-cost-to-reach-destination-in-time)
