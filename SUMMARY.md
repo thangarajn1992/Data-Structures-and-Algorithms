@@ -83,6 +83,8 @@
 ## Problem Set
 
 * [1D Array Problems](problem-set/1d-array-problems/README.md)
+  * [Remove Duplicates from Sorted Array](problem-set/1d-array-problems/remove-duplicates-from-sorted-array.md)
+  * [Remove Element](problem-set/1d-array-problems/remove-element.md)
   * [Pick N items with Maximum sum from both ends](problem-set/1d-array-problems/pick-n-items-from-both-sides.md)
   * [Find Min Max of Array](problem-set/1d-array-problems/find-min-max-of-array.md)
   * [Median of Two Sorted Arrays](problem-set/1d-array-problems/median-of-two-sorted-arrays.md)
