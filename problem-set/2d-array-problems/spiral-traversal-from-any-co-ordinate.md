@@ -65,7 +65,8 @@ public:
         // After each spiral, the start step increases by 2
         // Eg: 1 ->east 1->south 2->west 2->north
         // 2nd Spiral 3->east 3->south 4->west 4->north
-        for(int cur_spiral_start_step = 1; count < total_elements; cur_spiral_start_step+=2)
+        cur_spiral_start_step = 1;
+        while(count < total_elements)
         {
             // For each spiral move through all 4 directions
             for(int cur_dir = 0; cur_dir < 4; cur_dir++)
@@ -85,6 +86,8 @@ public:
                     }
                 }
             }
+            // For next spiral, incr it by 2
+            cur_spiral_start_step += 2;            
         }
         return vector<vector<int>>{};
     }
