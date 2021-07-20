@@ -8,7 +8,7 @@
 | [Pick N items with Maximum sum from both ends](pick-n-items-from-both-sides.md) | Easy | InterviewBit |
 | [Find Min Max of Array](find-min-max-of-array.md) | Easy | InterviewBit |
 | [Add One to Number](add-one-to-number.md) | Easy | Leetcode 66, InterviewBit |
-| [Pascal's Triangle](pascals-triangle.md) | Medium | Leetcode 118, InterviewBit |
+| [Pascal's Triangle](pascals-triangle.md) & Kth row in Pascal Triangle | Easy | Leetcode 118, Leetcode 119 InterviewBit |
 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays.md) | Hard | Leetcode 4, |
 | [Container With Most Water](container-with-most-water.md) | Medium | Leetcode 11 |
 

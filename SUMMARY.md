@@ -90,7 +90,7 @@
   * [Find Min Max of Array](problem-set/1d-array-problems/find-min-max-of-array.md)
   * [Add One to Number](problem-set/1d-array-problems/add-one-to-number.md)
   * [Median of Two Sorted Arrays](problem-set/1d-array-problems/median-of-two-sorted-arrays.md)
-  * [Pascal's Triangle](problem-set/1d-array-problems/pascals-triangle.md)
+  * [Pascal's Triangle & Kth row of Pascal Triangle](problem-set/1d-array-problems/pascals-triangle.md)
   * [Container With Most Water](problem-set/1d-array-problems/container-with-most-water.md)
 * [2D Array Problems](problem-set/2d-array-problems/README.md)
   * [Spiral Traversal of Matrix](problem-set/2d-array-problems/spiral-traversal-of-matrix.md)
