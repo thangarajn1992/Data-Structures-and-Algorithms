@@ -39,7 +39,7 @@ Output: 23
 
 ### Solution
 
-#### O\(n\) Time Complexity
+#### Kadane's Algorithm
 
 ```cpp
 class Solution {
@@ -53,6 +53,42 @@ public:
             maxi = max(maxi, max_so_far);
         }
         return maxi;
+    }
+};
+```
+
+#### Divide and Conquer Approach
+
+The Divide-and-Conquer algorithm breaks `nums` into two halves and find the maximum sub-array sum in them recursively. Well, the most tricky part is to handle the case that the maximum sub-array spans the two halves. For this case, we use a linear algorithm: starting from the middle element and move to both ends \(left and right ends\), record the maximum sum we have seen. In this case, the maximum sum is finally equal to the middle element plus the maximum sum of moving leftwards and the maximum sum of moving rightwards.
+
+```cpp
+class Solution {
+public:
+    int maxSubArray(vector<int>& nums) {
+        return maxSubArray(nums, 0, nums.size() - 1);
+    }
+private:
+    int maxSubArray(vector<int>& nums, int left, int right) {
+        if (left > right) {
+            return INT_MIN;
+        }
+        int mid = left + (right - left) / 2;
+        
+        // Find max in left and right sub-array
+        int lmax = maxSubArray(nums, left, mid - 1);
+        int rmax = maxSubArray(nums, mid + 1, right);
+        
+        // Find max that combines both left & right sub-array
+        int max_left = 0, max_right = 0;
+        for (int i = mid - 1, sum = 0; i >= left; i--) {
+            sum += nums[i];
+            max_left = max(sum, max_left);
+        }
+        for (int i = mid + 1, sum = 0; i <= right; i++) {
+            sum += nums[i];
+            max_right = max(sum, max_right);
+        }
+        return max(max(lmax, rmax), max_left + max_right + nums[mid]);
     }
 };
 ```
