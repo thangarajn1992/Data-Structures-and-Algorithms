@@ -91,6 +91,7 @@
   * [Add One to Number](problem-set/1d-array-problems/add-one-to-number.md)
   * [Median of Two Sorted Arrays](problem-set/1d-array-problems/median-of-two-sorted-arrays.md)
   * [Pascal's Triangle & Kth row of Pascal Triangle](problem-set/1d-array-problems/pascals-triangle.md)
+  * [Maximum Sum of Sub-Array](problem-set/1d-array-problems/maximum-sum-of-sub-array.md)
   * [Container With Most Water](problem-set/1d-array-problems/container-with-most-water.md)
 * [2D Array Problems](problem-set/2d-array-problems/README.md)
   * [Spiral Traversal of Matrix](problem-set/2d-array-problems/spiral-traversal-of-matrix.md)
