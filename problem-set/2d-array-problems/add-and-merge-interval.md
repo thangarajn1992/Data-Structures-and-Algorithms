@@ -51,7 +51,7 @@ vector<Interval> Solution::insert(vector<Interval> &it, Interval newinterval)
         {
             v.push_back(it[i]);
         }
-        else if(it[i].start <= e && s <= it[i].end)
+        else if(it[i].start <= e && s <= it[i].end) // overlap
         {
             s = min(s, it[i].start);
             e = max(e, it[i].end);
