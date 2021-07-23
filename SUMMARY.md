@@ -100,5 +100,6 @@
   * [Search in Sorted 2D Array](problem-set/2d-array-problems/search-in-2d-array.md)
   * [Search in Row and Column Sorted 2D Array](problem-set/2d-array-problems/search-in-row-and-column-sorted-2d-array.md)
   * [Only Element Set in its Row & Column](problem-set/2d-array-problems/only-element-set-in-its-row-and-column.md)
+  * [Merge Overlapping Intervals](problem-set/2d-array-problems/merge-overlapping-intervals.md)
   * [Add & Merge Interval](problem-set/2d-array-problems/add-and-merge-interval.md)
 
