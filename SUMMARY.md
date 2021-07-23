@@ -88,6 +88,7 @@
   * [Search Insert Position](problem-set/1d-array-problems/search-insert-position.md)
   * [Pick N items with Maximum sum from both ends](problem-set/1d-array-problems/pick-n-items-from-both-sides.md)
   * [Find Min Max of Array](problem-set/1d-array-problems/find-min-max-of-array.md)
+  * [Perfect Peak of Array](problem-set/1d-array-problems/perfect-peak-of-array.md)
   * [Add One to Number](problem-set/1d-array-problems/add-one-to-number.md)
   * [Median of Two Sorted Arrays](problem-set/1d-array-problems/median-of-two-sorted-arrays.md)
   * [Pascal's Triangle & Kth row of Pascal Triangle](problem-set/1d-array-problems/pascals-triangle.md)
