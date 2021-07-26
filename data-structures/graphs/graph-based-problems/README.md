@@ -15,6 +15,7 @@
 
 ### Leetcode Problems
 
+* [Word Ladder - Leetcode 127](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-hard/leetcode-127-word-ladder)
 * [Word Ladder II - Leetcode 126](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-hard/leetcode-126-word-ladder-ii)
 * [Clone Graph - Leetcode 133](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-133-clone-graph)
 * [Course Schedule - Leetcode 207](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-207-course-schedule)
