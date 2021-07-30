@@ -2,7 +2,7 @@
 
 Given a directed graph, find out if a vertex v is reachable from another vertex u for all vertex pairs \(u, v\) in the given graph. Here reachable mean that there is a path from vertex u to v. The reach-ability matrix is called transitive closure of a graph.
 
-O\(V^3\) solution based on [Floyd Warshall Algorithm](../graph-algorithms/floyd-warshall-algorithm-for-transitive-closure.md) is discussed already. Here we will discuss O\(V^2\).
+O\(V^3\) solution based on [Floyd Warshall Algorithm](../../../data-structures/graphs/graph-algorithms/floyd-warshall-algorithm-for-transitive-closure.md) is discussed already. Here we will discuss O\(V^2\).
 
 ### Algorithm
 

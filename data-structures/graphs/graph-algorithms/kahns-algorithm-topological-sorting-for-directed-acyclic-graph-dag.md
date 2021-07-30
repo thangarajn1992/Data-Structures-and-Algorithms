@@ -1,6 +1,6 @@
 # Kahn's Algorithm - Topological Sorting for Directed Acyclic Graph \(DAG\)
 
-Topological sorting for a graph is not possible if the graph is not a [Directed Acyclic Graph\(DAG\)](../graph-terminology.md#directed-acyclic-graph-dag). Topological sorting for DAG is a linear ordering of vertices such that for every directed edge uv, vertex u comes before v in the ordering. There can be more than one topological sorting for a graph. The first vertex in topological sorting is always with in-degree as 0 \( a vertex with no in-coming edges\). **A DAG has at least one vertex with in-degree 0 and one vertex with out-degree 0.** Kahn's Algorithm is also used for [detecting cycle in directed graph with BFS](../graph-based-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
+Topological sorting for a graph is not possible if the graph is not a [Directed Acyclic Graph\(DAG\)](../graph-terminology.md#directed-acyclic-graph-dag). Topological sorting for DAG is a linear ordering of vertices such that for every directed edge uv, vertex u comes before v in the ordering. There can be more than one topological sorting for a graph. The first vertex in topological sorting is always with in-degree as 0 \( a vertex with no in-coming edges\). **A DAG has at least one vertex with in-degree 0 and one vertex with out-degree 0.** Kahn's Algorithm is also used for [detecting cycle in directed graph with BFS](../../../problem-solutions/graph-problems/graph-based-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
 
 ### Approach
 

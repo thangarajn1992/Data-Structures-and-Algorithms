@@ -40,19 +40,11 @@
     * [Ford-Fulkerson Algorithm for Maximum Flow Problem](data-structures/graphs/graph-algorithms/ford-fulkerson-algorithm-for-maximum-flow-problem.md)
     * [Dinic’s algorithm for Maximum Flow](data-structures/graphs/graph-algorithms/dinics-algorithm-for-maximum-flow.md)
     * [Kahn's Algorithm - Topological Sorting for Directed Acyclic Graph \(DAG\)](data-structures/graphs/graph-algorithms/kahns-algorithm-topological-sorting-for-directed-acyclic-graph-dag.md)
-  * [Graph Based Problems](data-structures/graphs/graph-based-problems/README.md)
-    * [Detect Cycle in a Directed Graph using BFS](data-structures/graphs/graph-based-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
-    * [Detect Cycle in Undirected Graph using BFS](data-structures/graphs/graph-based-problems/detect-cycle-in-undirected-graph-using-bfs.md)
-    * [Is Graph Bipartite](data-structures/graphs/graph-based-problems/is-graph-bipartite.md)
-    * [m coloring a graph](data-structures/graphs/graph-based-problems/m-coloring-a-graph.md)
-    * [Find a Mother Vertex in a Graph](data-structures/graphs/graph-based-problems/find-a-mother-vertex-in-a-graph.md)
-    * [Transitive Closure of Graph using DFS](data-structures/graphs/graph-based-problems/transitive-closure-of-graph-using-dfs.md)
 * [Trie](data-structures/trie/README.md)
   * [Untitled](data-structures/trie/untitled.md)
   * [Trie - C Implementation](data-structures/trie/trie-c-implementation.md)
   * [Trie - C++ Implementation](data-structures/trie/trie-c++-implementation.md)
   * [Tree - C++ Memory Efficient](data-structures/trie/tree-c++-memory-efficient.md)
-  * [Trie Based Problems](data-structures/trie/trie-based-problems.md)
 
 ## Algorithms
 
@@ -82,7 +74,6 @@
 
 ## Source-Based-Lists
 
-* [Problem List](source-based-lists/problem-list.md)
 * [Elements of Programming Interviews](source-based-lists/elements-of-programming-interviews.md)
 * [Leetcode](source-based-lists/leetcode.md)
 * [GeeksForGeeks](source-based-lists/geeksforgeeks.md)
@@ -116,6 +107,7 @@
   * [Remove Element](problem-solutions/1d-array-problems/remove-element.md)
   * [Search Insert Position](problem-solutions/1d-array-problems/search-insert-position.md)
   * [Rearrange array elements](problem-solutions/1d-array-problems/rearrange-array-elements.md)
+  * [Smallest Non Construct-able Value](problem-solutions/1d-array-problems/smallest-non-construct-able-value.md)
   * [Triplets with Sum between given range](problem-solutions/1d-array-problems/triplets-with-sum-between-given-range.md)
   * [Pick N items with Maximum sum from both ends](problem-solutions/1d-array-problems/pick-n-items-from-both-sides.md)
   * [Find Min Max of Array](problem-solutions/1d-array-problems/find-min-max-of-array.md)
@@ -151,6 +143,13 @@
 * [Heap/Priority Queue Problems](problem-solutions/heap-priority-queue-problems/README.md)
   * [Heaps/Priority Queues Questions](problem-solutions/heap-priority-queue-problems/heaps-priority-queues-questions.md)
 * [Graph Problems](problem-solutions/graph-problems/README.md)
+  * [Graph Based Problems](problem-solutions/graph-problems/graph-based-problems/README.md)
+    * [Detect Cycle in a Directed Graph using BFS](problem-solutions/graph-problems/graph-based-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
+    * [Detect Cycle in Undirected Graph using BFS](problem-solutions/graph-problems/graph-based-problems/detect-cycle-in-undirected-graph-using-bfs.md)
+    * [Is Graph Bipartite](problem-solutions/graph-problems/graph-based-problems/is-graph-bipartite.md)
+    * [m coloring a graph](problem-solutions/graph-problems/graph-based-problems/m-coloring-a-graph.md)
+    * [Find a Mother Vertex in a Graph](problem-solutions/graph-problems/graph-based-problems/find-a-mother-vertex-in-a-graph.md)
+    * [Transitive Closure of Graph using DFS](problem-solutions/graph-problems/graph-based-problems/transitive-closure-of-graph-using-dfs.md)
   * [Graphs Questions](problem-solutions/graph-problems/graphs-questions.md)
 * [Mathematics Problems](problem-solutions/mathematics-problems/README.md)
   * [Mathematics Questions](problem-solutions/mathematics-problems/mathematics-questions.md)

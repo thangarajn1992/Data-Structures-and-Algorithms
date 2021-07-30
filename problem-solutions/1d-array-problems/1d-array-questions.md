@@ -1,10 +1,14 @@
 # 1D Array Questions
 
-### Sums of desired value or range
+### Array Maths
+
+* [Smallest Non Construct-able Value](smallest-non-construct-able-value.md)
 
 
 
 ### Space Recycling/ Reordering
 
-Rearrange array elements
+* [Rearrange array elements](rearrange-array-elements.md)
+
+
 

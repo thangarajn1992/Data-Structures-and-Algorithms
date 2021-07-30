@@ -2,7 +2,12 @@
 
 ## 1D Arrays
 
-Rearrange array elements
+* [Rearrange array elements](../problem-solutions/1d-array-problems/rearrange-array-elements.md)
+* [Smallest Non Construct-able Value](../problem-solutions/1d-array-problems/smallest-non-construct-able-value.md)
+
+
+
+
 
 
 

@@ -6,7 +6,7 @@ Given a directed graph, check whether the graph contains a cycle or not.
 
 ### Approach
 
-Idea is simply to use [Kahn's Algorithm for topological sorting](../graph-algorithms/kahns-algorithm-topological-sorting-for-directed-acyclic-graph-dag.md).
+Idea is simply to use [Kahn's Algorithm for topological sorting](../../../data-structures/graphs/graph-algorithms/kahns-algorithm-topological-sorting-for-directed-acyclic-graph-dag.md).
 
 **Step 1:** Compute in-degree \( number of incoming edges\) for each of the vertex present in the graph and initialise the count of visited nodes as 0.
 
