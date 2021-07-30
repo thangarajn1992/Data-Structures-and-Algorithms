@@ -80,16 +80,33 @@
   * [Space Complexity](general-theory/complexity/space-complexity.md)
   * [Problems On Time and Space Complexity](general-theory/complexity/problems-on-time-and-space-complexity.md)
 
-## Problem-Lists
+## Source-Based-Lists
 
-* [Problem List](problem-lists/problem-list.md)
-* [Elements of Programming Interviews](problem-lists/elements-of-programming-interviews.md)
-* [Leetcode](problem-lists/leetcode.md)
-* [GeeksForGeeks](problem-lists/geeksforgeeks.md)
-* [Interview Bit](problem-lists/interview-bit.md)
-* [Hacker Rank](problem-lists/hacker-rank.md)
-* [CodeChef/Unacademy](problem-lists/codechef-unacademy.md)
-* [CodeForce](problem-lists/codeforce.md)
+* [Problem List](source-based-lists/problem-list.md)
+* [Elements of Programming Interviews](source-based-lists/elements-of-programming-interviews.md)
+* [Leetcode](source-based-lists/leetcode.md)
+* [GeeksForGeeks](source-based-lists/geeksforgeeks.md)
+* [Interview Bit](source-based-lists/interview-bit.md)
+* [Hacker Rank](source-based-lists/hacker-rank.md)
+* [CodeChef/Unacademy](source-based-lists/codechef-unacademy.md)
+* [CodeForce](source-based-lists/codeforce.md)
+
+## Company Based Lists
+
+* [Google](company-based-lists/google.md)
+* [Amazon](company-based-lists/amazon.md)
+* [Facebook](company-based-lists/facebook.md)
+* [Apple](company-based-lists/apple.md)
+* [Netflix](company-based-lists/netflix.md)
+* [Microsoft](company-based-lists/microsoft.md)
+* [Flipkart](company-based-lists/flipkart.md)
+* [PayPal](company-based-lists/paypal.md)
+* [Adobe](company-based-lists/adobe.md)
+* [JP Morgan](company-based-lists/jp-morgan.md)
+* [Goldman Sachs](company-based-lists/goldman-sachs.md)
+* [Uber](company-based-lists/uber.md)
+* [Directi](company-based-lists/directi.md)
+* [Yahoo](company-based-lists/yahoo.md)
 
 ## Problem Solutions
 
@@ -98,6 +115,7 @@
   * [Remove Duplicates from Sorted Array](problem-solutions/1d-array-problems/remove-duplicates-from-sorted-array.md)
   * [Remove Element](problem-solutions/1d-array-problems/remove-element.md)
   * [Search Insert Position](problem-solutions/1d-array-problems/search-insert-position.md)
+  * [Rearrange array elements](problem-solutions/1d-array-problems/rearrange-array-elements.md)
   * [Triplets with Sum between given range](problem-solutions/1d-array-problems/triplets-with-sum-between-given-range.md)
   * [Pick N items with Maximum sum from both ends](problem-solutions/1d-array-problems/pick-n-items-from-both-sides.md)
   * [Find Min Max of Array](problem-solutions/1d-array-problems/find-min-max-of-array.md)
