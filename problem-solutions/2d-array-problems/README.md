@@ -1,4 +1,4 @@
-# 2D Array Problems
+# nD Array Problems
 
 
 

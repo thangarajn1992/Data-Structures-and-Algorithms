@@ -1,5 +1,7 @@
 # 1D Array Problems
 
+
+
 | Problem Headline | Difficulty | Websites |
 | :--- | :--- | :--- |
 | [Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array.md) | Easy | Leetcode 26 |
