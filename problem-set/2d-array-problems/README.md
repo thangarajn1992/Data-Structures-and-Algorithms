@@ -4,6 +4,7 @@
 
 | Problem Headline | Difficulty | Websites |
 | :--- | :--- | :--- |
+| [Set Matrix Zeros](set-matrix-zeros.md) | Easy | InterviewBit, Leetcode 73 |
 | [Spiral Traversal of Matrix](spiral-traversal-of-matrix.md) | Medium | InterviewBit, GeeksforGeeks, Leetcode 54 |
 | [Generate Matrix in Spiral Order](generate-matrix-in-spiral-order.md) | Medium | Leetcode 59, InterviewBit |
 | [Spiral Traversal From any Co-ordinate](spiral-traversal-from-any-co-ordinate.md) | Medium | Leetcode 885 |
