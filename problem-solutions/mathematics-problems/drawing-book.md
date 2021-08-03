@@ -16,6 +16,11 @@ When they flip page 1 , they see pages 2 and 3 . Each page except the last page 
 
 ![Untitled Diagram\(4\).png](https://s3.amazonaws.com/hr-challenge-images/22564/1467398281-32b69f6fa9-UntitledDiagram4.png)
 
+**Constraints**
+
+* 1 &lt;= n &lt;= 10^5
+* 1 &lt;= p &lt;= n
+
 **Sample Input 0**
 
 ```text

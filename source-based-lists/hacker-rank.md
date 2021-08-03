@@ -22,7 +22,8 @@
 
 ## Mathematics
 
-* Drawing Book
+* [Drawing Book](../problem-solutions/mathematics-problems/drawing-book.md)
+* [Utopian Tree](../problem-solutions/mathematics-problems/utopian-tree.md)
 
 ## Bit Manipulation
 

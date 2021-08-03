@@ -154,6 +154,7 @@
 * [Mathematics Problems](problem-solutions/mathematics-problems/README.md)
   * [Mathematics Questions](problem-solutions/mathematics-problems/mathematics-questions.md)
   * [Drawing Book](problem-solutions/mathematics-problems/drawing-book.md)
+  * [Utopian Tree](problem-solutions/mathematics-problems/utopian-tree.md)
 * [Bit Manipulation Problems](problem-solutions/bit-manipulation-problems/README.md)
   * [Bit Manipulation Questions](problem-solutions/bit-manipulation-problems/bit-manipulation-questions.md)
 
