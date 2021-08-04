@@ -1,6 +1,6 @@
 # m coloring a graph
 
-Given an undirected graph and a number m, determine if the graph can be coloured with at most m colors such that no adjacent vertices of the graph are colored with same color. Here coloring of a graph means the assignmennt of colors to all vertices. There may be more than one possible solution.
+Given an undirected graph and a number m, determine if the graph can be coloured with at most m colors such that no adjacent vertices of the graph are colored with same color. Here coloring of a graph means the assignment of colors to all vertices. There may be more than one possible solution.
 
 ## Backtracking Approach
 

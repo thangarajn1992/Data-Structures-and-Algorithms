@@ -2,7 +2,7 @@
 
 ### Mother Vertex
 
-A Mother vertex in a graph G, is a vertex v such that all other vertices in G can be reached by a path from v. There can be more than one mother vertices in a graph. To find mother vertex, use this [link](../../problem-solutions/graph-problems/graph-based-problems/find-a-mother-vertex-in-a-graph.md)
+A Mother vertex in a graph G, is a vertex v such that all other vertices in G can be reached by a path from v. There can be more than one mother vertices in a graph. To find mother vertex, use this [link](../../problem-solutions/graph-problems/find-a-mother-vertex-in-a-graph.md)
 
 ![](../../.gitbook/assets/image%20%2811%29.png)
 

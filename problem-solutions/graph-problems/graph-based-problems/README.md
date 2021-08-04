@@ -8,9 +8,6 @@
 * [Ford-Fulkerson Algorithm for Maximum Flow Problem](../../../data-structures/graphs/graph-algorithms/ford-fulkerson-algorithm-for-maximum-flow-problem.md)
 * [Dinic’s algorithm for Maximum Flow](../../../data-structures/graphs/graph-algorithms/dinics-algorithm-for-maximum-flow.md)
 * [Kosaraju's Algorithm for Finding Strongly Connected Components](../../../data-structures/graphs/graph-algorithms/kosarajus-algorithm.md)
-* [Is Graph Bipartite](is-graph-bipartite.md)  & [Leetcode 785](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-785-is-graph-bipartite) & [Leetcode 886\( Possible Bipartite\)](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-886-possible-bipartition)
-* [m coloring a graph](m-coloring-a-graph.md)
-* [Find a Mother Vertex in a Graph](find-a-mother-vertex-in-a-graph.md)
 * [Transitive Closure of Graph using DFS](transitive-closure-of-graph-using-dfs.md)
 
 ### Leetcode Problems
@@ -28,7 +25,6 @@
 * [Redundant Connection - Leetcode 684](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-684-redundant-connection)
 * [Network Delay Time - Leetcode 743](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-743-network-delay-time)
 * [Open the Lock - Leetcode 752](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/leetcode-medium/leetcode-752-open-the-lock)
-* [Is Graph Bipartite - Leetcode 785](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-785-is-graph-bipartite)
 * [Cheapest Flights within K Stops - Leetcode 787 ](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-787-cheapest-flights-within-k-stops)
 * [All Paths From Source to Target - Leetcode 797](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-797-all-paths-from-source-to-target)
 * [Find Eventual Safe States - Leetcode 802](https://app.gitbook.com/@thangarajn1992/s/leetcode/v/main/difficulty-based-problem-index/leetcode-medium/leetcode-802-find-eventual-safe-states)

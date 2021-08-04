@@ -4,7 +4,7 @@
 
 A Mother vertex in a graph G, is a vertex v such that all other vertices in G can be reached by a path from v. There can also be more than one mother vertex in a graph. Our task here is to find one of them.
 
-![](../../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 ### Mother vertex in different types of graphs
 
