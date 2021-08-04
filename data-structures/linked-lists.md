@@ -1,12 +1,14 @@
-# Linked List Operations
+# Linked Lists
 
 
+
+## Linked List Operations
+
+* Insert Element in Linked List
+* Remove Element in Linked List
+* [Reverse a Linked List](linked-lists.md#reverse-a-linked-list)
 
 ### Reverse a Linked List
-
-[GeeksForGeeks Link](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1#)
-
-[Leetcode Link](https://leetcode.com/problems/reverse-linked-list/)
 
 ```cpp
 struct Node* reverseList(struct Node *head)
@@ -22,6 +24,4 @@ struct Node* reverseList(struct Node *head)
     return prev;
 }
 ```
-
-
 
