@@ -134,6 +134,7 @@
   * [Linked Lists Questions](problem-solutions/linked-list-problems/linked-lists-questions.md)
 * [Tree Problems](problem-solutions/tree-problems/README.md)
   * [Trees Questions](problem-solutions/tree-problems/trees-questions.md)
+  * [Root to Leaf Paths with specific sum](problem-solutions/tree-problems/root-to-leaf-paths-with-specific-sum.md)
 * [Stack Problems](problem-solutions/stack-problems/README.md)
   * [Stacks Questions](problem-solutions/stack-problems/stacks-questions.md)
 * [Queue Problems](problem-solutions/queue-problems/README.md)
