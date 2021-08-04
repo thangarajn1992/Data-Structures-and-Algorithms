@@ -4,11 +4,10 @@
 
 ## Data Structures
 
-* [Arrays](data-structures/arrays/README.md)
-  * [1-D Arrays](data-structures/arrays/1-d-arrays.md)
-  * [2D-Arrays](data-structures/arrays/2d-arrays.md)
-  * [n-D Arrays](data-structures/arrays/n-d-arrays.md)
-* [Strings](data-structures/strings.md)
+* [Arrays](data-structures/arrays.md)
+* [Strings](data-structures/strings/README.md)
+  * [String Algorithms](data-structures/strings/string-algorithms/README.md)
+    * [Boyer-Moore String Search Algorithm](data-structures/strings/string-algorithms/boyer-moore-string-search-algorithm.md)
 * [Linked Lists](data-structures/linked-lists/README.md)
   * [Linked List Operations](data-structures/linked-lists/linked-list-operations.md)
 * [Stacks](data-structures/stacks/README.md)
@@ -61,7 +60,6 @@
 * [Dynamic Programming](algorithms/dynamic-programming.md)
 * [Greedy Algorithm](algorithms/greedy-algorithm.md)
 * [Parallel Computing](algorithms/parallel-computing.md)
-* [Boyer-Moore String Search Algorithm](algorithms/boyer-moore-string-search-algorithm.md)
 * [Cheney's Algorithm](algorithms/cheneys-algorithm.md)
 
 ## General Theory
@@ -111,7 +109,7 @@
   * [Triplets with Sum between given range](problem-solutions/1d-array-problems/triplets-with-sum-between-given-range.md)
   * [Pick N items with Maximum sum from both ends](problem-solutions/1d-array-problems/pick-n-items-from-both-sides.md)
   * [Find Min Max of Array](problem-solutions/1d-array-problems/find-min-max-of-array.md)
-  * [Perfect Peak of Array](problem-solutions/1d-array-problems/perfect-peak-of-array.md)
+  * [Element greater than left elements & lesser than right elements](problem-solutions/1d-array-problems/perfect-peak-of-array.md)
   * [Add One to Number](problem-solutions/1d-array-problems/add-one-to-number.md)
   * [Median of Two Sorted Arrays](problem-solutions/1d-array-problems/median-of-two-sorted-arrays.md)
   * [Pascal's Triangle & Kth row of Pascal Triangle](problem-solutions/1d-array-problems/pascals-triangle.md)

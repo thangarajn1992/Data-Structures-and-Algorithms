@@ -1,4 +1,4 @@
-# Perfect Peak of Array
+# Element greater than left elements & lesser than right elements
 
 [InterviewBit](https://www.interviewbit.com/problems/perfect-peak-of-array/)
 
