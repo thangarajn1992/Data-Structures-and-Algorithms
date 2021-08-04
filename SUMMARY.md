@@ -40,7 +40,6 @@
     * [Dinic’s algorithm for Maximum Flow](data-structures/graphs/graph-algorithms/dinics-algorithm-for-maximum-flow.md)
     * [Kahn's Algorithm - Topological Sorting for Directed Acyclic Graph \(DAG\)](data-structures/graphs/graph-algorithms/kahns-algorithm-topological-sorting-for-directed-acyclic-graph-dag.md)
 * [Trie](data-structures/trie/README.md)
-  * [Untitled](data-structures/trie/untitled.md)
   * [Trie - C Implementation](data-structures/trie/trie-c-implementation.md)
   * [Trie - C++ Implementation](data-structures/trie/trie-c++-implementation.md)
   * [Tree - C++ Memory Efficient](data-structures/trie/tree-c++-memory-efficient.md)
