@@ -2,6 +2,8 @@
 
 ## 1D Arrays
 
+* [Stone Game - Leetcode 887](../problem-solutions/1d-array-problems/stone-game.md)
+
 ## nD Arrays
 
 ## Strings

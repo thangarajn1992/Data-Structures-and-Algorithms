@@ -37,5 +37,5 @@
 
 ### Turn Based Game
 
-* Stone Game
+* [Stone Game](stone-game.md)
 
