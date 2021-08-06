@@ -2,6 +2,8 @@
 
 ## 1D Arrays
 
+* [Subset Sums](../problem-solutions/1d-array-problems/subset-sums.md)
+
 ## nD Arrays
 
 ## Strings

@@ -25,6 +25,7 @@
 
 * [Pick N items with Maximum sum from both ends](pick-n-items-from-both-sides.md)
 * [Maximum Sum of Sub-Array](maximum-sum-of-sub-array.md)
+* [Subset Sums](subset-sums.md)
 
 ### Array Patterns
 
