@@ -23,7 +23,7 @@
 
 ### Board Games
 
-* Check if Move is Legal
+* [Check if Move is Legal](check-if-move-is-legal.md)
 
 
 

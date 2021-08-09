@@ -6,6 +6,8 @@
 
 ## nD Arrays
 
+* [Check if Move is Legal](../problem-solutions/2d-array-problems/check-if-move-is-legal.md)
+
 ## Strings
 
 ## Linked Lists
