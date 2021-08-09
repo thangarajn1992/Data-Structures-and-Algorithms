@@ -6,7 +6,7 @@
 
 ## nD Arrays
 
-* [Check if Move is Legal](../problem-solutions/2d-array-problems/check-if-move-is-legal.md)
+* [Check if Move is Legal - Leetcode 1958](../problem-solutions/2d-array-problems/check-if-move-is-legal.md)
 
 ## Strings
 
