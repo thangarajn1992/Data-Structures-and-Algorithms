@@ -3,6 +3,7 @@
 ## 1D Arrays
 
 * [Subset Sums](../problem-solutions/1d-array-problems/subset-sums.md)
+* [Minimum steps to make product equal to one](../problem-solutions/1d-array-problems/minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
 
 ## nD Arrays
 

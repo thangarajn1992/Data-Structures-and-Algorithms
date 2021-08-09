@@ -109,6 +109,7 @@
   * [Subset Sums](problem-solutions/1d-array-problems/subset-sums.md)
   * [Find Min Max of Array](problem-solutions/1d-array-problems/find-min-max-of-array.md)
   * [Element greater than left elements & lesser than right elements](problem-solutions/1d-array-problems/perfect-peak-of-array.md)
+  * [Minimum steps to make product of array elements equal to one](problem-solutions/1d-array-problems/minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
   * [Add One to Number](problem-solutions/1d-array-problems/add-one-to-number.md)
   * [Median of Two Sorted Arrays](problem-solutions/1d-array-problems/median-of-two-sorted-arrays.md)
   * [Pascal's Triangle & Kth row of Pascal Triangle](problem-solutions/1d-array-problems/pascals-triangle.md)

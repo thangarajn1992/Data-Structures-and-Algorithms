@@ -7,6 +7,7 @@
 * [Triplets with Sum between given range](triplets-with-sum-between-given-range.md)
 * [Add one to Number](add-one-to-number.md)
 * [Median of Two Sorted Arrays](median-of-two-sorted-arrays.md)
+* [Minimum steps to make product of array elements equal to one](minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
 
 
 
