@@ -6,6 +6,8 @@
 
 ## nD Arrays
 
+* [Spiral Traversal of Matrix](../problem-solutions/2d-array-problems/spiral-traversal-of-matrix.md)
+* 
 ## Strings
 
 ## Linked Lists
