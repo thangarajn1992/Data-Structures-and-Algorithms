@@ -126,6 +126,7 @@
   * [Only Element Set in its Row & Column](problem-solutions/2d-array-problems/only-element-set-in-its-row-and-column.md)
   * [Merge Overlapping Intervals](problem-solutions/2d-array-problems/merge-overlapping-intervals.md)
   * [Add & Merge Interval](problem-solutions/2d-array-problems/add-and-merge-interval.md)
+  * [Check if Move is Legal](problem-solutions/2d-array-problems/check-if-move-is-legal.md)
 * [String Problems](problem-solutions/string-problems/README.md)
   * [Strings Questions](problem-solutions/string-problems/strings-questions.md)
 * [Linked List Problems](problem-solutions/linked-list-problems/README.md)

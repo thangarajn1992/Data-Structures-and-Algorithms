@@ -21,6 +21,10 @@
 
 * [Set Matrix Zeroes](set-matrix-zeros.md)
 
+### Board Games
+
+* Check if Move is Legal
+
 
 
 
