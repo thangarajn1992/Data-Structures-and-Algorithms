@@ -131,6 +131,7 @@
 * [String Problems](problem-solutions/string-problems/README.md)
   * [Strings Questions](problem-solutions/string-problems/strings-questions.md)
   * [Flip String to Monotone Increasing](problem-solutions/string-problems/flip-string-to-monotone-increasing.md)
+  * [Number of Good Ways to Split a String](problem-solutions/string-problems/number-of-good-ways-to-split-a-string.md)
 * [Linked List Problems](problem-solutions/linked-list-problems/README.md)
   * [Linked Lists Questions](problem-solutions/linked-list-problems/linked-lists-questions.md)
 * [Tree Problems](problem-solutions/tree-problems/README.md)
