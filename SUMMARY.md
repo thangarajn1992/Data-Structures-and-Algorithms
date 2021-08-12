@@ -130,6 +130,7 @@
   * [Check if Move is Legal](problem-solutions/2d-array-problems/check-if-move-is-legal.md)
 * [String Problems](problem-solutions/string-problems/README.md)
   * [Strings Questions](problem-solutions/string-problems/strings-questions.md)
+  * [Flip String to Monotone Increasing](problem-solutions/string-problems/flip-string-to-monotone-increasing.md)
 * [Linked List Problems](problem-solutions/linked-list-problems/README.md)
   * [Linked Lists Questions](problem-solutions/linked-list-problems/linked-lists-questions.md)
 * [Tree Problems](problem-solutions/tree-problems/README.md)
