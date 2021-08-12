@@ -138,6 +138,7 @@
   * [Trees Questions](problem-solutions/tree-problems/trees-questions.md)
   * [Root to Leaf Paths with specific sum](problem-solutions/tree-problems/root-to-leaf-paths-with-specific-sum.md)
   * [N-ary Tree Level Order Traversal](problem-solutions/tree-problems/n-ary-tree-level-order-traversal.md)
+  * [Construct Tree from Preorder Traversal](problem-solutions/tree-problems/construct-tree-from-preorder-traversal.md)
 * [Stack Problems](problem-solutions/stack-problems/README.md)
   * [Stacks Questions](problem-solutions/stack-problems/stacks-questions.md)
 * [Queue Problems](problem-solutions/queue-problems/README.md)

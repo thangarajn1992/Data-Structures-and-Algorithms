@@ -15,6 +15,8 @@
 
 ## Trees
 
+* [Construct Tree from Preorder Traversal](../problem-solutions/tree-problems/construct-tree-from-preorder-traversal.md)
+
 ## Stacks
 
 ## Queues
