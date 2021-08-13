@@ -10,3 +10,7 @@
 
 * [Number of Good Ways to Split a String](number-of-good-ways-to-split-a-string.md)
 
+### Palindromic String
+
+* Number of palindromic strings
+

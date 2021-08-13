@@ -11,6 +11,8 @@
 * 
 ## Strings
 
+* [Number of palindromic strings](../problem-solutions/string-problems/number-of-palindromic-strings.md)
+
 ## Linked Lists
 
 ## Trees
