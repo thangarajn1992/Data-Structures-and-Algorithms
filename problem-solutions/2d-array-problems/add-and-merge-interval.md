@@ -1,6 +1,9 @@
 # Add & Merge Interval
 
-[Interviewbit](https://www.interviewbit.com/problems/merge-intervals/)
+### Source
+
+* [Leetcode 57](https://leetcode.com/problems/insert-interval/)
+* [Interviewbit](https://www.interviewbit.com/problems/merge-intervals/)
 
 ### Problem Statement
 
@@ -32,6 +35,34 @@ Make sure the returned intervals are also sorted.
 3. At the end of loop, insert the current 's' and 'e' as last interval in the result.
 
 ```cpp
+Leetcode Solution:
+==================
+class Solution {
+public:
+    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        vector<vector<int>> final_intervals;
+        int i = 0;
+        int start = newInterval[0], end = newInterval[1];
+        for(; i < intervals.size(); i++)
+        {
+            if(intervals[i][1] < start) // No Overlap
+                final_intervals.push_back(intervals[i]);
+            else if(end >= intervals[i][0]) // Overlap with new Interval
+            {
+                start = min(intervals[i][0], start);
+                end = max(intervals[i][1], end);
+            }
+            else if(intervals[i][0] > end) // Merging done
+                break;
+        }
+        final_intervals.push_back({start, end});
+        final_intervals.insert(final_intervals.end(), intervals.begin()+i, intervals.end());
+        return final_intervals; 
+    }
+};
+
+InterviewBit Solution: [ When Interval is User-Defined Data Structure ]
+======================
 vector<Interval> Solution::insert(vector<Interval> &it, Interval newinterval) 
     int s = min(newinterval.start,newinterval.end);
     int e = max(newinterval.start,newinterval.end);
