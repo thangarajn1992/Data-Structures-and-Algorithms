@@ -18,6 +18,8 @@
 
 ## Tries
 
+* [Maximum XOR subarray](../problem-solutions/bit-manipulation-problems/maximum-xor-subarray.md)
+
 ## Heap/Priority Queues
 
 ## Graphs
@@ -25,6 +27,8 @@
 ## Mathematics
 
 ## Bit Manipulation
+
+* [Maximum XOR subarray](../problem-solutions/bit-manipulation-problems/maximum-xor-subarray.md)
 
 
 

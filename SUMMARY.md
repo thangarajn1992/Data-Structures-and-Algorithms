@@ -4,7 +4,8 @@
 
 ## Data Structures
 
-* [Arrays](data-structures/arrays.md)
+* [Arrays](data-structures/arrays/README.md)
+  * [Handling Intervals](data-structures/arrays/handling-intervals.md)
 * [Strings](data-structures/strings/README.md)
   * [String Algorithms](data-structures/strings/string-algorithms/README.md)
     * [Boyer-Moore String Search Algorithm](data-structures/strings/string-algorithms/boyer-moore-string-search-algorithm.md)
@@ -163,4 +164,5 @@
   * [Utopian Tree](problem-solutions/mathematics-problems/utopian-tree.md)
 * [Bit Manipulation Problems](problem-solutions/bit-manipulation-problems/README.md)
   * [Bit Manipulation Questions](problem-solutions/bit-manipulation-problems/bit-manipulation-questions.md)
+  * [Maximum XOR subarray](problem-solutions/bit-manipulation-problems/maximum-xor-subarray.md)
 
