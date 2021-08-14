@@ -9,6 +9,7 @@
 * [Check if Move is Legal - Leetcode 1958](../problem-solutions/2d-array-problems/check-if-move-is-legal.md)
 * [Merge Intervals - Leetcode 56](../problem-solutions/2d-array-problems/merge-overlapping-intervals.md)
 * [Insert Interval - Leetcode 57](../problem-solutions/2d-array-problems/add-and-merge-interval.md)
+* [Interval List Intersections - Leetcode 986](../problem-solutions/2d-array-problems/interval-list-intersections.md)
 
 ## Strings
 

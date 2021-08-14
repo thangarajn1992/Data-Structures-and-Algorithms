@@ -16,6 +16,7 @@
 
 * [Merge Overlapping Intervals](merge-overlapping-intervals.md)
 * [Add & Merge Interval](add-and-merge-interval.md)
+* [Interval List Intersections](interval-list-intersections.md)
 
 ### Modifying Matrix Elements
 
