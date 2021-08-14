@@ -28,7 +28,10 @@ sort(intervals.begin(), intervals.end());
 //Sorting ensures that s1 < e2
 for (int i = 1; i < intervals.size(); i++) {
     if (intervals[i - 1][1] > intervals[i][0]) // ensures that e1 > s2
-        return false;  // We have intersection here.
+        // To figure out intersection start and end point
+        start = max(intervals[i-1][0], intervals[i][0]);
+        end = min(intervals[i-1][1], intervals[i][1]);
+        // So the intersection is [start, end]
 }
 ```
 
