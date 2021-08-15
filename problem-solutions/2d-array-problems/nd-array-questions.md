@@ -5,6 +5,7 @@
 * [Spiral Traversal of Matrix](spiral-traversal-of-matrix.md)
 * [Generate Matrix in Spiral Order](generate-matrix-in-spiral-order.md)
 * [Spiral Traversal from Any Co-ordinate](spiral-traversal-from-any-co-ordinate.md)
+* [Last Day Where You Can Still Cross](last-day-where-you-can-still-cross.md)
 
 ### Searching in Matrix
 

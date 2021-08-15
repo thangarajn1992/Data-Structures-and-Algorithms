@@ -10,6 +10,7 @@
 * [Merge Intervals - Leetcode 56](../problem-solutions/2d-array-problems/merge-overlapping-intervals.md)
 * [Insert Interval - Leetcode 57](../problem-solutions/2d-array-problems/add-and-merge-interval.md)
 * [Interval List Intersections - Leetcode 986](../problem-solutions/2d-array-problems/interval-list-intersections.md)
+* [Last Day Where You Can Still Cross - Leetcode 1970](../problem-solutions/2d-array-problems/last-day-where-you-can-still-cross.md)
 
 ## Strings
 
@@ -31,6 +32,8 @@
 ## Heap/Priority Queues
 
 ## Graphs
+
+* [Last Day Where You Can Still Cross - Leetcode 1970](../problem-solutions/2d-array-problems/last-day-where-you-can-still-cross.md)
 
 ## Mathematics
 

@@ -15,3 +15,7 @@
 
 * Word Ladder
 
+### Matrix 
+
+* [Last Day Where You Can Still Cross](../2d-array-problems/last-day-where-you-can-still-cross.md)
+
