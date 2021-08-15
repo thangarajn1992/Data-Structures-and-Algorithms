@@ -105,6 +105,7 @@
   * [Remove Element](problem-solutions/1d-array-problems/remove-element.md)
   * [Search Insert Position](problem-solutions/1d-array-problems/search-insert-position.md)
   * [Rearrange array elements](problem-solutions/1d-array-problems/rearrange-array-elements.md)
+  * [Array With Elements Not Equal to Average of Neighbors](problem-solutions/1d-array-problems/array-with-elements-not-equal-to-average-of-neighbors.md)
   * [Smallest Non Construct-able Value](problem-solutions/1d-array-problems/smallest-non-construct-able-value.md)
   * [Triplets with Sum between given range](problem-solutions/1d-array-problems/triplets-with-sum-between-given-range.md)
   * [Pick N items with Maximum sum from both ends](problem-solutions/1d-array-problems/pick-n-items-from-both-sides.md)

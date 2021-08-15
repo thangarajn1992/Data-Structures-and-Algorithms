@@ -3,6 +3,7 @@
 ## 1D Arrays
 
 * [Stone Game - Leetcode 887](../problem-solutions/1d-array-problems/stone-game.md)
+* [Array With Elements Not Equal to Average of Neighbors - Leetcode 1968](../problem-solutions/1d-array-problems/array-with-elements-not-equal-to-average-of-neighbors.md)
 
 ## nD Arrays
 
