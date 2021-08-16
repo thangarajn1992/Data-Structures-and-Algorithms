@@ -176,3 +176,7 @@
   * [Bit Manipulation Questions](problem-solutions/bit-manipulation-problems/bit-manipulation-questions.md)
   * [Maximum XOR subarray](problem-solutions/bit-manipulation-problems/maximum-xor-subarray.md)
 
+## Famous Problem Sets
+
+* [Interview Bit Last Minute Interview Prep](famous-problem-sets/interview-bit-last-minute-interview-prep.md)
+
