@@ -4,6 +4,10 @@
 
 * [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/a512e4b2e812b6df2159b19cc7090ffc1ab056dd/1#)
 
+### Companies
+
+* [Microsoft](../../company-based-lists/microsoft.md)
+
 ### Problem Statement
 
 Given an array **arr\[\]** of size, **N.** Find the subarray with maximum XOR. A subarray is a contiguous part of the array.

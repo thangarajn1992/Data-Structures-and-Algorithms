@@ -4,6 +4,11 @@
 
 * [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/minimum-steps-to-make-product-equal-to-one/1#)
 
+### Companies
+
+* [Amazon](../../company-based-lists/amazon.md)
+* [Microsoft](../../company-based-lists/microsoft.md)
+
 ### Problem Statement
 
 Given an array **arr\[\]** containing **N** integers. In one step, any element of the array can either be increased or decreased by one. Find minimum steps required such that the product of the array elements becomes **1**.

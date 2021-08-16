@@ -4,6 +4,13 @@
 
 * [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/minimum-cost-path3833/1#)
 
+### Companies
+
+* [Amazon](../../company-based-lists/amazon.md)
+* [Microsoft](../../company-based-lists/microsoft.md)
+* [Samsung](../../company-based-lists/samsung.md)
+* [Goldman Sachs](../../company-based-lists/goldman-sachs.md)
+
 ### Problem Statement
 
 Given a square **grid** of size **N**, each cell of which contains integer cost which represents a cost to traverse through that cell, we need to find a path from top left cell to bottom right cell by which the total cost incurred is minimum.  

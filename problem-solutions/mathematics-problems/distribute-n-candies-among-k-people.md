@@ -4,6 +4,10 @@
 
 * [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/distribute-n-candies/1#)
 
+### Companies
+
+* [Microsoft](../../company-based-lists/microsoft.md)
+
 ### Problem Statement
 
 Given **N** candies and **K** people. In the first turn, the first person gets 1 candy, the second gets 2 candies, and so on till K people. In the next turn, the first person gets K+1 candies, the second person gets K+2 candies and so on. If the number of candies is less than the required number of candies at every turn, then the person receives the remaining number of candies. Find the total number of candies every person has at the end.
