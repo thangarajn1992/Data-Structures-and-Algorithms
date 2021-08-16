@@ -166,6 +166,7 @@
   * [Mathematics Questions](problem-solutions/mathematics-problems/mathematics-questions.md)
   * [Drawing Book](problem-solutions/mathematics-problems/drawing-book.md)
   * [Utopian Tree](problem-solutions/mathematics-problems/utopian-tree.md)
+  * [Distribute N candies among K people](problem-solutions/mathematics-problems/distribute-n-candies-among-k-people.md)
 * [Bit Manipulation Problems](problem-solutions/bit-manipulation-problems/README.md)
   * [Bit Manipulation Questions](problem-solutions/bit-manipulation-problems/bit-manipulation-questions.md)
   * [Maximum XOR subarray](problem-solutions/bit-manipulation-problems/maximum-xor-subarray.md)

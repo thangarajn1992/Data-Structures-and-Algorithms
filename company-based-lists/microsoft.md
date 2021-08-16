@@ -26,10 +26,12 @@
 
 ## Mathematics
 
+* [Distribute N candies among K people](../problem-solutions/mathematics-problems/distribute-n-candies-among-k-people.md)
+
 ## Bit Manipulation
 
 * [Maximum XOR subarray](../problem-solutions/bit-manipulation-problems/maximum-xor-subarray.md)
-
+* 
 
 
 
