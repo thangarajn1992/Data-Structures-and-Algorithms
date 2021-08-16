@@ -42,3 +42,9 @@
 
 
 
+## Design
+
+* [Range Sum Query - Immutable Leetcode 303](../problem-solutions/design-problems/range-sum-query-immutable.md)
+
+
+
