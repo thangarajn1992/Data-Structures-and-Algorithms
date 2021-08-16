@@ -6,6 +6,8 @@
 
 ## nD Arrays
 
+* [Minimum Cost Path with 4 possible directions](../problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
+
 ## Strings
 
 ## Linked Lists
@@ -21,6 +23,8 @@
 ## Heap/Priority Queues
 
 ## Graphs
+
+* [Minimum Cost Path with 4 possible directions](../problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
 
 ## Mathematics
 

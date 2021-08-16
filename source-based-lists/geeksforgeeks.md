@@ -8,7 +8,8 @@
 ## nD Arrays
 
 * [Spiral Traversal of Matrix](../problem-solutions/2d-array-problems/spiral-traversal-of-matrix.md)
-* 
+* [Minimum Cost Path with 4 possible directions](../problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
+
 ## Strings
 
 * [Number of palindromic strings](../problem-solutions/string-problems/number-of-palindromic-strings.md)
@@ -28,6 +29,8 @@
 ## Heap/Priority Queues
 
 ## Graphs
+
+* [Minimum Cost Path with 4 possible directions](../problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
 
 ## Mathematics
 

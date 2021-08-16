@@ -6,6 +6,7 @@
 * [Generate Matrix in Spiral Order](generate-matrix-in-spiral-order.md)
 * [Spiral Traversal from Any Co-ordinate](spiral-traversal-from-any-co-ordinate.md)
 * [Last Day Where You Can Still Cross](last-day-where-you-can-still-cross.md)
+* [Minimum Cost Path with 4 possible directions](minimum-cost-path-with-4-possible-directions.md)
 
 ### Searching in Matrix
 

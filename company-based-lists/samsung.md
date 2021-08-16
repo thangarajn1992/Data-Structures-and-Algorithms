@@ -1,4 +1,4 @@
-# Goldman Sachs
+# Samsung
 
 ## 1D Arrays
 
@@ -27,8 +27,4 @@
 ## Mathematics
 
 ## Bit Manipulation
-
-
-
-
 
