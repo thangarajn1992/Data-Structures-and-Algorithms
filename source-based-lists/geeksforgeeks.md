@@ -38,5 +38,7 @@
 
 ## Bit Manipulation
 
+* [Yes XOR No -- XOR Always occurs in pairs](../problem-solutions/bit-manipulation-problems/yes-xor-no-xor-always-occurs-in-pairs.md)
+
 
 

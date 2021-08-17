@@ -75,3 +75,8 @@ public:
 };
 ```
 
+#### Time and Space Complexity
+
+* Its a pre-order traversal , so we will be visiting all the nodes 1 time, let there be N nodes, so **time complexity is O\(N\)**
+* Space complexity is just because. of recursive stack. ****Max size of stack  will be the height of the binary tree, which is N in worst case , so the **Space complexity is O\(N\)**
+
