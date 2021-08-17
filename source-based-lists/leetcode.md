@@ -23,6 +23,7 @@
 ## Trees
 
 * [Path Sum II - Leetcode 113](../problem-solutions/tree-problems/root-to-leaf-paths-with-specific-sum.md)
+* [Count Good Nodes in Binary Tree - Leetcode 1448](../problem-solutions/tree-problems/count-good-nodes-in-binary-tree.md)
 
 ## Stacks
 
