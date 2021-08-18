@@ -12,5 +12,9 @@
 
 ### Palindromic String
 
-* Number of palindromic strings
+* [Number of palindromic strings](number-of-palindromic-strings.md)
+
+### Decoding/Encoding
+
+* [Decode Ways](decode-ways.md)
 

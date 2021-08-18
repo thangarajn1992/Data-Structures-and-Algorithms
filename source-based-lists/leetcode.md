@@ -15,6 +15,7 @@
 
 ## Strings
 
+* [Decode ways - Leetcode 91](../problem-solutions/string-problems/decode-ways.md)
 * [Flip String to Monotone Increasing - Leetcode 926](../problem-solutions/string-problems/flip-string-to-monotone-increasing.md)
 * [Number of Good Ways to Split a String - Leetcode 1525](../problem-solutions/string-problems/number-of-good-ways-to-split-a-string.md)
 
