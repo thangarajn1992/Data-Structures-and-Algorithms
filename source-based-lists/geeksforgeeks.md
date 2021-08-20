@@ -13,6 +13,7 @@
 ## Strings
 
 * [Number of palindromic strings](../problem-solutions/string-problems/number-of-palindromic-strings.md)
+* [Number of Palindromic paths in a Matrix](../problem-solutions/string-problems/number-of-palindromic-paths-in-a-matrix.md)
 
 ## Linked Lists
 
