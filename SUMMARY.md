@@ -96,6 +96,7 @@
 * [Goldman Sachs](company-based-lists/goldman-sachs.md)
 * [Uber](company-based-lists/uber.md)
 * [Directi](company-based-lists/directi.md)
+* [Walmart](company-based-lists/walmart.md)
 * [Yahoo](company-based-lists/yahoo.md)
 
 ## Problem Solutions
@@ -139,6 +140,7 @@
   * [Strings Questions](problem-solutions/string-problems/strings-questions.md)
   * [Flip String to Monotone Increasing](problem-solutions/string-problems/flip-string-to-monotone-increasing.md)
   * [Number of Good Ways to Split a String](problem-solutions/string-problems/number-of-good-ways-to-split-a-string.md)
+  * [Longest Palindromic Substring](problem-solutions/string-problems/longest-palindromic-substring.md)
   * [Number of palindromic strings](problem-solutions/string-problems/number-of-palindromic-strings.md)
   * [Number of Palindromic paths in a Matrix](problem-solutions/string-problems/number-of-palindromic-paths-in-a-matrix.md)
   * [Decode ways](problem-solutions/string-problems/decode-ways.md)

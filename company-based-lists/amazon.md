@@ -10,6 +10,8 @@
 
 ## Strings
 
+* [Longest Palindromic Substring](../problem-solutions/string-problems/longest-palindromic-substring.md)
+
 ## Linked Lists
 
 ## Trees

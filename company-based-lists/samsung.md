@@ -8,6 +8,7 @@
 
 ## Strings
 
+* [Longest Palindromic Substring](../problem-solutions/string-problems/longest-palindromic-substring.md)
 * [Number of Palindromic paths in a Matrix](../problem-solutions/string-problems/number-of-palindromic-paths-in-a-matrix.md)
 
 ## Linked Lists
