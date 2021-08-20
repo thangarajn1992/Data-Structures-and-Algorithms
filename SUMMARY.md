@@ -147,6 +147,7 @@
   * [Trees Questions](problem-solutions/tree-problems/trees-questions.md)
   * [Root to Leaf Paths with specific sum](problem-solutions/tree-problems/root-to-leaf-paths-with-specific-sum.md)
   * [Count Good Nodes in Binary Tree](problem-solutions/tree-problems/count-good-nodes-in-binary-tree.md)
+  * [Maximum Product of Splitted Binary Tree](problem-solutions/tree-problems/maximum-product-of-splitted-binary-tree.md)
   * [N-ary Tree Level Order Traversal](problem-solutions/tree-problems/n-ary-tree-level-order-traversal.md)
   * [Construct Tree from Preorder Traversal](problem-solutions/tree-problems/construct-tree-from-preorder-traversal.md)
 * [Stack Problems](problem-solutions/stack-problems/README.md)

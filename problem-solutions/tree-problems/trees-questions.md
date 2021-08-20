@@ -6,6 +6,7 @@
 
 * [Root to Leaf Paths with specific sum](root-to-leaf-paths-with-specific-sum.md)
 * [Count Good Nodes in Binary Tree](count-good-nodes-in-binary-tree.md)
+* [Maximum Product of Splitted Binary Tree](maximum-product-of-splitted-binary-tree.md)
 
 ### N-ary Tree
 
