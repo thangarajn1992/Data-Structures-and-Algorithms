@@ -13,6 +13,7 @@
 ### Palindromic String
 
 * [Number of palindromic strings](number-of-palindromic-strings.md)
+* [Number of Palindromic paths in a Matrix](number-of-palindromic-paths-in-a-matrix.md)
 
 ### Decoding/Encoding
 

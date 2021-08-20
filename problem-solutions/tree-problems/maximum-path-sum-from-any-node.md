@@ -4,6 +4,11 @@
 
 * [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1#)
 
+### Companies
+
+* [Google](../../company-based-lists/google.md)
+* [Facebook](../../company-based-lists/facebook.md)
+
 ### Problem Statement
 
 Given a binary tree, the task is to find the maximum path sum. The path may start and end at any node in the tree.

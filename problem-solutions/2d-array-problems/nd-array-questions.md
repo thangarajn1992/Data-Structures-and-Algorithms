@@ -7,6 +7,7 @@
 * [Spiral Traversal from Any Co-ordinate](spiral-traversal-from-any-co-ordinate.md)
 * [Last Day Where You Can Still Cross](last-day-where-you-can-still-cross.md)
 * [Minimum Cost Path with 4 possible directions](minimum-cost-path-with-4-possible-directions.md)
+* [Number of Palindromic paths in a Matrix](../string-problems/number-of-palindromic-paths-in-a-matrix.md)
 
 ### Searching in Matrix
 
