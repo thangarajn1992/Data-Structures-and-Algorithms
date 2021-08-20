@@ -10,6 +10,8 @@
 
 ## Trees
 
+* [Maximum path sum from any node](../problem-solutions/tree-problems/maximum-path-sum-from-any-node.md)
+
 ## Stacks
 
 ## Queues

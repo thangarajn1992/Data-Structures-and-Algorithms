@@ -19,6 +19,7 @@
 ## Trees
 
 * [Construct Tree from Preorder Traversal](../problem-solutions/tree-problems/construct-tree-from-preorder-traversal.md)
+* [Maximum path sum from any node](../problem-solutions/tree-problems/maximum-path-sum-from-any-node.md)
 
 ## Stacks
 
