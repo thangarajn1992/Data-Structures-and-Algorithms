@@ -27,6 +27,7 @@
 
 ### Board Games
 
+* [Valid Sudoku Question](valid-sudoku-question.md)
 * [Check if Move is Legal](check-if-move-is-legal.md)
 
 

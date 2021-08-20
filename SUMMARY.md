@@ -135,6 +135,7 @@
   * [Merge Overlapping Intervals](problem-solutions/2d-array-problems/merge-overlapping-intervals.md)
   * [Add & Merge Interval](problem-solutions/2d-array-problems/add-and-merge-interval.md)
   * [Interval List Intersections](problem-solutions/2d-array-problems/interval-list-intersections.md)
+  * [Valid Sudoku Question](problem-solutions/2d-array-problems/valid-sudoku-question.md)
   * [Check if Move is Legal](problem-solutions/2d-array-problems/check-if-move-is-legal.md)
 * [String Problems](problem-solutions/string-problems/README.md)
   * [Strings Questions](problem-solutions/string-problems/strings-questions.md)
