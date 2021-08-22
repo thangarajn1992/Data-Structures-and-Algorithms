@@ -179,6 +179,7 @@
   * [Drawing Book](problem-solutions/mathematics-problems/drawing-book.md)
   * [Utopian Tree](problem-solutions/mathematics-problems/utopian-tree.md)
   * [Distribute N candies among K people](problem-solutions/mathematics-problems/distribute-n-candies-among-k-people.md)
+  * [Find Greatest Common Divisor of Smallest and Largest element of an array](problem-solutions/mathematics-problems/find-greatest-common-divisor-of-smallest-and-largest-element-of-an-array.md)
 * [Design Problems](problem-solutions/design-problems/README.md)
   * [Design Questions](problem-solutions/design-problems/design-questions.md)
   * [Range Sum Query - Immutable](problem-solutions/design-problems/range-sum-query-immutable.md)

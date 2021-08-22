@@ -9,5 +9,11 @@
 
 * [Distribute N candies among K people](distribute-n-candies-among-k-people.md)
 
+### Formula/Concept
+
+* [Find Greatest Common Divisor of Smallest and Largest element of an array](find-greatest-common-divisor-of-smallest-and-largest-element-of-an-array.md)
+
+
+
 ### 
 

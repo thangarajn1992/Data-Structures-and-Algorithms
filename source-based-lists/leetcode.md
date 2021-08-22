@@ -44,6 +44,8 @@
 
 ## Mathematics
 
+* [Find Greatest Common Divisor of Smallest and Largest element of an array - Leetcode 1979](../problem-solutions/mathematics-problems/find-greatest-common-divisor-of-smallest-and-largest-element-of-an-array.md)
+
 ## Bit Manipulation
 
 

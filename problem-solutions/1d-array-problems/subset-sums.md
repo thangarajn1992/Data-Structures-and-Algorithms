@@ -54,7 +54,6 @@ class Solution
 public:
     vector<int> subsetSums(vector<int> arr, int N)
     {
-        // Write Your Code here
         vector<int> sub_sum;
         int total = 1 << N;
         for(int i = 0; i < total; i++)
