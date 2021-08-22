@@ -167,6 +167,7 @@
   * [Heaps/Priority Queues Questions](problem-solutions/heap-priority-queue-problems/heaps-priority-queues-questions.md)
 * [Graph Problems](problem-solutions/graph-problems/README.md)
   * [Graphs Questions](problem-solutions/graph-problems/graphs-questions.md)
+  * [Number of Ways to Arrive at Destination](problem-solutions/graph-problems/number-of-ways-to-arrive-at-destination.md)
   * [Find a Mother Vertex in a Graph](problem-solutions/graph-problems/find-a-mother-vertex-in-a-graph.md)
   * [Is Graph Bipartite](problem-solutions/graph-problems/is-graph-bipartite.md)
   * [m coloring a graph](problem-solutions/graph-problems/m-coloring-a-graph.md)

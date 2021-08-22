@@ -41,6 +41,7 @@
 ## Graphs
 
 * [Last Day Where You Can Still Cross - Leetcode 1970](../problem-solutions/2d-array-problems/last-day-where-you-can-still-cross.md)
+* [Number of Ways to Arrive at Destination - Leetcode 1976](../problem-solutions/graph-problems/number-of-ways-to-arrive-at-destination.md)
 
 ## Mathematics
 
