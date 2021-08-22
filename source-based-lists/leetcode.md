@@ -48,6 +48,8 @@
 
 ## Bit Manipulation
 
+* [Find Binary String not present in given subset - Leetcode 1980](../problem-solutions/bit-manipulation-problems/find-binary-string-not-present-in-given-subset.md)
+
 
 
 ## Design
