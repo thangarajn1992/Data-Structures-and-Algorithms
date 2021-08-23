@@ -3,7 +3,8 @@
 ## 1D Arrays
 
 * [Minimum steps to make product equal to one](../problem-solutions/1d-array-problems/minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
-
+* [Combination Sum - Input distinct Output Sorted Unique Subset Repeated Numbers](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
+* 
 ## nD Arrays
 
 * [Minimum Cost Path with 4 possible directions](../problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
