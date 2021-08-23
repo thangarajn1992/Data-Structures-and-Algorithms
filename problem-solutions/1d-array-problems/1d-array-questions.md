@@ -9,8 +9,6 @@
 * [Median of Two Sorted Arrays](median-of-two-sorted-arrays.md)
 * [Minimum steps to make product of array elements equal to one](minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
 
-
-
 ### Space Recycling/ Reordering
 
 * [Rearrange array elements](rearrange-array-elements.md)
@@ -22,6 +20,10 @@
 
 * [Search Insert Position](search-insert-position.md)
 * [Element greater than left elements & lesser than right elements](perfect-peak-of-array.md)
+
+### Path Selection
+
+* Min Cost Climbing Stairs
 
 ### Selecting set of Elements/subsets
 
@@ -41,4 +43,6 @@
 ### Turn Based Game
 
 * [Stone Game](stone-game.md)
+
+
 

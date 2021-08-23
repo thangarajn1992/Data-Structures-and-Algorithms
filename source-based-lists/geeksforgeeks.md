@@ -4,6 +4,7 @@
 
 * [Subset Sums](../problem-solutions/1d-array-problems/subset-sums.md)
 * [Minimum steps to make product equal to one](../problem-solutions/1d-array-problems/minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
+* [Min Cost Climbing Stairs](../problem-solutions/1d-array-problems/min-cost-climbing-stairs.md)
 
 ## nD Arrays
 
