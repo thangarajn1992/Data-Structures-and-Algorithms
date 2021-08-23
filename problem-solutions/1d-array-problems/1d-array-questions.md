@@ -31,7 +31,8 @@
 * [Pick N items with Maximum sum from both ends](pick-n-items-from-both-sides.md)
 * [Maximum Sum of Sub-Array](maximum-sum-of-sub-array.md)
 * [Subset Sums](subset-sums.md)
-
+* [Combination Sum - Input distinct Output Unique Subset Repeated Numbers](combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
+* 
 ### Array Patterns
 
 * [Pascal's Triangle Generation](pascals-triangle.md)

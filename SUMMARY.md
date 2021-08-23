@@ -115,6 +115,7 @@
   * [Number of ways to Climb Stairs](problem-solutions/1d-array-problems/number-of-ways-to-climb-stairs.md)
   * [Pick N items with Maximum sum from both ends](problem-solutions/1d-array-problems/pick-n-items-from-both-sides.md)
   * [Subset Sums](problem-solutions/1d-array-problems/subset-sums.md)
+  * [Combination Sum - Input distinct Output Unique Subset Repeated Numbers](problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
   * [Find Min Max of Array](problem-solutions/1d-array-problems/find-min-max-of-array.md)
   * [Element greater than left elements & lesser than right elements](problem-solutions/1d-array-problems/perfect-peak-of-array.md)
   * [Minimum steps to make product of array elements equal to one](problem-solutions/1d-array-problems/minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
