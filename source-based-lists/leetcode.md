@@ -29,6 +29,7 @@
 ## Trees
 
 * [Path Sum II - Leetcode 113](../problem-solutions/tree-problems/root-to-leaf-paths-with-specific-sum.md)
+* [Two Nodes sum up to target - Leetcode 653](../problem-solutions/tree-problems/two-nodes-sum-up-to-target.md)
 * [Maximum Product of Splitted Binary Tree - Leetcode 1339](../problem-solutions/tree-problems/maximum-product-of-splitted-binary-tree.md)
 * [Count Good Nodes in Binary Tree - Leetcode 1448](../problem-solutions/tree-problems/count-good-nodes-in-binary-tree.md)
 * 

@@ -154,6 +154,7 @@
 * [Tree Problems](problem-solutions/tree-problems/README.md)
   * [Trees Questions](problem-solutions/tree-problems/trees-questions.md)
   * [Root to Leaf Paths with specific sum](problem-solutions/tree-problems/root-to-leaf-paths-with-specific-sum.md)
+  * [Two Nodes sum up to target](problem-solutions/tree-problems/two-nodes-sum-up-to-target.md)
   * [Count Good Nodes in Binary Tree](problem-solutions/tree-problems/count-good-nodes-in-binary-tree.md)
   * [Maximum Product of Splitted Binary Tree](problem-solutions/tree-problems/maximum-product-of-splitted-binary-tree.md)
   * [Maximum path sum from any node](problem-solutions/tree-problems/maximum-path-sum-from-any-node.md)

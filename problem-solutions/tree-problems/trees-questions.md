@@ -5,6 +5,7 @@
 ### Binary Tree
 
 * [Root to Leaf Paths with specific sum](root-to-leaf-paths-with-specific-sum.md)
+* [Two Nodes sum up to target](two-nodes-sum-up-to-target.md)
 * [Count Good Nodes in Binary Tree](count-good-nodes-in-binary-tree.md)
 * [Maximum Product of Splitted Binary Tree](maximum-product-of-splitted-binary-tree.md)
 * [Maximum path sum from any node](maximum-path-sum-from-any-node.md)
