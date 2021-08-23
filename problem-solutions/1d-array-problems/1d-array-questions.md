@@ -23,7 +23,8 @@
 
 ### Path Selection
 
-* Min Cost Climbing Stairs
+* [Min Cost Climbing Stairs](min-cost-climbing-stairs.md)
+* [Number of ways to Climb Stairs](number-of-ways-to-climb-stairs.md)
 
 ### Selecting set of Elements/subsets
 
