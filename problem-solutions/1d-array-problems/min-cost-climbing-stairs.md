@@ -3,6 +3,7 @@
 ### Sources
 
 * [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/min-cost-climbing-stairs/1#)
+* [Leetcode 746](https://leetcode.com/problems/min-cost-climbing-stairs/)
 
 ### Companies
 
