@@ -5,6 +5,7 @@
 * [Subset Sums](../problem-solutions/1d-array-problems/subset-sums.md)
 * [Minimum steps to make product equal to one](../problem-solutions/1d-array-problems/minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
 * [Min Cost Climbing Stairs](../problem-solutions/1d-array-problems/min-cost-climbing-stairs.md)
+* [Are Elements are within k distance from fully sorted array](../problem-solutions/1d-array-problems/are-elements-are-within-k-distance-from-fully-sorted-array.md)
 
 ## nD Arrays
 
