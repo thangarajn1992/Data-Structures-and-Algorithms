@@ -38,6 +38,7 @@
     * [Dijkstra’s shortest path algorithm](data-structures/graphs/graph-algorithms/dijkstras-shortest-path-algorithm.md)
     * [Floyd Warshall Algorithm for Transitive Closure](data-structures/graphs/graph-algorithms/floyd-warshall-algorithm-for-transitive-closure.md)
     * [Kosaraju's algorithm for strongly connected components](data-structures/graphs/graph-algorithms/kosarajus-algorithm.md)
+    * [Tarjan’s Algorithm for Strongly Connected Components](data-structures/graphs/graph-algorithms/tarjans-algorithm-for-strongly-connected-components.md)
     * [Ford-Fulkerson Algorithm for Maximum Flow Problem](data-structures/graphs/graph-algorithms/ford-fulkerson-algorithm-for-maximum-flow-problem.md)
     * [Dinic’s algorithm for Maximum Flow](data-structures/graphs/graph-algorithms/dinics-algorithm-for-maximum-flow.md)
     * [Kahn's Algorithm - Topological Sorting for Directed Acyclic Graph \(DAG\)](data-structures/graphs/graph-algorithms/kahns-algorithm-topological-sorting-for-directed-acyclic-graph-dag.md)
