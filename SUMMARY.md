@@ -119,6 +119,7 @@
   * [Number of ways to Climb Stairs](problem-solutions/1d-array-problems/number-of-ways-to-climb-stairs.md)
   * [Pick N items with Maximum sum from both ends](problem-solutions/1d-array-problems/pick-n-items-from-both-sides.md)
   * [Subset Sums](problem-solutions/1d-array-problems/subset-sums.md)
+  * [Combinations of k numbers that sum up to n](problem-solutions/1d-array-problems/combinations-of-k-numbers-that-sum-up-to-n.md)
   * [Combination Sum - Input distinct Output Unique Subset Repeated Numbers](problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
   * [Combination Sum - Input distinct Output Sorted Unique Subset Repeated Numbers](problem-solutions/1d-array-problems/combination-sum-input-distinct-output-sorted-unique-subset-repeated-numbers.md)
   * [Combination Sum - Input non-distinct Output Unique subset with freq num same as input](problem-solutions/1d-array-problems/combination-sum-input-non-distinct-output-unique-subset-with-freq-num-same-as-input.md)

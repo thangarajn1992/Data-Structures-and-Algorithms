@@ -5,6 +5,7 @@
 * [Combination Sum - Input distinct Output Unique Subset Repeated Numbers - 39](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Combination Sum - Input non-distinct Output Unique subset with freq num same as input - 40](../problem-solutions/1d-array-problems/combination-sum-input-non-distinct-output-unique-subset-with-freq-num-same-as-input.md)
 * [Number of ways to Climb Stairs - 70](../problem-solutions/1d-array-problems/number-of-ways-to-climb-stairs.md)
+* [Combinations of k numbers that sum up to n - 216](../problem-solutions/1d-array-problems/combinations-of-k-numbers-that-sum-up-to-n.md)
 * [Min Cost Climbing Stairs - 746](https://leetcode.com/problems/min-cost-climbing-stairs/)
 * [Stone Game - 887](../problem-solutions/1d-array-problems/stone-game.md)
 * [Array With Elements Not Equal to Average of Neighbors - 1968](../problem-solutions/1d-array-problems/array-with-elements-not-equal-to-average-of-neighbors.md)

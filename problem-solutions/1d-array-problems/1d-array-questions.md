@@ -35,6 +35,7 @@
 * [Combination Sum - Input distinct Output Unique Subset Repeated Numbers](combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Combination Sum - Input distinct Output Sorted Unique Subset Repeated Numbers](combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Combination Sum - Input non-distinct Output Unique subset with freq num same as input](combination-sum-input-non-distinct-output-unique-subset-with-freq-num-same-as-input.md)
+* [Combinations of `k` numbers that sum up to `n`](combinations-of-k-numbers-that-sum-up-to-n.md)\`\`
 
 ### Array Patterns
 
