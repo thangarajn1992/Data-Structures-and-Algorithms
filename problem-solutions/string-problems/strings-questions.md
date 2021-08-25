@@ -1,6 +1,8 @@
 # Strings Questions
 
+### String Searching
 
+* [Search Pattern \(KMP-Algorithm\)](search-pattern-kmp-algorithm.md)
 
 ### String Transformation
 

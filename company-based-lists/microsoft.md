@@ -12,6 +12,7 @@
 ## Strings
 
 * [Longest Palindromic Substring](../problem-solutions/string-problems/longest-palindromic-substring.md)
+* [Search Pattern \(KMP-Algorithm\)](../problem-solutions/string-problems/search-pattern-kmp-algorithm.md)
 
 ## Linked Lists
 

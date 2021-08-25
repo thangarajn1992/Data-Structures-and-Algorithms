@@ -148,6 +148,7 @@
   * [Check if Move is Legal](problem-solutions/2d-array-problems/check-if-move-is-legal.md)
 * [String Problems](problem-solutions/string-problems/README.md)
   * [Strings Questions](problem-solutions/string-problems/strings-questions.md)
+  * [Search Pattern \(KMP-Algorithm\)](problem-solutions/string-problems/search-pattern-kmp-algorithm.md)
   * [Flip String to Monotone Increasing](problem-solutions/string-problems/flip-string-to-monotone-increasing.md)
   * [Number of Good Ways to Split a String](problem-solutions/string-problems/number-of-good-ways-to-split-a-string.md)
   * [Longest Palindromic Substring](problem-solutions/string-problems/longest-palindromic-substring.md)
