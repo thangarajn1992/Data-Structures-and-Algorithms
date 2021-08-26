@@ -10,6 +10,7 @@
 
 * [Is Graph Bipartite](is-graph-bipartite.md)
 * [m coloring a graph](m-coloring-a-graph.md)
+* [Strongly connected component \(Tarjans's Algo\)](strongly-connected-component-tarjanss-algo.md)
 
 ### Building Neighbors
 
