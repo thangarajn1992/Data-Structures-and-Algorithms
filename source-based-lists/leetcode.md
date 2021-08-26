@@ -33,6 +33,7 @@
 ## Trees
 
 * [Path Sum II - 113](../problem-solutions/tree-problems/root-to-leaf-paths-with-specific-sum.md)
+* [Verify Preorder Serialization of a Binary Tree - 331](../problem-solutions/tree-problems/verify-preorder-serialization-of-a-binary-tree.md)
 * [Two Nodes sum up to target - 653](../problem-solutions/tree-problems/two-nodes-sum-up-to-target.md)
 * [Maximum Product of Splitted Binary Tree - 1339](../problem-solutions/tree-problems/maximum-product-of-splitted-binary-tree.md)
 * [Count Good Nodes in Binary Tree - 1448](../problem-solutions/tree-problems/count-good-nodes-in-binary-tree.md)
