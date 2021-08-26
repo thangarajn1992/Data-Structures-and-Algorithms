@@ -145,6 +145,7 @@
   * [Spiral Traversal from Any Co-ordinate](problem-solutions/2d-array-problems/spiral-traversal-from-any-co-ordinate.md)
   * [Last Day Where You Can Still Cross](problem-solutions/2d-array-problems/last-day-where-you-can-still-cross.md)
   * [Minimum Cost Path with 4 possible directions](problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
+  * [Maximum path sum in matrix with Down, Diagonal Down, Anti-Diagonal Down directions](problem-solutions/2d-array-problems/maximum-path-sum-in-matrix-with-down-diagonal-down-anti-diagonal-down-directions.md)
   * [Search in Sorted 2D Array](problem-solutions/2d-array-problems/search-in-2d-array.md)
   * [Search in Row and Column Sorted 2D Array](problem-solutions/2d-array-problems/search-in-row-and-column-sorted-2d-array.md)
   * [Only Element Set in its Row & Column](problem-solutions/2d-array-problems/only-element-set-in-its-row-and-column.md)
