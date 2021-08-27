@@ -31,7 +31,7 @@ in the Output.
 
 **Example 2:**
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 ```text
 Output:
