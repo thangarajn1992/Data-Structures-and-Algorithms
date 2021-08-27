@@ -159,6 +159,8 @@
 * [String Problems](problem-solutions/string-problems/README.md)
   * [Strings Questions](problem-solutions/string-problems/strings-questions.md)
   * [Search Pattern \(KMP-Algorithm\)](problem-solutions/string-problems/search-pattern-kmp-algorithm.md)
+  * [Longest Uncommon Sub-sequence between two strings](problem-solutions/string-problems/longest-uncommon-sub-sequence-between-two-strings.md)
+  * [Longest Uncommon Sub-sequence between array of strings](problem-solutions/string-problems/longest-uncommon-sub-sequence-between-array-of-strings.md)
   * [Flip String to Monotone Increasing](problem-solutions/string-problems/flip-string-to-monotone-increasing.md)
   * [Number of Good Ways to Split a String](problem-solutions/string-problems/number-of-good-ways-to-split-a-string.md)
   * [Longest Palindromic Substring](problem-solutions/string-problems/longest-palindromic-substring.md)

@@ -3,6 +3,8 @@
 ### String Searching
 
 * [Search Pattern \(KMP-Algorithm\)](search-pattern-kmp-algorithm.md)
+* [Longest Uncommon Sub-sequence between two strings](longest-uncommon-sub-sequence-between-two-strings.md)
+* [Longest Uncommon Sub-sequence between array of strings](longest-uncommon-sub-sequence-between-two-strings.md)
 
 ### String Transformation
 

@@ -25,6 +25,8 @@
 
 * [Longest Palindromic Substring - 5](../problem-solutions/string-problems/longest-palindromic-substring.md)
 * [Decode ways - 91](../problem-solutions/string-problems/decode-ways.md)
+* [Longest Uncommon Sub-sequence between two Strings - 521](../problem-solutions/string-problems/longest-uncommon-sub-sequence-between-two-strings.md)
+* [Longest Uncommon Sub-sequence between array of strings - 521](../problem-solutions/string-problems/longest-uncommon-sub-sequence-between-two-strings.md)
 * [Flip String to Monotone Increasing - 926](../problem-solutions/string-problems/flip-string-to-monotone-increasing.md)
 * [Number of Good Ways to Split a String - 1525](../problem-solutions/string-problems/number-of-good-ways-to-split-a-string.md)
 
