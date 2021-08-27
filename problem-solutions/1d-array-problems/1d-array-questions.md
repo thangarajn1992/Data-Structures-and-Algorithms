@@ -22,6 +22,10 @@
 * [Element greater than left elements & lesser than right elements](perfect-peak-of-array.md)
 * [Are Elements are within k distance from fully sorted array](are-elements-are-within-k-distance-from-fully-sorted-array.md)
 
+### Splitting Array
+
+* Split array into k parts to minimize the maximum part
+
 ### Path Selection
 
 * [Min Cost Climbing Stairs](min-cost-climbing-stairs.md)

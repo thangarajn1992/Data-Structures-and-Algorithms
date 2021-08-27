@@ -2,6 +2,8 @@
 
 ## 1D Arrays
 
+* [Split array into k parts to minimize the maximum part](../problem-solutions/1d-array-problems/split-array-into-k-parts-to-minimize-the-maximum-part.md)
+
 ## nD Arrays
 
 ## Strings
