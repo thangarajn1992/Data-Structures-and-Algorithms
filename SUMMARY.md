@@ -7,6 +7,7 @@
 * [Arrays](data-structures/arrays/README.md)
   * [Handling Intervals](data-structures/arrays/handling-intervals.md)
 * [Strings](data-structures/strings/README.md)
+  * [Utility Functions](data-structures/strings/utility-functions.md)
   * [Boyer-Moore String Search Algorithm](data-structures/strings/boyer-moore-string-search-algorithm.md)
   * [Pattern Search](data-structures/strings/string-algorithms/README.md)
     * [Naive Pattern Searching](data-structures/strings/string-algorithms/naive-pattern-searching.md)
