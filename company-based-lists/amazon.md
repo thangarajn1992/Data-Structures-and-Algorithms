@@ -5,6 +5,7 @@
 * [Minimum steps to make product equal to one](../problem-solutions/1d-array-problems/minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
 * [Combination Sum - Input distinct Output Sorted Unique Subset Repeated Numbers](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Split array into k parts to minimize the maximum part](../problem-solutions/1d-array-problems/split-array-into-k-parts-to-minimize-the-maximum-part.md)
+* [0 - 1 Knapsack Problem](../problem-solutions/1d-array-problems/0-1-knapsack-problem.md)
 
 ## nD Arrays
 

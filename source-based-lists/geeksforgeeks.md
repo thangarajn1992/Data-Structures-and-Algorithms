@@ -7,6 +7,7 @@
 * [Min Cost Climbing Stairs](../problem-solutions/1d-array-problems/min-cost-climbing-stairs.md)
 * [Are Elements are within k distance from fully sorted array](../problem-solutions/1d-array-problems/are-elements-are-within-k-distance-from-fully-sorted-array.md)
 * [Split array into k parts to minimize the maximum part](../problem-solutions/1d-array-problems/split-array-into-k-parts-to-minimize-the-maximum-part.md)
+* [0 - 1 Knapsack Problem](../problem-solutions/1d-array-problems/0-1-knapsack-problem.md)
 
 ## nD Arrays
 

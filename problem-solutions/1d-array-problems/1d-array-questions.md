@@ -24,7 +24,7 @@
 
 ### Splitting Array
 
-* Split array into k parts to minimize the maximum part
+* [Split array into k parts to minimize the maximum part](split-array-into-k-parts-to-minimize-the-maximum-part.md)
 
 ### Path Selection
 
@@ -41,6 +41,7 @@
 * [Combination Sum - Input distinct Output Sorted Unique Subset Repeated Numbers](combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Combination Sum - Input non-distinct Output Unique subset with freq num same as input](combination-sum-input-non-distinct-output-unique-subset-with-freq-num-same-as-input.md)
 * [Combination Sum - Input distinct Output Non-distinct subset Repeated Numbers](combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
+* [0 - 1 Knapsack Problem](0-1-knapsack-problem.md)
 
 ### Array Patterns
 
