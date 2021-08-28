@@ -155,6 +155,7 @@
   * [Merge Overlapping Intervals](problem-solutions/2d-array-problems/merge-overlapping-intervals.md)
   * [Add & Merge Interval](problem-solutions/2d-array-problems/add-and-merge-interval.md)
   * [Interval List Intersections](problem-solutions/2d-array-problems/interval-list-intersections.md)
+  * [Maximum Profit in Job Scheduling](problem-solutions/2d-array-problems/maximum-profit-in-job-scheduling.md)
   * [Valid Sudoku Question](problem-solutions/2d-array-problems/valid-sudoku-question.md)
   * [Sudoku Solver](problem-solutions/2d-array-problems/sudoku-solver.md)
   * [Check if Move is Legal](problem-solutions/2d-array-problems/check-if-move-is-legal.md)

@@ -21,6 +21,7 @@
 * [Merge Overlapping Intervals](merge-overlapping-intervals.md)
 * [Add & Merge Interval](add-and-merge-interval.md)
 * [Interval List Intersections](interval-list-intersections.md)
+* [Maximum Profit in Job Scheduling](maximum-profit-in-job-scheduling.md)
 
 ### Modifying Matrix Elements
 
