@@ -1,8 +1,9 @@
-# Smallest Non Construct-able Value
+# Smallest Non Constructable Value or Largest Constructable Value
 
 ### Sources
 
 * Elements of Programming Interview
+* [Leetcode 1798](smallest-non-construct-able-value.md)
 
 ### Problem Statement
 
@@ -24,7 +25,10 @@ Otherwise, `M[i] = M[i-1] + x`
 
 ### Solution
 
+For smallest non-constructible value and maximum constructible value
+
 ```cpp
+/* maximum constructible value + 1 = smallest non-constructible value */
 int SmallestNonConstructibleValue(vector<int> nums) {
     sort(nums.begin(), nums.end());
     int max_constructible_value = 0;

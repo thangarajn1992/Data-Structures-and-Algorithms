@@ -57,6 +57,7 @@
 ## Mathematics
 
 * [How many numbers to be patched into array to make all numbers from \[1,n\] - 330](../problem-solutions/mathematics-problems/how-many-numbers-to-be-patched-into-array-to-make-all-numbers-from-1-n.md)
+* [Maximum Number of Consecutive Values You Can Make - 1798](../problem-solutions/mathematics-problems/smallest-non-construct-able-value.md)
 * [Find Greatest Common Divisor of Smallest and Largest element of an array - 1979](../problem-solutions/mathematics-problems/find-greatest-common-divisor-of-smallest-and-largest-element-of-an-array.md)
 
 ## Bit Manipulation

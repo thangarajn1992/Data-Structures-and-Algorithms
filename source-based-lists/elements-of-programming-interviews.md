@@ -3,11 +3,7 @@
 ## 1D Arrays
 
 * [Rearrange array elements](../problem-solutions/1d-array-problems/rearrange-array-elements.md)
-* [Smallest Non Construct-able Value](../problem-solutions/1d-array-problems/smallest-non-construct-able-value.md)
-
-
-
-
+* [Smallest Non Construct-able Value](../problem-solutions/mathematics-problems/smallest-non-construct-able-value.md)
 
 
 
@@ -30,6 +26,8 @@
 ## Graphs
 
 ## Mathematics
+
+* [Smallest Non Construct-able Value](../problem-solutions/mathematics-problems/smallest-non-construct-able-value.md)
 
 ## Bit Manipulation
 
