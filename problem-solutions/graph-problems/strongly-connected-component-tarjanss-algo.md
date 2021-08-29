@@ -17,7 +17,7 @@ Given a Directed Graph with V vertices and E edges, Find the members of strongly
   
  **Example 1:**
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 ```text
 Output:
@@ -31,7 +31,7 @@ in the Output.
 
 **Example 2:**
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 ```text
 Output:

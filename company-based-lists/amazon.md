@@ -20,6 +20,8 @@
 
 ## Trees
 
+* [Bottom View of Binary Tree](../problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
+
 ## Stacks
 
 ## Queues

@@ -39,9 +39,9 @@ An undirected graph is called Biconnected if there are two vertex-disjoint paths
 1. It is connected, i.e. it is possible to reach every vertex from every other vertex, by a simple path. 
 2. Even after removing any vertex the graph remains connected i.e there is no articulation point.
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/image%20%2830%29.png)
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 ### Mother Vertex
 
@@ -55,7 +55,7 @@ A vertex in an undirected connected graph is an articulation point \(or cut vert
 
 Articulation points represent vulnerabilities in a connected network – single points whose failure would split the network into 2 or more components. They are useful for designing reliable networks.
 
-![Articulation Points](../../.gitbook/assets/image%20%2833%29.png)
+![Articulation Points](../../.gitbook/assets/image%20%2834%29.png)
 
 ### Bridges
 
@@ -63,7 +63,7 @@ An edge in an undirected connected graph is a bridge if **removing it disconnect
 
 Like [Articulation Points](graph-terminology.md#articulation-point-cut-vertex), bridges represent vulnerabilities in a connected network and are useful for designing reliable networks. For example, in a wired computer network, an articulation point indicates the critical computers and a bridge indicates the critical wires or connections.
 
-![Bridges](../../.gitbook/assets/image%20%2832%29.png)
+![Bridges](../../.gitbook/assets/image%20%2833%29.png)
 
 ### Strongly Connected Components
 
