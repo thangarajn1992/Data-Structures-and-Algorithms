@@ -56,6 +56,7 @@
 
 ## Mathematics
 
+* [How many numbers to be patched into array to make all numbers from \[1,n\] - 330](../problem-solutions/mathematics-problems/how-many-numbers-to-be-patched-into-array-to-make-all-numbers-from-1-n.md)
 * [Find Greatest Common Divisor of Smallest and Largest element of an array - 1979](../problem-solutions/mathematics-problems/find-greatest-common-divisor-of-smallest-and-largest-element-of-an-array.md)
 
 ## Bit Manipulation
