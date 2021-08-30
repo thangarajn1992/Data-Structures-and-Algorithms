@@ -1,14 +1,14 @@
-# Detect Cycle in a Directed Graph using BFS
+# Detect Cycle in a Directed Graph BFS
 
 Given a directed graph, check whether the graph contains a cycle or not.
 
-![](../../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 ### Approach
 
-Idea is simply to use [Kahn's Algorithm for topological sorting](../../../data-structures/graphs/graph-algorithms/kahns-algorithm-topological-sorting-for-directed-acyclic-graph-dag.md).
+Idea is simply to use [Kahn's Algorithm for topological sorting](../../data-structures/graphs/graph-algorithms/kahns-algorithm-topological-sorting-for-directed-acyclic-graph-dag.md).
 
-**Step 1:** Compute in-degree \( number of incoming edges\) for each of the vertex present in the graph and initialise the count of visited nodes as 0.
+**Step 1:** Compute in-degree \( number of incoming edges\) for each of the vertex present in the graph and initialize the count of visited nodes as 0.
 
 **Step 2:** Pick all the vertices with in-degree as 0 and add them into the queue.
 

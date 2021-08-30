@@ -2,8 +2,8 @@
 
 ### General Graph Problems
 
-* [Detect Cycles in Directed Graph using BFS](detect-cycle-in-a-directed-graph-using-bfs.md)
-* [Detect Cycle in Undirected Graph using BFS](detect-cycle-in-undirected-graph-using-bfs.md)
+* [Detect Cycles in Directed Graph using BFS](../detect-cycle-in-a-directed-graph-using-bfs.md)
+* [Detect Cycle in Undirected Graph using BFS](../detect-cycle-in-undirected-graph-using-bfs.md)
 * [Topological Sorting for Directed Acyclic Graph \(DAG\) using Kahn's Algorithm](../../../data-structures/graphs/graph-algorithms/kahns-algorithm-topological-sorting-for-directed-acyclic-graph-dag.md)
 * [Ford-Fulkerson Algorithm for Maximum Flow Problem](../../../data-structures/graphs/graph-algorithms/ford-fulkerson-algorithm-for-maximum-flow-problem.md)
 * [Dinic’s algorithm for Maximum Flow](../../../data-structures/graphs/graph-algorithms/dinics-algorithm-for-maximum-flow.md)

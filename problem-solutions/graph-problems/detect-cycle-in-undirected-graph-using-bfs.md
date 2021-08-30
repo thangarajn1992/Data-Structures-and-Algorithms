@@ -1,4 +1,4 @@
-# Detect Cycle in Undirected Graph using BFS
+# Detect Cycle in Undirected Graph BFS
 
 ### Approach
 

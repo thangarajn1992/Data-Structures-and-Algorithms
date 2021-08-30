@@ -15,7 +15,7 @@ We have discussed [Kosaraju’s algorithm for strongly connected components](kos
 
 To find head of a SCC, we calculate disc and low array \(as done for [articulation point](https://www.geeksforgeeks.org/articulation-points-or-cut-vertices-in-a-graph/), [bridge](https://www.geeksforgeeks.org/bridge-in-a-graph/), [bi connected component](https://www.geeksforgeeks.org/biconnectivity-in-a-graph/)\). **low\[u\] indicates earliest visited vertex \(the vertex with minimum discovery time\) that can be reached from sub-tree rooted with u**. **A node u is head if disc\[u\] = low\[u\].**
 
-![](../../../.gitbook/assets/image%20%2831%29.png)
+![](../../../.gitbook/assets/image%20%2833%29.png)
 
 Strongly Connected Component relates to directed graph only, but Disc and Low values relate to both directed and undirected graph**.**  
 In above Figure, we have shown a graph and its one of DFS tree \(There could be different DFS trees on same graph depending on order in which edges are traversed\). 

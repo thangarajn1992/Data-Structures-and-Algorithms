@@ -25,3 +25,9 @@
 
 * [Number of Ways to Arrive at Destination](number-of-ways-to-arrive-at-destination.md)
 
+### Graph Properties
+
+* [Detect cycle in a directed graph DFS](detect-cycle-in-a-directed-graph-dfs.md)
+* [Detect cycle in a directed graph BFS](detect-cycle-in-a-directed-graph-using-bfs.md)
+* [Detect Cycle in Undirected Graph BFS](detect-cycle-in-undirected-graph-using-bfs.md)
+
