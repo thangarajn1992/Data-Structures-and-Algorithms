@@ -28,6 +28,7 @@
 ## Tries
 
 * [Maximum XOR subarray](../problem-solutions/bit-manipulation-problems/maximum-xor-subarray.md)
+* [Maximum Path Sum between 2 Leaf Nodes](../problem-solutions/tree-problems/maximum-path-sum-between-2-leaf-nodes.md)
 
 ## Heap/Priority Queues
 

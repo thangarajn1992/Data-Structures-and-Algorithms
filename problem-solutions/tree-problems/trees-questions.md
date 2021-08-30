@@ -8,6 +8,7 @@
 * [Two Nodes sum up to target](two-nodes-sum-up-to-target.md)
 * [Count Good Nodes in Binary Tree](count-good-nodes-in-binary-tree.md)
 * [Maximum Product of Splitted Binary Tree](maximum-product-of-splitted-binary-tree.md)
+* [Maximum Path Sum between 2 Leaf Nodes](maximum-path-sum-between-2-leaf-nodes.md)
 * [Maximum path sum from any node](maximum-path-sum-from-any-node.md)
 * [Verify Preorder Serialization of a Binary Tree](verify-preorder-serialization-of-a-binary-tree.md)
 * [Bottom View of Binary Tree](bottom-view-of-binary-tree.md)

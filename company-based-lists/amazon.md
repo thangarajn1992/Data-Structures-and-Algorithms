@@ -21,6 +21,7 @@
 ## Trees
 
 * [Bottom View of Binary Tree](../problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
+* [Maximum Path Sum between 2 Leaf Nodes](../problem-solutions/tree-problems/maximum-path-sum-between-2-leaf-nodes.md)
 
 ## Stacks
 

@@ -11,6 +11,7 @@
 ## Trees
 
 * [Maximum path sum from any node](../problem-solutions/tree-problems/maximum-path-sum-from-any-node.md)
+* [Maximum Path Sum between 2 Leaf Nodes](../problem-solutions/tree-problems/maximum-path-sum-between-2-leaf-nodes.md)
 
 ## Stacks
 
