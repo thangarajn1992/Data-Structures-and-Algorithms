@@ -14,6 +14,8 @@
 
 ## Linked Lists
 
+* [Reverse a Linked List](../problem-solutions/linked-list-problems/reverse-a-linked-list.md)
+
 ## Trees
 
 ## Stacks
