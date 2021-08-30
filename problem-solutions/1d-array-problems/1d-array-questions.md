@@ -56,5 +56,7 @@
 
 * [Stone Game](stone-game.md)
 
+### Puzzle/Scheduling
 
+* [Find Starting point to complete circular tour of set of petrol bunks](find-starting-point-to-complete-circular-tour-of-set-of-petrol-bunks.md)
 
