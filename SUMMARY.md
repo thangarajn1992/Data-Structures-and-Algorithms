@@ -173,6 +173,7 @@
   * [Decode ways](problem-solutions/string-problems/decode-ways.md)
 * [Linked List Problems](problem-solutions/linked-list-problems/README.md)
   * [Linked Lists Questions](problem-solutions/linked-list-problems/linked-lists-questions.md)
+  * [Intersection Point in Y Shaped Linked Lists](problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
 * [Tree Problems](problem-solutions/tree-problems/README.md)
   * [Trees Questions](problem-solutions/tree-problems/trees-questions.md)
   * [Root to Leaf Paths with specific sum](problem-solutions/tree-problems/root-to-leaf-paths-with-specific-sum.md)

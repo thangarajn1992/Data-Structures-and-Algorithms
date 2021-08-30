@@ -12,6 +12,8 @@
 
 ## Linked Lists
 
+* [Intersection Point in Y Shaped Linked Lists](../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
+
 ## Trees
 
 * [Bottom View of Binary Tree](../problem-solutions/tree-problems/bottom-view-of-binary-tree.md)

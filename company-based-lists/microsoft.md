@@ -21,6 +21,8 @@
 
 ## Linked Lists
 
+* [Intersection Point in Y Shaped Linked Lists](../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
+
 ## Trees
 
 * [Merge two Binary Search Trees](../problem-solutions/tree-problems/merge-two-binary-search-trees.md)
