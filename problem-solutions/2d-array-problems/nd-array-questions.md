@@ -32,6 +32,7 @@
 * [Valid Sudoku Question](valid-sudoku-question.md)
 * [Sudoku Solver](sudoku-solver.md)
 * [Check if Move is Legal](check-if-move-is-legal.md)
+* [All Distinct ways to place N Queen in N\*N Board](all-distinct-ways-to-place-n-queen-in-n-n-board.md)
 
 
 

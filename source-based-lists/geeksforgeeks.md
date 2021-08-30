@@ -14,6 +14,7 @@
 * [Spiral Traversal of Matrix](../problem-solutions/2d-array-problems/spiral-traversal-of-matrix.md)
 * [Minimum Cost Path with 4 possible directions](../problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
 * [Maximum path sum in matrix with Down, Diagonal Down, Anti-Diagonal Down directions](../problem-solutions/2d-array-problems/maximum-path-sum-in-matrix-with-down-diagonal-down-anti-diagonal-down-directions.md)
+* [All Distinct ways to place N Queen in N\*N Board](../problem-solutions/2d-array-problems/all-distinct-ways-to-place-n-queen-in-n-n-board.md)
 
 ## Strings
 

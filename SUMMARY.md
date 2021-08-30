@@ -158,6 +158,7 @@
   * [Valid Sudoku Question](problem-solutions/2d-array-problems/valid-sudoku-question.md)
   * [Sudoku Solver](problem-solutions/2d-array-problems/sudoku-solver.md)
   * [Check if Move is Legal](problem-solutions/2d-array-problems/check-if-move-is-legal.md)
+  * [All Distinct ways to place N Queen in N\*N Board](problem-solutions/2d-array-problems/all-distinct-ways-to-place-n-queen-in-n-n-board.md)
 * [String Problems](problem-solutions/string-problems/README.md)
   * [Strings Questions](problem-solutions/string-problems/strings-questions.md)
   * [Search Pattern \(KMP-Algorithm\)](problem-solutions/string-problems/search-pattern-kmp-algorithm.md)
