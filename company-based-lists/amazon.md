@@ -41,6 +41,8 @@
 
 ## Mathematics
 
+* [Count the number of possible triangles](../problem-solutions/mathematics-problems/count-the-number-of-possible-triangles.md)
+
 ## Bit Manipulation
 
 

@@ -14,7 +14,9 @@
 * [Find Greatest Common Divisor of Smallest and Largest element of an array](find-greatest-common-divisor-of-smallest-and-largest-element-of-an-array.md)
 * [How many numbers to be patched into array to make all numbers from \[1,n\]](how-many-numbers-to-be-patched-into-array-to-make-all-numbers-from-1-n.md)
 
+### Geometry
 
+* [Count the number of possible triangles](count-the-number-of-possible-triangles.md)
 
 ### 
 
