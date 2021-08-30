@@ -29,6 +29,8 @@
 * [Construct Tree from Preorder Traversal](../problem-solutions/tree-problems/construct-tree-from-preorder-traversal.md)
 * [Maximum path sum from any node](../problem-solutions/tree-problems/maximum-path-sum-from-any-node.md)
 * [Bottom View of Binary Tree](../problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
+* [Maximum Path Sum between 2 Leaf Nodes](../problem-solutions/tree-problems/maximum-path-sum-between-2-leaf-nodes.md)
+* [Merge Two Binary Search Trees](../problem-solutions/tree-problems/merge-two-binary-search-trees.md)
 
 ## Stacks
 

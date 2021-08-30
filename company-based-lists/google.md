@@ -13,6 +13,7 @@
 ## Trees
 
 * [Maximum path sum from any node](../problem-solutions/tree-problems/maximum-path-sum-from-any-node.md)
+* [Merge two Binary Search Trees](../problem-solutions/tree-problems/merge-two-binary-search-trees.md)
 
 ## Stacks
 

@@ -13,6 +13,10 @@
 * [Verify Preorder Serialization of a Binary Tree](verify-preorder-serialization-of-a-binary-tree.md)
 * [Bottom View of Binary Tree](bottom-view-of-binary-tree.md)
 
+### **Binary Search Tree**
+
+* [Merge two Binary Search Trees](merge-two-binary-search-trees.md)
+
 ### N-ary Tree
 
 * [N-ary Tree Level Order Traversal](n-ary-tree-level-order-traversal.md)
