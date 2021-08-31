@@ -123,6 +123,7 @@
   * [Find Minimum in Rotated Sorted Array without duplicates](problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array.md)
   * [Find Minimum in Rotated Sorted Array with duplicates](problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array-with-duplicates.md)
   * [Split array into k parts to minimize the maximum part](problem-solutions/1d-array-problems/split-array-into-k-parts-to-minimize-the-maximum-part.md)
+  * [All Unique Triplets that add upto to given sum](problem-solutions/1d-array-problems/all-unique-triplets-that-add-upto-to-given-sum.md)
   * [Triplets with Sum between given range](problem-solutions/1d-array-problems/triplets-with-sum-between-given-range.md)
   * [Min Cost Climbing Stairs](problem-solutions/1d-array-problems/min-cost-climbing-stairs.md)
   * [Number of ways to Climb Stairs](problem-solutions/1d-array-problems/number-of-ways-to-climb-stairs.md)
