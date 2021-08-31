@@ -211,6 +211,7 @@
   * [Find a Mother Vertex in a Graph](problem-solutions/graph-problems/find-a-mother-vertex-in-a-graph.md)
   * [Is Graph Bipartite](problem-solutions/graph-problems/is-graph-bipartite.md)
   * [m coloring a graph](problem-solutions/graph-problems/m-coloring-a-graph.md)
+  * [Strongly Connected Component \(Kosaraju's Algorithm\)](problem-solutions/graph-problems/strongly-connected-component-kosarajus-algorithm.md)
   * [Strongly connected component \(Tarjans's Algo\)](problem-solutions/graph-problems/strongly-connected-component-tarjanss-algo.md)
   * [Detect cycle in a directed graph DFS](problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-dfs.md)
   * [Detect Cycle in a Directed Graph BFS](problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-using-bfs.md)

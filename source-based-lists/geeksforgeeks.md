@@ -58,6 +58,7 @@
 ## Graphs
 
 * [Minimum Cost Path with 4 possible directions](../problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
+* [Strongly Connected Component \(Kosaraju's Algorithm\)](../problem-solutions/graph-problems/strongly-connected-component-kosarajus-algorithm.md)
 * [Strongly connected component \(Tarjans's Algo\)](../problem-solutions/graph-problems/strongly-connected-component-tarjanss-algo.md)
 * [Detect Cycle in Undirected Graph BFS](../problem-solutions/graph-problems/detect-cycle-in-undirected-graph-using-bfs.md)
 * [Detect Cycle in directed Graph BFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
