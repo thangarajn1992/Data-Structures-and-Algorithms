@@ -9,6 +9,7 @@
 * [Split array into k parts to minimize the maximum part](../problem-solutions/1d-array-problems/split-array-into-k-parts-to-minimize-the-maximum-part.md)
 * [0 - 1 Knapsack Problem](../problem-solutions/1d-array-problems/0-1-knapsack-problem.md)
 * [Find starting point to complete circular tour of set of petrol bunks](../problem-solutions/1d-array-problems/find-starting-point-to-complete-circular-tour-of-set-of-petrol-bunks.md)
+* [Rotate Array - Counter Clockwise](../problem-solutions/1d-array-problems/rotate-array-counter-clockwise.md)
 
 ## nD Arrays
 
