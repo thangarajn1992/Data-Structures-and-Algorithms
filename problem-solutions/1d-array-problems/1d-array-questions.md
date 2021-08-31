@@ -21,6 +21,7 @@
 * [Search Insert Position](search-insert-position.md)
 * [Element greater than left elements & lesser than right elements](perfect-peak-of-array.md)
 * [Are Elements are within k distance from fully sorted array](are-elements-are-within-k-distance-from-fully-sorted-array.md)
+* [Find Minimum in Rotated Sorted Array](find-minimum-in-rotated-sorted-array.md)
 
 ### Splitting Array
 

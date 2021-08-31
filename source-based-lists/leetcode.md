@@ -5,6 +5,7 @@
 * [Combination Sum - Input distinct Output Unique Subset Repeated Numbers - 39](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Combination Sum - Input non-distinct Output Unique subset with freq num same as input - 40](../problem-solutions/1d-array-problems/combination-sum-input-non-distinct-output-unique-subset-with-freq-num-same-as-input.md)
 * [Number of ways to Climb Stairs - 70](../problem-solutions/1d-array-problems/number-of-ways-to-climb-stairs.md)
+* [Find Minimum in Rotated Sorted Array - 153](../problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array.md)
 * [Combinations of k numbers that sum up to n - 216](../problem-solutions/1d-array-problems/combinations-of-k-numbers-that-sum-up-to-n.md)
 * [Combination Sum - Input distinct Output Non-distinct subset Repeated Numbers - 377](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Min Cost Climbing Stairs - 746](https://leetcode.com/problems/min-cost-climbing-stairs/)
