@@ -3,6 +3,7 @@
 ## 1D Arrays
 
 * [Combination Sum - Input distinct Output Sorted Unique Subset Repeated Numbers](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
+* [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
 
 ## nD Arrays
 

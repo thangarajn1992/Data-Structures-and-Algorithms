@@ -140,6 +140,7 @@
   * [Element greater than left elements & lesser than right elements](problem-solutions/1d-array-problems/perfect-peak-of-array.md)
   * [Minimum steps to make product of array elements equal to one](problem-solutions/1d-array-problems/minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
   * [Product of every other element except the current element](problem-solutions/1d-array-problems/product-of-every-other-element-except-the-current-element.md)
+  * [Span of Stock on each day](problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
   * [Add One to Number](problem-solutions/1d-array-problems/add-one-to-number.md)
   * [Median of Two Sorted Arrays](problem-solutions/1d-array-problems/median-of-two-sorted-arrays.md)
   * [Pascal's Triangle & Kth row of Pascal Triangle](problem-solutions/1d-array-problems/pascals-triangle.md)

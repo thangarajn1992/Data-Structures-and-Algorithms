@@ -3,6 +3,7 @@
 ## 1D Arrays
 
 * [All Unique Triplets that add upto to given sum](../problem-solutions/1d-array-problems/all-unique-triplets-that-add-upto-to-given-sum.md)
+* [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
 
 ## nD Arrays
 
