@@ -40,7 +40,11 @@
 
 ## Stacks
 
+* [Implement Queue using Stack](../problem-solutions/queue-problems/implement-queue-using-stack.md)
+
 ## Queues
+
+* [Implement Queue using Stack](../problem-solutions/queue-problems/implement-queue-using-stack.md)
 
 ## Tries
 

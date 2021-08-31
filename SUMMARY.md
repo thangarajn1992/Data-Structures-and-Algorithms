@@ -193,6 +193,7 @@
   * [Stacks Questions](problem-solutions/stack-problems/stacks-questions.md)
 * [Queue Problems](problem-solutions/queue-problems/README.md)
   * [Queues Questions](problem-solutions/queue-problems/queues-questions.md)
+  * [Implement Queue using Stack](problem-solutions/queue-problems/implement-queue-using-stack.md)
 * [Trie Problems](problem-solutions/trie-problems/README.md)
   * [Tries Questions](problem-solutions/trie-problems/tries-questions.md)
 * [Heap/Priority Queue Problems](problem-solutions/heap-priority-queue-problems/README.md)
