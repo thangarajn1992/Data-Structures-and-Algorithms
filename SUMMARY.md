@@ -181,6 +181,7 @@
   * [Two Nodes sum up to target](problem-solutions/tree-problems/two-nodes-sum-up-to-target.md)
   * [Count Good Nodes in Binary Tree](problem-solutions/tree-problems/count-good-nodes-in-binary-tree.md)
   * [Maximum Product of Splitted Binary Tree](problem-solutions/tree-problems/maximum-product-of-splitted-binary-tree.md)
+  * [Diameter of Binary Tree](problem-solutions/tree-problems/diameter-of-binary-tree.md)
   * [Maximum Path Sum between 2 Leaf Nodes](problem-solutions/tree-problems/maximum-path-sum-between-2-leaf-nodes.md)
   * [Maximum path sum from any node](problem-solutions/tree-problems/maximum-path-sum-from-any-node.md)
   * [Verify Preorder Serialization of a Binary Tree](problem-solutions/tree-problems/verify-preorder-serialization-of-a-binary-tree.md)

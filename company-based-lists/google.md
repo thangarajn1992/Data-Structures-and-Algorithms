@@ -15,6 +15,7 @@
 
 * [Maximum path sum from any node](../problem-solutions/tree-problems/maximum-path-sum-from-any-node.md)
 * [Merge two Binary Search Trees](../problem-solutions/tree-problems/merge-two-binary-search-trees.md)
+* [Diameter of Binary Tree](../problem-solutions/tree-problems/diameter-of-binary-tree.md)
 
 ## Stacks
 
