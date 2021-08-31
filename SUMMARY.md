@@ -176,6 +176,7 @@
   * [Number of palindromic strings](problem-solutions/string-problems/number-of-palindromic-strings.md)
   * [Number of Palindromic paths in a Matrix](problem-solutions/string-problems/number-of-palindromic-paths-in-a-matrix.md)
   * [Decode ways](problem-solutions/string-problems/decode-ways.md)
+  * [Infix to postfix](problem-solutions/string-problems/infix-to-postfix.md)
 * [Linked List Problems](problem-solutions/linked-list-problems/README.md)
   * [Linked Lists Questions](problem-solutions/linked-list-problems/linked-lists-questions.md)
   * [Reverse a Linked List](problem-solutions/linked-list-problems/reverse-a-linked-list.md)

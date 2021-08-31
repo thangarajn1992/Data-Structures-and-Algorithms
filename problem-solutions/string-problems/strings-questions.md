@@ -23,4 +23,5 @@
 ### Decoding/Encoding
 
 * [Decode Ways](decode-ways.md)
+* [Infix to Postfix](infix-to-postfix.md)
 
