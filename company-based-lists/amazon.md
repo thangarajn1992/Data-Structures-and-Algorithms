@@ -9,6 +9,7 @@
 * [Find starting point to complete circular tour of set of petrol bunks](../problem-solutions/1d-array-problems/find-starting-point-to-complete-circular-tour-of-set-of-petrol-bunks.md)
 * [Rotate Array - Counter Clockwise](../problem-solutions/1d-array-problems/rotate-array-counter-clockwise.md)
 * [Product of every other element except the current element](../problem-solutions/1d-array-problems/product-of-every-other-element-except-the-current-element.md)
+* [Find the peak element in an array first increases and then decreases](../problem-solutions/1d-array-problems/find-the-peak-element-in-an-array-first-increases-and-then-decreases.md)
 
 ## nD Arrays
 

@@ -12,6 +12,7 @@
 * [Rotate Array - Counter Clockwise](../problem-solutions/1d-array-problems/rotate-array-counter-clockwise.md)
 * [Product of every other element except the current element](../problem-solutions/1d-array-problems/product-of-every-other-element-except-the-current-element.md)
 * [Select maximum number of elements within given sum](../problem-solutions/1d-array-problems/select-maximum-number-of-elements-within-given-sum.md)
+* [Find the peak element in an array first increases and then decreases](../problem-solutions/1d-array-problems/find-the-peak-element-in-an-array-first-increases-and-then-decreases.md)
 
 ## nD Arrays
 

@@ -115,6 +115,7 @@
   * [Remove Duplicates from Sorted Array](problem-solutions/1d-array-problems/remove-duplicates-from-sorted-array.md)
   * [Remove Element](problem-solutions/1d-array-problems/remove-element.md)
   * [Search Insert Position](problem-solutions/1d-array-problems/search-insert-position.md)
+  * [Find the peak element in an array first increases and then decreases](problem-solutions/1d-array-problems/find-the-peak-element-in-an-array-first-increases-and-then-decreases.md)
   * [Are Elements are within k distance from fully sorted array](problem-solutions/1d-array-problems/are-elements-are-within-k-distance-from-fully-sorted-array.md)
   * [Rearrange array elements](problem-solutions/1d-array-problems/rearrange-array-elements.md)
   * [Array With Elements Not Equal to Average of Neighbors](problem-solutions/1d-array-problems/array-with-elements-not-equal-to-average-of-neighbors.md)

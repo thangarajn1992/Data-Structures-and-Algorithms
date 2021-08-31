@@ -21,6 +21,7 @@
 ### Searching & Sorting
 
 * [Search Insert Position](search-insert-position.md)
+* [Find the peak element in an array first increases and then decreases](find-the-peak-element-in-an-array-first-increases-and-then-decreases.md)
 * [Element greater than left elements & lesser than right elements](perfect-peak-of-array.md)
 * [Are Elements are within k distance from fully sorted array](are-elements-are-within-k-distance-from-fully-sorted-array.md)
 * [Find Minimum in Rotated Sorted Array without duplicates](find-minimum-in-rotated-sorted-array.md)
