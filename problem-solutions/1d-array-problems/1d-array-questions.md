@@ -8,6 +8,7 @@
 * [Add one to Number](add-one-to-number.md)
 * [Median of Two Sorted Arrays](median-of-two-sorted-arrays.md)
 * [Minimum steps to make product of array elements equal to one](minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
+* [Product of every other element except the current element](product-of-every-other-element-except-the-current-element.md)
 
 ### Space Recycling/ Reordering
 

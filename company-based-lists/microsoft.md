@@ -8,6 +8,7 @@
 * [0 - 1 Knapsack Problem](../problem-solutions/1d-array-problems/0-1-knapsack-problem.md)
 * [Find starting point to complete circular tour of set of petrol bunks](../problem-solutions/1d-array-problems/find-starting-point-to-complete-circular-tour-of-set-of-petrol-bunks.md)
 * [Rotate Array - Counter Clockwise](../problem-solutions/1d-array-problems/rotate-array-counter-clockwise.md)
+* [Product of every other element except the current element](../problem-solutions/1d-array-problems/product-of-every-other-element-except-the-current-element.md)
 
 ## nD Arrays
 
