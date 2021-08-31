@@ -21,6 +21,7 @@
 ## Strings
 
 * [Longest Palindromic Substring](../problem-solutions/string-problems/longest-palindromic-substring.md)
+* [Rearrange characters such that there are no repeated characters](../problem-solutions/string-problems/rearrange-characters-such-that-there-are-no-repeated-characters.md)
 
 ## Linked Lists
 

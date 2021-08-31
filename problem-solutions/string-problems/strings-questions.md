@@ -6,8 +6,9 @@
 * [Longest Uncommon Sub-sequence between two strings](longest-uncommon-sub-sequence-between-two-strings.md)
 * [Longest Uncommon Sub-sequence between array of strings](longest-uncommon-sub-sequence-between-two-strings.md)
 
-### String Transformation
+### String Transformation/Rearranging
 
+* [Rearrange characters such that there are no repeated characters](rearrange-characters-such-that-there-are-no-repeated-characters.md)
 * [Flip String to Monotone Increasing](flip-string-to-monotone-increasing.md)
 
 ### String Splitting

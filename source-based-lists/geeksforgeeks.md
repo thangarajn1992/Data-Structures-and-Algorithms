@@ -29,6 +29,7 @@
 * [Number of Palindromic paths in a Matrix](../problem-solutions/string-problems/number-of-palindromic-paths-in-a-matrix.md)
 * [Search Pattern \(KMP-Algorithm\)](../problem-solutions/string-problems/search-pattern-kmp-algorithm.md)
 * [Infix to postfix](../problem-solutions/string-problems/infix-to-postfix.md)
+* [Rearrange characters such that there are no repeated characters](../problem-solutions/string-problems/rearrange-characters-such-that-there-are-no-repeated-characters.md)
 
 ## Linked Lists
 
