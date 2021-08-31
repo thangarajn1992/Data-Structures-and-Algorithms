@@ -13,6 +13,7 @@
 * [Find the peak element in an array first increases and then decreases](../problem-solutions/1d-array-problems/find-the-peak-element-in-an-array-first-increases-and-then-decreases.md)
 * [All Unique Triplets that add upto to given sum](../problem-solutions/1d-array-problems/all-unique-triplets-that-add-upto-to-given-sum.md)
 * [Maximize The total Cut Segments with given lengths of cut](../problem-solutions/1d-array-problems/maximize-the-total-cut-segments-with-given-lengths-of-cut.md)
+* [Minimize number of elements needed to cover entire range](../problem-solutions/1d-array-problems/minimize-number-of-elements-needed-to-cover-entire-range.md)
 
 ## nD Arrays
 

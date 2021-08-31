@@ -67,4 +67,5 @@
 
 * [Find Starting point to complete circular tour of set of petrol bunks](find-starting-point-to-complete-circular-tour-of-set-of-petrol-bunks.md)
 * [Maximize The total Cut Segments with given lengths of cut](maximize-the-total-cut-segments-with-given-lengths-of-cut.md)
+* [Minimize number of elements needed to cover entire range](minimize-number-of-elements-needed-to-cover-entire-range.md)
 

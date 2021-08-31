@@ -148,6 +148,7 @@
   * [Stone Game](problem-solutions/1d-array-problems/stone-game.md)
   * [Find starting point to complete circular tour of set of petrol bunks](problem-solutions/1d-array-problems/find-starting-point-to-complete-circular-tour-of-set-of-petrol-bunks.md)
   * [Maximize The total Cut Segments with given lengths of cut](problem-solutions/1d-array-problems/maximize-the-total-cut-segments-with-given-lengths-of-cut.md)
+  * [Minimize number of elements needed to cover entire range](problem-solutions/1d-array-problems/minimize-number-of-elements-needed-to-cover-entire-range.md)
 * [nD Array Problems](problem-solutions/2d-array-problems/README.md)
   * [nD Array Questions](problem-solutions/2d-array-problems/nd-array-questions.md)
   * [Set Matrix Zeros](problem-solutions/2d-array-problems/set-matrix-zeros.md)
