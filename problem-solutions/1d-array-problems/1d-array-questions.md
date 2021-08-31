@@ -46,6 +46,7 @@
 * [Combination Sum - Input non-distinct Output Unique subset with freq num same as input](combination-sum-input-non-distinct-output-unique-subset-with-freq-num-same-as-input.md)
 * [Combination Sum - Input distinct Output Non-distinct subset Repeated Numbers](combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [0 - 1 Knapsack Problem](0-1-knapsack-problem.md)
+* [Select maximum number of elements within given sum](select-maximum-number-of-elements-within-given-sum.md)
 
 ### Array Patterns
 
