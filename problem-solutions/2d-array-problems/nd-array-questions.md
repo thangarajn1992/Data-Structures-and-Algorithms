@@ -1,4 +1,4 @@
-# nD Array Questions
+# nD Array/String Questions
 
 ### Matrix Traversals
 
@@ -33,6 +33,7 @@
 * [Sudoku Solver](sudoku-solver.md)
 * [Check if Move is Legal](check-if-move-is-legal.md)
 * [All Distinct ways to place N Queen in N\*N Board](all-distinct-ways-to-place-n-queen-in-n-n-board.md)
+* [Number of words that can be formed in M\*N Board from given dictionary](number-of-words-that-can-be-formed-in-m-n-board-from-given-dictionary.md)
 
 
 

@@ -2,7 +2,9 @@
 
 ## 1D Arrays
 
-## nD Arrays
+## nD Arrays/Strings
+
+* [Number of words that can be formed in M\*N Board from given dictionary](../problem-solutions/2d-array-problems/number-of-words-that-can-be-formed-in-m-n-board-from-given-dictionary.md)
 
 ## Strings
 

@@ -5,4 +5,5 @@
 * [Combination Sum - Input non-distinct Output Unique subset with freq num same as input](../problem-solutions/1d-array-problems/combination-sum-input-non-distinct-output-unique-subset-with-freq-num-same-as-input.md)
 * [Combinations of k numbers that sum up to n](../problem-solutions/1d-array-problems/combinations-of-k-numbers-that-sum-up-to-n.md)
 * [All Distinct ways to place N Queen in N\*N Board](../problem-solutions/2d-array-problems/all-distinct-ways-to-place-n-queen-in-n-n-board.md)
+* [Number of words that can be formed in M\*N Board from given dictionary](../problem-solutions/2d-array-problems/number-of-words-that-can-be-formed-in-m-n-board-from-given-dictionary.md)
 

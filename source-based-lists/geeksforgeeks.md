@@ -19,12 +19,13 @@
 * [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
 * [Majority Element](../problem-solutions/1d-array-problems/majority-element.md)
 
-## nD Arrays
+## nD Arrays/Strings
 
 * [Spiral Traversal of Matrix](../problem-solutions/2d-array-problems/spiral-traversal-of-matrix.md)
 * [Minimum Cost Path with 4 possible directions](../problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
 * [Maximum path sum in matrix with Down, Diagonal Down, Anti-Diagonal Down directions](../problem-solutions/2d-array-problems/maximum-path-sum-in-matrix-with-down-diagonal-down-anti-diagonal-down-directions.md)
 * [All Distinct ways to place N Queen in N\*N Board](../problem-solutions/2d-array-problems/all-distinct-ways-to-place-n-queen-in-n-n-board.md)
+* [Number of words that can be formed in M\*N Board from given dictionary](../problem-solutions/2d-array-problems/number-of-words-that-can-be-formed-in-m-n-board-from-given-dictionary.md)
 
 ## Strings
 

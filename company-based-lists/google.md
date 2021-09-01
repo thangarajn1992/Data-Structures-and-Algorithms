@@ -6,7 +6,9 @@
 * [Find starting point to complete circular tour of set of petrol bunks](../problem-solutions/1d-array-problems/find-starting-point-to-complete-circular-tour-of-set-of-petrol-bunks.md)
 * [Majority Element](../problem-solutions/1d-array-problems/majority-element.md)
 
-## nD Arrays
+## nD Arrays/Strings
+
+* [Number of words that can be formed in M\*N Board from given dictionary](../problem-solutions/2d-array-problems/number-of-words-that-can-be-formed-in-m-n-board-from-given-dictionary.md)
 
 ## Strings
 
