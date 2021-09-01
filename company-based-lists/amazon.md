@@ -13,6 +13,7 @@
 * [All Unique Triplets that add upto to given sum](../problem-solutions/1d-array-problems/all-unique-triplets-that-add-upto-to-given-sum.md)
 * [Maximize The total Cut Segments with given lengths of cut](../problem-solutions/1d-array-problems/maximize-the-total-cut-segments-with-given-lengths-of-cut.md)
 * [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
+* [Majority Element](../problem-solutions/1d-array-problems/majority-element.md)
 
 ## nD Arrays
 

@@ -15,6 +15,7 @@
 * [Maximize The total Cut Segments with given lengths of cut](../problem-solutions/1d-array-problems/maximize-the-total-cut-segments-with-given-lengths-of-cut.md)
 * [Minimize number of elements needed to cover entire range](../problem-solutions/1d-array-problems/minimize-number-of-elements-needed-to-cover-entire-range.md)
 * [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
+* [Majority Element](../problem-solutions/1d-array-problems/majority-element.md)
 
 ## nD Arrays
 
