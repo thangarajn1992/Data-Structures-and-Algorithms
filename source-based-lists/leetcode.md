@@ -11,6 +11,7 @@
 * [Majority Element - 169](../problem-solutions/1d-array-problems/majority-element.md)
 * [Combinations of k numbers that sum up to n - 216](../problem-solutions/1d-array-problems/combinations-of-k-numbers-that-sum-up-to-n.md)
 * [Combination Sum - Input distinct Output Non-distinct subset Repeated Numbers - 377](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
+* [Array Nesting - 565](../problem-solutions/1d-array-problems/array-nesting.md)
 * [Min Cost Climbing Stairs - 746](https://leetcode.com/problems/min-cost-climbing-stairs/)
 * [Stone Game - 887](../problem-solutions/1d-array-problems/stone-game.md)
 * [Array With Elements Not Equal to Average of Neighbors - 1968](../problem-solutions/1d-array-problems/array-with-elements-not-equal-to-average-of-neighbors.md)
