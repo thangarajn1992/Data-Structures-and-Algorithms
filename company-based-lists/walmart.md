@@ -26,6 +26,8 @@
 
 ## Mathematics
 
+* [How many ways a number N can be represented as sum of 2 or more consective numbers](../problem-solutions/mathematics-problems/how-many-ways-a-number-n-can-be-represented-as-sum-of-2-or-more-consective-numbers.md)
+
 ## Bit Manipulation
 
 

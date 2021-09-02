@@ -75,6 +75,7 @@
 
 * [Distribute N candies among K people](../problem-solutions/mathematics-problems/distribute-n-candies-among-k-people.md)
 * [Count the number of possible triangles](../problem-solutions/mathematics-problems/count-the-number-of-possible-triangles.md)
+* [How many ways a number N can be represented as sum of 2 or more consective numbers](../problem-solutions/mathematics-problems/how-many-ways-a-number-n-can-be-represented-as-sum-of-2-or-more-consective-numbers.md)
 
 ## Bit Manipulation
 
