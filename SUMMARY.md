@@ -155,6 +155,7 @@
 * [nD Array/String Problems](problem-solutions/2d-array-problems/README.md)
   * [nD Array/String Questions](problem-solutions/2d-array-problems/nd-array-questions.md)
   * [Set Matrix Zeros](problem-solutions/2d-array-problems/set-matrix-zeros.md)
+  * [Make neighbors of Zero as Zero and the neighbor's sum into element that had zero](problem-solutions/2d-array-problems/make-neighbors-of-zero-as-zero-and-the-neighbors-sum-into-element-that-had-zero.md)
   * [Spiral Traversal of Matrix](problem-solutions/2d-array-problems/spiral-traversal-of-matrix.md)
   * [Generate Matrix in Spiral Order](problem-solutions/2d-array-problems/generate-matrix-in-spiral-order.md)
   * [Spiral Traversal from Any Co-ordinate](problem-solutions/2d-array-problems/spiral-traversal-from-any-co-ordinate.md)

@@ -26,6 +26,7 @@
 ### Modifying Matrix Elements
 
 * [Set Matrix Zeroes](set-matrix-zeros.md)
+* [Make neighbors of Zero as Zero and the neighbor's sum into element that had zero](make-neighbors-of-zero-as-zero-and-the-neighbors-sum-into-element-that-had-zero.md)
 
 ### Board Games
 
