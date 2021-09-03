@@ -203,6 +203,8 @@
   * [Verify Preorder Serialization of a Binary Tree](problem-solutions/tree-problems/verify-preorder-serialization-of-a-binary-tree.md)
   * [Bottom View of Binary Tree](problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
   * [Merge two Binary Search Trees](problem-solutions/tree-problems/merge-two-binary-search-trees.md)
+  * [Number of Structurally unique BSTs with n nodes with unique value from 1 to n](problem-solutions/tree-problems/number-of-structurally-unique-bsts-with-n-nodes-with-unique-value-from-1-to-n.md)
+  * [Generate all possible structurally unique BSTs with n nodes with unique value from 1 to n](problem-solutions/tree-problems/generate-all-possible-structurally-unique-bsts-with-n-nodes-with-unique-value-from-1-to-n.md)
   * [N-ary Tree Level Order Traversal](problem-solutions/tree-problems/n-ary-tree-level-order-traversal.md)
   * [Construct Tree from Preorder Traversal](problem-solutions/tree-problems/construct-tree-from-preorder-traversal.md)
 * [Stack Problems](problem-solutions/stack-problems/README.md)

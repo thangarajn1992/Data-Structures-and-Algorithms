@@ -40,6 +40,8 @@
 
 ## Trees
 
+* [Generate all possible structurally unique BSTs with n nodes with unique value from 1 to n - 95](../problem-solutions/tree-problems/generate-all-possible-structurally-unique-bsts-with-n-nodes-with-unique-value-from-1-to-n.md)
+* [Number of Structurally unique BSTs with n nodes with unique value from 1 to n - 96](../problem-solutions/tree-problems/number-of-structurally-unique-bsts-with-n-nodes-with-unique-value-from-1-to-n.md)
 * [Path Sum II - 113](../problem-solutions/tree-problems/root-to-leaf-paths-with-specific-sum.md)
 * [Verify Preorder Serialization of a Binary Tree - 331](../problem-solutions/tree-problems/verify-preorder-serialization-of-a-binary-tree.md)
 * [Two Nodes sum up to target - 653](../problem-solutions/tree-problems/two-nodes-sum-up-to-target.md)
