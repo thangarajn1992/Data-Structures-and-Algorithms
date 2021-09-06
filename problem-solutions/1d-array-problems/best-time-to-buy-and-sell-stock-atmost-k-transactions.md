@@ -58,6 +58,7 @@ public:
 
         // case 2: Total Buy + Sell > days, then we can make theortically INFINITE transaction
         // In this case, we can just consider all the upstream curve for transactions
+        // i.e Valley-Peak Approach, Buy at valley and Sell at Peak.
         if(totalTransactionStates > days)
         {
             int profit = 0;
