@@ -6,6 +6,7 @@
 * [Find Min Max of Array](find-min-max-of-array.md)
 * [Missing number in array with elements 1 to n](missing-number-in-array-with-elements-1-to-n.md)
 * [Majority Element](majority-element.md)
+* [Find the middle index with left sum equal to right sum](find-the-middle-index-with-left-sum-equal-to-right-sum.md)
 * [All Unique Triplets that add upto to given sum](all-unique-triplets-that-add-upto-to-given-sum.md)
 * [Triplets with Sum between given range](triplets-with-sum-between-given-range.md)
 * [Add one to Number](add-one-to-number.md)

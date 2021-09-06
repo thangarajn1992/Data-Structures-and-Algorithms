@@ -142,6 +142,7 @@
   * [Find Min Max of Array](problem-solutions/1d-array-problems/find-min-max-of-array.md)
   * [Missing number in array with elements 1 to n](problem-solutions/1d-array-problems/missing-number-in-array-with-elements-1-to-n.md)
   * [Majority Element](problem-solutions/1d-array-problems/majority-element.md)
+  * [Find the middle index with left sum equal to right sum](problem-solutions/1d-array-problems/find-the-middle-index-with-left-sum-equal-to-right-sum.md)
   * [Element greater than left elements & lesser than right elements](problem-solutions/1d-array-problems/perfect-peak-of-array.md)
   * [Minimum steps to make product of array elements equal to one](problem-solutions/1d-array-problems/minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
   * [Product of every other element except the current element](problem-solutions/1d-array-problems/product-of-every-other-element-except-the-current-element.md)
