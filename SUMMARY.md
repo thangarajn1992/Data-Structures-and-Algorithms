@@ -150,6 +150,7 @@
   * [Best Time to Buy and Sell Stock once](problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-once.md)
   * [Best Time to Buy and Sell Stock - Should buy and/or sell each day](problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-should-buy-and-or-sell-each-day.md)
   * [Best Time to Buy and Sell Stock Twice](problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-twice.md)
+  * [Best Time to Buy and Sell Stock Atmost k transactions](problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-atmost-k-transactions.md)
   * [Add One to Number](problem-solutions/1d-array-problems/add-one-to-number.md)
   * [Median of Two Sorted Arrays](problem-solutions/1d-array-problems/median-of-two-sorted-arrays.md)
   * [Pascal's Triangle & Kth row of Pascal Triangle](problem-solutions/1d-array-problems/pascals-triangle.md)

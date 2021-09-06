@@ -16,7 +16,8 @@
 * [Span of Stock on each day](span-of-stock-on-each-day.md)
 * [Best Time to Buy and Sell Stock once](best-time-to-buy-and-sell-stock-once.md)
 * [Best Time to Buy and Sell Stock - Should buy and/or sell each day](best-time-to-buy-and-sell-stock-should-buy-and-or-sell-each-day.md)
-* [Best Time to Buy and Sell Stock Twice](best-time-to-buy-and-sell-stock-twice.md)
+* [Best Time to Buy and Sell Stock Atmost Twice](best-time-to-buy-and-sell-stock-twice.md)
+* [Best Time to Buy and Sell Stock Atmost k transactions](best-time-to-buy-and-sell-stock-atmost-k-transactions.md)
 
 ### Space Recycling/ Reordering
 
