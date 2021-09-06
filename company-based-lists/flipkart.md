@@ -17,6 +17,7 @@
 ## Trees
 
 * [Bottom View of Binary Tree](../problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
+* [Print BST elements in given range](../problem-solutions/tree-problems/print-bst-elements-in-given-range.md)
 
 ## Stacks
 

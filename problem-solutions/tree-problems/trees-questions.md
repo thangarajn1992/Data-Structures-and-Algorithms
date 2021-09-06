@@ -16,6 +16,7 @@
 
 ### **Binary Search Tree**
 
+* Print BST elements in given range
 * [Merge two Binary Search Trees](merge-two-binary-search-trees.md)
 * [Number of Structurally unique BSTs with n nodes with unique value from 1 to n](number-of-structurally-unique-bsts-with-n-nodes-with-unique-value-from-1-to-n.md)
 * [Generate all possible structurally unique BSTs with n nodes with unique value from 1 to n](generate-all-possible-structurally-unique-bsts-with-n-nodes-with-unique-value-from-1-to-n.md)
