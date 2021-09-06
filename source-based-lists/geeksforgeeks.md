@@ -42,6 +42,7 @@
 ## Linked Lists
 
 * [Reverse a Linked List](../problem-solutions/linked-list-problems/reverse-a-linked-list.md)
+* [Merge 2 sorted linked list in reverse order](../problem-solutions/linked-list-problems/merge-2-sorted-linked-list-in-reverse-order.md)
 * [Intersection Point in Y Shaped Linked Lists](../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
 
 ## Trees

@@ -35,6 +35,7 @@
 ## Linked Lists
 
 * [Intersection Point in Y Shaped Linked Lists](../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
+* [Merge 2 sorted linked list in reverse order](../problem-solutions/linked-list-problems/merge-2-sorted-linked-list-in-reverse-order.md)
 
 ## Trees
 
