@@ -54,21 +54,20 @@ class Solution
 public:
     vector<int> subsetSums(vector<int> arr, int N)
     {
-        vector<int> sub_sum;
-        int total = 1 << N;
-        for(int i = 0; i < total; i++)
+        vector<int> subsetSum;
+        int totalSubsets = 1 << N;
+        for(int subsetNum = 0; subsetNum < totalSubsets; subsetNum++)
         {
             int sum = 0;
-            for(int j = 0; j < N; j++)
+            for(int index = 0; index < N; index++)
             {
-                if(i & (1 << j))
-                    sum += arr[j];
+                if(subsetNum & (1 << index))
+                    sum += arr[index];
             }
-            sub_sum.push_back(sum);
+            subsetSum.push_back(sum);
         }
-        sort(sub_sum.begin(), sub_sum.end());
-        return sub_sum;
-    }
+        sort(subsetSum.begin(), subsetSum.end());
+        return subsetSum;    }
 };
 ```
 
@@ -78,26 +77,26 @@ public:
 class Solution
 {
 public:
-    vector<int> sub_sum;
+    vector<int> subsetSum;
     vector<int> subsetSums(vector<int> arr, int N)
     {
-        subset_recur(arr, 0, N-1, 0);
-        sort(sub_sum.begin(), sub_sum.end());
-        return sub_sum;
+        findSubsetsUtil(arr, 0, N-1, 0);
+        sort(subsetSum.begin(), subsetSum.end());
+        return subsetSum;
     }
-    void subset_recur(vector<int>&arr, int left, int right, int sum)
+    void findSubsetsUtil(vector<int>&arr, int index, int size, int sum)
     {
-        if(left > right)
+        if(index > size)
         {
-            sub_sum.push_back(sum);
+            subsetSum.push_back(sum);
             return;
         }
         
         // subset with this element
-        subset_recur(arr, left+1, right, sum + arr[left]);
+        findSubsetsUtil(arr, index+1, size, sum + arr[left]);
         
         // subset without this element
-        subset_recur(arr, left+1, right, sum);
+        findSubsetsUtil(arr, index+1, size, sum);
     }
 };
 ```
