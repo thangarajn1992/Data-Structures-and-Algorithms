@@ -4,6 +4,7 @@
 
 * [Combination Sum - Input distinct Output Sorted Unique Subset Repeated Numbers](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
+* [Missing number in array with elements 1 to n](../problem-solutions/1d-array-problems/missing-number-in-array-with-elements-1-to-n.md)
 
 ## nD Arrays
 

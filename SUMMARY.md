@@ -140,6 +140,7 @@
   * [0 - 1 Knapsack Problem](problem-solutions/1d-array-problems/0-1-knapsack-problem.md)
   * [Select maximum number of elements within given sum](problem-solutions/1d-array-problems/select-maximum-number-of-elements-within-given-sum.md)
   * [Find Min Max of Array](problem-solutions/1d-array-problems/find-min-max-of-array.md)
+  * [Missing number in array with elements 1 to n](problem-solutions/1d-array-problems/missing-number-in-array-with-elements-1-to-n.md)
   * [Majority Element](problem-solutions/1d-array-problems/majority-element.md)
   * [Element greater than left elements & lesser than right elements](problem-solutions/1d-array-problems/perfect-peak-of-array.md)
   * [Minimum steps to make product of array elements equal to one](problem-solutions/1d-array-problems/minimum-steps-to-make-product-of-array-elements-equal-to-one.md)

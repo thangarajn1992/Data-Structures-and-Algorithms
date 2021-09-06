@@ -4,6 +4,7 @@
 
 * [Smallest Non Construct-able Value](../mathematics-problems/smallest-non-construct-able-value.md)
 * [Find Min Max of Array](find-min-max-of-array.md)
+* [Missing number in array with elements 1 to n](missing-number-in-array-with-elements-1-to-n.md)
 * [Majority Element](majority-element.md)
 * [All Unique Triplets that add upto to given sum](all-unique-triplets-that-add-upto-to-given-sum.md)
 * [Triplets with Sum between given range](triplets-with-sum-between-given-range.md)

@@ -16,6 +16,7 @@
 * [Majority Element](../problem-solutions/1d-array-problems/majority-element.md)
 * [Longest consecutive sub-sequence of any order](../problem-solutions/1d-array-problems/longest-consecutive-sub-sequence-of-any-order.md)
 * [Number of subsets with product less than k](../problem-solutions/1d-array-problems/number-of-subsets-with-product-less-than-k.md)
+* [Missing number in array with elements 1 to n](../problem-solutions/1d-array-problems/missing-number-in-array-with-elements-1-to-n.md)
 
 ## nD Arrays/Strings
 
