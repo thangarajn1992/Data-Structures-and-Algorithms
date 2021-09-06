@@ -44,6 +44,7 @@
 
 * [Pick N items with Maximum sum from both ends](pick-n-items-from-both-sides.md)
 * [Maximum Sum of Sub-Array](maximum-sum-of-sub-array.md)
+* [Longest consecutive sub-sequence of any order](longest-consecutive-sub-sequence-of-any-order.md)
 * [Subset Sums](subset-sums.md)
 * [Combinations of `k` numbers that sum up to `n`](combinations-of-k-numbers-that-sum-up-to-n.md)\`\`
 * [Combination Sum - Input distinct Output Unique Subset Repeated Numbers](combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)

@@ -2,6 +2,8 @@
 
 ## 1D Arrays
 
+* [Longest consecutive sub-sequence of any order](../problem-solutions/1d-array-problems/longest-consecutive-sub-sequence-of-any-order.md)
+
 ## nD Arrays
 
 ## Strings

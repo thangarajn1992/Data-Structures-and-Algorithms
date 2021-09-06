@@ -16,6 +16,7 @@
 * [Minimize number of elements needed to cover entire range](../problem-solutions/1d-array-problems/minimize-number-of-elements-needed-to-cover-entire-range.md)
 * [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
 * [Majority Element](../problem-solutions/1d-array-problems/majority-element.md)
+* [Longest consecutive sub-sequence of any order](../problem-solutions/1d-array-problems/longest-consecutive-sub-sequence-of-any-order.md)
 
 ## nD Arrays/Strings
 
