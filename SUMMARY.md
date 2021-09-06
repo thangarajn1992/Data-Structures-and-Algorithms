@@ -240,6 +240,7 @@
   * [Drawing Book](problem-solutions/mathematics-problems/drawing-book.md)
   * [Utopian Tree](problem-solutions/mathematics-problems/utopian-tree.md)
   * [Distribute N candies among K people](problem-solutions/mathematics-problems/distribute-n-candies-among-k-people.md)
+  * [Number of trailing zeroes in N Factorial](problem-solutions/mathematics-problems/number-of-trailing-zeroes-in-n-factorial.md)
   * [Find Greatest Common Divisor of Smallest and Largest element of an array](problem-solutions/mathematics-problems/find-greatest-common-divisor-of-smallest-and-largest-element-of-an-array.md)
   * [How many numbers to be patched into array to make all numbers from \[1,n\]](problem-solutions/mathematics-problems/how-many-numbers-to-be-patched-into-array-to-make-all-numbers-from-1-n.md)
   * [How many ways a number N can be represented as sum of 2 or more consective numbers](problem-solutions/mathematics-problems/how-many-ways-a-number-n-can-be-represented-as-sum-of-2-or-more-consective-numbers.md)

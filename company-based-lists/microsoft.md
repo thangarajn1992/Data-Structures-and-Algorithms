@@ -70,6 +70,7 @@
 
 * [Distribute N candies among K people](../problem-solutions/mathematics-problems/distribute-n-candies-among-k-people.md)
 * [Count the number of possible triangles](../problem-solutions/mathematics-problems/count-the-number-of-possible-triangles.md)
+* [Number of trailing zeroes in N Factorial](../problem-solutions/mathematics-problems/number-of-trailing-zeroes-in-n-factorial.md)
 
 ## Bit Manipulation
 
