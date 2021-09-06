@@ -6,6 +6,7 @@
 * [Combination Sum - Input distinct Output Unique Subset Repeated Numbers - 39](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Combination Sum - Input non-distinct Output Unique subset with freq num same as input - 40](../problem-solutions/1d-array-problems/combination-sum-input-non-distinct-output-unique-subset-with-freq-num-same-as-input.md)
 * [Number of ways to Climb Stairs - 70](../problem-solutions/1d-array-problems/number-of-ways-to-climb-stairs.md)
+* [Best Time to Buy and Sell Stock once - 121](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-once.md)
 * [Find Minimum in Rotated Sorted Array without duplicates- 153](../problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array.md)
 * [Find Minimum in Rotated Sorted Array with duplicates - 154](../problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array.md)
 * [Majority Element - 169](../problem-solutions/1d-array-problems/majority-element.md)

@@ -13,6 +13,7 @@
 * [Minimum steps to make product of array elements equal to one](minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
 * [Product of every other element except the current element](product-of-every-other-element-except-the-current-element.md)
 * [Span of Stock on each day](span-of-stock-on-each-day.md)
+* [Best Time to Buy and Sell Stock once](best-time-to-buy-and-sell-stock-once.md)
 
 ### Space Recycling/ Reordering
 
