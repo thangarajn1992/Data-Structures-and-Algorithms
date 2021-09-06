@@ -131,6 +131,7 @@
   * [Pick N items with Maximum sum from both ends](problem-solutions/1d-array-problems/pick-n-items-from-both-sides.md)
   * [Longest consecutive sub-sequence of any order](problem-solutions/1d-array-problems/longest-consecutive-sub-sequence-of-any-order.md)
   * [Subset Sums](problem-solutions/1d-array-problems/subset-sums.md)
+  * [Number of subsets with product less than k](problem-solutions/1d-array-problems/number-of-subsets-with-product-less-than-k.md)
   * [Combinations of k numbers that sum up to n](problem-solutions/1d-array-problems/combinations-of-k-numbers-that-sum-up-to-n.md)
   * [Combination Sum - Input distinct Output Unique Subset Repeated Numbers](problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
   * [Combination Sum - Input distinct Output Sorted Unique Subset Repeated Numbers](problem-solutions/1d-array-problems/combination-sum-input-distinct-output-sorted-unique-subset-repeated-numbers.md)

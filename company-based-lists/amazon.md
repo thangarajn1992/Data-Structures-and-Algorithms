@@ -15,6 +15,7 @@
 * [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
 * [Majority Element](../problem-solutions/1d-array-problems/majority-element.md)
 * [Longest consecutive sub-sequence of any order](../problem-solutions/1d-array-problems/longest-consecutive-sub-sequence-of-any-order.md)
+* [Number of subsets with product less than k](../problem-solutions/1d-array-problems/number-of-subsets-with-product-less-than-k.md)
 
 ## nD Arrays/Strings
 
