@@ -8,6 +8,7 @@
 * [Number of ways to Climb Stairs - 70](../problem-solutions/1d-array-problems/number-of-ways-to-climb-stairs.md)
 * [Best Time to Buy and Sell Stock once - 121](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-once.md)
 * [Best Time to Buy and Sell Stock - Should buy and/or sell each day - 122](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-should-buy-and-or-sell-each-day.md)
+* [Best Time to Buy and Sell Stock Twice - 123](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-twice.md)
 * [Find Minimum in Rotated Sorted Array without duplicates- 153](../problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array.md)
 * [Find Minimum in Rotated Sorted Array with duplicates - 154](../problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array.md)
 * [Majority Element - 169](../problem-solutions/1d-array-problems/majority-element.md)
