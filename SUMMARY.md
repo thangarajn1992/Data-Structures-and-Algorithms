@@ -213,6 +213,7 @@
   * [Maximum path sum from any node](problem-solutions/tree-problems/maximum-path-sum-from-any-node.md)
   * [Verify Preorder Serialization of a Binary Tree](problem-solutions/tree-problems/verify-preorder-serialization-of-a-binary-tree.md)
   * [Bottom View of Binary Tree](problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
+  * [Redistribute the coins across Nodes such that each node has 1 coin](problem-solutions/tree-problems/redistribute-the-coins-across-nodes-such-that-each-node-has-1-coin.md)
   * [Print BST elements in given range](problem-solutions/tree-problems/print-bst-elements-in-given-range.md)
   * [Merge two Binary Search Trees](problem-solutions/tree-problems/merge-two-binary-search-trees.md)
   * [Number of Structurally unique BSTs with n nodes with unique value from 1 to n](problem-solutions/tree-problems/number-of-structurally-unique-bsts-with-n-nodes-with-unique-value-from-1-to-n.md)

@@ -13,6 +13,7 @@
 * [Maximum path sum from any node](maximum-path-sum-from-any-node.md)
 * [Verify Preorder Serialization of a Binary Tree](verify-preorder-serialization-of-a-binary-tree.md)
 * [Bottom View of Binary Tree](bottom-view-of-binary-tree.md)
+* [Redistribute the coins across Nodes such that each node has 1 coin](redistribute-the-coins-across-nodes-such-that-each-node-has-1-coin.md)
 
 ### **Binary Search Tree**
 
