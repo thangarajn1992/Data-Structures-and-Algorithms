@@ -3,8 +3,12 @@
 ### Sources
 
 * [Leetcode 188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+* [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1#)
 
 ### Companies
+
+* [Amazon](../../company-based-lists/amazon.md)
+* [Microsoft](../../company-based-lists/microsoft.md)
 
 ### Problem Statement
 

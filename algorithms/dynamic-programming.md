@@ -12,4 +12,7 @@
 * [Combination Sum - Input distinct Output Non-distinct subset Repeated Numbers](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Maximum path sum in matrix with Down, Diagonal Down, Anti-Diagonal Down directions](../problem-solutions/2d-array-problems/maximum-path-sum-in-matrix-with-down-diagonal-down-anti-diagonal-down-directions.md)
 * [Maximize The total Cut Segments with given lengths of cut](../problem-solutions/1d-array-problems/maximize-the-total-cut-segments-with-given-lengths-of-cut.md)
+* [Best Time to Buy and Sell Stock Atmost twice](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-twice.md)
+* [Best Time to Buy and Sell Stock Atmost k transactions](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-atmost-k-transactions.md)
+* [Best Time to Buy and Sell Stock with cooldown](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-with-cooldown.md)
 
