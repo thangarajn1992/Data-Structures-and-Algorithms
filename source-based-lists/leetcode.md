@@ -14,6 +14,7 @@
 * [Majority Element - 169](../problem-solutions/1d-array-problems/majority-element.md)
 * [Best Time to Buy and Sell Stock Atmost k transactions - 188](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-atmost-k-transactions.md)
 * [Combinations of k numbers that sum up to n - 216](../problem-solutions/1d-array-problems/combinations-of-k-numbers-that-sum-up-to-n.md)
+* [Best Time to Buy and Sell Stock with Cooldown - 309](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-with-cooldown.md)
 * [Combination Sum - Input distinct Output Non-distinct subset Repeated Numbers - 377](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Array Nesting - 565](../problem-solutions/1d-array-problems/array-nesting.md)
 * [Min Cost Climbing Stairs - 746](https://leetcode.com/problems/min-cost-climbing-stairs/)
