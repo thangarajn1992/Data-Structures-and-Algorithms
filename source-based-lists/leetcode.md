@@ -44,6 +44,8 @@
 
 ## Linked Lists
 
+* [Reverse a Linked List - 206](../problem-solutions/linked-list-problems/reverse-a-linked-list.md)
+
 ## Trees
 
 * [Generate all possible structurally unique BSTs with n nodes with unique value from 1 to n - 95](../problem-solutions/tree-problems/generate-all-possible-structurally-unique-bsts-with-n-nodes-with-unique-value-from-1-to-n.md)

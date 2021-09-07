@@ -3,6 +3,7 @@
 ### Sources
 
 * [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1#)
+* [Leetcode 206](https://leetcode.com/problems/reverse-linked-list/)
 
 ### Companies
 
