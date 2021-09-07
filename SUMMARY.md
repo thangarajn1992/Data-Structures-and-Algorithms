@@ -220,6 +220,7 @@
   * [Construct Tree from Preorder Traversal](problem-solutions/tree-problems/construct-tree-from-preorder-traversal.md)
 * [Stack Problems](problem-solutions/stack-problems/README.md)
   * [Stacks Questions](problem-solutions/stack-problems/stacks-questions.md)
+  * [Get Minimum from the stack](problem-solutions/stack-problems/get-minimum-from-the-stack.md)
 * [Queue Problems](problem-solutions/queue-problems/README.md)
   * [Queues Questions](problem-solutions/queue-problems/queues-questions.md)
   * [Implement Queue using Stack](problem-solutions/queue-problems/implement-queue-using-stack.md)

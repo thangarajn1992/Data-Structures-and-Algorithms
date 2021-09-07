@@ -49,6 +49,7 @@
 ## Stacks
 
 * [Implement Queue using Stack](../problem-solutions/queue-problems/implement-queue-using-stack.md)
+* [Get Minimum from the stack](../problem-solutions/stack-problems/get-minimum-from-the-stack.md)
 
 ## Queues
 
