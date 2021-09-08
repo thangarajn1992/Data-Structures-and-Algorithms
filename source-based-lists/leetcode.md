@@ -49,8 +49,9 @@
 * [Detect Loop in Linked List - 141](../problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
 * [Detect the Node where Loop begins in linked list - 142](../problem-solutions/linked-list-problems/detect-the-node-where-loop-begins-in-linked-list.md)
 * [Intersection Point in Y Shaped Linked Lists - 160](../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
+* [Remove all elements with given value in the linked list - 203](../problem-solutions/linked-list-problems/remove-all-elements-with-given-value-in-the-linked-list.md)
 * [Reverse a Linked List - 206](../problem-solutions/linked-list-problems/reverse-a-linked-list.md)
-* [Design a Linked List - 707](../data-structures/linked-lists.md#design-a-linked-list)
+* [Design a Linked List - 707](../data-structures/linked-lists/#design-a-linked-list)
 
 ## Trees
 

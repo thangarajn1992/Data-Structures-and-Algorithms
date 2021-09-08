@@ -1,6 +1,6 @@
 # Linked Lists Questions
 
-* [Design a Linked List](../../data-structures/linked-lists.md#design-a-linked-list)
+* [Design a Linked List](../../data-structures/linked-lists/#design-a-linked-list)
 
 ### Two Pointer Technique
 
@@ -14,6 +14,7 @@
 ### Linked List Operations
 
 * [Reverse a Linked List](reverse-a-linked-list.md)
+* [Remove all elements with given value in the linked list](remove-all-elements-with-given-value-in-the-linked-list.md)
 * [Merge 2 sorted linked list in reverse order](merge-2-sorted-linked-list-in-reverse-order.md)
 
 
