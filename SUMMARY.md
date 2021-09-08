@@ -208,6 +208,7 @@
   * [Remove Nth Node From End of List](problem-solutions/linked-list-problems/remove-nth-node-from-end-of-list.md)
   * [Reverse a Linked List](problem-solutions/linked-list-problems/reverse-a-linked-list.md)
   * [Remove all elements with given value in the linked list](problem-solutions/linked-list-problems/remove-all-elements-with-given-value-in-the-linked-list.md)
+  * [Group Elements at Odd Indices together followed by Even indices in linked list](problem-solutions/linked-list-problems/group-elements-at-odd-indices-together-followed-by-even-indices-in-linked-list.md)
   * [Merge 2 sorted linked list in reverse order](problem-solutions/linked-list-problems/merge-2-sorted-linked-list-in-reverse-order.md)
 * [Tree Problems](problem-solutions/tree-problems/README.md)
   * [Trees Questions](problem-solutions/tree-problems/trees-questions.md)
