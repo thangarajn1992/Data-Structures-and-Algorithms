@@ -45,6 +45,7 @@
 
 ## Linked Lists
 
+* [Detect Loop in Linked List - 141](../problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
 * [Reverse a Linked List - 206](../problem-solutions/linked-list-problems/reverse-a-linked-list.md)
 
 ## Trees

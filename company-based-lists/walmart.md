@@ -12,6 +12,8 @@
 
 ## Linked Lists
 
+* [Detect Loop in Linked List](../problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
+
 ## Trees
 
 * [Bottom View of Binary Tree](../problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
