@@ -201,6 +201,7 @@
   * [Linked Lists Questions](problem-solutions/linked-list-problems/linked-lists-questions.md)
   * [Reverse a Linked List](problem-solutions/linked-list-problems/reverse-a-linked-list.md)
   * [Detect Loop in Linked List](problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
+  * [Detect the Node where Loop begins in linked list](problem-solutions/linked-list-problems/detect-the-node-where-loop-begins-in-linked-list.md)
   * [Merge 2 sorted linked list in reverse order](problem-solutions/linked-list-problems/merge-2-sorted-linked-list-in-reverse-order.md)
   * [Intersection Point in Y Shaped Linked Lists](problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
 * [Tree Problems](problem-solutions/tree-problems/README.md)

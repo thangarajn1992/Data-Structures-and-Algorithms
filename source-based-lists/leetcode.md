@@ -46,7 +46,9 @@
 ## Linked Lists
 
 * [Detect Loop in Linked List - 141](../problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
+* [Detect the Node where Loop begins in linked list - 142](../problem-solutions/linked-list-problems/detect-the-node-where-loop-begins-in-linked-list.md)
 * [Reverse a Linked List - 206](../problem-solutions/linked-list-problems/reverse-a-linked-list.md)
+* [Design a Linked List - 707](../data-structures/linked-lists.md#design-a-linked-list)
 
 ## Trees
 
