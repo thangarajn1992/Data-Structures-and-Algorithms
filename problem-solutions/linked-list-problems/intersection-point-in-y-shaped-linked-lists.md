@@ -3,6 +3,7 @@
 ### Sources
 
 * [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1#)
+* [Leetcode 160](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
 ### Companies
 
@@ -64,6 +65,29 @@ You don't need to read input or print anything. The task is to complete the func
  -1000 ≤ value ≤ 1000
 
 ### Solution
+
+#### Two Pointer Approach
+
+```cpp
+class Solution {
+public:
+    // curA starts from headA and once it reaches its end,then moves to headB
+    // curB starts from headB and once it reaches its end,then moves to headA
+    // If there is an intersection, they will meet at that node otherwise
+    // they both endup traversing both lists once and meet at end (null).
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        ListNode *curA = headA, *curB = headB;
+        while(curA != curB)
+        {
+            curA = curA ? curA->next : headB;
+            curB = curB ? curB->next : headA;
+        }
+        return curA;
+    }
+};
+```
+
+#### Compute Lengths of both lists
 
 ```cpp
 /* Linked List Node

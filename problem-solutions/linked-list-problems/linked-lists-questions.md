@@ -6,6 +6,7 @@
 
 * [Detect Loop in Linked List](detect-loop-in-linked-list.md)
 * [Detect the Node where Loop begins in linked list](detect-the-node-where-loop-begins-in-linked-list.md)
+* [Intersection Point in Y Shaped Linked Lists](intersection-point-in-y-shaped-linked-lists.md)
 
 
 
@@ -13,5 +14,6 @@
 
 * [Reverse a Linked List](reverse-a-linked-list.md)
 * [Merge 2 sorted linked list in reverse order](merge-2-sorted-linked-list-in-reverse-order.md)
-* [Intersection Point in Y Shaped Linked Lists](intersection-point-in-y-shaped-linked-lists.md)
+
+
 
