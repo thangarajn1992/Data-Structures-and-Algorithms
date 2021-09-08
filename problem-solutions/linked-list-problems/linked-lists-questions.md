@@ -7,6 +7,7 @@
 * [Detect Loop in Linked List](detect-loop-in-linked-list.md)
 * [Detect the Node where Loop begins in linked list](detect-the-node-where-loop-begins-in-linked-list.md)
 * [Intersection Point in Y Shaped Linked Lists](intersection-point-in-y-shaped-linked-lists.md)
+* [Remove Nth Node From End of List](remove-nth-node-from-end-of-list.md)
 
 
 
