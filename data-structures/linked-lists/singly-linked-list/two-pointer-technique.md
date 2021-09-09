@@ -19,10 +19,10 @@ It is a safe choice to move the slow pointer `one step` at a time while moving t
 
 ### Problems solved using Two Pointer Technique
 
-* [Detect Loop in Linked List](../../problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
-* [Detect the Node where Loop begins in linked list](../../problem-solutions/linked-list-problems/detect-the-node-where-loop-begins-in-linked-list.md)
-* [Intersection Point in Y Shaped Linked Lists](../../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
-* [Remove Nth Node From End of List](../../problem-solutions/linked-list-problems/remove-nth-node-from-end-of-list.md)
+* [Detect Loop in Linked List](../../../problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
+* [Detect the Node where Loop begins in linked list](../../../problem-solutions/linked-list-problems/detect-the-node-where-loop-begins-in-linked-list.md)
+* [Intersection Point in Y Shaped Linked Lists](../../../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
+* [Remove Nth Node From End of List](../../../problem-solutions/linked-list-problems/remove-nth-node-from-end-of-list.md)
 
 ### Summary for Two Pointer Technique
 

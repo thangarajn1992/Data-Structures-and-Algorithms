@@ -43,11 +43,11 @@ If we want to add a new value after a given node `prev`, we should:
 2. Link the "next" field of `cur` to prev's next node `next`;
 3. Link the "next" field in `prev` to `cur`.
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../../.gitbook/assets/image%20%2846%29.png)
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../../.gitbook/assets/image%20%2848%29.png)
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../../.gitbook/assets/image%20%2844%29.png)
 
 #### Adding Node in the Beginning
 
@@ -64,9 +64,9 @@ For example, let's add a new node 9 at the beginning of the list.
 1. We initialize a new node 9 and link node 9 to current head node 23.
 2. Assign node 9 to be our new head.
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../../.gitbook/assets/image%20%2843%29.png)
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../../.gitbook/assets/image%20%2847%29.png)
 
 ### Delete Operation
 
@@ -75,9 +75,9 @@ If we want to delete an existing node `cur` from the singly linked list, we can 
 1. Find cur's previous node `prev` and its next node `next`;
 2. Link `prev` to cur's next node `next`.
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../../.gitbook/assets/image%20%2845%29.png)
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../../.gitbook/assets/image%20%2849%29.png)
 
 In our first step, we need to find out `prev` and `next`. It is easy to find out `next` using the reference field of `cur`. However, we have to traverse the linked list from the head node to find out `prev` which will take `O(N)` time on average, where N is the length of the linked list. So the time complexity of deleting a node will be `O(N)`.
 
