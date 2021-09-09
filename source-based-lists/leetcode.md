@@ -46,6 +46,7 @@
 ## Linked Lists
 
 * [Remove Nth Node From End of List - 19](../problem-solutions/linked-list-problems/remove-nth-node-from-end-of-list.md)
+* [Merge two Sorted Linked List - 21](../problem-solutions/linked-list-problems/merge-2-sorted-linked-list.md)
 * [Detect Loop in Linked List - 141](../problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
 * [Detect the Node where Loop begins in linked list - 142](../problem-solutions/linked-list-problems/detect-the-node-where-loop-begins-in-linked-list.md)
 * [Intersection Point in Y Shaped Linked Lists - 160](../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
