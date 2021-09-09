@@ -18,6 +18,7 @@
 * [Group Elements at Odd Indices together followed by Even indices in linked list](group-elements-at-odd-indices-together-followed-by-even-indices-in-linked-list.md)
 * [Is Palindrome Linked List ](is-palindrome-linked-list.md)
 * [Flatten a Multi-Level Doubly Linked List](flatten-a-multi-level-doubly-linked-list.md)
+* [Deep Copy the linked list which has both next and random pointer](deep-copy-the-linked-list-which-has-both-next-and-random-pointer.md)
 
 ### Two or More Linked Lists
 
