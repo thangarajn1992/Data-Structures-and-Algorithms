@@ -17,6 +17,7 @@
 * [Remove all elements with given value in the linked list](remove-all-elements-with-given-value-in-the-linked-list.md)
 * [Group Elements at Odd Indices together followed by Even indices in linked list](group-elements-at-odd-indices-together-followed-by-even-indices-in-linked-list.md)
 * [Is Palindrome Linked List ](is-palindrome-linked-list.md)
+* [Flatten a Multi-Level Doubly Linked List](flatten-a-multi-level-doubly-linked-list.md)
 
 ### Two or More Linked Lists
 

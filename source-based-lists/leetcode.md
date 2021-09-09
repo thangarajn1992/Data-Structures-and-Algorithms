@@ -55,6 +55,7 @@
 * [Reverse a Linked List - 206](../problem-solutions/linked-list-problems/reverse-a-linked-list.md)
 * [Is Palindrome Linked List - 234](../problem-solutions/linked-list-problems/is-palindrome-linked-list.md)
 * [Group Elements at Odd Indices together followed by Even indices in linked list - 328](../problem-solutions/linked-list-problems/group-elements-at-odd-indices-together-followed-by-even-indices-in-linked-list.md)
+* [Flatten a Multi-Level Doubly Linked List - 430](../problem-solutions/linked-list-problems/flatten-a-multi-level-doubly-linked-list.md)
 * [Design a Linked List - 707](../data-structures/linked-lists/#design-a-linked-list)
 
 ## Trees
