@@ -257,6 +257,7 @@
   * [Detect cycle in a directed graph DFS](problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-dfs.md)
   * [Detect Cycle in a Directed Graph BFS](problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
   * [Detect Cycle in Undirected Graph BFS](problem-solutions/graph-problems/detect-cycle-in-undirected-graph-using-bfs.md)
+  * [Course Schedule based on Prerequisites](problem-solutions/graph-problems/course-schedule-based-on-prerequisites.md)
   * [Graph Based Problems](problem-solutions/graph-problems/graph-based-problems/README.md)
     * [Transitive Closure of Graph using DFS](problem-solutions/graph-problems/graph-based-problems/transitive-closure-of-graph-using-dfs.md)
 * [Mathematics Problems](problem-solutions/mathematics-problems/README.md)

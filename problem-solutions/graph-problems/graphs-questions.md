@@ -32,3 +32,9 @@
 * [Detect cycle in a directed graph BFS](detect-cycle-in-a-directed-graph-using-bfs.md)
 * [Detect Cycle in Undirected Graph BFS](detect-cycle-in-undirected-graph-using-bfs.md)
 
+### Scheduling Dependent Tasks
+
+* Course Schedule based on Prerequisites
+
+
+

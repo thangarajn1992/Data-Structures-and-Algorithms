@@ -20,6 +20,8 @@
 
 ## Graphs
 
+* [Course Schedule based on Prerequisites](../problem-solutions/graph-problems/course-schedule-based-on-prerequisites.md)
+
 ## Mathematics
 
 ## Bit Manipulation

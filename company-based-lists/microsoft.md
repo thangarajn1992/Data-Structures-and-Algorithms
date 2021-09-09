@@ -67,6 +67,7 @@
 * [Detect Cycle in directed Graph DFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-dfs.md)
 * [Detect Cycle in directed Graph BFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
 * [Strongly Connected Component \(Kosaraju's Algorithm\)](../problem-solutions/graph-problems/strongly-connected-component-kosarajus-algorithm.md)
+* [Course Schedule based on Prerequisites](../problem-solutions/graph-problems/course-schedule-based-on-prerequisites.md)
 
 ## Mathematics
 
