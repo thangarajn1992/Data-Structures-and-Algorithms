@@ -2,6 +2,7 @@
 
 ### String Searching
 
+* [Minimum index of any char from given pattern in given string](minimum-index-of-any-char-from-given-pattern-in-given-string.md)
 * [Search Pattern \(KMP-Algorithm\)](search-pattern-kmp-algorithm.md)
 * [Longest Uncommon Sub-sequence between two strings](longest-uncommon-sub-sequence-between-two-strings.md)
 * [Longest Uncommon Sub-sequence between array of strings](longest-uncommon-sub-sequence-between-two-strings.md)

@@ -34,6 +34,7 @@
 
 ## Strings
 
+* [Minimum index of any char from given pattern in given string](../problem-solutions/string-problems/minimum-index-of-any-char-from-given-pattern-in-given-string.md)
 * [Longest Palindromic Substring](../problem-solutions/string-problems/longest-palindromic-substring.md)
 * [Number of palindromic strings](../problem-solutions/string-problems/number-of-palindromic-strings.md)
 * [Number of Palindromic paths in a Matrix](../problem-solutions/string-problems/number-of-palindromic-paths-in-a-matrix.md)

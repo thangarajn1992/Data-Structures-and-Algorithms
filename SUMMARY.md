@@ -192,6 +192,7 @@
   * [Number of words that can be formed in M\*N Board from given dictionary](problem-solutions/2d-array-problems/number-of-words-that-can-be-formed-in-m-n-board-from-given-dictionary.md)
 * [String Problems](problem-solutions/string-problems/README.md)
   * [Strings Questions](problem-solutions/string-problems/strings-questions.md)
+  * [Minimum index of any char from given pattern in given string](problem-solutions/string-problems/minimum-index-of-any-char-from-given-pattern-in-given-string.md)
   * [Search Pattern \(KMP-Algorithm\)](problem-solutions/string-problems/search-pattern-kmp-algorithm.md)
   * [Longest Uncommon Sub-sequence between two strings](problem-solutions/string-problems/longest-uncommon-sub-sequence-between-two-strings.md)
   * [Longest Uncommon Sub-sequence between array of strings](problem-solutions/string-problems/longest-uncommon-sub-sequence-between-array-of-strings.md)
