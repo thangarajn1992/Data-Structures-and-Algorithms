@@ -13,8 +13,9 @@
 
 ## Linked Lists
 
-*  Merge Two Sorted Linked Lists : Write a Program that takes two lists, assumed to be sorted, and returns their merge. The only field your program can change in a node is its next field
-
+*  [8.1 Merge Two Sorted Singly Linked Lists](../problem-solutions/linked-list-problems/merge-2-sorted-linked-list.md) : Write a Program that takes two lists, assumed to be sorted, and returns their merge. The only field your program can change in a node is its next field
+* 8.1a Merge Two Sorted doubly Linked Lists:  Write a Program that takes two lists, assumed to be sorted, and returns their merge. The only field your program can change in a node is its next field
+* 
 
 
 ## Trees

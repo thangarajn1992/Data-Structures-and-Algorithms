@@ -1,8 +1,9 @@
-# Merge 2 Sorted Linked List
+# Merge two Sorted Singly Linked List
 
 ### Sources
 
 * [Leetcode 21](https://leetcode.com/problems/merge-two-sorted-lists/)
+* EPI 8.1
 
 ### Companies
 
@@ -48,21 +49,17 @@ public:
         ListNode* result = new ListNode();
         ListNode* l3 = result;
         while(l1 && l2)
-        {
-            if(l1->val <= l2->val)
-            {
-                l3->next = l1;
-                l1 = l1->next;
-            }
-            else
-            {
-                l3->next = l2;
-                l2 = l2->next;
-            }
-            l3 = l3->next;
-        }
-        l3->next = (l1 != nullptr) ? l1 : l2;
+            appendNode(l1->val <= l2->val ? &l1 : &l2, &l3);
+        
+        l3->next = l1 ? l1 : l2;
         return result->next;
+    }
+    // inserting provided node after given tail
+    void appendNode(ListNode **node, ListNode **tail) 
+    {
+        (*tail)->next = *node;
+        *tail = *node;
+        *node = (*node)->next;
     }
 };
 ```
