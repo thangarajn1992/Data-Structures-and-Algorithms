@@ -14,6 +14,8 @@ For more details on [Singly Linked List](singly-linked-list/) and [Doubly Linked
 
 ### Performance Review
 
+A Singly-linked list is more space efficient than doubly-linked list because nodes do not contain previous field. The trade-off is the inability to do bidirectional iteration.
+
 They are similar in many operations:
 
 1. Both of them are `not able to access the data at a random position` in constant time.
@@ -39,7 +41,31 @@ After this comparison, it is not difficult to come up with our conclusion:
 
 
 
+### C++ Standard Library
 
+For singly linked list, we have [**forward\_list**](https://app.gitbook.com/@thangarajn1992/s/cpp-dictionary/containers/forward-list) ****library. The key functions to remember in this library are
+
+* push\_front
+* pop\_front
+* emplace\_front
+* insert\_after
+* emplace\_after
+* erase\_after
+* splice\_after
+* reverse
+* sort
+
+For doubly linked list, we have [**list**](https://app.gitbook.com/@thangarajn1992/s/cpp-dictionary/containers/list) ****library. The key functions to remember in this library are
+
+* push\_front
+* emplace\_front
+* pop\_front
+* push\_back
+* emplace\_back
+* pop\_back
+* splice
+* reverse
+* sort
 
 
 

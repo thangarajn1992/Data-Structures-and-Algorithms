@@ -18,7 +18,7 @@
   * [Singly Linked List](data-structures/linked-lists/singly-linked-list/README.md)
     * [Design a Linked List](data-structures/linked-lists/singly-linked-list/design-a-linked-list.md)
     * [Two Pointer Technique](data-structures/linked-lists/singly-linked-list/two-pointer-technique.md)
-    * [Tips for Classic Linked List Problems](data-structures/linked-lists/singly-linked-list/tips-for-classic-linked-list-problems.md)
+    * [Tips for Solving Linked List Problems](data-structures/linked-lists/singly-linked-list/tips-for-classic-linked-list-problems.md)
 * [Stacks](data-structures/stacks/README.md)
   * [Stack Based Problems](data-structures/stacks/stack-based-problems.md)
 * [Queues](data-structures/queues.md)
