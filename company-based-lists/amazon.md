@@ -34,6 +34,7 @@
 ## Linked Lists
 
 * [Detect Loop in Linked List](../problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
+* [Remove loop in Linked List](../problem-solutions/linked-list-problems/remove-loop-in-linked-list.md)
 * [Reverse a Linked List](../problem-solutions/linked-list-problems/reverse-a-linked-list.md)
 * [Intersection Point in Y Shaped Linked Lists](../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
 

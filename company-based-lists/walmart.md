@@ -13,6 +13,7 @@
 ## Linked Lists
 
 * [Detect Loop in Linked List](../problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
+* [Remove loop in Linked List](../problem-solutions/linked-list-problems/remove-loop-in-linked-list.md)
 
 ## Trees
 
