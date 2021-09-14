@@ -49,6 +49,7 @@
 * [Remove Nth Node From End of List - 19](../problem-solutions/linked-list-problems/remove-nth-node-from-end-of-list.md)
 * [Merge two Sorted Linked List - 21](../problem-solutions/linked-list-problems/merge-2-sorted-linked-list.md)
 * [Rotate linked list clockwise - 61](../problem-solutions/linked-list-problems/rotate-linked-list-clockwise.md)
+* [Reverse a Linked List between given start and end nodes - 92](../problem-solutions/linked-list-problems/reverse-a-linked-list-between-given-start-and-end-nodes.md)
 * [Deep Copy the linked list which has both next and random pointer - 138](../problem-solutions/linked-list-problems/deep-copy-the-linked-list-which-has-both-next-and-random-pointer.md)
 * [Detect Loop in Linked List - 141](../problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
 * [Detect the Node where Loop begins in linked list - 142](../problem-solutions/linked-list-problems/detect-the-node-where-loop-begins-in-linked-list.md)

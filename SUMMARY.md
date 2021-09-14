@@ -211,6 +211,7 @@
   * [Intersection Point in Y Shaped Linked Lists](problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
   * [Remove Nth Node From End of List](problem-solutions/linked-list-problems/remove-nth-node-from-end-of-list.md)
   * [Reverse a Linked List](problem-solutions/linked-list-problems/reverse-a-linked-list.md)
+  * [Reverse a Linked List between given start and end nodes](problem-solutions/linked-list-problems/reverse-a-linked-list-between-given-start-and-end-nodes.md)
   * [Remove all elements with given value in the linked list](problem-solutions/linked-list-problems/remove-all-elements-with-given-value-in-the-linked-list.md)
   * [Group Elements at Odd Indices together followed by Even indices in linked list](problem-solutions/linked-list-problems/group-elements-at-odd-indices-together-followed-by-even-indices-in-linked-list.md)
   * [Is Palindrome Linked List](problem-solutions/linked-list-problems/is-palindrome-linked-list.md)
