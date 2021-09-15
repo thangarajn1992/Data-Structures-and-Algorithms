@@ -145,6 +145,7 @@
   * [Combination Sum - Input distinct Output Non-distinct subset Repeated Numbers](problem-solutions/1d-array-problems/combination-sum-input-distinct-output-non-distinct-subset-repeated-numbers.md)
   * [0 - 1 Knapsack Problem](problem-solutions/1d-array-problems/0-1-knapsack-problem.md)
   * [Select maximum number of elements within given sum](problem-solutions/1d-array-problems/select-maximum-number-of-elements-within-given-sum.md)
+  * [Longest Turbulent Sub-array](problem-solutions/1d-array-problems/longest-turbulent-sub-array.md)
   * [Find Min Max of Array](problem-solutions/1d-array-problems/find-min-max-of-array.md)
   * [Missing number in array with elements 1 to n](problem-solutions/1d-array-problems/missing-number-in-array-with-elements-1-to-n.md)
   * [Majority Element](problem-solutions/1d-array-problems/majority-element.md)

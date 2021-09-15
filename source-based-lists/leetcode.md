@@ -20,6 +20,7 @@
 * [Best Time to Buy and Sell Stock with Transaction Fee - 714](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-with-transaction-fee.md)
 * [Min Cost Climbing Stairs - 746](https://leetcode.com/problems/min-cost-climbing-stairs/)
 * [Stone Game - 887](../problem-solutions/1d-array-problems/stone-game.md)
+* [Longest Turbulent Sub-array - 978](../problem-solutions/1d-array-problems/longest-turbulent-sub-array.md)
 * [Array With Elements Not Equal to Average of Neighbors - 1968](../problem-solutions/1d-array-problems/array-with-elements-not-equal-to-average-of-neighbors.md)
 * [Find the middle index with left sum equal to right sum - 1991](../problem-solutions/1d-array-problems/find-the-middle-index-with-left-sum-equal-to-right-sum.md)
 

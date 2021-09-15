@@ -62,6 +62,7 @@
 * [Combination Sum - Input distinct Output Non-distinct subset Repeated Numbers](combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [0 - 1 Knapsack Problem](0-1-knapsack-problem.md)
 * [Select maximum number of elements within given sum](select-maximum-number-of-elements-within-given-sum.md)
+* [Longest Turbulent Sub-array](longest-turbulent-sub-array.md)
 
 ### Array Patterns
 
