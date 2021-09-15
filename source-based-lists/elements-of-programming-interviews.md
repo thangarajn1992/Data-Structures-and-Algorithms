@@ -4,8 +4,12 @@
 
 * [Rearrange array elements](../problem-solutions/1d-array-problems/rearrange-array-elements.md)
 * [Smallest Non Construct-able Value](../problem-solutions/mathematics-problems/smallest-non-construct-able-value.md)
-* [6.1 The Dutch National Flag Problem](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md): Write a Program that takes an array A and an index i into A, and rearranges the elements such that all elements less than A\[i\] \( the "pivot"\) appear first, followed by elements equal to the pivot, followed by elements greater than the pivot
-* 
+* [**6.1 The Dutch National Flag Problem**](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md): Write a Program that takes an array A and an index i into A, and rearranges the elements such that all elements less than A\[i\] \( the "pivot"\) appear first, followed by elements equal to the pivot, followed by elements greater than the pivot
+* **6.1a Partition Objects into  three groups based on their key:** Assuming that keys take one of three values, reorder the array so that all objects with the same key appear together. The order of the subarrays is not important. Use O\(1\) additional space and O\(n\) time.
+* **6.1b Partition Objects into four groups based on their key:** Given an array A of n objects with keys that takes one of four values, reorder the array so that all objects that have the same key appear together. Use O\(1\) additional space and O\(n\) time.
+* **6.1c Partition Boolean-Valued keys:** Given an array A of n objects with Boolean-valued keys, reorder the arrays so that objects that have key false appear first. Use O\(1\) additional space and O\(n\) time.
+* **6.1d Partition Boolean-Valued Keys, Maintain Relative Order:** Given an array A of n objects with Boolean-valued keys, reorder the arrays so that objects that have key false appear first. The relative ordering of objects with key true should not change. Use O\(1\) additional space and O\(n\) time.
+
 
 
 ## nD Arrays
