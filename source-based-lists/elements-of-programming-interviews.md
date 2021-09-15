@@ -4,7 +4,8 @@
 
 * [Rearrange array elements](../problem-solutions/1d-array-problems/rearrange-array-elements.md)
 * [Smallest Non Construct-able Value](../problem-solutions/mathematics-problems/smallest-non-construct-able-value.md)
-
+* [6.1 The Dutch National Flag Problem](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md): Write a Program that takes an array A and an index i into A, and rearranges the elements such that all elements less than A\[i\] \( the "pivot"\) appear first, followed by elements equal to the pivot, followed by elements greater than the pivot
+* 
 
 
 ## nD Arrays

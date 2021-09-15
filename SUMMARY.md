@@ -127,6 +127,7 @@
   * [Array With Elements Not Equal to Average of Neighbors](problem-solutions/1d-array-problems/array-with-elements-not-equal-to-average-of-neighbors.md)
   * [Rotate Array - Counter Clockwise](problem-solutions/1d-array-problems/rotate-array-counter-clockwise.md)
   * [Array Nesting](problem-solutions/1d-array-problems/array-nesting.md)
+  * [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
   * [Find Minimum in Rotated Sorted Array without duplicates](problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array.md)
   * [Find Minimum in Rotated Sorted Array with duplicates](problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array-with-duplicates.md)
   * [Split array into k parts to minimize the maximum part](problem-solutions/1d-array-problems/split-array-into-k-parts-to-minimize-the-maximum-part.md)

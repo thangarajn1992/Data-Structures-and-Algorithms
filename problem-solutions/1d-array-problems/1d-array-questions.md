@@ -29,6 +29,7 @@
 * [Array With Elements Not Equal to Average of Neighbors](array-with-elements-not-equal-to-average-of-neighbors.md)
 * [Rotate Array - Counter Clockwise](rotate-array-counter-clockwise.md)
 * [Array Nesting](array-nesting.md)
+* [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
 
 ### Searching & Sorting
 

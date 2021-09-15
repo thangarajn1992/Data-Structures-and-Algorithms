@@ -19,6 +19,7 @@
 * [Longest consecutive sub-sequence of any order](../problem-solutions/1d-array-problems/longest-consecutive-sub-sequence-of-any-order.md)
 * [Missing number in array with elements 1 to n](../problem-solutions/1d-array-problems/missing-number-in-array-with-elements-1-to-n.md)
 * [Best Time to Buy and Sell Stock Atmost k transactions](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-atmost-k-transactions.md)
+* [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
 
 ## nD Arrays/Strings
 

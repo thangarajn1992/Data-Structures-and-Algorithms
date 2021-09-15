@@ -4,6 +4,7 @@
 
 * [All Unique Triplets that add upto to given sum](../problem-solutions/1d-array-problems/all-unique-triplets-that-add-upto-to-given-sum.md)
 * [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
+* [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
 
 ## nD Arrays
 

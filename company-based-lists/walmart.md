@@ -3,6 +3,7 @@
 ## 1D Arrays
 
 * [Longest consecutive sub-sequence of any order](../problem-solutions/1d-array-problems/longest-consecutive-sub-sequence-of-any-order.md)
+* [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
 
 ## nD Arrays
 
