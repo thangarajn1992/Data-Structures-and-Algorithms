@@ -22,7 +22,7 @@
 * [Add & Merge Interval](add-and-merge-interval.md)
 * [Interval List Intersections](interval-list-intersections.md)
 * [Maximum Profit in Job Scheduling](maximum-profit-in-job-scheduling.md)
-* Maximum Meetings in One Room
+* [Maximum Meetings in One Room](maximum-meetings-in-one-room.md)
 
 ### Modifying Matrix Elements
 
@@ -36,6 +36,7 @@
 * [Check if Move is Legal](check-if-move-is-legal.md)
 * [All Distinct ways to place N Queen in N\*N Board](all-distinct-ways-to-place-n-queen-in-n-n-board.md)
 * [Number of words that can be formed in M\*N Board from given dictionary](number-of-words-that-can-be-formed-in-m-n-board-from-given-dictionary.md)
+* [Find Winner on a Tic Tac Toe Game from given moves](find-winner-on-a-tic-tac-toe-game-from-given-moves.md)
 
 
 

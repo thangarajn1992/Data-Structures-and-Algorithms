@@ -210,6 +210,7 @@
   * [Check if Move is Legal](problem-solutions/2d-array-problems/check-if-move-is-legal.md)
   * [All Distinct ways to place N Queen in N\*N Board](problem-solutions/2d-array-problems/all-distinct-ways-to-place-n-queen-in-n-n-board.md)
   * [Number of words that can be formed in M\*N Board from given dictionary](problem-solutions/2d-array-problems/number-of-words-that-can-be-formed-in-m-n-board-from-given-dictionary.md)
+  * [Find Winner on a Tic Tac Toe Game from given moves](problem-solutions/2d-array-problems/find-winner-on-a-tic-tac-toe-game-from-given-moves.md)
 * [Linked List Problems](problem-solutions/linked-list-problems/README.md)
   * [Linked Lists Questions](problem-solutions/linked-list-problems/linked-lists-questions.md)
   * [Detect Loop in Linked List](problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
