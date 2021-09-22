@@ -10,7 +10,7 @@
 
 ### Problem Statement
 
-Given two strings, one is a text string, **txt** and other is a pattern string, **pat**. The task is to print the indexes of all the occurences of pattern string in the text string. For printing, Starting Index of a string should be taken as 1.
+Given two strings, one is a text string, **txt** and other is a pattern string, **pat**. The task is to print the indexes of all the occurrences of pattern string in the text string. For printing, Starting Index of a string should be taken as 1.
 
   
  **Example 1:**
