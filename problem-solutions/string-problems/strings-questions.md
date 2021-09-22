@@ -11,6 +11,7 @@
 
 * [Rearrange characters such that there are no repeated characters](rearrange-characters-such-that-there-are-no-repeated-characters.md)
 * [Flip String to Monotone Increasing](flip-string-to-monotone-increasing.md)
+* [Find maximum length of concatenated string with unique characters](find-maximum-length-of-concatenated-string-with-unique-characters.md)
 
 ### String Splitting
 
