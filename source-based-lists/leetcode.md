@@ -36,6 +36,7 @@
 * [Maximum Profit in Job Scheduling - 1235](../problem-solutions/2d-array-problems/maximum-profit-in-job-scheduling.md)
 * [Find Winner on a Tic Tac Toe Game from given moves - 1275](../problem-solutions/2d-array-problems/find-winner-on-a-tic-tac-toe-game-from-given-moves.md)
 * [Last Day Where You Can Still Cross - 1970](../problem-solutions/2d-array-problems/last-day-where-you-can-still-cross.md)
+* [Maximum Earnings From Taxi - 2008](../problem-solutions/2d-array-problems/maximum-earnings-from-taxi.md)
 
 ## Strings
 

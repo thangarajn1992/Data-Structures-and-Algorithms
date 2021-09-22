@@ -23,6 +23,7 @@
 * [Interval List Intersections](interval-list-intersections.md)
 * [Maximum Profit in Job Scheduling](maximum-profit-in-job-scheduling.md)
 * [Maximum Meetings in One Room](maximum-meetings-in-one-room.md)
+* [Maximum Earnings From Taxi](maximum-earnings-from-taxi.md)
 
 ### Modifying Matrix Elements
 

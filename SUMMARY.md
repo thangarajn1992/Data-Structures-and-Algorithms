@@ -205,6 +205,7 @@
   * [Interval List Intersections](problem-solutions/2d-array-problems/interval-list-intersections.md)
   * [Maximum Profit in Job Scheduling](problem-solutions/2d-array-problems/maximum-profit-in-job-scheduling.md)
   * [Maximum Meetings in One Room](problem-solutions/2d-array-problems/maximum-meetings-in-one-room.md)
+  * [Maximum Earnings From Taxi](problem-solutions/2d-array-problems/maximum-earnings-from-taxi.md)
   * [Valid Sudoku Question](problem-solutions/2d-array-problems/valid-sudoku-question.md)
   * [Sudoku Solver](problem-solutions/2d-array-problems/sudoku-solver.md)
   * [Check if Move is Legal](problem-solutions/2d-array-problems/check-if-move-is-legal.md)
