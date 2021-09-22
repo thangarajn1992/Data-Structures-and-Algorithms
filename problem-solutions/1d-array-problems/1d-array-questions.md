@@ -64,6 +64,7 @@
 * [0 - 1 Knapsack Problem](0-1-knapsack-problem.md)
 * [Select maximum number of elements within given sum](select-maximum-number-of-elements-within-given-sum.md)
 * [Longest Turbulent Sub-array](longest-turbulent-sub-array.md)
+* [Maximum Consecutive Ones in array of 0s and 1s](maximum-consecutive-ones-in-array-of-0s-and-1s.md)
 
 ### Array Patterns
 

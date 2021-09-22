@@ -76,6 +76,7 @@
 * [Parallel Computing](algorithms/parallel-computing.md)
 * [Cheney's Algorithm](algorithms/cheneys-algorithm.md)
 * [Backtracking](algorithms/backtracking.md)
+* [Sliding Window](algorithms/sliding-window.md)
 
 ## General Theory
 
@@ -147,6 +148,7 @@
   * [0 - 1 Knapsack Problem](problem-solutions/1d-array-problems/0-1-knapsack-problem.md)
   * [Select maximum number of elements within given sum](problem-solutions/1d-array-problems/select-maximum-number-of-elements-within-given-sum.md)
   * [Longest Turbulent Sub-array](problem-solutions/1d-array-problems/longest-turbulent-sub-array.md)
+  * [Maximum Consecutive Ones in array of 0s and 1s](problem-solutions/1d-array-problems/maximum-consecutive-ones-in-array-of-0s-and-1s.md)
   * [Find Min Max of Array](problem-solutions/1d-array-problems/find-min-max-of-array.md)
   * [Missing number in array with elements 1 to n](problem-solutions/1d-array-problems/missing-number-in-array-with-elements-1-to-n.md)
   * [Majority Element](problem-solutions/1d-array-problems/majority-element.md)
