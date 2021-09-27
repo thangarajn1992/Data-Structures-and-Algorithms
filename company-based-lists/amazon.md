@@ -31,6 +31,7 @@
 ## Strings
 
 * [Longest Palindromic Substring](../problem-solutions/string-problems/longest-palindromic-substring.md)
+* [Count Occurrences of Anagrams](../problem-solutions/string-problems/count-occurrences-of-anagrams.md)
 * [Rearrange characters such that there are no repeated characters](../problem-solutions/string-problems/rearrange-characters-such-that-there-are-no-repeated-characters.md)
 
 ## Linked Lists
