@@ -52,6 +52,7 @@
 ### Selecting set of Elements/subsets
 
 * [Pick N items with Maximum sum from both ends](pick-n-items-from-both-sides.md)
+* [Largest subarray with 0 sum](largest-sub-array-with-0-sum.md)
 * [Maximum Sum of Sub-Array](maximum-sum-of-sub-array.md)
 * [Longest consecutive sub-sequence of any order](longest-consecutive-sub-sequence-of-any-order.md)
 * [Subset Sums](subset-sums.md)

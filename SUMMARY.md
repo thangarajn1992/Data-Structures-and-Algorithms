@@ -137,6 +137,7 @@
   * [Min Cost Climbing Stairs](problem-solutions/1d-array-problems/min-cost-climbing-stairs.md)
   * [Number of ways to Climb Stairs](problem-solutions/1d-array-problems/number-of-ways-to-climb-stairs.md)
   * [Pick N items with Maximum sum from both ends](problem-solutions/1d-array-problems/pick-n-items-from-both-sides.md)
+  * [Largest sub-array with 0 sum](problem-solutions/1d-array-problems/largest-sub-array-with-0-sum.md)
   * [Longest consecutive sub-sequence of any order](problem-solutions/1d-array-problems/longest-consecutive-sub-sequence-of-any-order.md)
   * [Subset Sums](problem-solutions/1d-array-problems/subset-sums.md)
   * [Number of subsets with product less than k](problem-solutions/1d-array-problems/number-of-subsets-with-product-less-than-k.md)
