@@ -214,6 +214,7 @@
   * [Find Winner on a Tic Tac Toe Game from given moves](problem-solutions/2d-array-problems/find-winner-on-a-tic-tac-toe-game-from-given-moves.md)
 * [Linked List Problems](problem-solutions/linked-list-problems/README.md)
   * [Linked Lists Questions](problem-solutions/linked-list-problems/linked-lists-questions.md)
+  * [Finding middle element in a linked list](problem-solutions/linked-list-problems/finding-middle-element-in-a-linked-list.md)
   * [Detect Loop in Linked List](problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
   * [Detect the Node where Loop begins in linked list](problem-solutions/linked-list-problems/detect-the-node-where-loop-begins-in-linked-list.md)
   * [Remove loop in Linked List](problem-solutions/linked-list-problems/remove-loop-in-linked-list.md)

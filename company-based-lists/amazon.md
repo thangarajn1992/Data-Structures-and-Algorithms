@@ -35,6 +35,7 @@
 
 ## Linked Lists
 
+* [Finding middle element in a linked list](../problem-solutions/linked-list-problems/finding-middle-element-in-a-linked-list.md)
 * [Detect Loop in Linked List](../problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
 * [Remove loop in Linked List](../problem-solutions/linked-list-problems/remove-loop-in-linked-list.md)
 * [Reverse a Linked List](../problem-solutions/linked-list-problems/reverse-a-linked-list.md)

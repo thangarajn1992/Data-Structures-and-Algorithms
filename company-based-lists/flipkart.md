@@ -13,6 +13,7 @@
 
 ## Linked Lists
 
+* [Finding middle element in a linked list](../problem-solutions/linked-list-problems/finding-middle-element-in-a-linked-list.md)
 * [Intersection Point in Y Shaped Linked Lists](../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
 
 ## Trees
