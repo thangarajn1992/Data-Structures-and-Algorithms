@@ -184,6 +184,7 @@
   * [Rearrange characters such that there are no repeated characters](problem-solutions/string-problems/rearrange-characters-such-that-there-are-no-repeated-characters.md)
   * [Flip String to Monotone Increasing](problem-solutions/string-problems/flip-string-to-monotone-increasing.md)
   * [Find maximum length of concatenated string with unique characters](problem-solutions/string-problems/find-maximum-length-of-concatenated-string-with-unique-characters.md)
+  * [Unique Email Addresses](problem-solutions/string-problems/unique-email-addresses.md)
   * [Number of Good Ways to Split a String](problem-solutions/string-problems/number-of-good-ways-to-split-a-string.md)
   * [Longest Palindromic Substring](problem-solutions/string-problems/longest-palindromic-substring.md)
   * [Number of palindromic strings](problem-solutions/string-problems/number-of-palindromic-strings.md)

@@ -14,6 +14,10 @@
 * [Flip String to Monotone Increasing](flip-string-to-monotone-increasing.md)
 * [Find maximum length of concatenated string with unique characters](find-maximum-length-of-concatenated-string-with-unique-characters.md)
 
+### String Manipulation
+
+* [Unique Email Addresses](unique-email-addresses.md)
+
 ### String Splitting
 
 * [Number of Good Ways to Split a String](number-of-good-ways-to-split-a-string.md)
