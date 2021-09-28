@@ -289,6 +289,7 @@
   * [How many numbers to be patched into array to make all numbers from \[1,n\]](problem-solutions/mathematics-problems/how-many-numbers-to-be-patched-into-array-to-make-all-numbers-from-1-n.md)
   * [How many ways a number N can be represented as sum of 2 or more consective numbers](problem-solutions/mathematics-problems/how-many-ways-a-number-n-can-be-represented-as-sum-of-2-or-more-consective-numbers.md)
   * [Count the number of possible triangles](problem-solutions/mathematics-problems/count-the-number-of-possible-triangles.md)
+  * [N-th Tribonacci Number](problem-solutions/mathematics-problems/n-th-tribonacci-number.md)
 * [Design Problems](problem-solutions/design-problems/README.md)
   * [Design Questions](problem-solutions/design-problems/design-questions.md)
   * [Range Sum Query - Immutable](problem-solutions/design-problems/range-sum-query-immutable.md)

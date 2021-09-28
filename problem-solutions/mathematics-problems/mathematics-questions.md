@@ -20,5 +20,9 @@
 
 * [Count the number of possible triangles](count-the-number-of-possible-triangles.md)
 
+### Series
+
+* [N-th Tribonacci Number](n-th-tribonacci-number.md)
+
 ### 
 
