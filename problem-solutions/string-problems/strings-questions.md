@@ -27,6 +27,7 @@
 * [Longest Palindromic Substring](longest-palindromic-substring.md)
 * [Number of palindromic strings](number-of-palindromic-strings.md)
 * [Number of Palindromic paths in a Matrix](number-of-palindromic-paths-in-a-matrix.md)
+* [Break a Palindrome](break-a-palindrome.md)
 
 ### Decoding/Encoding
 

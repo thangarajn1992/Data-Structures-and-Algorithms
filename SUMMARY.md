@@ -189,6 +189,7 @@
   * [Longest Palindromic Substring](problem-solutions/string-problems/longest-palindromic-substring.md)
   * [Number of palindromic strings](problem-solutions/string-problems/number-of-palindromic-strings.md)
   * [Number of Palindromic paths in a Matrix](problem-solutions/string-problems/number-of-palindromic-paths-in-a-matrix.md)
+  * [Break a Palindrome](problem-solutions/string-problems/break-a-palindrome.md)
   * [Decode ways](problem-solutions/string-problems/decode-ways.md)
   * [Infix to postfix](problem-solutions/string-problems/infix-to-postfix.md)
 * [nD Array/String Problems](problem-solutions/2d-array-problems/README.md)
