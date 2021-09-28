@@ -125,6 +125,7 @@
   * [Find the peak element in an array first increases and then decreases](problem-solutions/1d-array-problems/find-the-peak-element-in-an-array-first-increases-and-then-decreases.md)
   * [Are Elements are within k distance from fully sorted array](problem-solutions/1d-array-problems/are-elements-are-within-k-distance-from-fully-sorted-array.md)
   * [Rearrange array elements](problem-solutions/1d-array-problems/rearrange-array-elements.md)
+  * [Rearrange array elements such that even elements are at even index and odd at odd index](problem-solutions/1d-array-problems/rearrange-array-elements-such-that-even-elements-are-at-even-index-and-odd-at-odd-index.md)
   * [Array With Elements Not Equal to Average of Neighbors](problem-solutions/1d-array-problems/array-with-elements-not-equal-to-average-of-neighbors.md)
   * [Rotate Array - Counter Clockwise](problem-solutions/1d-array-problems/rotate-array-counter-clockwise.md)
   * [Array Nesting](problem-solutions/1d-array-problems/array-nesting.md)
