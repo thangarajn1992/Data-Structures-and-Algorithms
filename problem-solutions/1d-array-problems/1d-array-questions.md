@@ -20,6 +20,7 @@
 * [Best Time to Buy and Sell Stock Atmost k transactions](best-time-to-buy-and-sell-stock-atmost-k-transactions.md)
 * [Best Time to Buy and Sell Stock with Cooldown](best-time-to-buy-and-sell-stock-with-cooldown.md)
 * [Best Time to Buy and Sell Stock with Transaction Fee](best-time-to-buy-and-sell-stock-with-transaction-fee.md)
+* [Multiple Range Sum Queries](multiple-range-sum-queries.md)
 
 ### Space Recycling/ Reordering
 
