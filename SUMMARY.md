@@ -254,6 +254,7 @@
   * [Construct Tree from Preorder Traversal](problem-solutions/tree-problems/construct-tree-from-preorder-traversal.md)
 * [Stack Problems](problem-solutions/stack-problems/README.md)
   * [Stacks Questions](problem-solutions/stack-problems/stacks-questions.md)
+  * [Sort a Stack](problem-solutions/stack-problems/sort-a-stack.md)
   * [Get Minimum from the stack](problem-solutions/stack-problems/get-minimum-from-the-stack.md)
 * [Queue Problems](problem-solutions/queue-problems/README.md)
   * [Queues Questions](problem-solutions/queue-problems/queues-questions.md)
