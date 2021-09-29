@@ -68,6 +68,7 @@
 * [Group Elements at Odd Indices together followed by Even indices in linked list - 328](../problem-solutions/linked-list-problems/group-elements-at-odd-indices-together-followed-by-even-indices-in-linked-list.md)
 * [Flatten a Multi-Level Doubly Linked List - 430](../problem-solutions/linked-list-problems/flatten-a-multi-level-doubly-linked-list.md)
 * [Design a Linked List - 707](../data-structures/linked-lists/#design-a-linked-list)
+* [Split Linked List in Parts - 725](../problem-solutions/linked-list-problems/split-linked-list-in-parts.md)
 
 ## Trees
 

@@ -4,7 +4,7 @@
 
 ### Two Pointer Technique
 
-* Finding middle element in a linked list
+* [Finding middle element in a linked list](finding-middle-element-in-a-linked-list.md)
 * [Detect Loop in Linked List](detect-loop-in-linked-list.md)
 * [Detect the Node where Loop begins in linked list](detect-the-node-where-loop-begins-in-linked-list.md)
 * [Remove loop in Linked List](remove-loop-in-linked-list.md)
@@ -23,6 +23,7 @@
 * [Flatten a Multi-Level Doubly Linked List](flatten-a-multi-level-doubly-linked-list.md)
 * [Deep Copy the linked list which has both next and random pointer](deep-copy-the-linked-list-which-has-both-next-and-random-pointer.md)
 * [Rotate linked list clockwise](rotate-linked-list-clockwise.md)
+* [Split Linked List in Parts](split-linked-list-in-parts.md)
 
 ### Two or More Linked Lists
 
