@@ -291,6 +291,7 @@
   * [Find Greatest Common Divisor of Smallest and Largest element of an array](problem-solutions/mathematics-problems/find-greatest-common-divisor-of-smallest-and-largest-element-of-an-array.md)
   * [How many numbers to be patched into array to make all numbers from \[1,n\]](problem-solutions/mathematics-problems/how-many-numbers-to-be-patched-into-array-to-make-all-numbers-from-1-n.md)
   * [How many ways a number N can be represented as sum of 2 or more consective numbers](problem-solutions/mathematics-problems/how-many-ways-a-number-n-can-be-represented-as-sum-of-2-or-more-consective-numbers.md)
+  * [Number of Non-Reachable Numbers using two co-prime numbers](problem-solutions/mathematics-problems/number-of-non-reachable-numbers-using-two-co-prime-numbers.md)
   * [Count the number of possible triangles](problem-solutions/mathematics-problems/count-the-number-of-possible-triangles.md)
   * [N-th Tribonacci Number](problem-solutions/mathematics-problems/n-th-tribonacci-number.md)
 * [Design Problems](problem-solutions/design-problems/README.md)
