@@ -132,6 +132,7 @@
   * [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
   * [Find Minimum in Rotated Sorted Array without duplicates](problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array.md)
   * [Find Minimum in Rotated Sorted Array with duplicates](problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array-with-duplicates.md)
+  * [Partition to K Equal Sum Subsets](problem-solutions/1d-array-problems/partition-to-k-equal-sum-subsets.md)
   * [Split array into k parts to minimize the maximum part](problem-solutions/1d-array-problems/split-array-into-k-parts-to-minimize-the-maximum-part.md)
   * [All Unique Triplets that add upto to given sum](problem-solutions/1d-array-problems/all-unique-triplets-that-add-upto-to-given-sum.md)
   * [Triplets with Sum between given range](problem-solutions/1d-array-problems/triplets-with-sum-between-given-range.md)

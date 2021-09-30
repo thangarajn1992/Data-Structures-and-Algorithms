@@ -44,6 +44,7 @@
 
 ### Splitting Array
 
+* [Partition to K Equal Sum Subsets](partition-to-k-equal-sum-subsets.md)
 * [Split array into k parts to minimize the maximum part](split-array-into-k-parts-to-minimize-the-maximum-part.md)
 
 ### Path Selection

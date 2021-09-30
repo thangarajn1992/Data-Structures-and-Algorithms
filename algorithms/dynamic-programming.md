@@ -15,4 +15,5 @@
 * [Best Time to Buy and Sell Stock Atmost twice](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-twice.md)
 * [Best Time to Buy and Sell Stock Atmost k transactions](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-atmost-k-transactions.md)
 * [Best Time to Buy and Sell Stock with cooldown](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-with-cooldown.md)
+* [Partition to K Equal Sum Subsets](../problem-solutions/1d-array-problems/partition-to-k-equal-sum-subsets.md)
 

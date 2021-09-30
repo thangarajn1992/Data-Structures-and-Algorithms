@@ -18,6 +18,7 @@
 * [Combination Sum - Input distinct Output Non-distinct subset Repeated Numbers - 377](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Maximum Consecutive Ones in array of 0s and 1s - 485](../problem-solutions/1d-array-problems/maximum-consecutive-ones-in-array-of-0s-and-1s.md)
 * [Array Nesting - 565](../problem-solutions/1d-array-problems/array-nesting.md)
+* [Partition to K Equal Sum Subsets - 698](../problem-solutions/1d-array-problems/partition-to-k-equal-sum-subsets.md)
 * [Best Time to Buy and Sell Stock with Transaction Fee - 714](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-with-transaction-fee.md)
 * [Min Cost Climbing Stairs - 746](https://leetcode.com/problems/min-cost-climbing-stairs/)
 * [Stone Game - 887](../problem-solutions/1d-array-problems/stone-game.md)
