@@ -48,6 +48,7 @@
 
 * [Print BST elements in given range](../problem-solutions/tree-problems/print-bst-elements-in-given-range.md)
 * [Bottom View of Binary Tree](../problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
+* [Vertical Traversal of Binary Tree](../problem-solutions/tree-problems/vertical-traversal-of-binary-tree.md)
 * [Maximum Path Sum between 2 Leaf Nodes](../problem-solutions/tree-problems/maximum-path-sum-between-2-leaf-nodes.md)
 * [Diameter of Binary Tree](../problem-solutions/tree-problems/diameter-of-binary-tree.md)
 * [Merge two Binary Search Trees](../problem-solutions/tree-problems/merge-two-binary-search-trees.md)

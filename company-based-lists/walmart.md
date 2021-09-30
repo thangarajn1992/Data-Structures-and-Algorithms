@@ -19,6 +19,7 @@
 ## Trees
 
 * [Bottom View of Binary Tree](../problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
+* [Vertical Traversal of Binary Tree](../problem-solutions/tree-problems/vertical-traversal-of-binary-tree.md)
 
 ## Stacks
 
