@@ -181,6 +181,7 @@
   * [Minimum index of any char from given pattern in given string](problem-solutions/string-problems/minimum-index-of-any-char-from-given-pattern-in-given-string.md)
   * [Count Occurrences of Anagrams](problem-solutions/string-problems/count-occurrences-of-anagrams.md)
   * [Search Pattern \(KMP-Algorithm\)](problem-solutions/string-problems/search-pattern-kmp-algorithm.md)
+  * [Longest Common Subsequence](problem-solutions/string-problems/longest-common-subsequence.md)
   * [Longest Uncommon Sub-sequence between two strings](problem-solutions/string-problems/longest-uncommon-sub-sequence-between-two-strings.md)
   * [Longest Uncommon Sub-sequence between array of strings](problem-solutions/string-problems/longest-uncommon-sub-sequence-between-array-of-strings.md)
   * [Rearrange characters such that there are no repeated characters](problem-solutions/string-problems/rearrange-characters-such-that-there-are-no-repeated-characters.md)

@@ -5,6 +5,7 @@
 * [Minimum index of any char from given pattern in given string](minimum-index-of-any-char-from-given-pattern-in-given-string.md)
 * [Count Occurrences of Anagrams](count-occurrences-of-anagrams.md)
 * [Search Pattern \(KMP-Algorithm\)](search-pattern-kmp-algorithm.md)
+* [Longest Common Subsequence](longest-common-subsequence.md)
 * [Longest Uncommon Sub-sequence between two strings](longest-uncommon-sub-sequence-between-two-strings.md)
 * [Longest Uncommon Sub-sequence between array of strings](longest-uncommon-sub-sequence-between-two-strings.md)
 
