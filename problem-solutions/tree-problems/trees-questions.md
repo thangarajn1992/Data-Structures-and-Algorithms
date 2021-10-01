@@ -18,6 +18,7 @@
 
 ### **Binary Search Tree**
 
+* Validate Binary Search Tree
 * [Print BST elements in given range](print-bst-elements-in-given-range.md)
 * [Merge two Binary Search Trees](merge-two-binary-search-trees.md)
 * [Number of Structurally unique BSTs with n nodes with unique value from 1 to n](number-of-structurally-unique-bsts-with-n-nodes-with-unique-value-from-1-to-n.md)

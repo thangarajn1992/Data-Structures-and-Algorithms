@@ -58,6 +58,7 @@
 
 ## Trees
 
+* [Validate Binary Search Tree](../problem-solutions/tree-problems/validate-binary-search-tree.md)
 * [Print BST elements in given range](../problem-solutions/tree-problems/print-bst-elements-in-given-range.md)
 * [Construct Tree from Preorder Traversal](../problem-solutions/tree-problems/construct-tree-from-preorder-traversal.md)
 * [Maximum path sum from any node](../problem-solutions/tree-problems/maximum-path-sum-from-any-node.md)

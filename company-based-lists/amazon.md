@@ -46,6 +46,7 @@
 
 ## Trees
 
+* [Validate Binary Search Tree](../problem-solutions/tree-problems/validate-binary-search-tree.md)
 * [Print BST elements in given range](../problem-solutions/tree-problems/print-bst-elements-in-given-range.md)
 * [Bottom View of Binary Tree](../problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
 * [Vertical Traversal of Binary Tree](../problem-solutions/tree-problems/vertical-traversal-of-binary-tree.md)

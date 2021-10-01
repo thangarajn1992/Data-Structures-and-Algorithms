@@ -253,6 +253,7 @@
   * [Bottom View of Binary Tree](problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
   * [Vertical Traversal of Binary Tree](problem-solutions/tree-problems/vertical-traversal-of-binary-tree.md)
   * [Redistribute the coins across Nodes such that each node has 1 coin](problem-solutions/tree-problems/redistribute-the-coins-across-nodes-such-that-each-node-has-1-coin.md)
+  * [Validate Binary Search Tree](problem-solutions/tree-problems/validate-binary-search-tree.md)
   * [Print BST elements in given range](problem-solutions/tree-problems/print-bst-elements-in-given-range.md)
   * [Merge two Binary Search Trees](problem-solutions/tree-problems/merge-two-binary-search-trees.md)
   * [Number of Structurally unique BSTs with n nodes with unique value from 1 to n](problem-solutions/tree-problems/number-of-structurally-unique-bsts-with-n-nodes-with-unique-value-from-1-to-n.md)

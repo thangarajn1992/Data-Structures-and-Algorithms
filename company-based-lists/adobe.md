@@ -21,6 +21,8 @@
 
 ## Trees
 
+* [Validate Binary Search Tree](../problem-solutions/tree-problems/validate-binary-search-tree.md)
+
 ## Stacks
 
 ## Queues

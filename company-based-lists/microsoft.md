@@ -47,6 +47,7 @@
 
 ## Trees
 
+* [Validate Binary Search Tree](../problem-solutions/tree-problems/validate-binary-search-tree.md)
 * [Merge two Binary Search Trees](../problem-solutions/tree-problems/merge-two-binary-search-trees.md)
 * [Maximum Path Sum between 2 Leaf Nodes](../problem-solutions/tree-problems/maximum-path-sum-between-2-leaf-nodes.md)
 * [Diameter of Binary Tree](../problem-solutions/tree-problems/diameter-of-binary-tree.md)
