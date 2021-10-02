@@ -10,6 +10,7 @@
   * [Accessing Elements in Arrays](data-structures/arrays/accessing-elements-in-arrays.md)
   * [Array Capacity VS Length](data-structures/arrays/array-capacity-vs-length.md)
   * [Basic Array Operations](data-structures/arrays/basic-array-operations.md)
+  * [Search in an Array](data-structures/arrays/search-in-an-array.md)
   * [1D vs 2D Array](data-structures/arrays/1d-vs-2d-array.md)
   * [Handling Intervals](data-structures/arrays/handling-intervals.md)
 * [Strings](data-structures/strings/README.md)
