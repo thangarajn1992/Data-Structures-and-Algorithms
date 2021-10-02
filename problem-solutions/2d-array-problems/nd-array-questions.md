@@ -38,6 +38,7 @@
 * [All Distinct ways to place N Queen in N\*N Board](all-distinct-ways-to-place-n-queen-in-n-n-board.md)
 * [Number of words that can be formed in M\*N Board from given dictionary](number-of-words-that-can-be-formed-in-m-n-board-from-given-dictionary.md)
 * [Find Winner on a Tic Tac Toe Game from given moves](find-winner-on-a-tic-tac-toe-game-from-given-moves.md)
+* [Dungeon Game](dungeon-game.md)
 
 
 

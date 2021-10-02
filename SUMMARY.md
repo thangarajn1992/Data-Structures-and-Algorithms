@@ -220,6 +220,7 @@
   * [All Distinct ways to place N Queen in N\*N Board](problem-solutions/2d-array-problems/all-distinct-ways-to-place-n-queen-in-n-n-board.md)
   * [Number of words that can be formed in M\*N Board from given dictionary](problem-solutions/2d-array-problems/number-of-words-that-can-be-formed-in-m-n-board-from-given-dictionary.md)
   * [Find Winner on a Tic Tac Toe Game from given moves](problem-solutions/2d-array-problems/find-winner-on-a-tic-tac-toe-game-from-given-moves.md)
+  * [Dungeon Game](problem-solutions/2d-array-problems/dungeon-game.md)
 * [Linked List Problems](problem-solutions/linked-list-problems/README.md)
   * [Linked Lists Questions](problem-solutions/linked-list-problems/linked-lists-questions.md)
   * [Finding middle element in a linked list](problem-solutions/linked-list-problems/finding-middle-element-in-a-linked-list.md)
