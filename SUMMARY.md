@@ -5,6 +5,12 @@
 ## Data Structures
 
 * [Arrays](data-structures/arrays/README.md)
+  * [Array - A DVD Box ?](data-structures/arrays/array-a-dvd-box.md)
+  * [What is an Array?](data-structures/arrays/what-is-an-array.md)
+  * [Accessing Elements in Arrays](data-structures/arrays/accessing-elements-in-arrays.md)
+  * [Array Capacity VS Length](data-structures/arrays/array-capacity-vs-length.md)
+  * [Basic Array Operations](data-structures/arrays/basic-array-operations.md)
+  * [1D vs 2D Array](data-structures/arrays/1d-vs-2d-array.md)
   * [Handling Intervals](data-structures/arrays/handling-intervals.md)
 * [Strings](data-structures/strings/README.md)
   * [Utility Functions](data-structures/strings/utility-functions.md)
