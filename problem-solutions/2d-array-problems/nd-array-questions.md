@@ -40,7 +40,3 @@
 * [Find Winner on a Tic Tac Toe Game from given moves](find-winner-on-a-tic-tac-toe-game-from-given-moves.md)
 * [Dungeon Game](dungeon-game.md)
 
-
-
-
-
