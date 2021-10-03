@@ -63,7 +63,7 @@ class Solution {
         }
         return false;
     }
-    bool isCycleDFS(int parent, int vertex, vector<bool> & visited, vector<int> adj[])
+    bool isCycleDFS(int parent, int vertex, vector<bool> &visited, vector<int> adj[])
     {
         visited[vertex] = true;
         for(int neighbor : adj[vertex])

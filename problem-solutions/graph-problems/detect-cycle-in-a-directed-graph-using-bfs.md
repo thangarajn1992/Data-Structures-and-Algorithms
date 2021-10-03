@@ -53,19 +53,18 @@ public:
     // else false.
     bool isCycle()
     {
-        // Create a vector to store indegrees of all
-        // vertices. Initialize all indegrees as 0.
+        // Create a vector to store indegrees of all vertices.
+        // Initialize all indegrees as 0.
         vector<int> in_degree(V, 0);
  
-        // Traverse adjacency lists to fill indegrees of
-        // vertices. This step takes O(V+E) time
+        // Traverse adjacency lists to fill indegrees of vertices.
+        // This step takes O(V+E) time
         for (int u = 0; u < V; u++) {
             for (int v : adj[u])
                 in_degree[v]++;
         }
  
-        // Create an queue and enqueue all vertices with
-        // indegree 0
+        // Create an queue and enqueue all vertices with indegree 0
         queue<int> q;
         for (int i = 0; i < V; i++)
             if (in_degree[i] == 0)
@@ -77,15 +76,13 @@ public:
         // One by one dequeue vertices from queue and enqueue
         // adjacents if indegree of adjacent becomes 0
         while (!q.empty()) {
- 
             // Extract front of queue (or perform dequeue)
             // and add it to topological order
             int u = q.front();
             q.pop();
  
-            // Iterate through all its neighbouring nodes
-            // of dequeued node u and decrease their in-degree
-            // by 1
+            // Iterate through all its neighbouring nodes of dequeued node u 
+            // and decrease their in-degree by 1
             list<int>::iterator itr;
             for (itr = adj[u].begin(); itr != adj[u].end(); itr++)
                 // If in-degree becomes zero, add it to queue
@@ -95,11 +92,8 @@ public:
             cnt++;
         }
  
-        // Check if there was a cycle
-        if (cnt != V)
-            return true;
-        else
-            return false;
+        // Check if there was a cycle. If cnt == V, there is no cycle.
+        return cnt != V;
     }
 };
 ```

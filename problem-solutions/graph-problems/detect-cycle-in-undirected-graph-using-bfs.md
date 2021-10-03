@@ -24,8 +24,7 @@ bool isCyclicConntected(vector<int> adj[], int s,
     // Create a queue for BFS
     queue<int> q;
  
-    // Mark the current node as
-    // visited and enqueue it
+    // Mark the current node as visited and enqueue it
     visited[s] = true;
     q.push(s);
  
@@ -35,13 +34,11 @@ bool isCyclicConntected(vector<int> adj[], int s,
         int u = q.front();
         q.pop();
  
-        // Get all adjacent vertices of the dequeued
-        // vertex u. If a adjacent has not been visited,
-        // then mark it visited and enqueue it. We also
-        // mark parent so that parent is not considered
-        // for cycle.
+        // Get all adjacent vertices of the dequeued vertex u. 
+        // If a adjacent has not been visited,then mark it visited and enqueue it.
+        // We also mark parent so that parent is not considered for cycle.
         for (int v : adj[u]) {
-            if (!visited[v]) {
+            if (visited[v] == false) {
                 visited[v] = true;
                 q.push(v);
                 parent[v] = u;

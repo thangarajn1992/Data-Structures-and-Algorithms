@@ -57,7 +57,7 @@ public:
         for(int v = 0; v < V; v++)
             this->adj.push_back(adj[v]);
         
-        vector<bool> visited(V,false);
+        vector<bool> visited(V, false);
         vector<bool> curDFSVisited(V, false);
         
         for(int v = 0; v < V; v++)
@@ -70,14 +70,14 @@ public:
 	{
 	    visited[vertex] = true;
 	    curDFSVisited[vertex] = true;
-        for(int &neighbor : adj[vertex])
-        {
-            if(curDFSVisited[neighbor] || 
-               !visited[neighbor] && detectLoopByDFS(neighbor, visited, curDFSVisited))
-                 return true;
-        }
-        curDFSVisited[vertex] = false;
-        return false;
+	    for(int &neighbor : adj[vertex])
+	    {
+	        if(curDFSVisited[neighbor] || 
+             !visited[neighbor] && detectLoopByDFS(neighbor, visited, curDFSVisited))
+             return true;
+      }
+      curDFSVisited[vertex] = false;
+      return false;
 	}
 };
 ```
