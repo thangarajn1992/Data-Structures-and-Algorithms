@@ -72,6 +72,7 @@
 * [Strongly connected component \(Tarjans's Algo\)](../problem-solutions/graph-problems/strongly-connected-component-tarjanss-algo.md)
 * [Detect Cycle in directed Graph DFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-dfs.md)
 * [Detect Cycle in directed Graph BFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
+* [Detect Cycle in Undirected Graph DFS](../problem-solutions/graph-problems/detect-cycle-in-undirected-graph-dfs.md)
 * [Course Schedule based on Prerequisites](../problem-solutions/graph-problems/course-schedule-based-on-prerequisites.md)
 
 ## Mathematics
