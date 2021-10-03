@@ -45,20 +45,19 @@ Output: []
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        if(!head || !val)
+        if(head == nullptr || val == 0)
             return head;
         
         ListNode *dummy = new ListNode(0);
         dummy->next = head;
         
-        ListNode *prev = dummy, *curr = head;
-        while(curr)
+        ListNode *curr = dummy;
+        while(curr->next)
         {
-            if(curr->val == val) // remove this node
-                prev->next = curr->next;
+            if(curr->next->val == val) // remove this node
+                curr->next = curr->next->next;
             else
-                prev = curr;
-            curr = curr->next;
+                curr = curr->next;
         }
         return dummy->next;
     }
