@@ -3,7 +3,6 @@
 [Leetcode 707](https://leetcode.com/problems/design-linked-list/)
 
 ```cpp
-/* Doubly Linked List */
 class MyLinkedList {
 public:
     /** Initialize your data structure here. */
@@ -79,10 +78,9 @@ public:
             return;
         if(index == 0)
         {
-            Node *newHead = this->head->next;
-            if(newHead)
-                newHead->prev = nullptr;
-            this->head = newHead;
+            this->head = this->head->next;
+            if(this->head)
+                this->head->prev = nullptr;
             return;
         }
         Node *cur = this->head;
@@ -91,10 +89,9 @@ public:
         
         if(cur && cur->next)
         {
-            Node *toDelete = cur->next;
-            cur->next = toDelete->next;
-            if(toDelete->next)
-                toDelete->next->prev = cur;
+            cur->next = cur->next->next;
+            if(cur->next)
+                cur->next->prev = cur;
         }
     }
 };
