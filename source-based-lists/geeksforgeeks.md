@@ -103,6 +103,7 @@
 ## Bit Manipulation
 
 * [Yes XOR No -- XOR Always occurs in pairs](../problem-solutions/bit-manipulation-problems/yes-xor-no-xor-always-occurs-in-pairs.md)
+* [Maximum difference of zeros and ones in binary string](../problem-solutions/bit-manipulation-problems/maximum-difference-of-zeros-and-ones-in-binary-string.md)
 
 
 

@@ -317,6 +317,7 @@
   * [Bit Manipulation Questions](problem-solutions/bit-manipulation-problems/bit-manipulation-questions.md)
   * [Yes XOR No -- XOR Always occurs in pairs](problem-solutions/bit-manipulation-problems/yes-xor-no-xor-always-occurs-in-pairs.md)
   * [Maximum XOR subarray](problem-solutions/bit-manipulation-problems/maximum-xor-subarray.md)
+  * [Maximum difference of zeros and ones in binary string](problem-solutions/bit-manipulation-problems/maximum-difference-of-zeros-and-ones-in-binary-string.md)
   * [Find Binary String not present in given subset](problem-solutions/bit-manipulation-problems/find-binary-string-not-present-in-given-subset.md)
 
 ## Famous Problem Sets
