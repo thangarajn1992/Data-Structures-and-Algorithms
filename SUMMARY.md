@@ -31,6 +31,7 @@
   * [Stack Based Problems](data-structures/stacks/stack-based-problems.md)
 * [Queues](data-structures/queues.md)
 * [Binary Trees](data-structures/binary-trees/README.md)
+  * [Binary Tree Theory](data-structures/binary-trees/binary-tree-theory.md)
   * [Binary Search Trees](data-structures/binary-trees/binary-search-trees.md)
 * [Heap / Priority Queues](data-structures/heap/README.md)
   * [Heap/Priority Queue Problems](data-structures/heap/heap-priority-queue-problems.md)
