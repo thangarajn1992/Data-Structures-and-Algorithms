@@ -326,4 +326,7 @@
 * [Leetcode - Top Easy Interview Questions](famous-problem-sets/leetcode-top-easy-interview-questions.md)
 * [Leetcode - Top Medium Interview Questions](famous-problem-sets/leetcode-top-medium-interview-questions.md)
 * [Leetcode - Top Hard Interview Questions](famous-problem-sets/leetcode-top-hard-interview-questions.md)
+* [Leetcode - Study Plan DSA I](famous-problem-sets/leetcode-study-plan-dsa-i.md)
+* [Leetcode - Study Plan Algo I](famous-problem-sets/leetcode-study-plan-algo-i.md)
+* [Leetcode - Dynamic Programming I](famous-problem-sets/leetcode-dynamic-programming-i.md)
 
