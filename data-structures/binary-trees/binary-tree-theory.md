@@ -36,3 +36,15 @@ You can easily figure out the original expression using the inorder traversal. H
 
 If you handle this tree in postorder, you can easily handle the expression using a stack. Each time when you meet a operator, you can just pop 2 elements from the stack, calculate the result and push the result back into the stack.
 
+### Level Order Traversal
+
+Level-order traversal is to traverse the tree level by level.
+
+`Breadth-First Search` is an algorithm to traverse or search in data structures like a tree or a graph. The algorithm starts with a root node and visit the node itself first. Then traverse its neighbors, traverse its second level neighbors, traverse its third level neighbors, so on and so forth.
+
+When we do breadth-first search in a tree, the order of the nodes we visited is in level order. Typically, we use a queue to help us to do BFS.
+
+![](../../.gitbook/assets/screenshot-2021-10-04-at-6.27.49-pm.png)
+
+
+

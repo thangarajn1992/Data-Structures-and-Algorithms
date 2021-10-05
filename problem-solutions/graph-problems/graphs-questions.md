@@ -12,6 +12,7 @@
 * [m coloring a graph](m-coloring-a-graph.md)
 * [Strongly Connected Component \(Kosaraju's Algorithm\)](strongly-connected-component-kosarajus-algorithm.md)
 * [Strongly connected component \(Tarjans's Algorithm\)](strongly-connected-component-tarjanss-algo.md)
+* [Water Connection Problem - Finding First and Last element in all Connected Component](water-connection-problem-finding-first-and-last-element-in-all-connected-component.md)
 
 ### Building Neighbors
 

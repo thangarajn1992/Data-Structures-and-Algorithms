@@ -87,6 +87,7 @@
 * [Minimum Cost Path with 4 possible directions](../problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
 * [Strongly Connected Component \(Kosaraju's Algorithm\)](../problem-solutions/graph-problems/strongly-connected-component-kosarajus-algorithm.md)
 * [Strongly connected component \(Tarjans's Algo\)](../problem-solutions/graph-problems/strongly-connected-component-tarjanss-algo.md)
+* [Water Connection Problem - Finding First and Last element in all Connected Component](../problem-solutions/graph-problems/water-connection-problem-finding-first-and-last-element-in-all-connected-component.md)
 * [Detect Cycle in Undirected Graph BFS](../problem-solutions/graph-problems/detect-cycle-in-undirected-graph-using-bfs.md)
 * [Detect Cycle in directed Graph BFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
 * [Detect Cycle in directed Graph DFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-dfs.md)
