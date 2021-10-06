@@ -16,6 +16,8 @@
 
 ## Strings
 
+* \*\*\*\*[**17.2 Compute Levenshtein Distance** ](../problem-solutions/string-problems/minimum-edits-to-transform-one-string-to-another-levenshtein-distance.md)**:** Write a Program that takes two strings and computes the minimum number of edits needed to transform the first string into the second string
+
 ## Linked Lists
 
 *  [**8.1 Merge Two Sorted Singly Linked Lists**](../problem-solutions/linked-list-problems/merge-2-sorted-linked-list.md) : Write a Program that takes two lists, assumed to be sorted, and returns their merge. The only field your program can change in a node is its next field
