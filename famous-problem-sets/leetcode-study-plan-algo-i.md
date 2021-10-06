@@ -8,5 +8,8 @@
   * [Squares of Sorted Array - 977](https://leetcode.com/problems/squares-of-a-sorted-array/)
   * [Rotate Array - 189](https://leetcode.com/problems/rotate-array/)
 * Day 3
+  * [Move Zeroes - 283](https://leetcode.com/problems/move-zeroes/)
+  * [Two Sum II - Input Array Sorted - 167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+* Day 4
   * 
 

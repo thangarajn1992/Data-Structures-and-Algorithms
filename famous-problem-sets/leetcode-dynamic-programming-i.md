@@ -7,5 +7,9 @@
   * [Climbing Stairs - 70](https://leetcode.com/problems/climbing-stairs/)
   * [Min Cost Climbing Stairs - 746](https://leetcode.com/problems/min-cost-climbing-stairs/)
 * Day 3
+  * [House Robber - 198](https://leetcode.com/problems/house-robber/)
+  * [House Robber II - 213](https://leetcode.com/problems/house-robber-ii/)
+  * [Delete and Earn - 740](https://leetcode.com/problems/delete-and-earn/)
+* Day 4
   * 
 
