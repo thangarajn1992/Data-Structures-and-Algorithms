@@ -11,5 +11,8 @@
   * [House Robber II - 213](https://leetcode.com/problems/house-robber-ii/)
   * [Delete and Earn - 740](https://leetcode.com/problems/delete-and-earn/)
 * Day 4
+  * [Jump Game - 55](https://leetcode.com/problems/jump-game/)
+  * [Jump Game II - 45](https://leetcode.com/problems/jump-game-ii/)
+* Day 5
   * 
 

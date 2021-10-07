@@ -11,5 +11,8 @@
   * [Move Zeroes - 283](https://leetcode.com/problems/move-zeroes/)
   * [Two Sum II - Input Array Sorted - 167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 * Day 4
+  * [Reverse String - 344](https://leetcode.com/problems/reverse-string/)
+  * [Reverse Words in String III - 557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+* Day 5
   * 
 
