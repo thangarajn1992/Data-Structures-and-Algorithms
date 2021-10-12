@@ -14,5 +14,18 @@
   * [Reverse String - 344](https://leetcode.com/problems/reverse-string/)
   * [Reverse Words in String III - 557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 * Day 5
-  * 
-
+  *
+  *
+* Day 6
+  *
+  * s
+* Day 7
+  *
+  *
+* Day 8
+  *
+  *
+* Day 9 - Breadth First Search / Depth First Search
+  * [01 Matrix - 542 ](https://leetcode.com/problems/01-matrix/)
+  * [Rotting Oranges - 994](https://leetcode.com/problems/rotting-oranges/)
+* Day 10 -\
