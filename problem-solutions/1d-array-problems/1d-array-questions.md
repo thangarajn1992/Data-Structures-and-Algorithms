@@ -8,6 +8,7 @@
 * [Majority Element](majority-element.md)
 * [Find the middle index with left sum equal to right sum](find-the-middle-index-with-left-sum-equal-to-right-sum.md)
 * [All Unique Triplets that add upto to given sum](all-unique-triplets-that-add-upto-to-given-sum.md)
+* Count triplets with sum smaller than X
 * [Triplets with Sum between given range](triplets-with-sum-between-given-range.md)
 * [Add one to Number](add-one-to-number.md)
 * [Median of Two Sorted Arrays](median-of-two-sorted-arrays.md)
@@ -31,7 +32,7 @@
 * [Array With Elements Not Equal to Average of Neighbors](array-with-elements-not-equal-to-average-of-neighbors.md)
 * [Rotate Array - Counter Clockwise](rotate-array-counter-clockwise.md)
 * [Array Nesting](array-nesting.md)
-* [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
+* [Rearrange array into 3 parts based on given pivot ( < , = , > pivot) Dutch Flag Partitioning](rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
 
 ### Searching & Sorting
 
@@ -60,7 +61,7 @@
 * [Longest consecutive sub-sequence of any order](longest-consecutive-sub-sequence-of-any-order.md)
 * [Subset Sums](subset-sums.md)
 * [Number of subsets with product less than k](number-of-subsets-with-product-less-than-k.md)
-* [Combinations of `k` numbers that sum up to `n`](combinations-of-k-numbers-that-sum-up-to-n.md)\`\`
+* [Combinations of `k` numbers that sum up to `n`](combinations-of-k-numbers-that-sum-up-to-n.md)``
 * [Combination Sum - Input distinct Output Unique Subset Repeated Numbers](combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Combination Sum - Input distinct Output Sorted Unique Subset Repeated Numbers](combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Combination Sum - Input non-distinct Output Unique subset with freq num same as input](combination-sum-input-non-distinct-output-unique-subset-with-freq-num-same-as-input.md)
@@ -88,4 +89,3 @@
 * [Find Starting point to complete circular tour of set of petrol bunks](find-starting-point-to-complete-circular-tour-of-set-of-petrol-bunks.md)
 * [Maximize The total Cut Segments with given lengths of cut](maximize-the-total-cut-segments-with-given-lengths-of-cut.md)
 * [Minimize number of elements needed to cover entire range](minimize-number-of-elements-needed-to-cover-entire-range.md)
-

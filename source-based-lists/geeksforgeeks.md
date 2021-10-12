@@ -2,29 +2,7 @@
 
 ## 1D Arrays
 
-* [Subset Sums](../problem-solutions/1d-array-problems/subset-sums.md)
-* [Minimum steps to make product equal to one](../problem-solutions/1d-array-problems/minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
-* [Min Cost Climbing Stairs](../problem-solutions/1d-array-problems/min-cost-climbing-stairs.md)
-* [Are Elements are within k distance from fully sorted array](../problem-solutions/1d-array-problems/are-elements-are-within-k-distance-from-fully-sorted-array.md)
-* [Split array into k parts to minimize the maximum part](../problem-solutions/1d-array-problems/split-array-into-k-parts-to-minimize-the-maximum-part.md)
-* [0 - 1 Knapsack Problem](../problem-solutions/1d-array-problems/0-1-knapsack-problem.md)
-* [Find starting point to complete circular tour of set of petrol bunks](../problem-solutions/1d-array-problems/find-starting-point-to-complete-circular-tour-of-set-of-petrol-bunks.md)
-* [Rotate Array - Counter Clockwise](../problem-solutions/1d-array-problems/rotate-array-counter-clockwise.md)
-* [Product of every other element except the current element](../problem-solutions/1d-array-problems/product-of-every-other-element-except-the-current-element.md)
-* [Select maximum number of elements within given sum](../problem-solutions/1d-array-problems/select-maximum-number-of-elements-within-given-sum.md)
-* [Find the peak element in an array first increases and then decreases](../problem-solutions/1d-array-problems/find-the-peak-element-in-an-array-first-increases-and-then-decreases.md)
-* [All Unique Triplets that add upto to given sum](../problem-solutions/1d-array-problems/all-unique-triplets-that-add-upto-to-given-sum.md)
-* [Maximize The total Cut Segments with given lengths of cut](../problem-solutions/1d-array-problems/maximize-the-total-cut-segments-with-given-lengths-of-cut.md)
-* [Minimize number of elements needed to cover entire range](../problem-solutions/1d-array-problems/minimize-number-of-elements-needed-to-cover-entire-range.md)
-* [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
-* [Majority Element](../problem-solutions/1d-array-problems/majority-element.md)
-* [Longest consecutive sub-sequence of any order](../problem-solutions/1d-array-problems/longest-consecutive-sub-sequence-of-any-order.md)
-* [Number of subsets with product less than k](../problem-solutions/1d-array-problems/number-of-subsets-with-product-less-than-k.md)
-* [Missing number in array with elements 1 to n](../problem-solutions/1d-array-problems/missing-number-in-array-with-elements-1-to-n.md)
-* [Best Time to Buy and Sell Stock Atmost k transactions](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-atmost-k-transactions.md)
-* [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
-* [Largest sub-array with 0 sum](../problem-solutions/1d-array-problems/largest-sub-array-with-0-sum.md)
-* [Multiple Range Sum Queries](../problem-solutions/1d-array-problems/multiple-range-sum-queries.md)
+*
 
 ## nD Arrays/Strings
 
@@ -43,10 +21,10 @@
 * [Longest Palindromic Substring](../problem-solutions/string-problems/longest-palindromic-substring.md)
 * [Number of palindromic strings](../problem-solutions/string-problems/number-of-palindromic-strings.md)
 * [Number of Palindromic paths in a Matrix](../problem-solutions/string-problems/number-of-palindromic-paths-in-a-matrix.md)
-* [Search Pattern \(KMP-Algorithm\)](../problem-solutions/string-problems/search-pattern-kmp-algorithm.md)
+* [Search Pattern (KMP-Algorithm)](../problem-solutions/string-problems/search-pattern-kmp-algorithm.md)
 * [Infix to postfix](../problem-solutions/string-problems/infix-to-postfix.md)
 * [Rearrange characters such that there are no repeated characters](../problem-solutions/string-problems/rearrange-characters-such-that-there-are-no-repeated-characters.md)
-* [Minimum Edits to transform one string to another \( Levenshtein Distance \)](../problem-solutions/string-problems/minimum-edits-to-transform-one-string-to-another-levenshtein-distance.md)
+* [Minimum Edits to transform one string to another ( Levenshtein Distance )](../problem-solutions/string-problems/minimum-edits-to-transform-one-string-to-another-levenshtein-distance.md)
 
 ## Linked Lists
 
@@ -86,8 +64,8 @@
 ## Graphs
 
 * [Minimum Cost Path with 4 possible directions](../problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
-* [Strongly Connected Component \(Kosaraju's Algorithm\)](../problem-solutions/graph-problems/strongly-connected-component-kosarajus-algorithm.md)
-* [Strongly connected component \(Tarjans's Algo\)](../problem-solutions/graph-problems/strongly-connected-component-tarjanss-algo.md)
+* [Strongly Connected Component (Kosaraju's Algorithm)](../problem-solutions/graph-problems/strongly-connected-component-kosarajus-algorithm.md)
+* [Strongly connected component (Tarjans's Algo)](../problem-solutions/graph-problems/strongly-connected-component-tarjanss-algo.md)
 * [Water Connection Problem - Finding First and Last element in all Connected Component](../problem-solutions/graph-problems/water-connection-problem-finding-first-and-last-element-in-all-connected-component.md)
 * [Detect Cycle in Undirected Graph BFS](../problem-solutions/graph-problems/detect-cycle-in-undirected-graph-using-bfs.md)
 * [Detect Cycle in directed Graph BFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
@@ -106,6 +84,4 @@
 
 * [Yes XOR No -- XOR Always occurs in pairs](../problem-solutions/bit-manipulation-problems/yes-xor-no-xor-always-occurs-in-pairs.md)
 * [Maximum difference of zeros and ones in binary string](../problem-solutions/bit-manipulation-problems/maximum-difference-of-zeros-and-ones-in-binary-string.md)
-
-
 

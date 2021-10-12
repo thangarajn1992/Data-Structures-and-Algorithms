@@ -2,25 +2,7 @@
 
 ## 1D Arrays
 
-* [Minimum steps to make product equal to one](../problem-solutions/1d-array-problems/minimum-steps-to-make-product-of-array-elements-equal-to-one.md)
-* [Combination Sum - Input distinct Output Sorted Unique Subset Repeated Numbers](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
-* [Split array into k parts to minimize the maximum part](../problem-solutions/1d-array-problems/split-array-into-k-parts-to-minimize-the-maximum-part.md)
-* [0 - 1 Knapsack Problem](../problem-solutions/1d-array-problems/0-1-knapsack-problem.md)
-* [Find starting point to complete circular tour of set of petrol bunks](../problem-solutions/1d-array-problems/find-starting-point-to-complete-circular-tour-of-set-of-petrol-bunks.md)
-* [Rotate Array - Counter Clockwise](../problem-solutions/1d-array-problems/rotate-array-counter-clockwise.md)
-* [Product of every other element except the current element](../problem-solutions/1d-array-problems/product-of-every-other-element-except-the-current-element.md)
-* [Find the peak element in an array first increases and then decreases](../problem-solutions/1d-array-problems/find-the-peak-element-in-an-array-first-increases-and-then-decreases.md)
-* [All Unique Triplets that add upto to given sum](../problem-solutions/1d-array-problems/all-unique-triplets-that-add-upto-to-given-sum.md)
-* [Maximize The total Cut Segments with given lengths of cut](../problem-solutions/1d-array-problems/maximize-the-total-cut-segments-with-given-lengths-of-cut.md)
-* [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
-* [Majority Element](../problem-solutions/1d-array-problems/majority-element.md)
-* [Longest consecutive sub-sequence of any order](../problem-solutions/1d-array-problems/longest-consecutive-sub-sequence-of-any-order.md)
-* [Number of subsets with product less than k](../problem-solutions/1d-array-problems/number-of-subsets-with-product-less-than-k.md)
-* [Missing number in array with elements 1 to n](../problem-solutions/1d-array-problems/missing-number-in-array-with-elements-1-to-n.md)
-* [Best Time to Buy and Sell Stock Atmost k transactions](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-atmost-k-transactions.md)
-* [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
-* [Largest sub-array with 0 sum](../problem-solutions/1d-array-problems/largest-sub-array-with-0-sum.md)
-* [Multiple Range Sum Queries](../problem-solutions/1d-array-problems/multiple-range-sum-queries.md)
+*
 
 ## nD Arrays/Strings
 
@@ -35,7 +17,7 @@
 * [Longest Palindromic Substring](../problem-solutions/string-problems/longest-palindromic-substring.md)
 * [Count Occurrences of Anagrams](../problem-solutions/string-problems/count-occurrences-of-anagrams.md)
 * [Rearrange characters such that there are no repeated characters](../problem-solutions/string-problems/rearrange-characters-such-that-there-are-no-repeated-characters.md)
-* [Minimum Edits to transform one string to another \( Levenshtein Distance \)](../problem-solutions/string-problems/minimum-edits-to-transform-one-string-to-another-levenshtein-distance.md)
+* [Minimum Edits to transform one string to another ( Levenshtein Distance )](../problem-solutions/string-problems/minimum-edits-to-transform-one-string-to-another-levenshtein-distance.md)
 
 ## Linked Lists
 
@@ -69,8 +51,8 @@
 ## Graphs
 
 * [Minimum Cost Path with 4 possible directions](../problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
-* [Strongly Connected Component \(Kosaraju's Algorithm\)](../problem-solutions/graph-problems/strongly-connected-component-kosarajus-algorithm.md)
-* [Strongly connected component \(Tarjans's Algo\)](../problem-solutions/graph-problems/strongly-connected-component-tarjanss-algo.md)
+* [Strongly Connected Component (Kosaraju's Algorithm)](../problem-solutions/graph-problems/strongly-connected-component-kosarajus-algorithm.md)
+* [Strongly connected component (Tarjans's Algo)](../problem-solutions/graph-problems/strongly-connected-component-tarjanss-algo.md)
 * [Detect Cycle in directed Graph DFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-dfs.md)
 * [Detect Cycle in directed Graph BFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
 * [Detect Cycle in Undirected Graph DFS](../problem-solutions/graph-problems/detect-cycle-in-undirected-graph-dfs.md)
@@ -81,8 +63,6 @@
 * [Count the number of possible triangles](../problem-solutions/mathematics-problems/count-the-number-of-possible-triangles.md)
 
 ## Bit Manipulation
-
-
 
 
 
