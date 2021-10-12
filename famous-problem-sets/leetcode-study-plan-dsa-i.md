@@ -25,7 +25,7 @@
   * g
   * h
 * Day 9 - Stack/Queue
-  *
-  * j
+  * [Valid Parentheses - 20](https://leetcode.com/problems/valid-parentheses/)
+  * [Implement Queue using Stacks - 232](https://leetcode.com/problems/implement-queue-using-stacks/)
 * Day 10
 *

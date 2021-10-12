@@ -14,5 +14,18 @@
   * [Jump Game - 55](https://leetcode.com/problems/jump-game/)
   * [Jump Game II - 45](https://leetcode.com/problems/jump-game-ii/)
 * Day 5
-  * 
-
+  * a
+  * b
+* Day 6
+  * c
+  * d
+* Day 7
+  * e
+  * f
+* Day 8
+  * g
+  * h
+* Day 9 
+  * [Word Break - 139](https://leetcode.com/problems/word-break/)
+  * [Trapping Rain Water - 42](https://leetcode.com/problems/trapping-rain-water/)
+*
