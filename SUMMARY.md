@@ -329,6 +329,7 @@
   * [Maximum XOR subarray](problem-solutions/bit-manipulation-problems/maximum-xor-subarray.md)
   * [Maximum difference of zeros and ones in binary string](problem-solutions/bit-manipulation-problems/maximum-difference-of-zeros-and-ones-in-binary-string.md)
   * [Find Binary String not present in given subset](problem-solutions/bit-manipulation-problems/find-binary-string-not-present-in-given-subset.md)
+  * [Swap all odd and even bits](problem-solutions/bit-manipulation-problems/swap-all-odd-and-even-bits.md)
 
 ## Famous Problem Sets
 
