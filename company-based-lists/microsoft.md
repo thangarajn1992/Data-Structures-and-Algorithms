@@ -19,7 +19,7 @@
 * [Longest consecutive sub-sequence of any order](../problem-solutions/1d-array-problems/longest-consecutive-sub-sequence-of-any-order.md)
 * [Missing number in array with elements 1 to n](../problem-solutions/1d-array-problems/missing-number-in-array-with-elements-1-to-n.md)
 * [Best Time to Buy and Sell Stock Atmost k transactions](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-atmost-k-transactions.md)
-* [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
+* [Rearrange array into 3 parts based on given pivot ( < , = , > pivot) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
 * [Largest sub-array with 0 sum](../problem-solutions/1d-array-problems/largest-sub-array-with-0-sum.md)
 
 ## nD Arrays/Strings
@@ -34,10 +34,11 @@
 
 * [Longest Palindromic Substring](../problem-solutions/string-problems/longest-palindromic-substring.md)
 * [Count Occurrences of Anagrams](../problem-solutions/string-problems/count-occurrences-of-anagrams.md)
-* [Search Pattern \(KMP-Algorithm\)](../problem-solutions/string-problems/search-pattern-kmp-algorithm.md)
+* [Search Pattern (KMP-Algorithm)](../problem-solutions/string-problems/search-pattern-kmp-algorithm.md)
 * [Infix to postfix](../problem-solutions/string-problems/infix-to-postfix.md)
 * [Rearrange characters such that there are no repeated characters](../problem-solutions/string-problems/rearrange-characters-such-that-there-are-no-repeated-characters.md)
-* [Minimum Edits to transform one string to another \( Levenshtein Distance \)](../problem-solutions/string-problems/minimum-edits-to-transform-one-string-to-another-levenshtein-distance.md)
+* [Minimum Edits to transform one string to another ( Levenshtein Distance )](../problem-solutions/string-problems/minimum-edits-to-transform-one-string-to-another-levenshtein-distance.md)
+* [Is given resultant string is result of interleaving two given strings](../problem-solutions/string-problems/is-given-resultant-string-is-result-of-interleaving-two-given-strings.md)
 
 ## Linked Lists
 
@@ -68,7 +69,8 @@
 ## Tries
 
 * [Maximum XOR subarray](../problem-solutions/bit-manipulation-problems/maximum-xor-subarray.md)
-* 
+*
+
 ## Heap/Priority Queues
 
 ## Graphs
@@ -77,7 +79,7 @@
 * [Detect Cycle in directed Graph DFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-dfs.md)
 * [Detect Cycle in directed Graph BFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
 * [Detect Cycle in Undirected Graph DFS](../problem-solutions/graph-problems/detect-cycle-in-undirected-graph-dfs.md)
-* [Strongly Connected Component \(Kosaraju's Algorithm\)](../problem-solutions/graph-problems/strongly-connected-component-kosarajus-algorithm.md)
+* [Strongly Connected Component (Kosaraju's Algorithm)](../problem-solutions/graph-problems/strongly-connected-component-kosarajus-algorithm.md)
 * [Course Schedule based on Prerequisites](../problem-solutions/graph-problems/course-schedule-based-on-prerequisites.md)
 
 ## Mathematics
@@ -89,8 +91,7 @@
 ## Bit Manipulation
 
 * [Maximum XOR subarray](../problem-solutions/bit-manipulation-problems/maximum-xor-subarray.md)
-* 
-
+*
 
 
 
