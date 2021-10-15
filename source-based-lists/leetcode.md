@@ -5,6 +5,7 @@
 * [All Unique Triplets that add upto to given sum - 15](../problem-solutions/1d-array-problems/all-unique-triplets-that-add-upto-to-given-sum.md)
 * [Combination Sum - Input distinct Output Unique Subset Repeated Numbers - 39](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Combination Sum - Input non-distinct Output Unique subset with freq num same as input - 40](../problem-solutions/1d-array-problems/combination-sum-input-non-distinct-output-unique-subset-with-freq-num-same-as-input.md)
+* [All Unique Permutations of an array with duplicates - 47 ](../problem-solutions/1d-array-problems/all-unique-permutations-of-an-array-with-duplicates.md)
 * [Number of ways to Climb Stairs - 70](../problem-solutions/1d-array-problems/number-of-ways-to-climb-stairs.md)
 * [Best Time to Buy and Sell Stock once - 121](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-once.md)
 * [Best Time to Buy and Sell Stock - Should buy and/or sell each day - 122](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-should-buy-and-or-sell-each-day.md)
@@ -117,6 +118,4 @@
 ## Design
 
 * [Range Sum Query - Immutable - 303](../problem-solutions/design-problems/range-sum-query-immutable.md)
-
-
 

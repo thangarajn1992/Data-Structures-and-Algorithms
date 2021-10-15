@@ -145,6 +145,7 @@
   * [Rotate Array - Counter Clockwise](problem-solutions/1d-array-problems/rotate-array-counter-clockwise.md)
   * [Array Nesting](problem-solutions/1d-array-problems/array-nesting.md)
   * [Rearrange array into 3 parts based on given pivot ( < , = , > pivot) Dutch Flag Partitioning](problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
+  * [All Unique Permutations of an array with duplicates](problem-solutions/1d-array-problems/all-unique-permutations-of-an-array-with-duplicates.md)
   * [Find Minimum in Rotated Sorted Array without duplicates](problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array.md)
   * [Find Minimum in Rotated Sorted Array with duplicates](problem-solutions/1d-array-problems/find-minimum-in-rotated-sorted-array-with-duplicates.md)
   * [Partition to K Equal Sum Subsets](problem-solutions/1d-array-problems/partition-to-k-equal-sum-subsets.md)

@@ -2,7 +2,7 @@
 
 ## 1D Arrays
 
-*
+* [All Unique Permutations of an array with duplicates](../problem-solutions/1d-array-problems/all-unique-permutations-of-an-array-with-duplicates.md)
 
 ## nD Arrays/Strings
 

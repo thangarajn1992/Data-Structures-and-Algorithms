@@ -33,6 +33,7 @@
 * [Rotate Array - Counter Clockwise](rotate-array-counter-clockwise.md)
 * [Array Nesting](array-nesting.md)
 * [Rearrange array into 3 parts based on given pivot ( < , = , > pivot) Dutch Flag Partitioning](rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
+* [All Unique Permutations of an array with duplicates](all-unique-permutations-of-an-array-with-duplicates.md)
 
 ### Searching & Sorting
 

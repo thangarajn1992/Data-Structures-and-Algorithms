@@ -5,6 +5,7 @@
 * [Split array into k parts to minimize the maximum part](../problem-solutions/1d-array-problems/split-array-into-k-parts-to-minimize-the-maximum-part.md)
 * [Find starting point to complete circular tour of set of petrol bunks](../problem-solutions/1d-array-problems/find-starting-point-to-complete-circular-tour-of-set-of-petrol-bunks.md)
 * [Majority Element](../problem-solutions/1d-array-problems/majority-element.md)
+* [All Unique Permutations of an array with duplicates](../problem-solutions/1d-array-problems/all-unique-permutations-of-an-array-with-duplicates.md)
 
 ## nD Arrays/Strings
 
