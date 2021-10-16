@@ -3,6 +3,7 @@
 ## 1D Arrays
 
 * [All Unique Permutations of an array with duplicates](../problem-solutions/1d-array-problems/all-unique-permutations-of-an-array-with-duplicates.md)
+* [Count distinct elements in every window](../problem-solutions/1d-array-problems/count-distinct-elements-in-every-window.md)
 
 ## nD Arrays/Strings
 

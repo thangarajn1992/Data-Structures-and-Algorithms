@@ -21,6 +21,7 @@
 * [Best Time to Buy and Sell Stock Atmost k transactions](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-atmost-k-transactions.md)
 * [Rearrange array into 3 parts based on given pivot ( < , = , > pivot) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
 * [Largest sub-array with 0 sum](../problem-solutions/1d-array-problems/largest-sub-array-with-0-sum.md)
+* [Count distinct elements in every window](../problem-solutions/1d-array-problems/count-distinct-elements-in-every-window.md)
 
 ## nD Arrays/Strings
 

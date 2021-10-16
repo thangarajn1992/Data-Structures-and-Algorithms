@@ -2,7 +2,7 @@
 
 ## 1D Arrays
 
-*
+* [Count distinct elements in every window](../problem-solutions/1d-array-problems/count-distinct-elements-in-every-window.md)
 
 ## nD Arrays/Strings
 
