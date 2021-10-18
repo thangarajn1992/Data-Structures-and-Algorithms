@@ -36,6 +36,7 @@
 * [Remove loop in Linked List](../problem-solutions/linked-list-problems/remove-loop-in-linked-list.md)
 * [Merge 2 sorted linked list in reverse order](../problem-solutions/linked-list-problems/merge-2-sorted-linked-list-in-reverse-order.md)
 * [Intersection Point in Y Shaped Linked Lists](../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
+* [Segregate even and odd nodes in a Link List](../problem-solutions/linked-list-problems/segregate-even-and-odd-nodes-in-a-link-list.md)
 
 ## Trees
 

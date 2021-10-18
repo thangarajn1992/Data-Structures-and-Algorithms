@@ -253,6 +253,7 @@
   * [Reverse a Linked List between given start and end nodes](problem-solutions/linked-list-problems/reverse-a-linked-list-between-given-start-and-end-nodes.md)
   * [Remove all elements with given value in the linked list](problem-solutions/linked-list-problems/remove-all-elements-with-given-value-in-the-linked-list.md)
   * [Group Elements at Odd Indices together followed by Even indices in linked list](problem-solutions/linked-list-problems/group-elements-at-odd-indices-together-followed-by-even-indices-in-linked-list.md)
+  * [Segregate even and odd nodes in a Link List](problem-solutions/linked-list-problems/segregate-even-and-odd-nodes-in-a-link-list.md)
   * [Is Palindrome Linked List](problem-solutions/linked-list-problems/is-palindrome-linked-list.md)
   * [Flatten a Multi-Level Doubly Linked List](problem-solutions/linked-list-problems/flatten-a-multi-level-doubly-linked-list.md)
   * [Deep Copy the linked list which has both next and random pointer](problem-solutions/linked-list-problems/deep-copy-the-linked-list-which-has-both-next-and-random-pointer.md)
