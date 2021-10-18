@@ -14,15 +14,15 @@
 
 Given an array of integers and a sum B, find all unique combinations in the array where the sum is equal to B. The same number may be chosen from the array any number of times to make B.
 
-**Note:**  
-         **1.** All numbers will be positive integers.  
-         **2.** Elements in a combination \(a1, a2, …, ak\) must be in non-descending order. \(ie, a1 ≤ a2 ≤ … ≤ ak\).  
+**Note:**\
+         **1.** All numbers will be positive integers.\
+         **2.** Elements in a combination (a1, a2, …, ak) must be in non-descending order. (ie, a1 ≤ a2 ≤ … ≤ ak).\
          **3.** The combinations themselves must be sorted in ascending order.
 
-  
+\
  **Example 1:**
 
-```text
+```
 Input:
 N = 4
 arr[] = {7,2,6,5}
@@ -39,7 +39,7 @@ Output:
 
 **Example 2:**
 
-```text
+```
 Input:
 N = 11
 arr[] = {6,5,7,1,8,2,9,9,7,7,9}
@@ -53,14 +53,14 @@ Output:
 (6)
 ```
 
-**Expected Time Complexity:** O\(X2 \* 2N\), where X is average of summation B/arri for every number in the array.  
- **Expected Auxiliary Space:** O\(X \* 2N\)
+**Expected Time Complexity:** O(X2 \* 2N), where X is average of summation B/arri for every number in the array.\
+ **Expected Auxiliary Space:** O(X \* 2N)
 
-  
- **Constraints:**  
- 1 &lt;= N &lt;= 30  
- 1 &lt;= A\[i\] &lt;= 20  
- 1 &lt;= B &lt;= 100
+\
+ **Constraints:**\
+ 1 <= N <= 30\
+ 1 <= A\[i] <= 20\
+ 1 <= B <= 100
 
 ### Solution
 
@@ -94,4 +94,3 @@ class Solution {
     }
 };
 ```
-

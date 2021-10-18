@@ -8,12 +8,12 @@
 
 ### Problem Statement
 
-Given a matrix of  size n x m. Your task is to make Zeroes, that means in whole matrix when you find a zero, convert its upper, lower, left, and right value to zero and make that element the sum of the upper, lower, left and right value. Do the following tasks according to the initial matrix. Your task is to complete the function **MakeZeros\(\)** which takes the matrix as input parameter and does the given task according to initial matrix. You don't need to return anything. The driver code prints the modified matrix itself in the output.  
+Given a matrix of  size n x m. Your task is to make Zeroes, that means in whole matrix when you find a zero, convert its upper, lower, left, and right value to zero and make that element the sum of the upper, lower, left and right value. Do the following tasks according to the initial matrix. Your task is to complete the function **MakeZeros()** which takes the matrix as input parameter and does the given task according to initial matrix. You don't need to return anything. The driver code prints the modified matrix itself in the output.\
   
 
 **Example 1:**
 
-```text
+```
 Input: matrix = {{1, 2, 3, 4},
                  {5, 6, 0, 7}, 
                  {8, 9, 4, 6},
@@ -31,20 +31,20 @@ perform the operation here. Then matrix[1][2]
 
 **Example 2:**
 
-```text
+```
 Input: matrix = {{1, 2}, 
                  {3, 4}}
 output: {{1, 2}, 
          {3, 4}}
 ```
 
-**Expected Time Complexity:** O\(n \* m\)  
-**Expected Space Complexity:** O\(n \* m\)  
+**Expected Time Complexity: **O(n \* m)\
+**Expected Space Complexity: **O(n \* m)\
   
 
-**Constraints:**  
- `1 ≤ n, m ≤ 100`  
- `1 ≤ matrix[i][j] ≤ 100`, where `0 ≤ i ≤ n` and `0 ≤ j ≤ m`
+**Constraints:**\
+ `1 ≤ n, m ≤ 100`\
+ `1 ≤ matrix[i][j] ≤ 100`, where`  0 ≤ i ≤ n  `and `0 ≤ j ≤ m`
 
 ### Solution
 
@@ -85,4 +85,3 @@ public:
     }
 };
 ```
-

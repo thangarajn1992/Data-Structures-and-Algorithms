@@ -6,11 +6,11 @@
 
 ### Problem Statement
 
-You are given two arrays **A\[\]** and **B\[\]**, each of size **N** . Let's consider an integer **X** is the count of all different pairs of **Ai** and **Bj**, such that **Ai XOR Bj** is present in any of the two arrays. Return "**Yes"** \(case-sensitive\) ****if **X** is even, else return **"No"**.
+You are given two arrays **A\[]** and **B\[]**, each of size **N** . Let's consider an integer **X** is the count of all different pairs of **Ai** and **Bj**, such that **Ai XOR Bj** is present in any of the two arrays. Return "**Yes" **(case-sensitive)** **if **X** is even, else return **"No"**.
 
 **Example 1:**
 
-```text
+```
 Input:
 N =  3
 A[] = {1, 5, 7}
@@ -34,7 +34,7 @@ which is even. Hence the output is "Yes".
 
 **Example 2:**
 
-```text
+```
 Input:
 N =  2
 A[] = {1, 5}
@@ -52,12 +52,12 @@ So count of X = 2 which is even.
 Hence the output is "Yes".
 ```
 
-**Expected Time Complexity:** O\(1\)  
-**Expected Auxiliary Space:** O\(1\)
+**Expected Time Complexity:** O(1)\
+**Expected Auxiliary Space:** O(1)
 
-**Constraints:**  
- 1 &lt;= N &lt;= 10^5  
- 1 &lt;= A\[i\],B\[i\] &lt;= 10^9
+**Constraints:**\
+ 1 <= N <= 10^5\
+ 1 <= A\[i],B\[i] <= 10^9
 
 ### Solution
 
@@ -86,4 +86,3 @@ class Solution {
     }
 };
 ```
-

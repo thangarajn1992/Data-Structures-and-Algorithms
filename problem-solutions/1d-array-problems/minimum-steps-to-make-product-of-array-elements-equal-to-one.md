@@ -11,11 +11,11 @@
 
 ### Problem Statement
 
-Given an array **arr\[\]** containing **N** integers. In one step, any element of the array can either be increased or decreased by one. Find minimum steps required such that the product of the array elements becomes **1**.
+Given an array **arr\[]** containing **N** integers. In one step, any element of the array can either be increased or decreased by one. Find minimum steps required such that the product of the array elements becomes **1**.
 
 **Example 1:**
 
-```text
+```
 Input:
 N = 3
 arr[] = {-2, 4, 0}
@@ -30,7 +30,7 @@ the product of the final array is 1.
 
 **Example 2:**
 
-```text
+```
 Input:
 N = 3
 arr[] = {-1, 1, -1} 
@@ -41,18 +41,18 @@ Product of the array is already 1.
 So, we don't need to change anything.
 ```
 
-  
- **Your Task:**    
- You don't need to read input or print anything. Your task is to complete the function **makeProductOne\(\)** which takes an integer N and an array arr of size N as input and returns the minimum steps required.
+\
+ **Your Task:  **\
+ You don't need to read input or print anything. Your task is to complete the function **makeProductOne()** which takes an integer N and an array arr of size N as input and returns the minimum steps required.
 
-  
- **Expected Time Complexity:** O\(N\)  
- **Expected Auxiliary Space:** O\(1\)
+\
+ **Expected Time Complexity:** O(N)\
+ **Expected Auxiliary Space:** O(1)
 
-  
- **Constraints:**  
- 1 ≤ N ≤ 10^5  
- -10^3 ≤ arr\[i\] ≤ 10^3
+\
+ **Constraints:**\
+ 1 ≤ N ≤ 10^5\
+ \-10^3 ≤ arr\[i] ≤ 10^3
 
 ### Solution
 
@@ -63,7 +63,7 @@ So, we don't need to change anything.
 3. Keep the count of -1s and 0s.
 4. If number of -1s is odd
    1. Compensate it by moving one of the zeroes to -1 instead of 1.  Moving 0 to 1 or -1 is same step count.
-   2. If Zeroes are not available, then add 2 to step count \( moving that odd -1 to 1 takes 2 steps\).
+   2. If Zeroes are not available, then add 2 to step count ( moving that odd -1 to 1 takes 2 steps).
 
 ```cpp
 class Solution {
@@ -99,4 +99,3 @@ class Solution {
     }
 };
 ```
-

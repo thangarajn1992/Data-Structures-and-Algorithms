@@ -1,6 +1,6 @@
 # Linked Lists
 
-Similar to the array, the linked list is also a **linear** data structure. Here is an example:
+Similar to the array, the linked list is also a** linear** data structure. Here is an example:
 
 ![Singly Linked List](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/04/12/screen-shot-2018-04-12-at-152754.png)
 
@@ -22,7 +22,7 @@ They are similar in many operations:
 2. Both of them are able to `add a new node after given node or at the beginning of the list in O(1) time`.
 3. Both of them are able to `delete the first node in O(1) time`.
 
-But it is a little different to `delete a given node` \(including the last node\).
+But it is a little different to `delete a given node` (including the last node).
 
 * In a singly linked list, it is not able to get the previous node of a given node so we have to spend `O(N)` time to find out the previous node before deleting the given node.
 * In a doubly linked list, it will be much easier because we can get the previous node with the "prev" reference field. So we can delete a given node in `O(1)` time.
@@ -43,29 +43,27 @@ After this comparison, it is not difficult to come up with our conclusion:
 
 ### C++ Standard Library
 
-For singly linked list, we have [**forward\_list**](https://app.gitbook.com/@thangarajn1992/s/cpp-dictionary/containers/forward-list) ****library. The key functions to remember in this library are
+For singly linked list, we have [**forward_list**](https://app.gitbook.com/@thangarajn1992/s/cpp-dictionary/containers/forward-list)** **library. The key functions to remember in this library are
 
-* push\_front
-* pop\_front
-* emplace\_front
-* insert\_after
-* emplace\_after
-* erase\_after
-* splice\_after
+* push_front
+* pop_front
+* emplace_front
+* insert_after
+* emplace_after
+* erase_after
+* splice_after
 * reverse
 * sort
 
-For doubly linked list, we have [**list**](https://app.gitbook.com/@thangarajn1992/s/cpp-dictionary/containers/list) ****library. The key functions to remember in this library are
+For doubly linked list, we have [**list**](https://app.gitbook.com/@thangarajn1992/s/cpp-dictionary/containers/list)** **library. The key functions to remember in this library are
 
-* push\_front
-* emplace\_front
-* pop\_front
-* push\_back
-* emplace\_back
-* pop\_back
+* push_front
+* emplace_front
+* pop_front
+* push_back
+* emplace_back
+* pop_back
 * splice
 * reverse
 * sort
-
-
 

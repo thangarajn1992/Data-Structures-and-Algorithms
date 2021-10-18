@@ -1,4 +1,4 @@
-# Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning
+# Rearrange array into 3 parts based on given pivot ( < , = , > pivot) Dutch Flag Partitioning
 
 ### Sources
 
@@ -15,12 +15,12 @@
 
 ### Problem Statement
 
-Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order. Complete the function **sort012\(\)** that takes an array arr and N as input parameters and **sorts the array in-place.**
+Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order. Complete the function **sort012()** that takes an array arr and N as input parameters and **sorts the array in-place.**
 
-  
+\
  **Example 1:**
 
-```text
+```
 Input: 
 N = 5
 arr[]= {0 2 1 2 0}
@@ -33,7 +33,7 @@ into ascending order.
 
 **Example 2:**
 
-```text
+```
 Input: 
 N = 3
 arr[] = {0 1 0}
@@ -44,25 +44,25 @@ Explanation:
 into ascending order.
 ```
 
-**Expected Time Complexity:** O\(N\)  
-**Expected Auxiliary Space:** O\(1\)
+**Expected Time Complexity:** O(N)\
+**Expected Auxiliary Space:** O(1)
 
-**Constraints:**  
- 1 &lt;= N &lt;= 10^6  
- 0 &lt;= A\[i\] &lt;= 2
+**Constraints:**\
+ 1 <= N <= 10^6\
+ 0 <= A\[i] <= 2
 
 ### Algorithm
 
 We can reduce runtime, at the cost of a trickier implementation. We can perform classification into elements less than, equal to, and greater than the pivot in a single pass. We do this by maintaining four subarrays : 
 
-1. **Bottom \( elements less than Pivot\)**
-2. **Middle \( elements equal to Pivot\)**
+1. **Bottom ( elements less than Pivot)**
+2. **Middle ( elements equal to Pivot)**
 3. **Unclassified**
-4. **Top \( elements greater than Pivot\)**
+4. **Top ( elements greater than Pivot)**
 
 Initially all elements are in unclassified. We iteratre through elements in unclassified, and move elements into one of bottom, middle, and top groups according to the relative order between the incoming unclassified element and the pivot.
 
-**Time Complexity : O\(N\)   Space Complexity : O\(1\)**
+**Time Complexity : O(N)   Space Complexity : O(1)**
 
 ### Solution
 
@@ -91,4 +91,3 @@ void sort012(int a[], int n)
     }
 }
 ```
-

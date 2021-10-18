@@ -6,26 +6,26 @@
 
 Given an integer array **A** of size **N**. You can pick **B** elements from either left or right end of the array **A** to get maximum sum. Find and return this **maximum possible sum**.
 
-Suppose B = 4 and array A contains 10 elements then You can pick first four elements or can pick last four elements or can pick 1 from front and 3 from back etc . you need to return the maximum possible sum of elements you can pick.  
-  
+Suppose B = 4 and array A contains 10 elements then You can pick first four elements or can pick last four elements or can pick 1 from front and 3 from back etc . you need to return the maximum possible sum of elements you can pick.\
+\
 **Problem Constraints**
 
-1 &lt;= N &lt;= 10^5
+1 <= N <= 10^5
 
-1 &lt;= B &lt;= N
+1 <= B <= N
 
--10^3 &lt;= A\[i\] &lt;= 10^3
+\-10^3 <= A\[i] <= 10^3
 
-**Input Format**  
+**Input Format**\
 First argument is an integer array **A**.  Second argument is an integer **B**.
 
-**Output Format**  
-Return an integer denoting the maximum possible sum of elements you picked.  
+**Output Format**\
+Return an integer denoting the maximum possible sum of elements you picked.\
 
 
 **Example**
 
-```text
+```
  Input 1:
  A = [5, -2, 3 , 1, 2]
  B = 3
@@ -57,4 +57,3 @@ int Solution::solve(vector<int> &A, int B) {
     return max_sum;
 }
 ```
-

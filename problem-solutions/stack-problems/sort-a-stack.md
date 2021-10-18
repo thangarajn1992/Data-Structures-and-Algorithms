@@ -11,11 +11,11 @@
 
 ### Problem Statement
 
-Given a stack, the task is to sort it such that the top of the stack has the greatest element.Your task is to complete the function **sort\(\)** which sorts the elements present in the given stack.
+Given a stack, the task is to sort it such that the top of the stack has the greatest element.Your task is to complete the function **sort() **which sorts the elements present in the given stack.
 
 **Example 1:**
 
-```text
+```
 Input:
 Stack: 3 2 1
 Output: 3 2 1
@@ -23,17 +23,17 @@ Output: 3 2 1
 
 **Example 2:**
 
-```text
+```
 Input:
 Stack: 11 2 32 3 41
 Output: 41 32 11 3 2
 ```
 
-**Expected Time Complexity**: O\(N\*N\)  
-**Expected Auxiliary Space**: O\(N\) recursive.
+**Expected Time Complexity**: O(N\*N)\
+**Expected Auxiliary Space**: O(N) recursive.
 
-**Constraints:**  
- 1&lt;= N &lt;=100
+**Constraints:**\
+ 1<= N <=100
 
 ### Solution
 
@@ -74,4 +74,3 @@ void SortedStack :: sort()
         s.push(tmp.top()), tmp.pop();
 }
 ```
-

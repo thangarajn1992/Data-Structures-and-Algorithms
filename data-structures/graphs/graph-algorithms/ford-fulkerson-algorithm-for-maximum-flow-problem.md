@@ -4,31 +4,31 @@
 
 Maximum Flow problems involve finding a feasible flow through a single-source, single-sink flow network that is maximum.
 
-![](../../../.gitbook/assets/image%20%2821%29.png)
+![](<../../../.gitbook/assets/image (21).png>)
 
-Each edge is labeled with capcity, the maximum amount of stuff that it can carry. The goal is to figure out how much stuff can be pushed from the vertex s\(source\) to the vertex t\(sink\).
+Each edge is labeled with capcity, the maximum amount of stuff that it can carry. The goal is to figure out how much stuff can be pushed from the vertex s(source) to the vertex t(sink).
 
 1. Flow on an edge doesn't exceed the given capacity of the edge
 2. Incoming flow is equal to outgoing flow for every vertex except s and t.
 
-![](../../../.gitbook/assets/image%20%2812%29.png)
+![](<../../../.gitbook/assets/image (12).png>)
 
 Greedy Algorithm won't provide us the best possible solution, hence we need to use residual graphs approach
 
 ### Residual Graph
 
-Residual Graph of a flow network is a graph which indicates additional possible flow. If there is a path from source to sink in residual graph, then it is possible to add flow. Every edge of a residual graph has a value called **Residual Capacity,** which is equal to original capcacity of the edge minus current flow. It is basically the current capacity of the edge.
+Residual Graph of a flow network is a graph which indicates additional possible flow. If there is a path from source to sink in residual graph, then it is possible to add flow. Every edge of a residual graph has a value called **Residual Capacity, **which is equal to original capcacity of the edge minus current flow. It is basically the current capacity of the edge.
 
 ### Implementation
 
 1. Initialize the residual graph as original graph as there is no initial flow and initial residual capacity is equal to original capacity.
 2. To find an augmenting path, we can either BFS or DFS of the residual graph. BFS is used here. Using BFS
    1. We can find out if there is a path from source to sink.
-   2. BFS also builds parent\[\] array. Using parent\[\] array, we traverse through the found path and find possible flow through this path by finding minimum residual capacity along the path.
+   2. BFS also builds parent\[] array. Using parent\[] array, we traverse through the found path and find possible flow through this path by finding minimum residual capacity along the path.
    3. We later add found path flow to overall flow.
 3. Important thing is, we need to update residual capcacities in the residual graph. We substract path flow from all edges along the path and we add path flow along the reverse edges because may be later need to send flow in reverse direction.
 
-**Time Complexity:** O\(max\_flow \* E\). We run a loop while there is an augmenting path. In worst case, we may add 1 unit flow in every iteration.
+**Time Complexity: **O(max_flow \* E). We run a loop while there is an augmenting path. In worst case, we may add 1 unit flow in every iteration.
 
 **Applications:**
 
@@ -37,7 +37,7 @@ Residual Graph of a flow network is a graph which indicates additional possible 
 
 ### Implementation
 
-This implementation of Ford Fulkerson Algorithm is called Edmonds-Karp Algorithm. The idea is to use BFS in Ford Fulkerson implementation as BFS always picks a path with minimum number of edges. When BFS is used, the worst case time complexity can be reduced to O\(VE^2\).
+This implementation of Ford Fulkerson Algorithm is called Edmonds-Karp Algorithm. The idea is to use BFS in Ford Fulkerson implementation as BFS always picks a path with minimum number of edges. When BFS is used, the worst case time complexity can be reduced to O(VE^2).
 
 ```cpp
 // Number of vertices in given graph
@@ -138,7 +138,5 @@ int fordFulkerson(int graph[V][V], int s, int t)
 }
 ```
 
-\*\*\*\*
-
-
+****
 

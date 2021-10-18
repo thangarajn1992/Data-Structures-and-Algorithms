@@ -12,17 +12,17 @@
 
 ### Problem Statement
 
-You are given **N** number of books. Every ith book has **Ai** number of pages.   
+You are given **N** number of books. Every ith book has **Ai** number of pages. \
  You have to allocate books to **M** number of students. There can be many ways or permutations to do so. In each permutation, one of the **M** students will be allocated the maximum number of pages. Out of all these permutations, the task is to find that particular permutation in which the maximum number of pages allocated to a student is minimum of those in all the other permutations and print this minimum value. 
 
 Each book will be allocated to exactly one student. Each student has to be allocated at least one book.
 
-**Note:** Return **-1** if a valid assignment is not possible, and **allotment should be in contiguous order \(see the explanation for better understanding\).**
+**Note:** Return **-1** if a valid assignment is not possible, and **allotment should be in contiguous order (see the explanation for better understanding).**
 
-  
+\
  **Example 1:**
 
-```text
+```
 Input:
 N = 4
 A[] = {12,34,67,90}
@@ -40,7 +40,7 @@ Therefore, the minimum of these cases is
 
 **Example 2:**
 
-```text
+```
 Input:
 N = 3
 A[] = {15,17,20}
@@ -52,13 +52,13 @@ Allocation is done as
 {15,17} and {20}
 ```
 
-**Expected Time Complexity**: O\(NlogN\)  
-**Expected Auxilliary Space**: O\(1\)
+**Expected Time Complexity**: O(NlogN)\
+**Expected Auxilliary Space**: O(1)
 
-**Constraints:**  
- 1 &lt;= N &lt;= 10^5  
- 1 &lt;= A \[ i \] &lt;= 10^6  
- 1 &lt;= M &lt;= 10^5
+**Constraints:**\
+ 1 <= N <= 10^5\
+ 1 <= A \[ i ] <= 10^6\
+ 1 <= M <= 10^5
 
 ### Solution
 
@@ -137,4 +137,3 @@ class Solution
     }
 };
 ```
-

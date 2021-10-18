@@ -7,14 +7,15 @@
 
 ### Companies
 
-* 
+*
+
 ### Problem Statement
 
-Given an array of integers **cost\[\]** of length **N**, where **cost\[i\]** is the cost of the ith step on a staircase. Once the cost is paid, you can either climb one or two steps. You can either start from the step with index 0, or the step with index 1. Return the minimum cost to reach the top of the floor.  
-  
+Given an array of integers **cost\[]** of length **N**, where **cost\[i]** is the cost of the ith step on a staircase. Once the cost is paid, you can either climb one or two steps. You can either start from the step with index 0, or the step with index 1. Return the minimum cost to reach the top of the floor.\
+\
  **Example 1:**
 
-```text
+```
 Input:
 N = 3
 cost[] = {10, 15, 20}
@@ -25,10 +26,10 @@ Cheapest option is to start at cost[1],
 pay that cost, and go to the top.
 ```
 
-  
+\
  **Example 2:**
 
-```text
+```
 Input:
 N = 10
 arr[] = {1, 100, 1, 1, 1, 100, 1, 1, 100, 1}
@@ -39,12 +40,12 @@ Cheapest option is to start on cost[0],
 and only step on 1s, skipping cost[3].
 ```
 
-**Expected Time Complexity:** O\(N\).  
-**Expected Auxiliary Space:** O\(1\).  
-  
- **Constraints:**  
- 2 ≤ N ≤ 10^3  
- 0 ≤ cost\[i\] ≤ 999
+**Expected Time Complexity: **O(N).\
+**Expected Auxiliary Space: **O(1).\
+\
+ **Constraints:**\
+ 2 ≤ N ≤ 10^3\
+ 0 ≤ cost\[i] ≤ 999
 
 ### Solution
 
@@ -65,4 +66,3 @@ class Solution {
     }
 };
 ```
-

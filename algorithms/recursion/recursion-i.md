@@ -6,12 +6,12 @@ You might wonder how we can implement a function that calls itself. The trick is
 
 A recursive function should have the following properties so that it does not result in an infinite loop:
 
-1. A simple `base case` \(or cases\) — a terminating scenario that does not use recursion to produce an answer.
+1. A simple `base case` (or cases) — a terminating scenario that does not use recursion to produce an answer.
 2. A set of rules, also known as `recurrence relation` that reduces all other cases towards the base case.
 
 Note that there could be multiple places where the function may call itself.
 
-#### Example <a id="example"></a>
+#### Example <a href="example" id="example"></a>
 
 Let's start with a simple programming problem:
 
@@ -61,11 +61,11 @@ private static void helper(int index, char [] str) {
 
 For a problem, if there exists a recursive solution, we can follow the guidelines below to implement it. 
 
-For instance, we define the problem as the function `F(X)` to implement, where `X` is the input of the function which also defines the scope of the problem.
+For instance, we define the problem as the function` F(X)` to implement, where` X` is the input of the function which also defines the scope of the problem.
 
 Then, in the function `F(X)`, we will:
 
-1. Break the problem down into smaller scopes, such as `x0 ∈ X, x1∈ X ,..., xn ∈ X` 
+1. Break the problem down into smaller scopes, such as `x0 ∈ X, x1∈ X ,..., xn ∈ X `
 2. Call function `F(x0), F(x1),...,F(xn)` _**recursively**_ to solve the sub-problems of `X`
 3. Finally, process the results from the recursive function calls to solve the problem corresponding to `X.`
 
@@ -75,7 +75,7 @@ To showcase the above guidelines, we give another example on how to solve a prob
 
 > Given a linked list, swap every two adjacent nodes and return its head.
 >
-> _e.g._  for a list 1-&gt; 2 -&gt; 3 -&gt; 4, one should return the head of list as 2 -&gt; 1 -&gt; 4 -&gt; 3.
+> _e.g._  for a list 1-> 2 -> 3 -> 4, one should return the head of list as 2 -> 1 -> 4 -> 3.
 
 We define the function to implement as `swap(head)`, where the input parameter `head` refers to the head of a linked list. The function should return the `head` of the new linked list that has any adjacent nodes swapped.
 
@@ -83,7 +83,7 @@ Following the guidelines we lay out above, we can implement the function as foll
 
 1. First, we swap the first two nodes in the list, _i.e._ `head` and `head.next`;
 2. Then, we call the function self as `swap(head.next.next)` to swap the rest of the list following the first two nodes.
-3. Finally, we attach the returned head of the sub-list in step \(2\) with the two nodes swapped in step \(1\) to form a new linked list.
+3. Finally, we attach the returned head of the sub-list in step (2) with the two nodes swapped in step (1) to form a new linked list.
 
 ## Recurrence Relation
 
@@ -102,31 +102,31 @@ To explain the above points, let's look at a classic problem, `Pascal's Triangle
 
 ![](../../.gitbook/assets/screenshot-2021-10-05-at-10.43.59-pm.png)
 
-#### Recurrence Relation <a id="recurrence-relation"></a>
+#### Recurrence Relation <a href="recurrence-relation" id="recurrence-relation"></a>
 
  Let's start with the recurrence relation within the Pascal's Triangle.
 
-First of all, we define a function `f(i,j)` which returns the number in the Pascal's Triangle in the `i-th` row and `j-th` column.
+First of all, we define a function` f(i,j)` which returns the number in the Pascal's Triangle in the `i-th` row and `j-th` column.
 
-We then can represent the recurrence relation with the following formula:`f(i,j) = f(i−1,j−1) + f(i−1,j)` 
+We then can represent the recurrence relation with the following formula:`f(i,j) = f(i−1,j−1) + f(i−1,j) `
 
-#### Base Case <a id="base-case"></a>
+#### Base Case <a href="base-case" id="base-case"></a>
 
 As one can see, the leftmost and rightmost numbers of each row are the `base cases` in this problem, which are always equal to 1.
 
-As a result, we can define the base case as follows: `f(i,j) = 1 where j = 1 or j = i` 
+As a result, we can define the base case as follows: `f(i,j) = 1 where j = 1 or j = i `
 
 As one can see, once we define the `recurrence relation` and the `base case`, it becomes much more intuitive to implement the recursive function, especially when we formulate these two elements in terms of mathematical formulas.
 
-Starting from `f(5,3)` , we can break it down as `f(5,3)=f(4,2)+f(4,3)`, we then call `f(4,2)` and `f(4,3`\) recursively:
+Starting from `f(5,3)` , we can break it down as `f(5,3)=f(4,2)+f(4,3)`, we then call `f(4,2) `and `f(4,3`) recursively:
 
 * For the call of `f(4,2)`, we could extend it further until we reach the base cases, as follows:`f(4, 2) = f(3, 1) + f(3, 2) = f(3, 1) + (f(2, 1) + f(2, 2)) = 1 + (1 + 1) = 3`
 * For the call of `f(4,3)`, similarly we break it down as: `f(4, 3) = f(3, 2) + f(3, 3) = (f(2, 1) + f(2, 2)) + f(3, 3) = (1 + 1) + 1 = 3`
 * Finally we combine the results of the above sub-problems: `f(5, 3) = f(4, 2) + f(4, 3) = 3 + 3 = 6`
 
-In the above example, you might have noticed that the recursive solution can incur some duplicate calculations, _i.e._ we compute the same intermediate numbers repeatedly in order to obtain numbers in the last row. For instance, in order to obtain the result for the number `f(5,3)`, we calculate the number `f(3,2)` twice both in the calls of `f(4, 2)` and `f(4,3)`.
+In the above example, you might have noticed that the recursive solution can incur some duplicate calculations, _i.e._ we compute the same intermediate numbers repeatedly in order to obtain numbers in the last row. For instance, in order to obtain the result for the number `f(5,3)`, we calculate the number `f(3,2)` twice both in the calls of `f(4, 2)` and` f(4,3)`.
 
-We will discuss how to avoid these `duplicate calculations` in memoization chapter
+We will discuss how to avoid these `duplicate calculations `in memoization chapter
 
 ## Duplicate Calculation in Recursion
 
@@ -136,7 +136,7 @@ In this article we will look closer into the duplicate calculations problem that
 
 To demonstrate another problem with duplicate calculations, let's look at an example that most people might be familiar with, the [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number). If we define the function `F(n)` to represent the Fibonacci number at the index of `n`, then you can derive the following recurrence relation:
 
-`F(n) = F(n - 1) + F(n - 2)` with the base cases:`F(0) = 0, F(1) = 1`
+`F(n) = F(n - 1) + F(n - 2) `with the base cases:`F(0) = 0, F(1) = 1`
 
 Given the definition of a Fibonacci number, one can implement the function as follows:
 
@@ -172,17 +172,17 @@ Now, if you would like to know the number of `F(4)`, you can apply and extend th
 
 As you can see, in order to obtain the result for `F(4)`, we would need to calculate the number `F(2)` twice following the above deduction: the first time in the first extension of `F(4)` and the second time for the intermediate result `F(3)`.
 
-Here is the tree that shows all the duplicate calculations \(grouped by colors\) that occur during the calculation of `F(4)`.
+Here is the tree that shows all the duplicate calculations (grouped by colors) that occur during the calculation of `F(4)`.
 
 ![](https://leetcode.com/explore/learn/card/recursion-i/255/recursion-memoization/Figures/recursion/fibonacci.png)
 
-#### Memoization <a id="memoization"></a>
+#### Memoization <a href="memoization" id="memoization"></a>
 
 To eliminate the duplicate calculation in the above case, as many of you would have figured out, one of the ideas would be to **store** the intermediate results in the cache so that we could reuse them later without re-calculation.
 
 This idea is also known as _memoization_, which is a technique that is frequently used together with recursion.
 
-> [Memoization](https://en.wikipedia.org/wiki/Memoization) is an optimization technique used primarily to **speed up** computer programs by **storing** the results of expensive function calls and returning the cached result when the same inputs occur again. \(Source: wikipedia\)
+> [Memoization](https://en.wikipedia.org/wiki/Memoization) is an optimization technique used primarily to **speed up** computer programs by **storing** the results of expensive function calls and returning the cached result when the same inputs occur again. (Source: wikipedia)
 
 Back to our Fibonacci function `F(n)`. We could use a hash table to keep track of the result of each `F(n)` with `n` as the key. The hash table serves as a cache that saves us from duplicate calculations. The **memoization technique is a good example that demonstrates how one can reduce compute time in exchange for some additional space.**
 
@@ -245,7 +245,7 @@ def fib(self, N):
 
 Let us focus on how to calculate the time complexity for recursion algorithms.
 
-> Given a recursion algorithm, its time complexity O\(T\) is typically the product of **the number of recursion** _**invocations**_ \(denoted as R and **the time complexity of calculation** \(denoted as O\(s\)\) that incurs along with each recursion call: O\(T\) = R \* O\(s\)
+> Given a recursion algorithm, its time complexity O(T) is typically the product of **the number of recursion** _**invocations**_ (denoted as R and **the time complexity of calculation** (denoted as O(s)) that incurs along with each recursion call: O(T) = R \* O(s) 
 
 Let's take a look at some examples below.
 
@@ -257,7 +257,7 @@ As you might recall, in the problem of [printReverse](https://leetcode.com/explo
 
 where `str[1...n]` is the sub-string of the input string `str`, without the leading character `str[0]`.
 
-As you can see, the function would be recursively invoked `n` times, where `n` is the size of the input string. At the end of each recursion, we simply print the leading character, therefore the time complexity of this particular operation is constant, _i.e._ O\(1\) .
+As you can see, the function would be recursively invoked `n` times, where `n` is the size of the input string. At the end of each recursion, we simply print the leading character, therefore the time complexity of this particular operation is constant, _i.e. _O(1) .
 
 To sum up, the overall time complexity of our recursive function `printReverse(str)` would be `O(printReverse) = n * O(1) = O(n)`
 
@@ -271,11 +271,11 @@ The execution tree of a recursive function would form an `n-ary tree`, with `n` 
 
 ![](https://assets.leetcode.com/uploads/2019/01/25/fibonacci.png)
 
-In a full binary tree with `n` levels, the total number of nodes would be `2^(n −1)`. Therefore, the upper bound \(though not tight\) for the number of recursion in `f(n)` would be `2^(n -1)`, as well. As a result, we can estimate that the time complexity for `f(n)` would be `O(2^n)`.
+In a full binary tree with `n` levels, the total number of nodes would be `2^(n −1)`. Therefore, the upper bound (though not tight) for the number of recursion in `f(n)` would be `2^(n -1)`, as well. As a result, we can estimate that the time complexity for `f(n)` would be `O(2^n)`.
 
 #### Memoization
 
-In the previous chapter, we discussed the technique of memoization that is often applied to optimize the time complexity of recursion algorithms. **By caching and reusing the intermediate results, memoization can greatly reduce the number of recursion calls,** _**i.e.**_ **reducing the number of branches in the execution tree.** One should take this reduction into account when analyzing the time complexity of recursion algorithms with memoization.
+In the previous chapter, we discussed the technique of memoization that is often applied to optimize the time complexity of recursion algorithms. **By caching and reusing the intermediate results, memoization can greatly reduce the number of recursion calls, **_**i.e.**_** reducing the number of branches in the execution tree.** One should take this reduction into account when analyzing the time complexity of recursion algorithms with memoization.
 
 Let's get back to our example of Fibonacci number. With memoization, we save the result of Fibonacci number for each index `n`. We are assured that the calculation for each Fibonacci number would occur only once. And we know, from the recurrence relation, the Fibonacci number `f(n)` would depend on all `n-1` precedent Fibonacci numbers. As a result, the recursion to calculate `f(n)` would be invoked `n-1` times to calculate all the precedent numbers that it depends on. 
 
@@ -297,7 +297,7 @@ The recursion related space refers to the memory cost that is incurred directly 
 
 This space in the stack is the minimal cost that is incurred during a function call. However, once the function call is done, this space is freed. 
 
-For recursive algorithms, the function calls chain up successively until they reach a `base case` \(_a.k.a._ bottom case\). This implies that the space that is used for each function call is accumulated.
+For recursive algorithms, the function calls chain up successively until they reach a `base case` (_a.k.a._ bottom case). This implies that the space that is used for each function call is accumulated.
 
 > For a recursive algorithm, if there is no other memory consumption, then this recursion incurred space will be the space upper-bound of the algorithm.
 
@@ -313,7 +313,7 @@ It is due to recursion-related space consumption that sometimes one might run in
 
 ### Non-Recursion Related Space
 
-As suggested by the name, the non-recursion related space refers to the memory space that is not directly related to recursion, which typically includes the space \(normally in heap\) that is allocated for the global variables.
+As suggested by the name, the non-recursion related space refers to the memory space that is not directly related to recursion, which typically includes the space (normally in heap) that is allocated for the global variables.
 
 Recursion or not, you might need to store the input of the problem as global variables, before any subsequent function calls. And you might need to save the intermediate results from the recursive calls as well. The latter is also known as _**memoization**_ as we saw in the previous chapters. For example, in the recursive algorithm with memoization to solve the Fibonacci number problem, we used a map to keep track of all intermediate Fibonacci numbers that occurred during the recursive calls. Therefore, in the space complexity analysis, we must take the space cost incurred by the memoization into consideration.  
 
@@ -401,9 +401,9 @@ For example, for the sequence of recursion calls `f(x1) -> f(x2) -> f(x3)`, if t
 
 ![](https://assets.leetcode.com/uploads/2019/01/26/card_recursion_tail.png)
 
-Note that **in tail recursion, we know that as soon as we return from the recursive call we are going to immediately return as well, so we can skip the entire chain of recursive calls returning and return straight to the original caller. That means we don't need a call stack at all for all of the recursive calls, which saves us space.**
+Note that** in tail recursion, we know that as soon as we return from the recursive call we are going to immediately return as well, so we can skip the entire chain of recursive calls returning and return straight to the original caller. That means we don't need a call stack at all for all of the recursive calls, which saves us space.**
 
-For example, in step \(1\), a space in the stack would be allocated for `f(x1)` in order to call `f(x2)`. Then in step \(2\), the function `f(x2)` would recursively call `f(x3)`. However, instead of allocating new space on the stack, the system could simply reuse the space allocated earlier for this second recursion call. Finally, in the function `f(x3)`, we reach the base case, and the function could simply return the result to the original caller without going back to the previous function calls.
+For example, in step (1), a space in the stack would be allocated for `f(x1)` in order to call `f(x2)`. Then in step (2), the function `f(x2)` would recursively call `f(x3)`. However, instead of allocating new space on the stack, the system could simply reuse the space allocated earlier for this second recursion call. Finally, in the function `f(x3)`, we reach the base case, and the function could simply return the result to the original caller without going back to the previous function calls.
 
 A tail recursion function can be executed as non-tail-recursion functions, _i.e._ with piles of call stacks, without impact on the result. Often, the compiler recognizes tail recursion pattern, and optimizes its execution. However, not all programming languages support this optimization. For instance, **C, C++ support the optimization of tail recursion functions. On the other hand, Java and Python do not support tail recursion optimization.**
 
@@ -421,9 +421,8 @@ Sometimes, at a first glance it is not evident that a recursion algorithm can be
 
 When drafting a recursion algorithm, one could start with the most naive strategy. Sometimes, one might end up with the situation where there might be `duplicate calculation` during the recursion, _e.g._ Fibonacci numbers. In this case, you can try to apply the memoization technique, which stores the intermediate results in cache for later reuse. Memoization could greatly improve the time complexity with a bit of trade on space complexity, since it could avoid the expensive duplicate calculation.
 
-> When stack overflows, **tail recursion** might come to help.
+> When stack overflows, **tail recursion** might come to help. 
 
-There are often several ways to implement an algorithm with recursion. Tail recursion is a specific form of recursion that we could implement. Different from the memoization technique, tail recursion could optimize the _space_ complexity of the algorithm, by eliminating the stack overhead incurred by recursion. More importantly, with tail recursion, one could avoid the problem of `stack overflow` that comes often with recursion. Another advantage about tail recursion is that often times it is easier to read and understand, compared to non-tail-recursion. Because there is no post-call dependency in tail recursion \(_i.e._ the recursive call is the final action in the function\), unlike non-tail-recursion. Therefore, whenever possible, one should strive to apply the tail recursion.
+There are often several ways to implement an algorithm with recursion. Tail recursion is a specific form of recursion that we could implement. Different from the memoization technique, tail recursion could optimize the _space_ complexity of the algorithm, by eliminating the stack overhead incurred by recursion. More importantly, with tail recursion, one could avoid the problem of `stack overflow` that comes often with recursion. Another advantage about tail recursion is that often times it is easier to read and understand, compared to non-tail-recursion. Because there is no post-call dependency in tail recursion (_i.e._ the recursive call is the final action in the function), unlike non-tail-recursion. Therefore, whenever possible, one should strive to apply the tail recursion.
 
 ![](https://assets.leetcode.com/uploads/2019/01/27/tail_recursion_is_its_own_reward.png)
-

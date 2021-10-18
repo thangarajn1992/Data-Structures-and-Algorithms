@@ -13,14 +13,14 @@
 
 ### Problem Statement
 
-Given a square **grid** of size **N**, each cell of which contains integer cost which represents a cost to traverse through that cell, we need to find a path from top left cell to bottom right cell by which the total cost incurred is minimum.  
- From the cell \(i,j\) we can go \(i,j-1\), \(i, j+1\), \(i-1, j\), \(i+1, j\). 
+Given a square **grid** of size **N**, each cell of which contains integer cost which represents a cost to traverse through that cell, we need to find a path from top left cell to bottom right cell by which the total cost incurred is minimum.\
+ From the cell (i,j) we can go (i,j-1), (i, j+1), (i-1, j), (i+1, j). 
 
-**Note:** It is assumed that negative cost cycles do not exist in the input matrix.
+**Note: **It is assumed that negative cost cycles do not exist in the input matrix.
 
 **Example 1:**
 
-```text
+```
 Input: grid = {{9,4,9,9},{6,7,6,4},
 {8,3,3,7},{7,4,9,10}}
 Output: 43
@@ -36,7 +36,7 @@ The minimum cost is
 
 **Example 2:**
 
-```text
+```
 Input: grid = {{4,4},{3,7}}
 Output: 14
 Explanation: 
@@ -46,11 +46,11 @@ The grid is-
 The minimum cost is 4 + 3 + 7 = 14.
 ```
 
-**Expected Time Compelxity:** O\(n^2\*log\(n\)\)  
-**Expected Auxiliary Space:** O\(n^2\) 
+**Expected Time Compelxity: **O(n^2\*log(n))\
+**Expected Auxiliary Space:** O(n^2) 
 
-**Constraints:**  
- 1 ≤ n ≤ 500  
+**Constraints:**\
+ 1 ≤ n ≤ 500\
  1 ≤ cost of cells ≤ 1000
 
 ### Solution
@@ -128,4 +128,3 @@ public:
     }      
 };
 ```
-

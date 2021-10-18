@@ -11,11 +11,11 @@
 
 ### Problem Statement
 
-Given a string S with repeated characters. The task is to rearrange characters in a string such that no two adjacent characters are the same.The string has only lowercase English alphabets and it can have multiple solutions. Return any one of them. The function **rearrangeString\(\)** which takes the string as input and returns the modified string. If the string cannot be modified return "-1".
+Given a string S with repeated characters. The task is to rearrange characters in a string such that no two adjacent characters are the same.The string has only lowercase English alphabets and it can have multiple solutions. Return any one of them. The function **rearrangeString()** which takes the string as input and returns the modified string. If the string cannot be modified return "-1".
 
 **Example 1:**
 
-```text
+```
 Input : 
 str = "geeksforgeeks"
 Output: 1
@@ -26,7 +26,7 @@ that no adjacent characters in the string is equal.
 
 **Example 2:**
 
-```text
+```
 Input : 
 str = "bbbbb"
 Output: 0
@@ -35,11 +35,11 @@ Repeated characters in the string cannot be rearranged such that there should no
 be any adjacent repeated character.
 ```
 
-**Note:** The generated output is 1 if the string is successfully rearranged and is 0 if rearranging is not possible.
+**Note: **The generated output is 1 if the string is successfully rearranged and is 0 if rearranging is not possible.
 
-* **Expected Time Complexity :** O\(NlogN\), N = length of String
-* **Expected Auxiliary Space :** O\(number of English alphabets\)
-* **Constraints :** 1 &lt;= length of string &lt;= 10^4
+* **Expected Time Complexity :** O(NlogN), N = length of String
+* **Expected Auxiliary Space :** O(number of English alphabets)
+* **Constraints : **1 <= length of string <= 10^4
 
 ### Solution
 
@@ -80,5 +80,4 @@ class Solution
 };
 ```
 
-\*\*\*\*
-
+****

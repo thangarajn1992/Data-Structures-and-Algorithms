@@ -8,7 +8,7 @@ The top-down merge sort approach is the methodology which uses recursion mechani
 
 Example: Let us consider an example to understand the approach better.
 
-1. Divide the unsorted list into n sub-lists, each comprising 1 element \(a list of 1 element is supposed sorted\).
+1. Divide the unsorted list into n sub-lists, each comprising 1 element (a list of 1 element is supposed sorted).
 
 ![Working of Merge Sort](https://s3-us-west-2.amazonaws.com/tutorials-image/merge+sort+working.png)
 
@@ -28,19 +28,19 @@ The Bottom-Up merge sort approach uses iterative methodology. It starts with the
 
 Example: Let us understand the concept with the following example.
 
-Iteration \(1\)  
+Iteration (1)\
 
 
 ![Bottom-up Iteration 1](https://s3-us-west-2.amazonaws.com/tutorials-image/Bottom-Up+Merge+Sort.png)
 
 
 
-Iteration \(2\)  
+Iteration (2)\
 
 
 ![Bottom-up Iteration 2](https://s3-us-west-2.amazonaws.com/tutorials-image/bottom+up+Iteration+2.png)
 
-Iteration \(3\)  
+Iteration (3)\
 
 
 ![Bottom-up implementation](https://s3-us-west-2.amazonaws.com/tutorials-image/bottom+up+implementation.png)
@@ -102,4 +102,3 @@ void mergeSort(int *Arr, int start, int end) {
 	}
 }
 ```
-

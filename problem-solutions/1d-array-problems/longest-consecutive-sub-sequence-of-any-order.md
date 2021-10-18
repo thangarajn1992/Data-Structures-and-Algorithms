@@ -12,12 +12,12 @@
 
 ### Problem Statement
 
-Given an array of positive integers. Find the length of the longest sub-sequence such that elements in the sub-sequence are consecutive integers, the **consecutive numbers can be in any order.** complete the function **findLongestConseqSubseq\(\)** which takes the array arr\[\] and the size of the array as inputs and returns the length of the longest sub-sequence of consecutive integers.  
+Given an array of positive integers. Find the length of the longest sub-sequence such that elements in the sub-sequence are consecutive integers, the **consecutive numbers can be in any order. **complete the function **findLongestConseqSubseq()** which takes the array arr\[] and the size of the array as inputs and returns the length of the longest sub-sequence of consecutive integers.\
   
 
 **Example 1:**
 
-```text
+```
 Input:
 N = 7
 a[] = {2,6,1,9,4,5,3}
@@ -32,7 +32,7 @@ subsquence.
 
 **Example 2:**
 
-```text
+```
 Input:
 N = 7
 a[] = {1,9,3,10,4,20,2}
@@ -43,11 +43,11 @@ Explanation:
 consecutive subsequence.
 ```
 
-**Expected Time Complexity:** O\(N\).  
-**Expected Auxiliary Space:** O\(N\).  
-**Constraints:**  
- 1 &lt;= N &lt;= 10^5  
- 0 &lt;= a\[i\] &lt;= 10^5
+**Expected Time Complexity:** O(N).\
+**Expected Auxiliary Space:** O(N).\
+**Constraints:**\
+ 1 <= N <= 10^5\
+ 0 <= a\[i] <= 10^5
 
 ### Solution
 
@@ -84,4 +84,3 @@ public:
     }
 };
 ```
-

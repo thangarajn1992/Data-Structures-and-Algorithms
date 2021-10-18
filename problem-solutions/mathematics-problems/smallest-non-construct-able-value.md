@@ -17,7 +17,7 @@ If `u <= v+1`, we can still produce every value up to and including `v+u` and we
 
 If `u > v+1`, then even after adding u to the collection, we cannot produce `V+1`.
 
-Also, sorting  array allows us to stop which we reach a value that is too large to help, since all subsequent values are at least as large as that value. Specifically, let `M[i-1]` be the maximum construct-able amount from the first `i` elements of the sorted array.
+Also, sorting  array allows us to stop which we reach a value that is too large to help, since all subsequent values are at least as large as that value. Specifically, let `M[i-1]` be the maximum construct-able amount from the first `i `elements of the sorted array.
 
 If the next array element `x > M[i-1] + 1`, then `M[i-1]` is still the maximum construct-able amount.
 
@@ -41,4 +41,3 @@ int SmallestNonConstructibleValue(vector<int> nums) {
     return max_constructible_value + 1;
 }
 ```
-

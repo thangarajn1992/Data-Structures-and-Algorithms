@@ -2,10 +2,10 @@
 
 An undirected graph is called Bi-connected if there are two vertex-disjoint paths between any two vertices. In a Biconnected Graph, there is a simple cycle through any two vertices.
 
-By convention, two nodes connected by an edge form a bi-connected graph, but this does not verify the above properties. For a graph with more than two vertices, the above properties must be there for it to be Bi-connected. Or in other words:   
-**A graph is said to be Bi-connected if:   
-1\) It is connected, i.e. it is possible to reach every vertex from every other vertex, by a simple path.   
-2\) Even after removing any vertex the graph remains connected. i.e there is no** [**articulation point**](articulation-point.md) **in the graph.**
+By convention, two nodes connected by an edge form a bi-connected graph, but this does not verify the above properties. For a graph with more than two vertices, the above properties must be there for it to be Bi-connected. Or in other words: \
+**A graph is said to be Bi-connected if: **\
+**1) It is connected, i.e. it is possible to reach every vertex from every other vertex, by a simple path. **\
+**2) Even after removing any vertex the graph remains connected. i.e there is no **[**articulation point**](articulation-point.md)** in the graph.**
 
 Following are some examples.
 
@@ -187,4 +187,3 @@ int main()
 }
 
 ```
-

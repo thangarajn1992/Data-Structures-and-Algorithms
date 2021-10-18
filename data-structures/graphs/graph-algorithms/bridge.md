@@ -1,23 +1,23 @@
 # Tarjan's Algorithm for Bridges
 
-An edge in an undirected connected graph is a bridge if removing it disconnects the graph. For a disconnected undirected graph, definition is similar, a bridge is an edge removing which increases number of disconnected components.   
-Like [Articulation Points](articulation-point.md), bridges represent vulnerabilities in a connected network and are useful for designing reliable networks. For example, in a wired computer network, an articulation point indicates the critical computers and a bridge indicates the critical wires or connections.  
-Following are some example graphs with bridges highlighted with red color.  
+An edge in an undirected connected graph is a bridge if removing it disconnects the graph. For a disconnected undirected graph, definition is similar, a bridge is an edge removing which increases number of disconnected components. \
+Like [Articulation Points](articulation-point.md), bridges represent vulnerabilities in a connected network and are useful for designing reliable networks. For example, in a wired computer network, an articulation point indicates the critical computers and a bridge indicates the critical wires or connections.\
+Following are some example graphs with bridges highlighted with red color.\
  
 
 ![Bridge1](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Bridge1.png)
 
-**How to find all bridges in a given graph?**   
-A simple approach is to one by one remove all edges and see if removal of an edge causes disconnected graph. Following are steps of simple approach for connected graph.  
-1\) For every edge \(u, v\), do following   
-…..a\) Remove \(u, v\) from graph   
-..…b\) See if the graph remains connected \(We can either use BFS or DFS\)   
-…..c\) Add \(u, v\) back to the graph.  
+**How to find all bridges in a given graph?** \
+A simple approach is to one by one remove all edges and see if removal of an edge causes disconnected graph. Following are steps of simple approach for connected graph.\
+1\) For every edge (u, v), do following \
+…..a) Remove (u, v) from graph \
+..…b) See if the graph remains connected (We can either use BFS or DFS) \
+…..c) Add (u, v) back to the graph.\
 Time complexity of above method is `O(E*(V+E))` for a graph represented using adjacency list. Can we do better?
 
-  
-**A O\(V+E\) algorithm to find all Bridges**   
-The idea is similar to [O\(V+E\) algorithm for Articulation Points](articulation-point.md). We do DFS traversal of the given graph. In DFS tree **an edge \(u, v\) \(u is parent of v in DFS tree\) is bridge if there does not exist any other alternative to reach u or an ancestor of u from sub-tree rooted with v**. The value low\[v\] indicates earliest visited vertex reachable from sub-tree rooted with v. **The condition for an edge \(u, v\) to be a bridge is, “low\[v\] &gt; disc\[u\]”.** 
+\
+**A O(V+E) algorithm to find all Bridges** \
+The idea is similar to [O(V+E) algorithm for Articulation Points](articulation-point.md). We do DFS traversal of the given graph. In DFS tree **an edge (u, v) (u is parent of v in DFS tree) is bridge if there does not exist any other alternative to reach u or an ancestor of u from sub-tree rooted with v**. The value low\[v] indicates earliest visited vertex reachable from sub-tree rooted with v. **The condition for an edge (u, v) to be a bridge is, “low\[v] > disc\[u]”. **
 
 ### **Implementation**
 
@@ -161,4 +161,3 @@ int main()
 }
 
 ```
-

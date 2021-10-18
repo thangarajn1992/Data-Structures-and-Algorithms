@@ -12,26 +12,26 @@
 
 Given two linked lists of size **N** and **M**, which are sorted in non-decreasing order. The task is to merge them in such a way that the resulting list is in decreasing order. Return the pointer to the merged linked list which is in non-increasing order.
 
-**Constraints:**  
- 1 &lt;=T&lt;= 50  
- 1 &lt;= N, M &lt;= 1000
+**Constraints:**\
+ 1 <=T<= 50\
+ 1 <= N, M <= 1000
 
-**Example:  
- Input:**  
- 2  
- 4 3  
- 5 10 15 40   
- 2 3 20  
- 2 2  
- 1 1  
+**Example:**\
+** Input:**\
+ 2\
+ 4 3\
+ 5 10 15 40 \
+ 2 3 20\
+ 2 2\
+ 1 1\
  2 4
 
-**Output:**  
- 40 20 15 10 5 3 2  
+**Output:**\
+ 40 20 15 10 5 3 2\
  4 2 1 1 
 
-**Explanation:  
- Testcase 1:** After merging the two lists in decreasing order, we have new lists as 40-&gt;20-&gt;15-&gt;10-&gt;5-&gt;3-&gt;2.
+**Explanation:**\
+** Testcase 1:** After merging the two lists in decreasing order, we have new lists as 40->20->15->10->5->3->2.
 
 ### Solution
 
@@ -72,4 +72,3 @@ struct Node * mergeResult(Node *node1,Node *node2)
     return result;
 }
 ```
-

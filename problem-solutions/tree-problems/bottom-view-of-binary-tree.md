@@ -14,30 +14,30 @@
 
 Given a binary tree, print the bottom view from left to right. A node is included in bottom view if it can be seen when we look at the tree from bottom.
 
-                      20  
-                     /    \  
-                   8       22  
-                 /   \        \  
-               5      3       25  
-                     /   \        
+                      20\
+                     /    \\\
+                   8       22\
+                 /   \        \\\
+               5      3       25\
+                     /   \      \
                    10    14
 
 For the above tree, the bottom view is 5 10 3 14 25. If there are **multiple** bottom-most nodes for a horizontal distance from root, then print the later one in level traversal. For example, in the below diagram, 3 and 4 are both the bottom most nodes at horizontal distance 0, we need to print 4.
 
-                      20  
-                     /    \  
-                   8       22  
-                 /   \     /   \  
-               5      3 4     25  
-                      /    \        
+                      20\
+                     /    \\\
+                   8       22\
+                 /   \     /   \\\
+               5      3 4     25\
+                      /    \      \
                   10       14
 
-For the above tree the output should be 5 10 4 14 25.  
+For the above tree the output should be 5 10 4 14 25.\
   
 
 **Example 1:**
 
-```text
+```
 Input:
        1
      /   \
@@ -52,11 +52,11 @@ Thus nodes of the binary tree will be
 printed as such 3 1 2.
 ```
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](<../../.gitbook/assets/image (27).png>)
 
 **Example 2:**
 
-```text
+```
 Input:
          10
        /    \
@@ -66,12 +66,12 @@ Input:
 Output: 40 20 60 30
 ```
 
-**Expected Time Complexity:** O\(N\).  
-**Expected Auxiliary Space:** O\(N\).
+**Expected Time Complexity: **O(N).\
+**Expected Auxiliary Space: **O(N).
 
-**Constraints:**  
- 1 &lt;= Number of nodes &lt;= 10^5  
- 1 &lt;= Data of a node &lt;= 10**^**5
+**Constraints:**\
+ 1 <= Number of nodes <= 10^5\
+ 1 <= Data of a node <= 10**^**5
 
 ### Solution
 
@@ -122,4 +122,3 @@ class Solution {
     }
 };
 ```
-

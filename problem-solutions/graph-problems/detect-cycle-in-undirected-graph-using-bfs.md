@@ -4,7 +4,7 @@
 
 We do BF traversal of the given graph. For every visited vertex 'v', if there is an adjacent 'u' such that u is already visited and u is not parent of v, then there is a cycle in the graph. If we don't find such an adjacent for any vertex, we say that there is no cycle.
 
-**Time Complexity :** O\(V+E\)
+**Time Complexity : **O(V+E)
 
 ### Implementation
 
@@ -62,4 +62,3 @@ bool isCyclicDisconntected(vector<int> adj[], int V)
     return false;
 }
 ```
-

@@ -12,13 +12,13 @@
 
 ### Problem Statement
 
-There is **one** meeting room in a firm. There are **N** meetings in the form of **\(start\[i\], end\[i\]\)** where **start\[i\]** is start time of meeting **i** and **end\[i\]** is finish time of meeting **i.**  
- What is the **maximum** number of meetings that can be accommodated in the meeting room when only one meeting can be held in the meeting room at a particular time? **Note:** Start time of one chosen meeting can't be equal to the end time of the other chosen meeting. Complete the function **maxMeetings\(\)** __that takes two arrays **start\[\]** and **end\[\]** along with their size **N** as input parameters and returns the **maximum** number of meetings that can be held in the meeting room.
+There is **one** meeting room in a firm. There are **N** meetings in the form of **(start\[i], end\[i])** where **start\[i] **is start time of meeting **i** and **end\[i]** is finish time of meeting **i.**\
+ What is the **maximum** number of meetings that can be accommodated in the meeting room when only one meeting can be held in the meeting room at a particular time? **Note:** Start time of one chosen meeting can't be equal to the end time of the other chosen meeting. Complete the function **maxMeetings()**_ _that takes two arrays **start\[]** and **end\[]** along with their size **N** as input parameters and returns the **maximum** number of meetings that can be held in the meeting room.
 
-  
+\
  **Example 1:**
 
-```text
+```
 Input:
 N = 6
 start[] = {1,3,0,5,8,5}
@@ -33,7 +33,7 @@ The meetings are - (1, 2),(3, 4), (5,7) and (8,9)
 
 **Example 2:**
 
-```text
+```
 Input:
 N = 3
 start[] = {10, 12, 20}
@@ -45,13 +45,13 @@ Only one meetings can be held
 with given start and end timings.
 ```
 
-**Expected Time Complexity** : O\(N\*LogN\)  
-**Expected Auxilliary Space** : O\(N\)
+**Expected Time Complexity** : O(N\*LogN)\
+**Expected Auxilliary Space** : O(N)
 
-  
- **Constraints:**  
- 1 ≤ N ≤ 10^5  
- 0 ≤ **star**t**\[i\]** &lt; **end\[i\]** ≤ 10^5
+\
+ **Constraints:**\
+ 1 ≤ N ≤ 10^5\
+ 0 ≤ **star**t**\[i]** < **end\[i]** ≤ 10^5
 
 ### Solution
 
@@ -83,4 +83,3 @@ class Solution
     }
 };
 ```
-

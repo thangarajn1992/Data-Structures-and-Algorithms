@@ -1,44 +1,44 @@
 # Kosaraju's algorithm for strongly connected components
 
-## Kosaraju-Sharir's Algorithm \(or Kosaraju's Algorithm\)
+## Kosaraju-Sharir's Algorithm (or Kosaraju's Algorithm)
 
-It is linear time algorithm to find the strongly connected components of a directed graph. It makes use of the fact that the **transpose graph \( the same graph with the direction of the every edge reversed\) has exactly the same strongly connected components as the original graph.**
+It is linear time algorithm to find the strongly connected components of a directed graph. It makes use of the fact that the **transpose graph ( the same graph with the direction of the every edge reversed) has exactly the same strongly connected components as the original graph.**
 
 ### Strongly Connected Components
 
-A directed graph is strongly connected if there is a **path between all pairs of vertices**. A strongly connected component \(SCC\) of a directed graph is a maximal strongly connected sub-graph. For eg., there are 3 SCCs in the following graph.
+A directed graph is strongly connected if there is a **path between all pairs of vertices**. A strongly connected component (SCC) of a directed graph is a maximal strongly connected sub-graph. For eg., there are 3 SCCs in the following graph.
 
 ![](../../../.gitbook/assets/image.png)
 
-We can find all strongly connected components in \(V+E\) time using kosaraju's algorithm.
+We can find all strongly connected components in (V+E) time using kosaraju's algorithm.
 
 ### Algorithm
 
 The primitive graph operations that the algorithm uses are
 
 1. Enumerate the vertices of the graph
-2. Store data per vertex \(if not in the graph data structure itself, then in some table that can use vertices as indices\)
-3. Enumerate the out-neighbors of a vertex \( traverse edges in forward direction\)
-4. Enumerate the in-neighbors of a vertex \( traverse edges in the backward direction\)
+2. Store data per vertex (if not in the graph data structure itself, then in some table that can use vertices as indices)
+3. Enumerate the out-neighbors of a vertex ( traverse edges in forward direction)
+4. Enumerate the in-neighbors of a vertex ( traverse edges in the backward direction)
 
 However, the last can be done without, at the price of constructing a representation of the transpose graph during the forward traversal phase. The only additional data structure needed by the algorithm is an ordered list L of graph vertices, that will grow to contain each vertex once.
 
 If strong components are to be represented by appointing a separate root vertex for each component, and assigning to each vertex the root vertex of its component, then Kosaraju's algorithm can be stated as follows.
 
 1. For each vertex u of the graph, mark u as unvisited. Let L be empty.
-2. For each vertex u of the graph, do Visit\(u\), where Visit\(u\) is recursive subroutine:
+2. For each vertex u of the graph, do Visit(u), where Visit(u) is recursive subroutine:
    1. If u is unvisited, then
       1. Mark u as visited
-      2. For each out-neighbor v of u, do Visit\(v\).
+      2. For each out-neighbor v of u, do Visit(v).
       3. Prepend U to L
    2. Otherwise do nothing
-3. For each element u of L in order, do Assign \(u,root\) where Assign\(u,root\) is the recursive subroutine:
+3. For each element u of L in order, do Assign (u,root) where Assign(u,root) is the recursive subroutine:
    1. If u has not been assigned to a component then:
       1. Assign u as belonging to the component whose root is root.
-      2. For each in-neighbor v of u, do Assign\(v,root\).
+      2. For each in-neighbor v of u, do Assign(v,root).
    2. Otherwise do nothing
 
-Vertices are prepended to the list L in post-order relative to the search tree being explored. They key point of algorithm is that, **if there is a forward path from u to v, then u will appear before v on the final list L \( unless u and v both belong to the same strong component, in which case their relative order in L is arbitrary\).** 
+Vertices are prepended to the list L in post-order relative to the search tree being explored. They key point of algorithm is that, **if there is a forward path from u to v, then u will appear before v on the final list L ( unless u and v both belong to the same strong component, in which case their relative order in L is arbitrary). **
 
 This algorithm in short can be understood as identifying the **strong component of a vertex u as the set of vertices which are reachable from u both by backwards and forwards traversal.**
 
@@ -187,8 +187,6 @@ int main()
     return 0;
 }
 ```
-
-
 
 
 

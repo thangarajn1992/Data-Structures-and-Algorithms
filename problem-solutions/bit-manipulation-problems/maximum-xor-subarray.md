@@ -10,12 +10,12 @@
 
 ### Problem Statement
 
-Given an array **arr\[\]** of size, **N.** Find the subarray with maximum XOR. A subarray is a contiguous part of the array.
+Given an array **arr\[] **of size, **N.** Find the subarray with maximum XOR. A subarray is a contiguous part of the array.
 
-  
+\
  **Example 1:**
 
-```text
+```
 Input:
 N = 4
 arr[] = {1,2,3,4}
@@ -26,21 +26,21 @@ value equal to 7.
 
 ```
 
-  
-**Expected Time Complexity:** O\(N\)  
-**Expected Auxiliary Space:** O\(N
+\
+**Expected Time Complexity:** O(N)\
+**Expected Auxiliary Space:** O(N
 
-**Constraints:**  
- 1 &lt;= N &lt;= 10^5  
- 1 &lt;= arr\[i\] &lt;= 10^5
+**Constraints:**\
+ 1 <= N <= 10^5\
+ 1 <= arr\[i] <= 10^5
 
 ### Solution
 
 #### Trie Based Approach
 
-An **Efficient Solution** can solve the above problem in O\(n\) time under the assumption that integers take fixed number of bits to store. The idea is to use Trie Data Structure. Below is algorithm.  
+An **Efficient Solution** can solve the above problem in O(n) time under the assumption that integers take fixed number of bits to store. The idea is to use Trie Data Structure. Below is algorithm.  
 
-```text
+```
 1) Create an empty Trie.  Every node of Trie is going to 
    contain two children, for 0 and 1 value of bit.
 2) Initialize pre_xor = 0 and insert into the Trie.
@@ -56,12 +56,12 @@ An **Efficient Solution** can solve the above problem in O\(n\) time under the a
           4.b is more than current value of result.
 ```
 
-**How does 4.b work?**   
-We can observe from above algorithm that we build a Trie that contains XOR of all prefixes of given array. To find the maximum XOR subarray ending with arr\[i\], there may be two cases.   
-i\) The prefix itself has the maximum XOR value ending with arr\[i\]. For example if i=2 in {8, 2, 1, 12}, then the maximum subarray xor ending with arr\[2\] is the whole prefix.   
-ii\) We need to remove some prefix \(ending at index from 0 to i-1\). For example if i=3 in {8, 2, 1, 12}, then the maximum subarray xor ending with arr\[3\] starts with arr\[1\] and we need to remove arr\[0\].  
-To find the prefix to be removed, we find the entry in Trie that has maximum XOR value with current prefix. If we do XOR of such previous prefix with current prefix, we get the maximum XOR value ending with arr\[i\].   
-If there is no prefix to be removed \(case i\), then we return 0 \(that’s why we inserted 0 in Trie\). 
+**How does 4.b work?** \
+We can observe from above algorithm that we build a Trie that contains XOR of all prefixes of given array. To find the maximum XOR subarray ending with arr\[i], there may be two cases. \
+i) The prefix itself has the maximum XOR value ending with arr\[i]. For example if i=2 in {8, 2, 1, 12}, then the maximum subarray xor ending with arr\[2] is the whole prefix. \
+ii) We need to remove some prefix (ending at index from 0 to i-1). For example if i=3 in {8, 2, 1, 12}, then the maximum subarray xor ending with arr\[3] starts with arr\[1] and we need to remove arr\[0].\
+To find the prefix to be removed, we find the entry in Trie that has maximum XOR value with current prefix. If we do XOR of such previous prefix with current prefix, we get the maximum XOR value ending with arr\[i]. \
+If there is no prefix to be removed (case i), then we return 0 (that’s why we inserted 0 in Trie). 
 
 ```cpp
 class TrieNode {
@@ -129,4 +129,3 @@ public:
 };
 
 ```
-

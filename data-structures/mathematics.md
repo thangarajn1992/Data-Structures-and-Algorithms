@@ -12,8 +12,6 @@ Any positive number`n`is expressible as a sum of two squares if and only if the 
 
 ### Geometry
 
-* **For a triangle to be possible from 3 values, the sum of any of the two values \(or sides\) must be greater than the third value \(or third side\).**
-* \*\*\*\*
-
-
+* **For a triangle to be possible from 3 values, the sum of any of the two values (or sides) must be greater than the third value (or third side).**
+* ****
 

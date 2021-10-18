@@ -1,4 +1,4 @@
-# Strongly Connected Component \(Kosaraju's Algorithm\)
+# Strongly Connected Component (Kosaraju's Algorithm)
 
 ### Sources
 
@@ -11,13 +11,13 @@
 
 ### Problem Statement
 
-Given a Directed Graph with **V** vertices **\(**Numbered from **0 to V-1\)** and **E** edges, Find the number of strongly connected components in the graph.
+Given a Directed Graph with **V** vertices **(**Numbered from **0 to V-1)** and **E** edges, Find the number of strongly connected components in the graph.
 
 **Example 1:**
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](<../../.gitbook/assets/image (39).png>)
 
-```text
+```
 Output:
 3
 Explanation:
@@ -28,9 +28,9 @@ Connected Components in the Graph
 
 **Example 2:**
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](<../../.gitbook/assets/image (38).png>)
 
-```text
+```
 Output:
 1
 Explanation:
@@ -38,14 +38,14 @@ All of the nodes are connected to each other.
 So, there's only one SCC.
 ```
 
-**Expected Time Complexity:** O\(V+E\).  
-**Expected Auxiliary Space:** O\(V\).  
+**Expected Time Complexity:** O(V+E).\
+**Expected Auxiliary Space:** O(V).\
   
 
-**Constraints:**  
- 1 ≤ V ≤ 5000  
- 0 ≤ E ≤ \(V\*\(V-1\)\)  
- 0 ≤ u, v ≤ N-1  
+**Constraints:**\
+ 1 ≤ V ≤ 5000\
+ 0 ≤ E ≤ (V\*(V-1))\
+ 0 ≤ u, v ≤ N-1\
  Sum of E over all testcases will not exceed 25\*10^6
 
 ### **Solution**
@@ -142,6 +142,4 @@ public:
     }
 };
 ```
-
-
 

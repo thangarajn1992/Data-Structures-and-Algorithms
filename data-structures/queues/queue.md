@@ -1,6 +1,6 @@
 # Queue
 
-## First-In First-Out Data Structure \(FIFO\)
+## First-In First-Out Data Structure (FIFO)
 
 ![](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/05/03/screen-shot-2018-05-03-at-151021.png)
 
@@ -10,17 +10,17 @@ As shown in the picture above, the queue is a typical FIFO data structure. The i
 
 #### Example - Queue
 
-1. Enqueue: you can  see how a new element 6 is added to the queue.
+1\. Enqueue: you can  see how a new element 6 is added to the queue.
 
 ![](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/05/02/screen-shot-2018-05-02-at-174355.png)
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](<../../.gitbook/assets/image (54).png>)
 
-2. Dequeue: you can see first element will be removed.
+2\. Dequeue: you can see first element will be removed.
 
 ![](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/05/02/screen-shot-2018-05-02-at-172840.png)
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](<../../.gitbook/assets/image (53).png>)
 
 ## Queue - Implementation
 
@@ -402,5 +402,4 @@ public class Main {
 
 
 
-#### 
-
+####

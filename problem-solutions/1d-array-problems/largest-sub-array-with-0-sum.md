@@ -15,7 +15,7 @@ Given an array having both positive and negative integers. The task is to comput
 
 **Example 1:**
 
-```text
+```
 Input:
 N = 8
 A[] = {15,-2,2,-8,1,7,10,23}
@@ -24,24 +24,24 @@ Explanation: The largest subarray with
 sum 0 will be -2 2 -8 1 7.
 ```
 
-**Expected Time Complexity:** O\(N\).  
-**Expected Auxiliary Space:** O\(N\).
+**Expected Time Complexity: **O(N).\
+**Expected Auxiliary Space: **O(N).
 
-**Constraints:**  
-1 &lt;= N &lt;= 10^5  
--1000 &lt;= A\[i\] &lt;= 1000, for each valid i
+**Constraints:**\
+1 <= N <= 10^5\
+\-1000 <= A\[i] <= 1000, for each valid i
 
 ### Solution
 
 **Algorithm:**  
 
-1. Create a variable \(sum\), length \(maxLen\), and a hash map \(hm\) to store the sum-index pair as a key-value pair.
+1. Create a variable (sum), length (maxLen), and a hash map (hm) to store the sum-index pair as a key-value pair.
 2. Move along the input array from the start to the end.
-3. For every index, update the value of sum = sum + array\[i\].
+3. For every index, update the value of sum = sum + array\[i].
 4. Check every index, if the current sum is present in the hash map or not.
-5. If present, update the value of maxLen to a maximum difference of two indices \(current index and index in the hash-map\) and max\_len.
-6. Else, put the value \(sum\) in the hash map, with the index as a key-value pair.
-7. Print the maximum length \(maxLen\).
+5. If present, update the value of maxLen to a maximum difference of two indices (current index and index in the hash-map) and max_len.
+6. Else, put the value (sum) in the hash map, with the index as a key-value pair.
+7. Print the maximum length (maxLen).
 
 ```cpp
 class Solution{
@@ -78,4 +78,3 @@ class Solution{
     }
 };
 ```
-

@@ -17,7 +17,7 @@ In its simplest form, Binary Search operates on a contiguous sequence with a spe
 
 **Note:**
 
-> Binary Search can take many alternate forms and might not always be as straight forward as searching for a specific value. Sometimes you will have to apply a specific condition or rule to determine which side \(left or right\) to search next.
+> Binary Search can take many alternate forms and might not always be as straight forward as searching for a specific value. Sometimes you will have to apply a specific condition or rule to determine which side (left or right) to search next.
 
 ### **How do we identify Binary Search?**
 
@@ -66,12 +66,12 @@ int binarySearch(vector<int>& nums, int target){
 }
 ```
 
-Template \#1 is the most basic and elementary form of Binary Search. It is the standard Binary Search Template that most high schools or universities use when they first teach students computer science. **Template \#1 is used to search for an element or condition which can be determined by** _**accessing a single index**_ **in the array.**
+Template #1 is the most basic and elementary form of Binary Search. It is the standard Binary Search Template that most high schools or universities use when they first teach students computer science. **Template #1 is used to search for an element or condition which can be determined by **_**accessing a single index**_** in the array.**
 
 **Key Attributes:**
 
 * Most basic and elementary form of Binary Search
-* Search Condition can be determined without comparing to the element's neighbors \(or use specific elements around it\)
+* Search Condition can be determined without comparing to the element's neighbors (or use specific elements around it)
 * No post-processing required because at each step, you are checking to see if the element has been found. If you reach the end, then you know the element is not found
 
 **Distinguishing Syntax:**
@@ -108,7 +108,7 @@ int binarySearch(vector<int>& nums, int target){
 }
 ```
 
-Template \#2 is an advanced form of Binary Search. It is used to search for an element or condition which requires _accessing the current index and its immediate right neighbor's index_ in the array.
+Template #2 is an advanced form of Binary Search. It is used to search for an element or condition which requires _accessing the current index and its immediate right neighbor's index_ in the array.
 
 **Key Attributes:**
 
@@ -154,7 +154,7 @@ int binarySearch(vector<int>& nums, int target){
 }
 ```
 
-Template \#3 is another unique form of Binary Search. **It is used to search for an element or condition which requires** _**accessing the current index and its immediate left and right neighbor's index**_ **in the array.**
+Template #3 is another unique form of Binary Search. **It is used to search for an element or condition which requires **_**accessing the current index and its immediate left and right neighbor's index**_** in the array.**
 
 **Key Attributes:**
 
@@ -191,16 +191,15 @@ Template 1 and 3 are the most commonly used and almost all binary search problem
 
 **Runtime:** `O(log n)` -- Logarithmic Time
 
-Because Binary Search operates by applying a condition to the value in the middle of our search space and thus cutting the search space in half, in the worse case, we will have to make O\(log n\) comparisons, where n is the number of elements in our collection.
+Because Binary Search operates by applying a condition to the value in the middle of our search space and thus cutting the search space in half, in the worse case, we will have to make O(log n) comparisons, where n is the number of elements in our collection.
 
 > Why `log n`?
 >
 > * Binary search is performed by dividing the existing array in half.
-> * So every time you a call the subroutine \( or complete one iteration \) the size reduced to half of the existing part.
+> * So every time you a call the subroutine ( or complete one iteration ) the size reduced to half of the existing part.
 > * First `N` become `N/2`, then it become `N/4` and go on till it find the element or size become 1.
-> * The maximum no of iterations is `log N` \(base 2\).
+> * The maximum no of iterations is `log N` (base 2).
 
 **Space:** `O(1)` -- Constant Space
 
 Although, Binary Search does require keeping track of 3 indices, the iterative solution does not typically require any other additional space and can be applied directly on the collection itself, therefore warrants `O(1)` or constant space.
-

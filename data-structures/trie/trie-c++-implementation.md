@@ -243,17 +243,15 @@ Trie empty!!
 
 ### Complexity
 
-**Time Complexity:**  
+**Time Complexity:  **
 
-Insert  O\(n\) ;  Delete O\(n\) ; Search O\(n\), where n is the key length
+Insert  O(n) ;  Delete O(n) ; Search O(n), where n is the key length
 
-**Space Complexity:** O\(N \* M \* C\)  
+**Space Complexity: **O(N \* M \* C)  
 
 N - Total number of Strings
 
 M - Maximum length of String
 
 C - Alphabet's Size
-
-
 

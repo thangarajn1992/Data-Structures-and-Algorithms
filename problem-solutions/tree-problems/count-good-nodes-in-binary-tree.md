@@ -12,9 +12,9 @@ Return the number of **good** nodes in the binary tree.
 
 **Example 1:**
 
-![](https://assets.leetcode.com/uploads/2020/04/02/test_sample_1.png)
+![](https://assets.leetcode.com/uploads/2020/04/02/test_sample\_1.png)
 
-```text
+```
 Input: root = [3,1,4,3,null,1,5]
 Output: 4
 Explanation: Nodes in blue are good.
@@ -26,9 +26,9 @@ Node 3 -> (3,1,3) is the maximum value in the path.
 
 **Example 2:**
 
-![](https://assets.leetcode.com/uploads/2020/04/02/test_sample_2.png)
+![](https://assets.leetcode.com/uploads/2020/04/02/test_sample\_2.png)
 
-```text
+```
 Input: root = [3,3,null,4,2]
 Output: 3
 Explanation: Node 2 -> (3, 3, 2) is not good, because "3" is higher than it.
@@ -36,7 +36,7 @@ Explanation: Node 2 -> (3, 3, 2) is not good, because "3" is higher than it.
 
 **Example 3:**
 
-```text
+```
 Input: root = [1]
 Output: 1
 Explanation: Root is considered as good.
@@ -77,6 +77,5 @@ public:
 
 #### Time and Space Complexity
 
-* Its a pre-order traversal , so we will be visiting all the nodes 1 time, let there be N nodes, so **time complexity is O\(N\)**
-* Space complexity is just because. of recursive stack. ****Max size of stack  will be the height of the binary tree, which is N in worst case , so the **Space complexity is O\(N\)**
-
+* Its a pre-order traversal , so we will be visiting all the nodes 1 time, let there be N nodes, so** time complexity is O(N)**
+* Space complexity is just because. of recursive stack.** **Max size of stack  will be the height of the binary tree, which is N in worst case , so the **Space complexity is O(N)**

@@ -1,4 +1,4 @@
-# Minimum Edits to transform one string to another \( Levenshtein Distance \)
+# Minimum Edits to transform one string to another ( Levenshtein Distance )
 
 ### Sources
 
@@ -21,7 +21,7 @@ Given two strings **s** and **t.** Find the minimum number of operations that ne
 
 **Example 1:**
 
-```text
+```
 Input: 
 s = "geek", t = "gesek"
 Output: 1
@@ -31,7 +31,7 @@ inserting 's' between two 'e's of str1.
 
 **Example 2:**
 
-```text
+```
 Input : 
 s = "gfg", t = "gfg"
 Output: 
@@ -39,16 +39,16 @@ Output:
 Explanation: Both strings are same.
 ```
 
-**Your Task:**  
- You don't need to read or print anything. Your task is to complete the function **editDistance\(\)** which takes strings s and t as input parameters and returns the minimum number of operation required to make both strings equal. 
+**Your Task:**\
+ You don't need to read or print anything. Your task is to complete the function **editDistance() **which takes strings s and t as input parameters and returns the minimum number of operation required to make both strings equal. 
 
-  
- **Expected Time Complexity:** O\(\|s\|\*\|t\|\)  
- **Expected Space Complexity:** O\(\|s\|\*\|t\|\)
+\
+ **Expected Time Complexity: **O(|s|\*|t|)\
+ **Expected Space Complexity: **O(|s|\*|t|)
 
-  
- **Constraints:**  
- 1 ≤ Length of both strings ≤ 100  
+\
+ **Constraints:**\
+ 1 ≤ Length of both strings ≤ 100\
  Both the strings are in lowercase.
 
 ### Solution
@@ -96,6 +96,4 @@ class Solution {
     }
 };
 ```
-
-
 

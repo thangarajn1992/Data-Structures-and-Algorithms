@@ -8,12 +8,12 @@
 
 ### Problem Statement
 
-In the game of Restricted Pacman, an infinite linear path is given. Pacman has to start at position 0 and eat as many candies as possible. In one move he can only jump a distance of either **M** or **N**.  If **M** and **N** are co-prime numbers, find how many candies will be left on the board after the game is over.  
+In the game of Restricted Pacman, an infinite linear path is given. Pacman has to start at position 0 and eat as many candies as possible. In one move he can only jump a distance of either **M** or **N**.  If **M** and **N** are co-prime numbers, find how many candies will be left on the board after the game is over.\
  **Note:** The result is always finite as after a point **X** every index in the infinite path can be visited. 
 
 **Example 1:**
 
-```text
+```
 Input: M = 2, N = 5
 Output: 2
 Explanation: From index 0, the indices that 
@@ -32,29 +32,29 @@ visited. Therefore the candies at these two
 positions will be left on the board. 
 ```
 
-  
+\
  **Example 2:**
 
-```text
+```
 Input: M = 2, N = 7
 Output: 3 
 ```
 
 **Example 3:**
 
-```text
+```
 Input: M = 25, N = 7
 Output: 72
 ```
 
-**Your Task:**    
- You don't need to read input or print anything. Complete the function **candies\(\)** which take M and N as input parameters and return the answer.
+**Your Task:**  \
+ You don't need to read input or print anything. Complete the function **candies()** which take M and N as input parameters and return the answer.
 
-**Expected Time Complexity:** O\(N\)  
-**Expected Auxiliary Space:** O\(N\)
+**Expected Time Complexity:** O(N)\
+**Expected Auxiliary Space:** O(N)
 
-**Constraints:**  
- 1 &lt; M, N ≤ 500
+**Constraints:**\
+ 1 < M, N ≤ 500
 
 ### Solution
 
@@ -62,19 +62,18 @@ Output: 72
 
 [https://mathworld.wolfram.com/CoinProblem.html](https://mathworld.wolfram.com/CoinProblem.html)
 
-The largest such ![N](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline14.gif) for a given problem is called the [Frobenius number](https://mathworld.wolfram.com/FrobeniusNumber.html) ![g\(a\_1,a\_2,...\)](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline15.gif).
+The largest such ![N](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline14.gif) for a given problem is called the [Frobenius number](https://mathworld.wolfram.com/FrobeniusNumber.html) ![g(a\_1,a\_2,...)](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline15.gif).
 
  The result
 
-| ![g\(a\_1,a\_2\)](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline16.gif) | ![=](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline17.gif) | ![\(a\_1-1\)\(a\_2-1\)-1](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline18.gif) |  \(2\) |
-| :--- | :--- | :--- | :--- |
-| ![](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline19.gif) | ![=](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline20.gif) | ![a\_1a\_2-\(a\_1+a\_2\)](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline21.gif) |  \(3\) |
+| ![g(a\_1,a\_2)](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline16.gif) | ![=](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline17.gif) | ![(a\_1-1)(a\_2-1)-1](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline18.gif)   |  (2) |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---- |
+| ![](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline19.gif)             | ![=](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline20.gif) | ![a\_1a\_2-(a\_1+a\_2)](https://mathworld.wolfram.com/images/equations/CoinProblem/Inline21.gif) |  (3) |
 
  The total number of such non-representable amounts is given by
 
-| ![ 1/2\(N+1\)=1/2\(a\_1-1\)\(a\_2-1\). ](https://mathworld.wolfram.com/images/equations/CoinProblem/NumberedEquation2.gif) |  \(4\) |
-| :--- | :--- |
-
+| ![ 1/2(N+1)=1/2(a\_1-1)(a\_2-1). ](https://mathworld.wolfram.com/images/equations/CoinProblem/NumberedEquation2.gif) |  (4) |
+| -------------------------------------------------------------------------------------------------------------------- | ---- |
 
 ```cpp
 class Solution{
@@ -133,4 +132,3 @@ class Solution{
     } 
 };
 ```
-

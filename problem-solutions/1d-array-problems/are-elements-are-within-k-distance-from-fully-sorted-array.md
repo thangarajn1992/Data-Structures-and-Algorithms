@@ -10,10 +10,10 @@
 
 Given an array of **n** distinct elements. Check whether the given array is a **k** sorted array or not. A **k** sorted array is an array where each element is at most **k** distance away from its target position in the sorted array.
 
-  
+\
  **Example 1:**
 
-```text
+```
 Input:
 N=6
 arr[] = {3, 2, 1, 5, 6, 4} 
@@ -27,7 +27,7 @@ sorted array.
 
 **Example 2:**
 
-```text
+```
 Input:
 N=7
 arr[] = {13, 8, 10, 7, 15, 14, 12}
@@ -35,11 +35,11 @@ K = 1
 Output: No
 ```
 
-**Expected Time Complexity:** O\(NlogN\).  
-**Expected Auxiliary Space:** O\(N\).
+**Expected Time Complexity:** O(NlogN).\
+**Expected Auxiliary Space:** O(N).
 
-**Constraints:**  
- 1 ≤ N ≤ 10^5  
+**Constraints:**\
+ 1 ≤ N ≤ 10^5\
  0 ≤ K ≤ N
 
 ### Solution
@@ -104,4 +104,3 @@ class Solution {
         return left;
     }
 ```
-

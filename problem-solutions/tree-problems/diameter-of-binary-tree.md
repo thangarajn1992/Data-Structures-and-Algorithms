@@ -12,13 +12,13 @@
 
 ### Problem Statement
 
-Given a Binary Tree, **find diameter of it**.The diameter of a tree is the number of nodes on the longest path between two end nodes in the tree. The diagram below shows two trees each with diameter nine, the leaves that form the ends of a longest path are shaded \(note that there is more than one path in each tree of length nine, but no path longer than nine nodes\).
+Given a Binary Tree, **find diameter of it**.The diameter of a tree is the number of nodes on the longest path between two end nodes in the tree. The diagram below shows two trees each with diameter nine, the leaves that form the ends of a longest path are shaded (note that there is more than one path in each tree of length nine, but no path longer than nine nodes).
 
 ![](https://contribute.geeksforgeeks.org/wp-content/uploads/diameter.jpg)
 
 **Example 1:**
 
-```text
+```
 Input:
        1
      /  \
@@ -28,7 +28,7 @@ Output: 3
 
 **Example 2:**
 
-```text
+```
 Input:
          10
         /   \
@@ -38,12 +38,12 @@ Input:
 Output: 4
 ```
 
-**Expected Time Complexity:** O\(N\).  
-**Expected Auxiliary Space:** O\(Height of the Tree\).
+**Expected Time Complexity: **O(N).\
+**Expected Auxiliary Space: **O(Height of the Tree).
 
-**Constraints:**  
- 1 &lt;= Number of nodes &lt;= 10000  
- 1 &lt;= Data of a node &lt;= 1000
+**Constraints:**\
+ 1 <= Number of nodes <= 10000\
+ 1 <= Data of a node <= 1000
 
 ### Solution
 
@@ -64,4 +64,3 @@ class Solution {
     }
 };
 ```
-

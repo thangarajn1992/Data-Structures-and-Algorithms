@@ -11,11 +11,11 @@
 
 ### Problem Statement
 
-Given an unsorted array **arr\[\]** of size **N**, rotate it by **D** elements in the counter-clockwise direction. The array must be modified in-place without using extra space. 
+Given an unsorted array **arr\[]** of size **N**, rotate it by **D** elements in the counter-clockwise direction. The array must be modified in-place without using extra space. 
 
 **Example 1:**
 
-```text
+```
 Input:
 N = 5, D = 2
 arr[] = {1,2,3,4,5}
@@ -26,7 +26,7 @@ by 2 elements, it becomes 3 4 5 1 2.
 
 **Example 2:**
 
-```text
+```
 Input:
 N = 10, D = 3
 arr[] = {2,4,6,8,10,12,14,16,18,20}
@@ -38,24 +38,24 @@ when rotated by 3 elements, it becomes
 
 
 
-**Expected Time Complexity:** O\(N\)  
- **Expected Auxiliary Space:** O\(1\)
+**Expected Time Complexity: **O(N)\
+ **Expected Auxiliary Space: **O(1)
 
-**Constraints:**  
- 1 &lt;= N &lt;= 10^7  
- 1 &lt;= D &lt;= N  
- 0 &lt;= arr\[i\] &lt;= 10^5
+**Constraints:**\
+ 1 <= N <= 10^7\
+ 1 <= D <= N\
+ 0 <= arr\[i] <= 10^5
 
 ### Solution
 
 #### A Juggling Algorithm
 
-Divide the array in different sets, where number of sets is equal to GCD of n and d and move the elements within sets. If GCD is 1 as is for this example array \(n = 7 and d =2\), then elements will be moved within one set only, we just start with temp = arr\[0\] and keep moving arr\[I+d\] to arr\[I\] and finally store temp at the right place.
+Divide the array in different sets, where number of sets is equal to GCD of n and d and move the elements within sets. If GCD is 1 as is for this example array (n = 7 and d =2), then elements will be moved within one set only, we just start with temp = arr\[0] and keep moving arr\[I+d] to arr\[I] and finally store temp at the right place.
 
-Here is an example for n =12 and d = 3. GCD is 3 and   
+Here is an example for n =12 and d = 3. GCD is 3 and \
  
 
-```text
+```
 Let arr[] be {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
 
 a) Elements are first moved in first set – (See below 
@@ -91,4 +91,3 @@ public:
     }
 };
 ```
-

@@ -1,6 +1,6 @@
 # Interview Bit Last Minute Interview Prep
 
-{% embed url="https://www.interviewbit.com/blog/last-minute-coding-interview-preparation-guide/?utm\_source=email&utm\_campaign=codedrift2" %}
+{% embed url="https://www.interviewbit.com/blog/last-minute-coding-interview-preparation-guide/?utm_source=email&utm_campaign=codedrift2" %}
 
 ### Arrays
 
@@ -92,4 +92,3 @@
 * Shortest in Shortest
 * Strengthen it
 * Jackpot queries
-

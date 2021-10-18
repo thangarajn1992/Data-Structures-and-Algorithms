@@ -11,13 +11,13 @@
 
 ### Problem Statement
 
-The n-queens puzzle is the problem of placing **n** queens on a \(**n×n\)** chessboard such that no two queens can attack each other. Given an integer n, find all distinct solutions to the n-queens puzzle. Each solution contains distinct board configurations of the n-queens’ placement, where the solutions are a permutation of \[1,2,3..n\] in increasing order, here the number in the _ith_ place denotes that the _ith_-column queen is placed in the row with that number. For eg below figure represents a chessboard \[3 1 4 2\].  
-  
+The n-queens puzzle is the problem of placing **n** queens on a (**n×n)** chessboard such that no two queens can attack each other. Given an integer n, find all distinct solutions to the n-queens puzzle. Each solution contains distinct board configurations of the n-queens’ placement, where the solutions are a permutation of \[1,2,3..n] in increasing order, here the number in the _ith_ place denotes that the _ith_-column queen is placed in the row with that number. For eg below figure represents a chessboard \[3 1 4 2].\
+\
  ![](https://contribute.geeksforgeeks.org/wp-content/uploads/ratinmaze_filled11-1.png)
 
 **Example 1:**
 
-```text
+```
 Input:
 1
 Output:
@@ -29,7 +29,7 @@ in the single cell available.
 
 **Example 2:**
 
-```text
+```
 Input:
 4
 Output:
@@ -38,10 +38,10 @@ Explaination:
 These are the 2 possible solutions.
 ```
 
-**Expected Time Complexity:** O\(n!\)  
-**Expected Auxiliary Space:** O\(n^2\) 
+**Expected Time Complexity:** O(n!)\
+**Expected Auxiliary Space:** O(n^2) 
 
-**Constraints:**  
+**Constraints:**\
  1 ≤ n ≤ 10 
 
 ### Solution
@@ -102,4 +102,3 @@ public:
     }
 };
 ```
-

@@ -16,10 +16,10 @@ Given a binary tree in which each node element contains a number. Find the maxim
 
 **Note:** Here Leaf node is a node which is connected to exactly one different node.
 
-  
+\
  **Example 1:**
 
-```text
+```
 Input:      
            3                               
          /    \                          
@@ -34,7 +34,7 @@ Maximum Sum lies between leaf node 4 and 5.
 
 **Example 2:**
 
-```text
+```
 Input:    
             -15                               
          /      \                          
@@ -53,13 +53,13 @@ The maximum possible sum from one leaf node
 to another is (3 + 6 + 9 + 0 + -1 + 10 = 27)
 ```
 
-**Expected Time Complexity:** O\(N\)  
-**Expected Auxiliary Space:** O\(Height of Tree\)
+**Expected Time Complexity:** O(N)\
+**Expected Auxiliary Space:** O(Height of Tree)
 
-  
- **Constraints:**  
- 2  ≤  Number of nodes  ≤  10^4  
- -10^3  ≤ Value of each node ≤ 10^3
+\
+ **Constraints:**\
+ 2  ≤  Number of nodes  ≤  10^4\
+ \-10^3  ≤ Value of each node ≤ 10^3
 
 ### Solution
 
@@ -98,4 +98,3 @@ public:
     }
 };
 ```
-

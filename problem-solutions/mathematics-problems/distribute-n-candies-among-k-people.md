@@ -14,7 +14,7 @@ Given **N** candies and **K** people. In the first turn, the first person gets 1
 
 **Example 1:**
 
-```text
+```
 Input:
 N = 7, K = 4
 Output:
@@ -27,7 +27,7 @@ only 1 left, hence he takes only one.
 
 **Example 2:**
 
-```text
+```
 Input:
 N = 10, K = 3
 Output :
@@ -38,12 +38,12 @@ At the second turn first one receives
 
 ```
 
-**Expected Time Complexity:** O\(logN+K\)  
-**Expected Auxiliary Space:** O\(K\)
+**Expected Time Complexity:** O(logN+K)\
+**Expected Auxiliary Space:** O(K)
 
-  
- **Constraints:**  
- 1 ≤ N ≤ 10^8  
+\
+ **Constraints:**\
+ 1 ≤ N ≤ 10^8\
  1 ≤ K ≤ 100
 
 ### Solution
@@ -72,7 +72,7 @@ class Solution {
 
 #### Binary Search 
 
-1. An **efficient approach** is to find the largest number\(say MAXI\) whose sum upto natural numbers is less than N using Binary search. 
+1. An **efficient approach** is to find the largest number(say MAXI) whose sum upto natural numbers is less than N using Binary search. 
 2. Since the last number will always be a multiple of K, we get the last number of complete turns. Subtract the summation till then from N.
 3. Distribute the remaining candies by traversing in the array. 
 
@@ -122,4 +122,3 @@ class Solution {
 
 };
 ```
-

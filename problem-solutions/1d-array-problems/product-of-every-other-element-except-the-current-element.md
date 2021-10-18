@@ -11,12 +11,12 @@
 
 ### Problem Statement
 
-Given an array **nums\[\]** of size **n**, construct a Product Array **P** \(of same size n\) such that **P\[i\]** is equal to the product of all the elements of **nums** except nums\[i\]. If the array has only one element the returned list should should contains one value i.e {1}  
- **Note:** Try to solve this problem without using the division operation
+Given an array **nums\[]** of size **n**, construct a Product Array **P** (of same size n) such that **P\[i]** is equal to the product of all the elements of **nums** except nums\[i]. If the array has only one element the returned list should should contains one value i.e {1}\
+ **Note: **Try to solve this problem without using the division operation
 
 **Example 1:**
 
-```text
+```
 Input:
 n = 5
 nums[] = {10, 3, 5, 6, 2}
@@ -32,7 +32,7 @@ For i=4, P[i] = 10*3*5*6 = 900.
 
 **Example 2:**
 
-```text
+```
 Input:
 n = 2
 nums[] = {12,0}
@@ -41,13 +41,13 @@ Output:
 
 ```
 
-**Expected Time Complexity:** O\(n\)  
-**Expected Auxiliary Space:** O\(n\)  
+**Expected Time Complexity: **O(n)\
+**Expected Auxiliary Space: **O(n)\
   
 
-**Constraints:**  
- 1 &lt;= n &lt;= 1000  
- 0 &lt;= nums\[i\] &lt;= 200  
+**Constraints:**\
+ 1 <= n <= 1000\
+ 0 <= nums\[i] <= 200\
  Array may contain duplicates.
 
 ### Solution
@@ -73,4 +73,3 @@ class Solution{
     }
 };
 ```
-

@@ -14,33 +14,33 @@
 
 ### Problem Statement
 
-Given a Directed Graph with **V** vertices \(Numbered from **0** to **V-1**\) and **E** edges, check whether it contains any cycle or not.  
+Given a Directed Graph with **V** vertices (Numbered from **0** to **V-1**) and **E** edges, check whether it contains any cycle or not.\
  **Example 1:**
 
-![Example 1](../../.gitbook/assets/image%20%2828%29.png)
+![Example 1](<../../.gitbook/assets/image (28).png>)
 
 
 
-```text
+```
 Output: 1
 Explanation: 3 -> 3 is a cycle
 ```
 
-  
+\
  **Example 2:**
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](<../../.gitbook/assets/image (31).png>)
 
 
 
-```text
+```
 Output: 0
 Explanation: no cycle in the graph
 ```
 
-**Expected Time Complexity:** O\(V + E\)  
-**Expected Auxiliary Space:** O\(V\)  
-**Constraints:**  
+**Expected Time Complexity: **O(V + E)\
+**Expected Auxiliary Space: **O(V)\
+**Constraints:**\
  1 ≤ V, E ≤ 10**^**5
 
 ### **Solution**
@@ -81,6 +81,4 @@ public:
 	}
 };
 ```
-
-
 

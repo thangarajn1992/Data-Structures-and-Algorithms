@@ -1,8 +1,8 @@
 # Transitive Closure of Graph using DFS
 
-Given a directed graph, find out if a vertex v is reachable from another vertex u for all vertex pairs \(u, v\) in the given graph. Here reachable mean that there is a path from vertex u to v. The reach-ability matrix is called transitive closure of a graph.
+Given a directed graph, find out if a vertex v is reachable from another vertex u for all vertex pairs (u, v) in the given graph. Here reachable mean that there is a path from vertex u to v. The reach-ability matrix is called transitive closure of a graph.
 
-O\(V^3\) solution based on [Floyd Warshall Algorithm](../../../data-structures/graphs/graph-algorithms/floyd-warshall-algorithm-for-transitive-closure.md) is discussed already. Here we will discuss O\(V^2\).
+O(V^3) solution based on [Floyd Warshall Algorithm](../../../data-structures/graphs/graph-algorithms/floyd-warshall-algorithm-for-transitive-closure.md) is discussed already. Here we will discuss O(V^2).
 
 ### Algorithm
 
@@ -11,7 +11,7 @@ O\(V^3\) solution based on [Floyd Warshall Algorithm](../../../data-structures/g
 
 ###  Implementation
 
-The code uses adjacency list representation of input graph and builds a matrix `tc[V][V]` such that `tc[u][v]` would be true if v is reachable from u.
+The code uses adjacency list representation of input graph and builds a matrix `tc[V][V]` such that `tc[u][v] `would be true if v is reachable from u.
 
 ```cpp
 class Graph
@@ -69,4 +69,3 @@ public:
     }
 };
 ```
-

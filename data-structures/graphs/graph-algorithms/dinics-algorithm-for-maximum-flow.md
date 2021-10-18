@@ -7,25 +7,25 @@ Given a graph which represents a flow network where every edge has a capacity. A
 1. Flow on an edge doesn’t exceed the given capacity of the edge.
 2. Incoming flow is equal to outgoing flow for every vertex except s and t.
 
-![](../../../.gitbook/assets/image%20%2813%29.png)
+![](<../../../.gitbook/assets/image (13).png>)
 
-![](../../../.gitbook/assets/image%20%282%29.png)
+![](<../../../.gitbook/assets/image (2).png>)
 
-Time complexity for Ford-Fulkerson \(Edmond Karp\) implementation is O\(VE^2\). But Dinic's algorithm is faster algorithm and takes O\(EV^2\).
+Time complexity for Ford-Fulkerson (Edmond Karp) implementation is O(VE^2). But Dinic's algorithm is faster algorithm and takes O(EV^2).
 
 Like Ford Fulkerson, Dinic's algorithm uses following concepts:
 
 1. A Flow is maximum if there is no s to t path in residual graph
 2. BFS is used in a loop. There is difference though in the way we use BFS in both algorithms. Here we use BFS to check if more flow is possible and to construct level graph.
-3. In **Level graph,** we assign levels to all nodes, level of a node is shortest distannce\(in terms of number of edges\) of the node from source. Once level graph is constructed, we send multiple flows using this level graph.
+3. In **Level graph,** we assign levels to all nodes, level of a node is shortest distannce(in terms of number of edges) of the node from source. Once level graph is constructed, we send multiple flows using this level graph.
 
-A flow is **Blocking flow** if no more flow can be sent using level graph, i.e., no more s-t path exists such that path vertices have current levels 0,1,2... in order.
+A flow is **Blocking flow **if no more flow can be sent using level graph, i.e., no more s-t path exists such that path vertices have current levels 0,1,2... in order.
 
-![Initial Residual Graph](../../../.gitbook/assets/image%20%287%29.png)
+![Initial Residual Graph](<../../../.gitbook/assets/image (7).png>)
 
-![Level marking](../../../.gitbook/assets/image%20%288%29.png)
+![Level marking](<../../../.gitbook/assets/image (8).png>)
 
-Now we find blocking flow using levels \(means every flow path should have levels as 0, 1, 2, 3\). We send three flows together. This is where it is optimized compared to Edmond Karp where we send one flow at a time. 
+Now we find blocking flow using levels (means every flow path should have levels as 0, 1, 2, 3). We send three flows together. This is where it is optimized compared to Edmond Karp where we send one flow at a time. 
 
 1. 4 units of flow on path s – 1 – 3 – t. 
 2. 6 units of flow on path s – 1 – 4 – t. 
@@ -33,19 +33,19 @@ Now we find blocking flow using levels \(means every flow path should have level
 
 Total flow = Total flow + 4 + 6 + 4 = 14
 
-![After First Iteration](../../../.gitbook/assets/image%20%2818%29.png)
+![After First Iteration](<../../../.gitbook/assets/image (18).png>)
 
-We assign new levels to all nodes using BFS of above modified residual graph. We also check if more flow is possible \(or there is a s-t path in residual graph\).
+We assign new levels to all nodes using BFS of above modified residual graph. We also check if more flow is possible (or there is a s-t path in residual graph).
 
-![Level Marking in Second Iteration](../../../.gitbook/assets/image%20%286%29.png)
+![Level Marking in Second Iteration](<../../../.gitbook/assets/image (6).png>)
 
-Now we find blocking flow using levels \(means every flow path should have levels as 0, 1, 2, 3, 4\). We can send only one flow this time. 
+Now we find blocking flow using levels (means every flow path should have levels as 0, 1, 2, 3, 4). We can send only one flow this time. 
 
 5 units of flow on path s – 2 – 4 – 3 – t 
 
 Total flow = Total flow + 5 = 19
 
-![Residual Graph After 2nd Iteration](../../../.gitbook/assets/image%20%2810%29.png)
+![Residual Graph After 2nd Iteration](<../../../.gitbook/assets/image (10).png>)
 
 **Third Iteration :** We run BFS and create a level graph. We also check if more flow is possible and proceed only if possible. This time there is no s-t path in residual graph, so we terminate the algorithm.
 
@@ -257,4 +257,3 @@ int main()
     return 0;
 }
 ```
-

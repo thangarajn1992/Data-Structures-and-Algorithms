@@ -2,17 +2,17 @@
 
 Graph using vectors is discussed [here](graph-using-vectors.md).
 
-A set is different from a vector in two ways: It sotres elements in sorted way, and duplicate elements are not allowed. Therefore, this approach cannot be used for graphs containing parallel edges. Since sets are internally implemented as binary search trees, **an edge between two vertices can be searched in O\(logV\) time,** where V is the number of vertices in the graph.
+A set is different from a vector in two ways: It sotres elements in sorted way, and duplicate elements are not allowed. Therefore, this approach cannot be used for graphs containing parallel edges. Since sets are internally implemented as binary search trees, **an edge between two vertices can be searched in O(logV) time, **where V is the number of vertices in the graph.
 
 ### Graph Implementation Using Ordered Set
 
-**Advantages:** 
+**Advantages: **
 
-Queries like whether there is annn edge between 2 vertex can be done in O\(logV\).
+Queries like whether there is annn edge between 2 vertex can be done in O(logV).
 
 **Disadvantages:** 
 
-* Adding ****an edge takes O\(log V\), as opposed to O\(1\) in vector implementation
+* Adding** **an edge takes O(log V), as opposed to O(1) in vector implementation
 * Graphs containing parallel edges cannot be implemented through this method.
 
 ```cpp
@@ -80,12 +80,12 @@ void searchEdge(Graph* graph, int src, int dest)
 
 **Advantages**
 
-* Queries like whether there is an edge from vertex u to vertex v can be done in O\(1\).
-* Adding an edge takes O\(1\).
+* Queries like whether there is an edge from vertex u to vertex v can be done in O(1).
+* Adding an edge takes O(1).
 
 **Disadvantages**
 
-* Graphs containing parallel edge\(s\) cannot be implemented through this method.
+* Graphs containing parallel edge(s) cannot be implemented through this method.
 * Edges are stored in any order.
 
 ```cpp
@@ -150,4 +150,3 @@ void searchEdge(Graph* graph, int src, int dest)
              << endl;
 }
 ```
-

@@ -10,12 +10,12 @@
 
 ### Problem Statement
 
-Given a **matrix** containing lower alphabetical characters only of size **n\*m**. We need to count the number of palindromic paths in the given matrix.  
+Given a **matrix** containing lower alphabetical characters only of size **n\*m**. We need to count the number of palindromic paths in the given matrix.\
  A path is defined as a sequence of cells starting from top-left cell and ending at bottom-right cell. We are allowed to move to **right** and **down** only from current cell.
 
 **Example 1:**
 
-```text
+```
 Input: matrix = {{a,a,a,b},{b,a,a,a},{a,b,b,a}}
 Output: 3
 Explanation: Number of palindromic paths are 3 
@@ -30,15 +30,15 @@ abaaba (0, 0) -> (1, 0) -> (1, 1) -> (1, 2) ->
 
 **Example 2:**
 
-```text
+```
 Input: matrix = {{a,b},{c,d}}
 Output: 0
 Explanation: There is no palindromic paths.
 ```
 
-**Expected Time Complexity:** O\(n^2\*m^2\)  
-**Space Complexity:** O\(n\*m\)  
-**Constraints:** 1 ≤ n, m ≤ 100
+**Expected Time Complexity: **O(n^2\*m^2)\
+**Space Complexity: **O(n\*m)\
+**Constraints: **1 ≤ n, m ≤ 100
 
 ### Solution
 
@@ -89,4 +89,3 @@ class Solution {
     }
 };
 ```
-
