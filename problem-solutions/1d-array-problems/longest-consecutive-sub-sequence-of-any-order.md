@@ -13,7 +13,7 @@
 ### Problem Statement
 
 Given an array of positive integers. Find the length of the longest sub-sequence such that elements in the sub-sequence are consecutive integers, the **consecutive numbers can be in any order. **complete the function **findLongestConseqSubseq()** which takes the array arr\[] and the size of the array as inputs and returns the length of the longest sub-sequence of consecutive integers.\
-  
+&#x20;&#x20;
 
 **Example 1:**
 
@@ -46,8 +46,8 @@ consecutive subsequence.
 **Expected Time Complexity:** O(N).\
 **Expected Auxiliary Space:** O(N).\
 **Constraints:**\
- 1 <= N <= 10^5\
- 0 <= a\[i] <= 10^5
+&#x20;1 <= N <= 10^5\
+&#x20;0 <= a\[i] <= 10^5
 
 ### Solution
 

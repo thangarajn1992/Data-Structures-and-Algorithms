@@ -4,6 +4,7 @@
 
 * [All Unique Permutations of an array with duplicates](../problem-solutions/1d-array-problems/all-unique-permutations-of-an-array-with-duplicates.md)
 * [Count distinct elements in every window](../problem-solutions/1d-array-problems/count-distinct-elements-in-every-window.md)
+* [Maximum Rectangular Area in a Histogram](../problem-solutions/1d-array-problems/maximum-rectangular-area-in-a-histogram.md)
 
 ## nD Arrays/Strings
 

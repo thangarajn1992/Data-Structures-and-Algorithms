@@ -1,11 +1,11 @@
 # Tarjan's Algorithm for Articulation Point/Cut Vertices
 
-A vertex in an un-directed connected graph is an articulation point (or cut vertex) **if removing it (and edges through it) disconnects the graph**. Articulation points represent vulnerabilities in a connected network – single points whose failure would split the network into 2 or more components. They are useful for designing reliable networks. 
+A vertex in an un-directed connected graph is an articulation point (or cut vertex) **if removing it (and edges through it) disconnects the graph**. Articulation points represent vulnerabilities in a connected network – single points whose failure would split the network into 2 or more components. They are useful for designing reliable networks.&#x20;
 
 For a disconnected un-directed graph, an articulation point is a vertex **removing which increases number of connected components**.
 
 Following are some example graphs with articulation points encircled with red color. \
- 
+&#x20;
 
 ![ArticulationPoints](https://media.geeksforgeeks.org/wp-content/cdn-uploads/ArticulationPoints-300x189.png)
 
@@ -20,7 +20,7 @@ A simple approach is to one by one remove all vertices and see if removal of a v
 Time complexity of above method is` O(V*(V+E))` for a graph represented using adjacency list.
 
 **A O(V+E) algorithm to find all Articulation Points (APs)** \
-The idea is to use DFS (Depth First Search). In DFS, we follow vertices in tree form called DFS tree. In DFS tree, a vertex u is parent of another vertex v, if v is discovered by u (obviously v is an adjacent of u in graph). 
+The idea is to use DFS (Depth First Search). In DFS, we follow vertices in tree form called DFS tree. In DFS tree, a vertex u is parent of another vertex v, if v is discovered by u (obviously v is an adjacent of u in graph).&#x20;
 
 In DFS tree, a vertex u is articulation point if one of the following two conditions is true. \
 **1)** **u is root of DFS tree and it has at least two children. **\
@@ -28,7 +28,7 @@ In DFS tree, a vertex u is articulation point if one of the following two condit
 
 We do DFS traversal of given graph with additional code to find out Articulation Points (APs). In DFS traversal, we maintain a parent\[] array where** parent\[u] stores parent of vertex u**. Among the above mentioned two cases, the first case is simple to detect. For every vertex, count children. **If currently visited vertex u is root (parent\[u] is NIL) and has more than two children, print it. **
 
-How to handle second case? The second case is trickier. We maintain an array disc\[] to store discovery time of vertices. **For every node u, we need to find out the earliest visited vertex (the vertex with minimum discovery time) that can be reached from sub-tree rooted with u**. So we maintain an additional array low\[] which is defined as follows.  
+How to handle second case? The second case is trickier. We maintain an array disc\[] to store discovery time of vertices. **For every node u, we need to find out the earliest visited vertex (the vertex with minimum discovery time) that can be reached from sub-tree rooted with u**. So we maintain an additional array low\[] which is defined as follows. &#x20;
 
 ```
 low[u] = min(disc[u], disc[w]) 

@@ -12,7 +12,7 @@
 ### Problem Statement
 
 Given an array **nums\[]** of size **n**, construct a Product Array **P** (of same size n) such that **P\[i]** is equal to the product of all the elements of **nums** except nums\[i]. If the array has only one element the returned list should should contains one value i.e {1}\
- **Note: **Try to solve this problem without using the division operation
+&#x20;**Note: **Try to solve this problem without using the division operation
 
 **Example 1:**
 
@@ -43,12 +43,12 @@ Output:
 
 **Expected Time Complexity: **O(n)\
 **Expected Auxiliary Space: **O(n)\
-  
+&#x20;&#x20;
 
 **Constraints:**\
- 1 <= n <= 1000\
- 0 <= nums\[i] <= 200\
- Array may contain duplicates.
+&#x20;1 <= n <= 1000\
+&#x20;0 <= nums\[i] <= 200\
+&#x20;Array may contain duplicates.
 
 ### Solution
 

@@ -40,13 +40,13 @@ So, there's only one SCC.
 
 **Expected Time Complexity:** O(V+E).\
 **Expected Auxiliary Space:** O(V).\
-  
+&#x20;&#x20;
 
 **Constraints:**\
- 1 ≤ V ≤ 5000\
- 0 ≤ E ≤ (V\*(V-1))\
- 0 ≤ u, v ≤ N-1\
- Sum of E over all testcases will not exceed 25\*10^6
+&#x20;1 ≤ V ≤ 5000\
+&#x20;0 ≤ E ≤ (V\*(V-1))\
+&#x20;0 ≤ u, v ≤ N-1\
+&#x20;Sum of E over all testcases will not exceed 25\*10^6
 
 ### **Solution**
 

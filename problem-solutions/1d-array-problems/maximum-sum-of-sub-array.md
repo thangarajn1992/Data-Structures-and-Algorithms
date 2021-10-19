@@ -1,16 +1,16 @@
 # Maximum Sum of Sub-Array
 
-[Leetcode 53](https://leetcode.com/problems/maximum-subarray/)   
+[Leetcode 53](https://leetcode.com/problems/maximum-subarray/)  &#x20;
 
 [InterviewBit](https://www.interviewbit.com/problems/max-sum-contiguous-subarray/)
 
 ### Problem Statement
 
-Given an integer array `nums`, find the contiguous subarray \(containing at least one number\) which has the largest sum and return _its sum_.
+Given an integer array `nums`, find the contiguous subarray (containing at least one number) which has the largest sum and return _its sum_.
 
 **Example 1:**
 
-```text
+```
 Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
 Output: 6
 Explanation: [4,-1,2,1] has the largest sum = 6.
@@ -18,14 +18,14 @@ Explanation: [4,-1,2,1] has the largest sum = 6.
 
 **Example 2:**
 
-```text
+```
 Input: nums = [1]
 Output: 1
 ```
 
 **Example 3:**
 
-```text
+```
 Input: nums = [5,4,-1,7,8]
 Output: 23
 ```
@@ -35,7 +35,7 @@ Output: 23
 * `1 <= nums.length <= 3 * 10^4`
 * `-10^5 <= nums[i] <= 10^5`
 
-  **Follow up:** If you have figured out the `O(n)` solution, try coding another solution using the **divide and conquer** approach, which is more subtle.            
+&#x20; **Follow up:** If you have figured out the `O(n)` solution, try coding another solution using the **divide and conquer** approach, which is more subtle.           &#x20;
 
 ### Solution
 
@@ -59,7 +59,7 @@ public:
 
 #### Divide and Conquer Approach
 
-The Divide-and-Conquer algorithm breaks `nums` into two halves and find the maximum sub-array sum in them recursively. Well, the most tricky part is to handle the case that the maximum sub-array spans the two halves. For this case, we use a linear algorithm: starting from the middle element and move to both ends \(left and right ends\), record the maximum sum we have seen. In this case, the maximum sum is finally equal to the middle element plus the maximum sum of moving leftwards and the maximum sum of moving rightwards.
+The Divide-and-Conquer algorithm breaks `nums` into two halves and find the maximum sub-array sum in them recursively. Well, the most tricky part is to handle the case that the maximum sub-array spans the two halves. For this case, we use a linear algorithm: starting from the middle element and move to both ends (left and right ends), record the maximum sum we have seen. In this case, the maximum sum is finally equal to the middle element plus the maximum sum of moving leftwards and the maximum sum of moving rightwards.
 
 ```cpp
 class Solution {
@@ -92,4 +92,3 @@ private:
     }
 };
 ```
-

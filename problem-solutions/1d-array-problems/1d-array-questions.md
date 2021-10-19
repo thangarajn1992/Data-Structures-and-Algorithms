@@ -81,6 +81,7 @@
 ### Bar-Chart with Array elements
 
 * [Container with Most Water](container-with-most-water.md)
+* [Maximum Rectangular Area in a Histogram](maximum-rectangular-area-in-a-histogram.md)
 
 ### Turn Based Game
 

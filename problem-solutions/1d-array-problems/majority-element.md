@@ -14,7 +14,7 @@
 ### Problem Statement
 
 Given an array **A** of **N** elements. Find the majority element in the array. A majority element in an array A of size N is an **element that appears more than N/2 times in the array**.\
-  
+&#x20;&#x20;
 
 **Example 1:**
 
@@ -47,17 +47,17 @@ the majority element.
 
 **Expected Time Complexity:** O(N).\
 **Expected Auxiliary Space:** O(1).\
-  
+&#x20;&#x20;
 
 **Constraints:**\
- 1 ≤ N ≤ 10^7\
- 0 ≤ A\[i] ≤ 10^6
+&#x20;1 ≤ N ≤ 10^7\
+&#x20;0 ≤ A\[i] ≤ 10^6
 
 ### Solution
 
 #### Moore's Voting Algorithm
 
-This is a two-step process. 
+This is a two-step process.&#x20;
 
 * The first step gives the element that maybe the majority element in the array. If there is a majority element in an array, then this step will definitely return majority element, otherwise, it will return candidate for majority element.
 * Check if the element obtained from the above step is majority element. This step is necessary as there might be no majority element.

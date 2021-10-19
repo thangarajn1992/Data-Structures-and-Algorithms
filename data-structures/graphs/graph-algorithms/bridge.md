@@ -3,7 +3,7 @@
 An edge in an undirected connected graph is a bridge if removing it disconnects the graph. For a disconnected undirected graph, definition is similar, a bridge is an edge removing which increases number of disconnected components. \
 Like [Articulation Points](articulation-point.md), bridges represent vulnerabilities in a connected network and are useful for designing reliable networks. For example, in a wired computer network, an articulation point indicates the critical computers and a bridge indicates the critical wires or connections.\
 Following are some example graphs with bridges highlighted with red color.\
- 
+&#x20;
 
 ![Bridge1](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Bridge1.png)
 

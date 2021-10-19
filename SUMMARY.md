@@ -190,6 +190,7 @@
   * [Pascal's Triangle & Kth row of Pascal Triangle](problem-solutions/1d-array-problems/pascals-triangle.md)
   * [Maximum Sum of Sub-Array](problem-solutions/1d-array-problems/maximum-sum-of-sub-array.md)
   * [Container With Most Water](problem-solutions/1d-array-problems/container-with-most-water.md)
+  * [Maximum Rectangular Area in a Histogram](problem-solutions/1d-array-problems/maximum-rectangular-area-in-a-histogram.md)
   * [Stone Game](problem-solutions/1d-array-problems/stone-game.md)
   * [Find starting point to complete circular tour of set of petrol bunks](problem-solutions/1d-array-problems/find-starting-point-to-complete-circular-tour-of-set-of-petrol-bunks.md)
   * [Maximize The total Cut Segments with given lengths of cut](problem-solutions/1d-array-problems/maximize-the-total-cut-segments-with-given-lengths-of-cut.md)

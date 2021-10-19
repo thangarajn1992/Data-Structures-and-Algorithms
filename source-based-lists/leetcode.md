@@ -7,6 +7,7 @@
 * [Combination Sum - Input non-distinct Output Unique subset with freq num same as input - 40](../problem-solutions/1d-array-problems/combination-sum-input-non-distinct-output-unique-subset-with-freq-num-same-as-input.md)
 * [All Unique Permutations of an array with duplicates - 47 ](../problem-solutions/1d-array-problems/all-unique-permutations-of-an-array-with-duplicates.md)
 * [Number of ways to Climb Stairs - 70](../problem-solutions/1d-array-problems/number-of-ways-to-climb-stairs.md)
+* [Maximum Rectangular Area in a Histogram - 84](../problem-solutions/1d-array-problems/maximum-rectangular-area-in-a-histogram.md)
 * [Best Time to Buy and Sell Stock once - 121](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-once.md)
 * [Best Time to Buy and Sell Stock - Should buy and/or sell each day - 122](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-should-buy-and-or-sell-each-day.md)
 * [Best Time to Buy and Sell Stock Twice - 123](../problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-twice.md)

@@ -47,7 +47,7 @@ You don't need to read input or print anything. You only need to complete the fu
 \
 **Expected Time Complexity:**  O(n\*n!)\
 **Expected Auxilliary Space:** O(n\*n!)\
- 
+&#x20;
 
 **Constraints:**\
 1 ≤ n ≤ 10\
