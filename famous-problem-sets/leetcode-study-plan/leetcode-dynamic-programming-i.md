@@ -25,7 +25,28 @@
 * Day 8
   * g
   * h
-* Day 9 
+* Day 9&#x20;
   * [Word Break - 139](https://leetcode.com/problems/word-break/)
   * [Trapping Rain Water - 42](https://leetcode.com/problems/trapping-rain-water/)
-*
+* Day 10
+  * a
+  * b
+* Day 11
+  * c
+  * d
+* Day 12
+  * d
+  * d
+* Day 13
+  * d
+  * d
+* Day 14
+  * 5
+  * 6
+* Day 15
+  * 3
+  * g
+* Day 16
+  * [Minimum Path Sum - 64](https://leetcode.com/problems/minimum-path-sum/)
+  * [Maximal Square - 221 ](https://leetcode.com/problems/maximal-square/)
+* Day 17
