@@ -50,3 +50,7 @@
   * [Minimum Path Sum - 64](https://leetcode.com/problems/minimum-path-sum/)
   * [Maximal Square - 221 ](https://leetcode.com/problems/maximal-square/)
 * Day 17
+  * [Longest Palindromic Substring - 5](https://leetcode.com/problems/longest-palindromic-substring/)
+  * [Longest Palindromic Subsequence - 516](https://leetcode.com/problems/longest-palindromic-subsequence/)
+* Day 18
+  *

@@ -9,4 +9,7 @@
   * [Merge Intervals - 56](https://leetcode.com/problems/merge-intervals/)
   * [Design HashMap - 706](https://leetcode.com/problems/design-hashmap/)
 * Day 3 - Arrays
-  *
+  * [Pascal's Triangle - 119](https://leetcode.com/problems/pascals-triangle-ii/)
+  * [Rotate Image - 48](https://leetcode.com/problems/rotate-image/)
+  * [Spiral Matrix II = 59](https://leetcode.com/problems/spiral-matrix-ii/)
+* Day 4 -&#x20;
