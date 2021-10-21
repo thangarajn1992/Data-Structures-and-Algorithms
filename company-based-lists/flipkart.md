@@ -22,6 +22,7 @@
 * [Bottom View of Binary Tree](../problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
 * [Vertical Traversal of Binary Tree](../problem-solutions/tree-problems/vertical-traversal-of-binary-tree.md)
 * [Print BST elements in given range](../problem-solutions/tree-problems/print-bst-elements-in-given-range.md)
+* [Lowest Common Ancestor in a Binary Tree](../problem-solutions/tree-problems/lowest-common-ancestor-in-a-binary-tree.md)
 
 ## Stacks
 
@@ -42,8 +43,6 @@
 ## Mathematics
 
 ## Bit Manipulation
-
-
 
 
 

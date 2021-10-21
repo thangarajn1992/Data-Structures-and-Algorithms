@@ -15,6 +15,7 @@
 * [Bottom View of Binary Tree](bottom-view-of-binary-tree.md)
 * [Vertical Traversal of Binary Tree](vertical-traversal-of-binary-tree.md)
 * [Redistribute the coins across Nodes such that each node has 1 coin](redistribute-the-coins-across-nodes-such-that-each-node-has-1-coin.md)
+* [Lowest Common Ancestor in a Binary Tree](lowest-common-ancestor-in-a-binary-tree.md)
 
 ### **Binary Search Tree**
 
@@ -32,6 +33,4 @@
 ### Constructing Tree
 
 * [Construct Tree from Preorder Traversal](construct-tree-from-preorder-traversal.md)
-
-
 

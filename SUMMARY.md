@@ -276,6 +276,7 @@
   * [Bottom View of Binary Tree](problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
   * [Vertical Traversal of Binary Tree](problem-solutions/tree-problems/vertical-traversal-of-binary-tree.md)
   * [Redistribute the coins across Nodes such that each node has 1 coin](problem-solutions/tree-problems/redistribute-the-coins-across-nodes-such-that-each-node-has-1-coin.md)
+  * [Lowest Common Ancestor in a Binary Tree](problem-solutions/tree-problems/lowest-common-ancestor-in-a-binary-tree.md)
   * [Validate Binary Search Tree](problem-solutions/tree-problems/validate-binary-search-tree.md)
   * [Print BST elements in given range](problem-solutions/tree-problems/print-bst-elements-in-given-range.md)
   * [Merge two Binary Search Trees](problem-solutions/tree-problems/merge-two-binary-search-trees.md)

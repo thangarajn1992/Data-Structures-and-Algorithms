@@ -10,6 +10,8 @@
 
 ## Trees
 
+* [Lowest Common Ancestor in a Binary Tree](../problem-solutions/tree-problems/lowest-common-ancestor-in-a-binary-tree.md)
+
 ## Stacks
 
 ## Queues
@@ -23,8 +25,6 @@
 ## Mathematics
 
 ## Bit Manipulation
-
-
 
 
 
