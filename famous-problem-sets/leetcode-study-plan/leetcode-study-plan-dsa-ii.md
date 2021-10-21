@@ -12,4 +12,7 @@
   * [Pascal's Triangle - 119](https://leetcode.com/problems/pascals-triangle-ii/)
   * [Rotate Image - 48](https://leetcode.com/problems/rotate-image/)
   * [Spiral Matrix II = 59](https://leetcode.com/problems/spiral-matrix-ii/)
-* Day 4 -&#x20;
+* Day 4 - Arrays
+  * [Search a 2D Matrix II - 240](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+  * [Non-Overlapping Intervals - 435 ](https://leetcode.com/problems/non-overlapping-intervals/)
+* Day 5 -&#x20;

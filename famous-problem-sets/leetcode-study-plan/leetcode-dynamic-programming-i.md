@@ -53,4 +53,7 @@
   * [Longest Palindromic Substring - 5](https://leetcode.com/problems/longest-palindromic-substring/)
   * [Longest Palindromic Subsequence - 516](https://leetcode.com/problems/longest-palindromic-subsequence/)
 * Day 18
+  * [Longest Increasing Subsequence - 300](https://leetcode.com/problems/longest-increasing-subsequence/)
+  * [Wiggle Subsequence - 376](https://leetcode.com/problems/wiggle-subsequence/)
+* Day 19
   *
