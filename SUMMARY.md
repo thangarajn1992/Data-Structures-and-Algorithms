@@ -300,6 +300,7 @@
 * [Graph Problems](problem-solutions/graph-problems/README.md)
   * [Graphs Questions](problem-solutions/graph-problems/graphs-questions.md)
   * [Number of Ways to Arrive at Destination](problem-solutions/graph-problems/number-of-ways-to-arrive-at-destination.md)
+  * [Minimum Spanning Tree of Graph](problem-solutions/graph-problems/minimum-spanning-tree-of-graph.md)
   * [Find a Mother Vertex in a Graph](problem-solutions/graph-problems/find-a-mother-vertex-in-a-graph.md)
   * [Is Graph Bipartite](problem-solutions/graph-problems/is-graph-bipartite.md)
   * [m coloring a graph](problem-solutions/graph-problems/m-coloring-a-graph.md)

@@ -76,6 +76,7 @@
 * [Detect Cycle in directed Graph BFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
 * [Detect Cycle in directed Graph DFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-dfs.md)
 * [Course Schedule based on Prerequisites](../problem-solutions/graph-problems/course-schedule-based-on-prerequisites.md)
+* [Minimum Spanning Tree of Graph](../problem-solutions/graph-problems/minimum-spanning-tree-of-graph.md)
 
 ## Mathematics
 

@@ -4,7 +4,7 @@
 
 * [All Unique Triplets that add upto to given sum](../problem-solutions/1d-array-problems/all-unique-triplets-that-add-upto-to-given-sum.md)
 * [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
-* [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
+* [Rearrange array into 3 parts based on given pivot ( < , = , > pivot) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
 
 ## nD Arrays
 
@@ -40,8 +40,8 @@
 * [Detect Cycle in directed Graph DFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-dfs.md)
 * [Detect Cycle in directed Graph BFS](../problem-solutions/graph-problems/detect-cycle-in-a-directed-graph-using-bfs.md)
 * [Detect Cycle in Undirected Graph DFS](../problem-solutions/graph-problems/detect-cycle-in-undirected-graph-dfs.md)
+* [Minimum Spanning Tree of Graph](../problem-solutions/graph-problems/minimum-spanning-tree-of-graph.md)
 
 ## Mathematics
 
 ## Bit Manipulation
-

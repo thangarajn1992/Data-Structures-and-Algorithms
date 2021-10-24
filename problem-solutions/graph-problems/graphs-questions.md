@@ -10,15 +10,15 @@
 
 * [Is Graph Bipartite](is-graph-bipartite.md)
 * [m coloring a graph](m-coloring-a-graph.md)
-* [Strongly Connected Component \(Kosaraju's Algorithm\)](strongly-connected-component-kosarajus-algorithm.md)
-* [Strongly connected component \(Tarjans's Algorithm\)](strongly-connected-component-tarjanss-algo.md)
+* [Strongly Connected Component (Kosaraju's Algorithm)](strongly-connected-component-kosarajus-algorithm.md)
+* [Strongly connected component (Tarjans's Algorithm)](strongly-connected-component-tarjanss-algo.md)
 * [Water Connection Problem - Finding First and Last element in all Connected Component](water-connection-problem-finding-first-and-last-element-in-all-connected-component.md)
 
 ### Building Neighbors
 
 * Word Ladder
 
-### Matrix 
+### Matrix&#x20;
 
 * [Last Day Where You Can Still Cross](../2d-array-problems/last-day-where-you-can-still-cross.md)
 * [Minimum Cost Path with 4 possible directions](../2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
@@ -26,6 +26,7 @@
 ### Shortest Paths
 
 * [Number of Ways to Arrive at Destination](number-of-ways-to-arrive-at-destination.md)
+* [Minimum Spanning Tree of Graph](minimum-spanning-tree-of-graph.md)
 
 ### Graph Properties
 
@@ -37,6 +38,4 @@
 ### Scheduling Dependent Tasks
 
 * Course Schedule based on Prerequisites
-
-
 

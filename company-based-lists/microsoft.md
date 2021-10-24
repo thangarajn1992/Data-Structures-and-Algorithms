@@ -84,6 +84,7 @@
 * [Detect Cycle in Undirected Graph DFS](../problem-solutions/graph-problems/detect-cycle-in-undirected-graph-dfs.md)
 * [Strongly Connected Component (Kosaraju's Algorithm)](../problem-solutions/graph-problems/strongly-connected-component-kosarajus-algorithm.md)
 * [Course Schedule based on Prerequisites](../problem-solutions/graph-problems/course-schedule-based-on-prerequisites.md)
+* [Minimum Spanning Tree of Graph](../problem-solutions/graph-problems/minimum-spanning-tree-of-graph.md)
 
 ## Mathematics
 
