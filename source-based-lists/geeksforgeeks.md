@@ -50,6 +50,7 @@
 * [Diameter of Binary Tree](../problem-solutions/tree-problems/diameter-of-binary-tree.md)
 * [Maximum Path Sum between 2 Leaf Nodes](../problem-solutions/tree-problems/maximum-path-sum-between-2-leaf-nodes.md)
 * [Merge Two Binary Search Trees](../problem-solutions/tree-problems/merge-two-binary-search-trees.md)
+* [Is Binary Tree a Max Heap](../problem-solutions/tree-problems/is-binary-tree-a-max-heap.md)
 
 ## Stacks
 

@@ -16,6 +16,7 @@
 * [Vertical Traversal of Binary Tree](vertical-traversal-of-binary-tree.md)
 * [Redistribute the coins across Nodes such that each node has 1 coin](redistribute-the-coins-across-nodes-such-that-each-node-has-1-coin.md)
 * [Lowest Common Ancestor in a Binary Tree](lowest-common-ancestor-in-a-binary-tree.md)
+* [Is Binary Tree a Max Heap](is-binary-tree-a-max-heap.md)
 
 ### **Binary Search Tree**
 
