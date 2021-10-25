@@ -312,6 +312,7 @@
   * [Detect Cycle in Undirected Graph DFS](problem-solutions/graph-problems/detect-cycle-in-undirected-graph-dfs.md)
   * [Detect Cycle in Undirected Graph BFS](problem-solutions/graph-problems/detect-cycle-in-undirected-graph-using-bfs.md)
   * [Course Schedule based on Prerequisites](problem-solutions/graph-problems/course-schedule-based-on-prerequisites.md)
+  * [Managing dependent modules with given duration and parallelism possible](problem-solutions/graph-problems/managing-dependent-modules-with-given-duration-and-parallelism-possible.md)
   * [Graph Based Problems](problem-solutions/graph-problems/graph-based-problems/README.md)
     * [Transitive Closure of Graph using DFS](problem-solutions/graph-problems/graph-based-problems/transitive-closure-of-graph-using-dfs.md)
 * [Mathematics Problems](problem-solutions/mathematics-problems/README.md)

@@ -37,5 +37,6 @@
 
 ### Scheduling Dependent Tasks
 
-* Course Schedule based on Prerequisites
+* [Course Schedule based on Prerequisites](course-schedule-based-on-prerequisites.md)
+* [Managing dependent modules with given duration and parallelism possible](managing-dependent-modules-with-given-duration-and-parallelism-possible.md)
 
