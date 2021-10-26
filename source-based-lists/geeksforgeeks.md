@@ -91,4 +91,5 @@
 
 * [Yes XOR No -- XOR Always occurs in pairs](../problem-solutions/bit-manipulation-problems/yes-xor-no-xor-always-occurs-in-pairs.md)
 * [Maximum difference of zeros and ones in binary string](../problem-solutions/bit-manipulation-problems/maximum-difference-of-zeros-and-ones-in-binary-string.md)
+* [Minimum elements to change to achieve XOR of array elements higher than given value](../problem-solutions/bit-manipulation-problems/minimum-elements-to-change-to-achieve-xor-of-array-elements-higher-than-given-value.md)
 
