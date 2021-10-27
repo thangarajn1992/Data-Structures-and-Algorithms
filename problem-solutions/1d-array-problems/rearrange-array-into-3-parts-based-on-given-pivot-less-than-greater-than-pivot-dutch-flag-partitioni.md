@@ -3,6 +3,7 @@
 ### Sources
 
 * [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1#)
+* [Leetcode 75](https://leetcode.com/problems/sort-colors/)
 * EPI 6.1
 
 ### Companies
@@ -18,7 +19,7 @@
 Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order. Complete the function **sort012()** that takes an array arr and N as input parameters and **sorts the array in-place.**
 
 \
- **Example 1:**
+&#x20;**Example 1:**
 
 ```
 Input: 
@@ -48,12 +49,12 @@ into ascending order.
 **Expected Auxiliary Space:** O(1)
 
 **Constraints:**\
- 1 <= N <= 10^6\
- 0 <= A\[i] <= 2
+&#x20;1 <= N <= 10^6\
+&#x20;0 <= A\[i] <= 2
 
 ### Algorithm
 
-We can reduce runtime, at the cost of a trickier implementation. We can perform classification into elements less than, equal to, and greater than the pivot in a single pass. We do this by maintaining four subarrays : 
+We can reduce runtime, at the cost of a trickier implementation. We can perform classification into elements less than, equal to, and greater than the pivot in a single pass. We do this by maintaining four subarrays :&#x20;
 
 1. **Bottom ( elements less than Pivot)**
 2. **Middle ( elements equal to Pivot)**
