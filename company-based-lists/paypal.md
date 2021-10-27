@@ -6,6 +6,8 @@
 
 ## Strings
 
+* [Concatenation of Zig-Zag String in n Rows](../problem-solutions/string-problems/concatenation-of-zig-zag-string-in-n-rows.md)
+
 ## Linked Lists
 
 ## Trees

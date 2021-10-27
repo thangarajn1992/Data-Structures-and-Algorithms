@@ -16,6 +16,7 @@
 * [Find maximum length of concatenated string with unique characters](find-maximum-length-of-concatenated-string-with-unique-characters.md)
 * [Minimum Edits to transform one string to another ( Levenshtein Distance )](minimum-edits-to-transform-one-string-to-another-levenshtein-distance.md)
 * [Is given resultant string is result of interleaving two given strings](is-given-resultant-string-is-result-of-interleaving-two-given-strings.md)
+* [Concatenation of Zig-Zag String in n Rows](concatenation-of-zig-zag-string-in-n-rows.md)
 
 ### String Manipulation
 
