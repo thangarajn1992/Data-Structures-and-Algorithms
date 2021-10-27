@@ -14,13 +14,13 @@ As shown in the picture above, the queue is a typical FIFO data structure. The i
 
 ![](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/05/02/screen-shot-2018-05-02-at-174355.png)
 
-![](<../../.gitbook/assets/image (54).png>)
+![](<../../.gitbook/assets/image (53).png>)
 
 2\. Dequeue: you can see first element will be removed.
 
 ![](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/05/02/screen-shot-2018-05-02-at-172840.png)
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (54).png>)
 
 ## Queue - Implementation
 
@@ -152,7 +152,7 @@ The implementation above is straightforward but is inefficient in some cases. Wi
 
 Let's consider a situation when we are only able to allocate an array whose maximum length is 5. Our solution works well when we have only added less than 5 elements. For example, if we only called the enqueue function four times and we want to enqueue an element 10, we will succeed.
 
-And it is reasonable that we can not accept more enqueue request because the queue is full now. But what if we dequeue an element? 
+And it is reasonable that we can not accept more enqueue request because the queue is full now. But what if we dequeue an element?&#x20;
 
 ![](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/21/screen-shot-2018-07-21-at-153713.png)
 
@@ -166,7 +166,7 @@ A more efficient way is to use a circular queue. Specifically, we may use `a fix
 
 Let's take a look at an example to see how a circular queue works. You should pay attention to the strategy we use to `enqueue` or `dequeue` an element.
 
-![](../../.gitbook/assets/screenshot-2021-10-06-at-8.32.05-pm.png)
+![](<../../.gitbook/assets/Screenshot 2021-10-06 at 8.32.05 PM.png>)
 
 ### Implementation of Circular Queue
 

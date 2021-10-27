@@ -15,7 +15,7 @@ Given a Directed Graph with **V** vertices **(**Numbered from **0 to V-1)** and 
 
 **Example 1:**
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (38).png>)
 
 ```
 Output:
@@ -28,7 +28,7 @@ Connected Components in the Graph
 
 **Example 2:**
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../../.gitbook/assets/image (39).png>)
 
 ```
 Output:

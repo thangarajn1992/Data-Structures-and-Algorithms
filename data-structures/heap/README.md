@@ -18,13 +18,13 @@ A heap can be classified further into "max-heap" or "min-heap".
 
 Binary heaps have the smallest possible height of log(n), where n is the total number of nodes in a heap.
 
-![Min Heap and Max Heap Representation](../../.gitbook/assets/screenshot-2021-05-31-at-7.21.17-pm.png)
+![Min Heap and Max Heap Representation](<../../.gitbook/assets/Screenshot 2021-05-31 at 7.21.17 PM.png>)
 
 ### Operations on Heap
 
 A binary heap is a complete binary tree, but we usually never use a binary tree for implementing heaps. We store keys in an array and use their relative positions within that array to represent child-parent relationships. The following diagram shows an array representing a min-heap:
 
-![Array Representation of Min-Heap](../../.gitbook/assets/screenshot-2021-05-31-at-7.27.27-pm.png)
+![Array Representation of Min-Heap](<../../.gitbook/assets/Screenshot 2021-05-31 at 7.27.27 PM.png>)
 
 The complete binary tree maps the binary tree structure into the array indices, where each array index represents a node. The index of left or the right child or parent node is simple expressions.
 
@@ -51,7 +51,7 @@ It does so by comparing A\[i] with its left & right child and swapping A\[i] wit
 
 **heapify-down **is used in pop() operation of the binary heap. The idea is to replace the heap's root with the last element on the last level and call heapify-down on the root. The following diagram illustrates the process:
 
-![heapfiy-down used in pop()](../../.gitbook/assets/screenshot-2021-05-31-at-8.53.30-pm.png)
+![heapfiy-down used in pop()](<../../.gitbook/assets/Screenshot 2021-05-31 at 8.53.30 PM.png>)
 
 #### heapify-up(i)
 
@@ -61,7 +61,7 @@ It does so by comparing A\[i] with its parent and swapping the two if the heap p
 
 heapify-up is used in push() operation of the binary heap. The idea is to add the new element to the heap's bottom level and call heapify-up on the last node. The following diagram illustrates the process:
 
-![heapify-up used in push()](../../.gitbook/assets/screenshot-2021-05-31-at-9.01.40-pm.png)
+![heapify-up used in push()](<../../.gitbook/assets/Screenshot 2021-05-31 at 9.01.40 PM.png>)
 
 ### Applications
 

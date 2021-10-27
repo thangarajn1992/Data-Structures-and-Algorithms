@@ -25,7 +25,7 @@ Explanation:
 
 ```
 
-![](<../../.gitbook/assets/image (56) (1).png>)
+![](<../../.gitbook/assets/image (57).png>)
 
 **Example 2:**
 

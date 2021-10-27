@@ -52,7 +52,7 @@ Thus nodes of the binary tree will be
 printed as such 3 1 2.
 ```
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (34).png>)
 
 **Example 2:**
 

@@ -1,19 +1,19 @@
 # Adjacency List Representation
 
-An array if lists is used to represent the Graph. The size of the array is equal to the number of vertices. Let the array be an array\[\]. An entry array\[i\] represents the list of vertices adjacent to ith vertex. This representation can also be used to represent a weighted graph. The weights of the edges can be represented as lists of pairs.
+An array if lists is used to represent the Graph. The size of the array is equal to the number of vertices. Let the array be an array\[]. An entry array\[i] represents the list of vertices adjacent to ith vertex. This representation can also be used to represent a weighted graph. The weights of the edges can be represented as lists of pairs.
 
-![](../../../.gitbook/assets/image%20%289%29.png)
+![](<../../../.gitbook/assets/image (5).png>)
 
-![Adjacency List Representation](../../../.gitbook/assets/image%20%2814%29.png)
+![Adjacency List Representation](<../../../.gitbook/assets/image (6).png>)
 
 ### Advantages of Adjacency List Representation
 
-* Saves space O\(\|V\| + \|E\|\). In worst case, consumes O\(V^2\) space
+* Saves space O(|V| + |E|). In worst case, consumes O(V^2) space
 * Adding a vertex is easier
 
 ### Disadvantages of Adjacency List Representation
 
-* Queries like whether there is an edge from vertex u to v are not efficient and can be done in O\(V\).
+* Queries like whether there is an edge from vertex u to v are not efficient and can be done in O(V).
 
 ## Implementation of Adjacency List Representation
 
@@ -109,4 +109,3 @@ int main()
     return 0;
 }
 ```
-

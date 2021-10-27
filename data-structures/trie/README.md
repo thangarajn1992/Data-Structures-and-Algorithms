@@ -1,6 +1,6 @@
 # Trie
 
-## Trie 
+## Trie&#x20;
 
 ### Introduction
 
@@ -12,7 +12,7 @@ There are several ways to represent a Trie, corresponding to different trade-off
 
 As illustrated in the following figure, each key is represented in the Trie as a path from the root to the internal node or a leaf:
 
-![Trie Representation](../../.gitbook/assets/screenshot-2021-05-31-at-1.47.31-pm.png)
+![Trie Representation](<../../.gitbook/assets/Screenshot 2021-05-31 at 1.47.31 PM.png>)
 
 ### Implementation of Trie
 

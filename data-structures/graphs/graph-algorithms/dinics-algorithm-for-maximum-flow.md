@@ -2,14 +2,14 @@
 
 Similar Links : [Ford-Fulkerson Algorithm](ford-fulkerson-algorithm-for-maximum-flow-problem.md)
 
-Given a graph which represents a flow network where every edge has a capacity. Also given two vertices source ‘s’ and sink ‘t’ in the graph, find the maximum possible flow from s to t with following constraints :  
+Given a graph which represents a flow network where every edge has a capacity. Also given two vertices source ‘s’ and sink ‘t’ in the graph, find the maximum possible flow from s to t with following constraints : &#x20;
 
 1. Flow on an edge doesn’t exceed the given capacity of the edge.
 2. Incoming flow is equal to outgoing flow for every vertex except s and t.
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (11).png>)
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (12).png>)
 
 Time complexity for Ford-Fulkerson (Edmond Karp) implementation is O(VE^2). But Dinic's algorithm is faster algorithm and takes O(EV^2).
 
@@ -21,31 +21,31 @@ Like Ford Fulkerson, Dinic's algorithm uses following concepts:
 
 A flow is **Blocking flow **if no more flow can be sent using level graph, i.e., no more s-t path exists such that path vertices have current levels 0,1,2... in order.
 
-![Initial Residual Graph](<../../../.gitbook/assets/image (7).png>)
+![Initial Residual Graph](<../../../.gitbook/assets/image (13).png>)
 
-![Level marking](<../../../.gitbook/assets/image (8).png>)
+![Level marking](<../../../.gitbook/assets/image (14).png>)
 
-Now we find blocking flow using levels (means every flow path should have levels as 0, 1, 2, 3). We send three flows together. This is where it is optimized compared to Edmond Karp where we send one flow at a time. 
+Now we find blocking flow using levels (means every flow path should have levels as 0, 1, 2, 3). We send three flows together. This is where it is optimized compared to Edmond Karp where we send one flow at a time.&#x20;
 
-1. 4 units of flow on path s – 1 – 3 – t. 
-2. 6 units of flow on path s – 1 – 4 – t. 
-3. 4 units of flow on path s – 2 – 4 – t. 
+1. 4 units of flow on path s – 1 – 3 – t.&#x20;
+2. 6 units of flow on path s – 1 – 4 – t.&#x20;
+3. 4 units of flow on path s – 2 – 4 – t.&#x20;
 
 Total flow = Total flow + 4 + 6 + 4 = 14
 
-![After First Iteration](<../../../.gitbook/assets/image (18).png>)
+![After First Iteration](<../../../.gitbook/assets/image (15).png>)
 
 We assign new levels to all nodes using BFS of above modified residual graph. We also check if more flow is possible (or there is a s-t path in residual graph).
 
-![Level Marking in Second Iteration](<../../../.gitbook/assets/image (6).png>)
+![Level Marking in Second Iteration](<../../../.gitbook/assets/image (16).png>)
 
-Now we find blocking flow using levels (means every flow path should have levels as 0, 1, 2, 3, 4). We can send only one flow this time. 
+Now we find blocking flow using levels (means every flow path should have levels as 0, 1, 2, 3, 4). We can send only one flow this time.&#x20;
 
-5 units of flow on path s – 2 – 4 – 3 – t 
+5 units of flow on path s – 2 – 4 – 3 – t&#x20;
 
 Total flow = Total flow + 5 = 19
 
-![Residual Graph After 2nd Iteration](<../../../.gitbook/assets/image (10).png>)
+![Residual Graph After 2nd Iteration](<../../../.gitbook/assets/image (17).png>)
 
 **Third Iteration :** We run BFS and create a level graph. We also check if more flow is possible and proceed only if possible. This time there is no s-t path in residual graph, so we terminate the algorithm.
 

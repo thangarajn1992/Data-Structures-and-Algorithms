@@ -2,7 +2,7 @@
 
 Given a directed graph, check whether the graph contains a cycle or not.
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 ### Approach
 

@@ -15,9 +15,9 @@ Given a Directed Graph with V vertices and E edges, Find the members of strongly
 **Note:** A single strongly connected component must be represented in the form of a list if integers sorted in the ascending order. The resulting list should consist of a list of all SCCs which must be sorted in a way such that a lexicographic-ally smaller list of integers appears first.
 
 \
- **Example 1:**
+&#x20;**Example 1:**
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (28).png>)
 
 ```
 Output:
@@ -31,7 +31,7 @@ in the Output.
 
 **Example 2:**
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../.gitbook/assets/image (29).png>)
 
 ```
 Output:
@@ -46,9 +46,9 @@ So, there's only one SCC as shown.
 **Expected Auxiliary Space:** O(V).
 
 **Constraints:**\
- 1 ≤ V  ≤ 10**^**5\
- 1 ≤ E  ≤ 10^5\
- 0 ≤ u, v ≤ N-1
+&#x20;1 ≤ V  ≤ 10**^**5\
+&#x20;1 ≤ E  ≤ 10^5\
+&#x20;0 ≤ u, v ≤ N-1
 
 ### Solution
 

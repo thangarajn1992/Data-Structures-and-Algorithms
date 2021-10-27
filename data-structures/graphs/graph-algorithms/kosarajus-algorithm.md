@@ -8,7 +8,7 @@ It is linear time algorithm to find the strongly connected components of a direc
 
 A directed graph is strongly connected if there is a **path between all pairs of vertices**. A strongly connected component (SCC) of a directed graph is a maximal strongly connected sub-graph. For eg., there are 3 SCCs in the following graph.
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (1).png>)
 
 We can find all strongly connected components in (V+E) time using kosaraju's algorithm.
 

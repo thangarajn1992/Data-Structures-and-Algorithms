@@ -1,12 +1,12 @@
 # Breadth First Traversal
 
-Breadth First Traversal\(search\) for a graph is similar to Breadth First Traversal of a tree. The only difference here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array.
+Breadth First Traversal(search) for a graph is similar to Breadth First Traversal of a tree. The only difference here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array.
 
-![](../../../.gitbook/assets/image%20%2822%29.png)
+![](<../../../.gitbook/assets/image (7).png>)
 
 The BFS traversal of this graph is `[2, 0, 3, 1]`
 
-BFS traverses only the vertices reachable from a given source vertex. All the vertices may not be reachable from a given vertex \( disconnnected graph \). To print all the vertices, we can modify the BFS function to do traversal starting from all nodes one by one.
+BFS traverses only the vertices reachable from a given source vertex. All the vertices may not be reachable from a given vertex ( disconnnected graph ). To print all the vertices, we can modify the BFS function to do traversal starting from all nodes one by one.
 
 ### BFS from a given Node in Connected Graph
 
@@ -136,7 +136,7 @@ In undirected graph, we can use BFS to detect cycle. We can also use BFS to dete
 
 ### 9. Ford-Fulkerson Algorithm
 
-In [Ford-Fulkerson Algorithm](../graph-algorithms/ford-fulkerson-algorithm-for-maximum-flow-problem.md), we can use BF traversal or DF traversal to find the maximum flow. BF traversal reduces worst case time complexity to O\(VE^2\).
+In [Ford-Fulkerson Algorithm](../graph-algorithms/ford-fulkerson-algorithm-for-maximum-flow-problem.md), we can use BF traversal or DF traversal to find the maximum flow. BF traversal reduces worst case time complexity to O(VE^2).
 
 ### 10. To test if a graph is Bipartite
 
@@ -149,6 +149,4 @@ We can either use BF or DF traversal to find if there is a path between two vert
 ### 12. Finding all nodes within one connected component
 
 We can use BF or DF traversal to find all nodes reachable from a given node
-
-
 

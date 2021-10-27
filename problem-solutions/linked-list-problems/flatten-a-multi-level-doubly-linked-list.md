@@ -16,24 +16,24 @@ Flatten the list so that all the nodes appear in a single-level, doubly linked l
 
 **Example 1:**
 
-```text
+```
 Input: head = [1,2,3,4,5,6,null,null,null,7,8,9,10,null,null,11,12]
 Output: [1,2,3,7,8,11,12,9,10,4,5,6]
 Explanation:
 The multilevel linked list in the input is as follows:
 ```
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](<../../.gitbook/assets/image (50).png>)
 
-```text
+```
 After flattening the multilevel linked list it becomes:
 ```
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](<../../.gitbook/assets/image (51).png>)
 
 **Example 2:**
 
-```text
+```
 Input: head = [1,2,null,3]
 Output: [1,3,2]
 Explanation:
@@ -47,7 +47,7 @@ The input multilevel linked list is as follows:
 
 **Example 3:**
 
-```text
+```
 Input: head = []
 Output: []
 ```
@@ -56,7 +56,7 @@ Output: []
 
 We use the multilevel linked list from **Example 1** above:
 
-```text
+```
  1---2---3---4---5---6--NULL
          |
          7---8---9---10--NULL
@@ -66,7 +66,7 @@ We use the multilevel linked list from **Example 1** above:
 
 The serialization of each level is as follows:
 
-```text
+```
 [1,2,3,4,5,6,null]
 [7,8,9,10,null]
 [11,12,null]
@@ -74,7 +74,7 @@ The serialization of each level is as follows:
 
 To serialize all levels together we will add nulls in each level to signify no node connects to the upper node of the previous level. The serialization becomes:
 
-```text
+```
 [1,2,3,4,5,6,null]
 [null,null,7,8,9,10,null]
 [null,11,12,null]
@@ -82,7 +82,7 @@ To serialize all levels together we will add nulls in each level to signify no n
 
 Merging the serialization of each level and removing trailing nulls we obtain:
 
-```text
+```
 [1,2,3,4,5,6,null,null,null,7,8,9,10,null,null,11,12]
 ```
 
@@ -119,4 +119,3 @@ public:
     }
 };
 ```
-

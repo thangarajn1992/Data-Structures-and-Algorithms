@@ -15,9 +15,9 @@
 ### Problem Statement
 
 Given a Directed Graph with **V** vertices (Numbered from **0** to **V-1**) and **E** edges, check whether it contains any cycle or not.\
- **Example 1:**
+&#x20;**Example 1:**
 
-![Example 1](<../../.gitbook/assets/image (28).png>)
+![Example 1](<../../.gitbook/assets/image (35).png>)
 
 
 
@@ -27,9 +27,9 @@ Explanation: 3 -> 3 is a cycle
 ```
 
 \
- **Example 2:**
+&#x20;**Example 2:**
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (36).png>)
 
 
 
@@ -41,7 +41,7 @@ Explanation: no cycle in the graph
 **Expected Time Complexity: **O(V + E)\
 **Expected Auxiliary Space: **O(V)\
 **Constraints:**\
- 1 ≤ V, E ≤ 10**^**5
+&#x20;1 ≤ V, E ≤ 10**^**5
 
 ### **Solution**
 

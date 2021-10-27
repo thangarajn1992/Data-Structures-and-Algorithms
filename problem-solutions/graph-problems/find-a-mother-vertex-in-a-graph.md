@@ -4,7 +4,7 @@
 
 A Mother vertex in a graph G, is a vertex v such that all other vertices in G can be reached by a path from v. There can also be more than one mother vertex in a graph. Our task here is to find one of them.
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](<../../.gitbook/assets/image (21).png>)
 
 ### Mother vertex in different types of graphs
 
@@ -16,8 +16,8 @@ A Mother vertex in a graph G, is a vertex v such that all other vertices in G ca
 
 In a graph of strongly connected components, mother vertices are always vertices of source component in component graph. If there exist mother vertex, then one of the mother vertices is the last finished vertex in DFS. A vertex is said to be finished in DFS if a recursive call for its DFS is over i.e all descendants of the vertex have been visited. **A mother vertex has the maximum finish time in DFS traversal.**
 
-1. Do DF traversal of graph. While doing traversal keep track of last finished vertex 'v'. It takes O\(V+E\)
-2. If there exist mother vertex, then v must be one of them. Check if v is a mother vertex by doinng DFS/BFS from v. This step takes O\(V+E\) time
+1. Do DF traversal of graph. While doing traversal keep track of last finished vertex 'v'. It takes O(V+E)
+2. If there exist mother vertex, then v must be one of them. Check if v is a mother vertex by doinng DFS/BFS from v. This step takes O(V+E) time
 
 ### Implementation
 
@@ -89,4 +89,3 @@ public:
     }
 };
 ```
-

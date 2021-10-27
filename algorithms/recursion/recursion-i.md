@@ -59,7 +59,7 @@ private static void helper(int index, char [] str) {
 
 ## Recursion Function
 
-For a problem, if there exists a recursive solution, we can follow the guidelines below to implement it. 
+For a problem, if there exists a recursive solution, we can follow the guidelines below to implement it.&#x20;
 
 For instance, we define the problem as the function` F(X)` to implement, where` X` is the input of the function which also defines the scope of the problem.
 
@@ -71,7 +71,7 @@ Then, in the function `F(X)`, we will:
 
 #### Example
 
-To showcase the above guidelines, we give another example on how to solve a problem recursively. 
+To showcase the above guidelines, we give another example on how to solve a problem recursively.&#x20;
 
 > Given a linked list, swap every two adjacent nodes and return its head.
 >
@@ -100,11 +100,11 @@ To explain the above points, let's look at a classic problem, `Pascal's Triangle
 
 > Pascal's triangle are a series of numbers arranged in the shape of triangle. In Pascal's triangle, the leftmost and the rightmost numbers of each row are always 1. For the rest, each number is the sum of the two numbers directly above it in the previous row.
 
-![](../../.gitbook/assets/screenshot-2021-10-05-at-10.43.59-pm.png)
+![](<../../.gitbook/assets/Screenshot 2021-10-05 at 10.43.59 PM.png>)
 
 #### Recurrence Relation <a href="recurrence-relation" id="recurrence-relation"></a>
 
- Let's start with the recurrence relation within the Pascal's Triangle.
+&#x20;Let's start with the recurrence relation within the Pascal's Triangle.
 
 First of all, we define a function` f(i,j)` which returns the number in the Pascal's Triangle in the `i-th` row and `j-th` column.
 
@@ -134,7 +134,7 @@ Recursion is often an intuitive and powerful way to implement an algorithm. Howe
 
 In this article we will look closer into the duplicate calculations problem that could happen with recursion. We will then propose a common technique called `memoization` that can be used to avoid this problem.
 
-To demonstrate another problem with duplicate calculations, let's look at an example that most people might be familiar with, the [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number). If we define the function `F(n)` to represent the Fibonacci number at the index of `n`, then you can derive the following recurrence relation:
+To demonstrate another problem with duplicate calculations, let's look at an example that most people might be familiar with, the [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci\_number). If we define the function `F(n)` to represent the Fibonacci number at the index of `n`, then you can derive the following recurrence relation:
 
 `F(n) = F(n - 1) + F(n - 2) `with the base cases:`F(0) = 0, F(1) = 1`
 
@@ -245,7 +245,7 @@ def fib(self, N):
 
 Let us focus on how to calculate the time complexity for recursion algorithms.
 
-> Given a recursion algorithm, its time complexity O(T) is typically the product of **the number of recursion** _**invocations**_ (denoted as R and **the time complexity of calculation** (denoted as O(s)) that incurs along with each recursion call: O(T) = R \* O(s) 
+> Given a recursion algorithm, its time complexity O(T) is typically the product of **the number of recursion** _**invocations**_ (denoted as R and **the time complexity of calculation** (denoted as O(s)) that incurs along with each recursion call: O(T) = R \* O(s)&#x20;
 
 Let's take a look at some examples below.
 
@@ -277,7 +277,7 @@ In a full binary tree with `n` levels, the total number of nodes would be `2^(n 
 
 In the previous chapter, we discussed the technique of memoization that is often applied to optimize the time complexity of recursion algorithms. **By caching and reusing the intermediate results, memoization can greatly reduce the number of recursion calls, **_**i.e.**_** reducing the number of branches in the execution tree.** One should take this reduction into account when analyzing the time complexity of recursion algorithms with memoization.
 
-Let's get back to our example of Fibonacci number. With memoization, we save the result of Fibonacci number for each index `n`. We are assured that the calculation for each Fibonacci number would occur only once. And we know, from the recurrence relation, the Fibonacci number `f(n)` would depend on all `n-1` precedent Fibonacci numbers. As a result, the recursion to calculate `f(n)` would be invoked `n-1` times to calculate all the precedent numbers that it depends on. 
+Let's get back to our example of Fibonacci number. With memoization, we save the result of Fibonacci number for each index `n`. We are assured that the calculation for each Fibonacci number would occur only once. And we know, from the recurrence relation, the Fibonacci number `f(n)` would depend on all `n-1` precedent Fibonacci numbers. As a result, the recursion to calculate `f(n)` would be invoked `n-1` times to calculate all the precedent numbers that it depends on.&#x20;
 
 Now, we can simply apply the formula we introduced in the beginning of this chapter to calculate the time complexity, which is `O(1)* n = O(n)`. Memoization not only optimizes the time complexity of algorithm, but also simplifies the calculation of time complexity.
 
@@ -292,10 +292,10 @@ Let us see how to analyze the space complexity of a recursive algorithm.
 The recursion related space refers to the memory cost that is incurred directly by the recursion, _i.e._ the stack to keep track of recursive function calls. In order to complete a typical function call, the system allocates some space in the stack to hold three important pieces of information:
 
 1. The returning address of the function call. Once the function call is completed, the program must know where to return to, _i.e._ the line of code after the function call.
-2. The parameters that are passed to the function call. 
+2. The parameters that are passed to the function call.&#x20;
 3. The local variables within the function call.
 
-This space in the stack is the minimal cost that is incurred during a function call. However, once the function call is done, this space is freed. 
+This space in the stack is the minimal cost that is incurred during a function call. However, once the function call is done, this space is freed.&#x20;
 
 For recursive algorithms, the function calls chain up successively until they reach a `base case` (_a.k.a._ bottom case). This implies that the space that is used for each function call is accumulated.
 
@@ -305,21 +305,21 @@ For example, in the exercise of [printReverse](https://leetcode.com/explore/lear
 
 To illustrate this, for a sequence of recursive calls `f(x1) -> f(x2) -> f(x3)`, we show the sequence of execution steps along with the layout of the stack:
 
-![](https://assets.leetcode.com/uploads/2019/01/25/card_recursion_stack.png)
+![](https://assets.leetcode.com/uploads/2019/01/25/card\_recursion\_stack.png)
 
 A space in the stack will be allocated for `f(x1)` in order to call `f(x2)`. Similarly in `f(x2)`, the system will allocate another space for the call to `f(x3)`. Finally in `f(x3)`, we reach the base case, therefore there is no further recursive call within `f(x3)`.
 
-It is due to recursion-related space consumption that sometimes one might run into a situation called [stack overflow](https://en.wikipedia.org/wiki/Stack_overflow), where the stack allocated for a program reaches its maximum space limit and the program crashes. Therefore, **when designing a recursive algorithm, one should carefully check if there is a possibility of stack overflow when the input scales up.**
+It is due to recursion-related space consumption that sometimes one might run into a situation called [stack overflow](https://en.wikipedia.org/wiki/Stack\_overflow), where the stack allocated for a program reaches its maximum space limit and the program crashes. Therefore, **when designing a recursive algorithm, one should carefully check if there is a possibility of stack overflow when the input scales up.**
 
 ### Non-Recursion Related Space
 
 As suggested by the name, the non-recursion related space refers to the memory space that is not directly related to recursion, which typically includes the space (normally in heap) that is allocated for the global variables.
 
-Recursion or not, you might need to store the input of the problem as global variables, before any subsequent function calls. And you might need to save the intermediate results from the recursive calls as well. The latter is also known as _**memoization**_ as we saw in the previous chapters. For example, in the recursive algorithm with memoization to solve the Fibonacci number problem, we used a map to keep track of all intermediate Fibonacci numbers that occurred during the recursive calls. Therefore, in the space complexity analysis, we must take the space cost incurred by the memoization into consideration.  
+Recursion or not, you might need to store the input of the problem as global variables, before any subsequent function calls. And you might need to save the intermediate results from the recursive calls as well. The latter is also known as _**memoization**_ as we saw in the previous chapters. For example, in the recursive algorithm with memoization to solve the Fibonacci number problem, we used a map to keep track of all intermediate Fibonacci numbers that occurred during the recursive calls. Therefore, in the space complexity analysis, we must take the space cost incurred by the memoization into consideration. &#x20;
 
 ## Tail Recursion
 
-In the previous chapter, we talked about the implicit extra space incurred on the system stack due to recursion calls. However, you should learn to identify a special case of recursion called [tail recursion](https://en.wikipedia.org/wiki/Tail_call), which is **exempted** from this space overhead.
+In the previous chapter, we talked about the implicit extra space incurred on the system stack due to recursion calls. However, you should learn to identify a special case of recursion called [tail recursion](https://en.wikipedia.org/wiki/Tail\_call), which is **exempted** from this space overhead.
 
 > **Tail recursion** is a recursion where the recursive call is the final instruction in the recursion function. And there should be only **one** recursive call in the function.
 
@@ -395,11 +395,11 @@ def sum_tail_recursion(ls):
 {% endtab %}
 {% endtabs %}
 
-The benefit of having tail recursion is that it could avoid the accumulation of stack overheads during the recursive calls, since the system could reuse a fixed amount space in the stack for each recursive call. 
+The benefit of having tail recursion is that it could avoid the accumulation of stack overheads during the recursive calls, since the system could reuse a fixed amount space in the stack for each recursive call.&#x20;
 
 For example, for the sequence of recursion calls `f(x1) -> f(x2) -> f(x3)`, if the function `f(x)` is implemented as tail recursion, then here is the sequence of execution steps along with the layout of the stack:
 
-![](https://assets.leetcode.com/uploads/2019/01/26/card_recursion_tail.png)
+![](https://assets.leetcode.com/uploads/2019/01/26/card\_recursion\_tail.png)
 
 Note that** in tail recursion, we know that as soon as we return from the recursive call we are going to immediately return as well, so we can skip the entire chain of recursive calls returning and return straight to the original caller. That means we don't need a call stack at all for all of the recursive calls, which saves us space.**
 
@@ -409,20 +409,20 @@ A tail recursion function can be executed as non-tail-recursion functions, _i.e.
 
 ## **Conclusion**
 
-Now, you might be convinced that recursion is indeed a powerful technique that allows us to solve many problems in an elegant and efficient way. But still, it is no silver bullet. Not every problem can be solved with recursion, due to the time or space constraints. And recursion itself might come with some undesired side effects such as stack overflow. 
+Now, you might be convinced that recursion is indeed a powerful technique that allows us to solve many problems in an elegant and efficient way. But still, it is no silver bullet. Not every problem can be solved with recursion, due to the time or space constraints. And recursion itself might come with some undesired side effects such as stack overflow.&#x20;
 
-In this chapter we would like to share a few more tips on how to better apply recursion to solve problems in the real world. 
+In this chapter we would like to share a few more tips on how to better apply recursion to solve problems in the real world.&#x20;
 
 > When in doubt, write down the **recurrence relationship**.
 
-Sometimes, at a first glance it is not evident that a recursion algorithm can be applied to solve a problem. However, it is always helpful to deduct some relationships with the help of mathematical formulas, since the recurrence nature in recursion is quite close to the mathematics that we are familiar with. Often, they can clarify the ideas and uncover the hidden `recurrence relationship`. **Y**ou can find a fun example [Unique Binary Search Trees II](https://leetcode.com/explore/featured/card/recursion-i/253/conclusion/2384/), which can be solved by recursion, with the help of mathematical formulas. 
+Sometimes, at a first glance it is not evident that a recursion algorithm can be applied to solve a problem. However, it is always helpful to deduct some relationships with the help of mathematical formulas, since the recurrence nature in recursion is quite close to the mathematics that we are familiar with. Often, they can clarify the ideas and uncover the hidden `recurrence relationship`. **Y**ou can find a fun example [Unique Binary Search Trees II](https://leetcode.com/explore/featured/card/recursion-i/253/conclusion/2384/), which can be solved by recursion, with the help of mathematical formulas.&#x20;
 
 > Whenever possible, apply **memoization**.
 
 When drafting a recursion algorithm, one could start with the most naive strategy. Sometimes, one might end up with the situation where there might be `duplicate calculation` during the recursion, _e.g._ Fibonacci numbers. In this case, you can try to apply the memoization technique, which stores the intermediate results in cache for later reuse. Memoization could greatly improve the time complexity with a bit of trade on space complexity, since it could avoid the expensive duplicate calculation.
 
-> When stack overflows, **tail recursion** might come to help. 
+> When stack overflows, **tail recursion** might come to help.&#x20;
 
 There are often several ways to implement an algorithm with recursion. Tail recursion is a specific form of recursion that we could implement. Different from the memoization technique, tail recursion could optimize the _space_ complexity of the algorithm, by eliminating the stack overhead incurred by recursion. More importantly, with tail recursion, one could avoid the problem of `stack overflow` that comes often with recursion. Another advantage about tail recursion is that often times it is easier to read and understand, compared to non-tail-recursion. Because there is no post-call dependency in tail recursion (_i.e._ the recursive call is the final action in the function), unlike non-tail-recursion. Therefore, whenever possible, one should strive to apply the tail recursion.
 
-![](https://assets.leetcode.com/uploads/2019/01/27/tail_recursion_is_its_own_reward.png)
+![](https://assets.leetcode.com/uploads/2019/01/27/tail\_recursion\_is\_its\_own\_reward.png)
