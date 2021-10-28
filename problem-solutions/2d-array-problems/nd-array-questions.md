@@ -5,6 +5,7 @@
 * [Spiral Traversal of Matrix](spiral-traversal-of-matrix.md)
 * [Generate Matrix in Spiral Order](generate-matrix-in-spiral-order.md)
 * [Spiral Traversal from Any Co-ordinate](spiral-traversal-from-any-co-ordinate.md)
+* [Number of Unique Paths from Top Left to Bottom Right](number-of-unique-paths-from-top-left-to-bottom-right.md)
 * [Last Day Where You Can Still Cross](last-day-where-you-can-still-cross.md)
 * [Minimum Cost Path with 4 possible directions](minimum-cost-path-with-4-possible-directions.md)
 * [Maximum path sum in matrix with Down, Diagonal Down, Anti-Diagonal Down directions](maximum-path-sum-in-matrix-with-down-diagonal-down-anti-diagonal-down-directions.md)
@@ -39,4 +40,3 @@
 * [Number of words that can be formed in M\*N Board from given dictionary](number-of-words-that-can-be-formed-in-m-n-board-from-given-dictionary.md)
 * [Find Winner on a Tic Tac Toe Game from given moves](find-winner-on-a-tic-tac-toe-game-from-given-moves.md)
 * [Dungeon Game](dungeon-game.md)
-

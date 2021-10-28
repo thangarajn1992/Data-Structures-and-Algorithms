@@ -16,6 +16,7 @@
 * [Make neighbors of Zero as Zero and the neighbor's sum into element that had zero](../problem-solutions/2d-array-problems/make-neighbors-of-zero-as-zero-and-the-neighbors-sum-into-element-that-had-zero.md)
 * [Maximum Meetings in One Room](../problem-solutions/2d-array-problems/maximum-meetings-in-one-room.md)
 * [Is given resultant string is result of interleaving two given strings](../problem-solutions/string-problems/is-given-resultant-string-is-result-of-interleaving-two-given-strings.md)
+* [Number of Unique Paths from Top Left to Bottom Right](../problem-solutions/2d-array-problems/number-of-unique-paths-from-top-left-to-bottom-right.md)
 
 ## Strings
 

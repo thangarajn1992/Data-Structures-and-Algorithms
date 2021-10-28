@@ -3,9 +3,11 @@
 ## 1D Arrays
 
 * [Longest consecutive sub-sequence of any order](../problem-solutions/1d-array-problems/longest-consecutive-sub-sequence-of-any-order.md)
-* [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
+* [Rearrange array into 3 parts based on given pivot ( < , = , > pivot) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
 
 ## nD Arrays
+
+* [Number of Unique Paths from Top Left to Bottom Right](../problem-solutions/2d-array-problems/number-of-unique-paths-from-top-left-to-bottom-right.md)
 
 ## Strings
 
@@ -39,6 +41,4 @@
 * [How many ways a number N can be represented as sum of 2 or more consective numbers](../problem-solutions/mathematics-problems/how-many-ways-a-number-n-can-be-represented-as-sum-of-2-or-more-consective-numbers.md)
 
 ## Bit Manipulation
-
-
 

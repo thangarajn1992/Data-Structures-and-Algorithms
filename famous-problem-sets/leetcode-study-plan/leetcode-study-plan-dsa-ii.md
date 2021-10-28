@@ -15,4 +15,7 @@
 * Day 4 - Arrays
   * [Search a 2D Matrix II - 240](https://leetcode.com/problems/search-a-2d-matrix-ii/)
   * [Non-Overlapping Intervals - 435 ](https://leetcode.com/problems/non-overlapping-intervals/)
-* Day 5 -&#x20;
+* Day 5 - Arrays
+  * [Increasing Triplet Subsequence - 334](https://hbr.org/2021/10/7-questions-to-ask-your-new-boss)
+  * [Product of Array Except Self - 238](https://leetcode.com/problems/product-of-array-except-self/)
+  *

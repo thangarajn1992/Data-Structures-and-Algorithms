@@ -224,6 +224,7 @@
   * [Spiral Traversal of Matrix](problem-solutions/2d-array-problems/spiral-traversal-of-matrix.md)
   * [Generate Matrix in Spiral Order](problem-solutions/2d-array-problems/generate-matrix-in-spiral-order.md)
   * [Spiral Traversal from Any Co-ordinate](problem-solutions/2d-array-problems/spiral-traversal-from-any-co-ordinate.md)
+  * [Number of Unique Paths from Top Left to Bottom Right](problem-solutions/2d-array-problems/number-of-unique-paths-from-top-left-to-bottom-right.md)
   * [Last Day Where You Can Still Cross](problem-solutions/2d-array-problems/last-day-where-you-can-still-cross.md)
   * [Minimum Cost Path with 4 possible directions](problem-solutions/2d-array-problems/minimum-cost-path-with-4-possible-directions.md)
   * [Maximum path sum in matrix with Down, Diagonal Down, Anti-Diagonal Down directions](problem-solutions/2d-array-problems/maximum-path-sum-in-matrix-with-down-diagonal-down-anti-diagonal-down-directions.md)

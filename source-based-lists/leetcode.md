@@ -37,6 +37,7 @@
 * [Sudoku Solver -  37](../problem-solutions/2d-array-problems/sudoku-solver.md)
 * [Merge Intervals -  56](../problem-solutions/2d-array-problems/merge-overlapping-intervals.md)
 * [Insert Interval -  57](../problem-solutions/2d-array-problems/add-and-merge-interval.md)
+* [Number of Unique Paths from Top Left to Bottom Right - 62](../problem-solutions/2d-array-problems/number-of-unique-paths-from-top-left-to-bottom-right.md)
 * [Dungeon Game - 174](../problem-solutions/2d-array-problems/dungeon-game.md)
 * [Interval List Intersections -  986](../problem-solutions/2d-array-problems/interval-list-intersections.md)
 * [Maximum Profit in Job Scheduling - 1235](../problem-solutions/2d-array-problems/maximum-profit-in-job-scheduling.md)
