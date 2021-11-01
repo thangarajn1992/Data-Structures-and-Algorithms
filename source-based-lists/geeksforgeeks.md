@@ -84,6 +84,7 @@
 ## Mathematics
 
 * [Distribute N candies among K people](../problem-solutions/mathematics-problems/distribute-n-candies-among-k-people.md)
+* [Circular Prime Number or not](../problem-solutions/mathematics-problems/circular-prime-number-or-not.md)
 * [Number of trailing zeroes in N Factorial](../problem-solutions/mathematics-problems/number-of-trailing-zeroes-in-n-factorial.md)
 * [Count the number of possible triangles](../problem-solutions/mathematics-problems/count-the-number-of-possible-triangles.md)
 * [How many ways a number N can be represented as sum of 2 or more consecutive numbers](../problem-solutions/mathematics-problems/how-many-ways-a-number-n-can-be-represented-as-sum-of-2-or-more-consective-numbers.md)
