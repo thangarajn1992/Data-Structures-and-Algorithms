@@ -275,6 +275,7 @@
   * [Maximum Path Sum between 2 Leaf Nodes](problem-solutions/tree-problems/maximum-path-sum-between-2-leaf-nodes.md)
   * [Maximum path sum from any node](problem-solutions/tree-problems/maximum-path-sum-from-any-node.md)
   * [Verify Preorder Serialization of a Binary Tree](problem-solutions/tree-problems/verify-preorder-serialization-of-a-binary-tree.md)
+  * [Top View of Binary Tree](problem-solutions/tree-problems/top-view-of-binary-tree.md)
   * [Bottom View of Binary Tree](problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
   * [Vertical Traversal of Binary Tree](problem-solutions/tree-problems/vertical-traversal-of-binary-tree.md)
   * [Redistribute the coins across Nodes such that each node has 1 coin](problem-solutions/tree-problems/redistribute-the-coins-across-nodes-such-that-each-node-has-1-coin.md)

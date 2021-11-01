@@ -47,6 +47,7 @@
 * [Print BST elements in given range](../problem-solutions/tree-problems/print-bst-elements-in-given-range.md)
 * [Construct Tree from Preorder Traversal](../problem-solutions/tree-problems/construct-tree-from-preorder-traversal.md)
 * [Maximum path sum from any node](../problem-solutions/tree-problems/maximum-path-sum-from-any-node.md)
+* [Top View of Binary Tree](../problem-solutions/tree-problems/top-view-of-binary-tree.md)
 * [Bottom View of Binary Tree](../problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
 * [Vertical Traversal of Binary Tree](../problem-solutions/tree-problems/vertical-traversal-of-binary-tree.md)
 * [Diameter of Binary Tree](../problem-solutions/tree-problems/diameter-of-binary-tree.md)

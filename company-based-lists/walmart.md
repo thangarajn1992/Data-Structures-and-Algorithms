@@ -21,6 +21,7 @@
 ## Trees
 
 * [Validate Binary Search Tree](../problem-solutions/tree-problems/validate-binary-search-tree.md)
+* [Top View of Binary Tree](../problem-solutions/tree-problems/top-view-of-binary-tree.md)
 * [Bottom View of Binary Tree](../problem-solutions/tree-problems/bottom-view-of-binary-tree.md)
 * [Vertical Traversal of Binary Tree](../problem-solutions/tree-problems/vertical-traversal-of-binary-tree.md)
 

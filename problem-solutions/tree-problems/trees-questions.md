@@ -12,6 +12,7 @@
 * [Maximum Path Sum between 2 Leaf Nodes](maximum-path-sum-between-2-leaf-nodes.md)
 * [Maximum path sum from any node](maximum-path-sum-from-any-node.md)
 * [Verify Preorder Serialization of a Binary Tree](verify-preorder-serialization-of-a-binary-tree.md)
+* [Top View of Binary Tree](top-view-of-binary-tree.md)
 * [Bottom View of Binary Tree](bottom-view-of-binary-tree.md)
 * [Vertical Traversal of Binary Tree](vertical-traversal-of-binary-tree.md)
 * [Redistribute the coins across Nodes such that each node has 1 coin](redistribute-the-coins-across-nodes-such-that-each-node-has-1-coin.md)
@@ -20,7 +21,7 @@
 
 ### **Binary Search Tree**
 
-* Validate Binary Search Tree
+* [Validate Binary Search Tree](validate-binary-search-tree.md)
 * [Print BST elements in given range](print-bst-elements-in-given-range.md)
 * [Merge two Binary Search Trees](merge-two-binary-search-trees.md)
 * [Number of Structurally unique BSTs with n nodes with unique value from 1 to n](number-of-structurally-unique-bsts-with-n-nodes-with-unique-value-from-1-to-n.md)
