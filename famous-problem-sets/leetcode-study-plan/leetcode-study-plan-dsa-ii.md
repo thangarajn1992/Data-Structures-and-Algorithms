@@ -18,4 +18,9 @@
 * Day 5 - Arrays
   * [Increasing Triplet Subsequence - 334](https://hbr.org/2021/10/7-questions-to-ask-your-new-boss)
   * [Product of Array Except Self - 238](https://leetcode.com/problems/product-of-array-except-self/)
+  * [Sub-array Sum Equals K - 560](https://leetcode.com/problems/subarray-sum-equals-k/)
+* Day 6 - Strings
+  * [Add Strings - 415](https://leetcode.com/problems/add-strings/)
+  * [Longest Palindrome - 409](https://leetcode.com/problems/longest-palindrome/)
+* Day 7  - Strings
   *
