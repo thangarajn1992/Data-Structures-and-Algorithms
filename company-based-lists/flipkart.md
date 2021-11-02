@@ -3,6 +3,7 @@
 ## 1D Arrays
 
 * [0 - 1 Knapsack Problem](../problem-solutions/1d-array-problems/0-1-knapsack-problem.md)
+* [Maximum of minimum for every window size](../problem-solutions/1d-array-problems/maximum-of-minimum-for-every-window-size.md)
 
 ## nD Arrays
 

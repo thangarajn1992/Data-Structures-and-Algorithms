@@ -23,6 +23,7 @@
 * [Largest sub-array with 0 sum](../problem-solutions/1d-array-problems/largest-sub-array-with-0-sum.md)
 * [Count distinct elements in every window](../problem-solutions/1d-array-problems/count-distinct-elements-in-every-window.md)
 * [Maximum Rectangular Area in a Histogram](../problem-solutions/1d-array-problems/maximum-rectangular-area-in-a-histogram.md)
+* [Maximum of minimum for every window size](../problem-solutions/1d-array-problems/maximum-of-minimum-for-every-window-size.md)
 
 ## nD Arrays/Strings
 

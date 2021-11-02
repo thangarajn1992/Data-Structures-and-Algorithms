@@ -3,6 +3,7 @@
 ## 1D Arrays
 
 * [Count distinct elements in every window](../problem-solutions/1d-array-problems/count-distinct-elements-in-every-window.md)
+* [Maximum of minimum for every window size](../problem-solutions/1d-array-problems/maximum-of-minimum-for-every-window-size.md)
 
 ## nD Arrays/Strings
 

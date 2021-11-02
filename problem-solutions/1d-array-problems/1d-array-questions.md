@@ -23,6 +23,7 @@
 * [Best Time to Buy and Sell Stock with Transaction Fee](best-time-to-buy-and-sell-stock-with-transaction-fee.md)
 * [Multiple Range Sum Queries](multiple-range-sum-queries.md)
 * [Count distinct elements in every window](count-distinct-elements-in-every-window.md)
+* [Maximum of minimum for every window size](maximum-of-minimum-for-every-window-size.md#sources)
 
 ### Space Recycling/ Reordering
 

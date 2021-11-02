@@ -185,6 +185,7 @@
   * [Best Time to Buy and Sell Stock with Transaction Fee](problem-solutions/1d-array-problems/best-time-to-buy-and-sell-stock-with-transaction-fee.md)
   * [Multiple Range Sum Queries](problem-solutions/1d-array-problems/multiple-range-sum-queries.md)
   * [Count distinct elements in every window](problem-solutions/1d-array-problems/count-distinct-elements-in-every-window.md)
+  * [Maximum of minimum for every window size](problem-solutions/1d-array-problems/maximum-of-minimum-for-every-window-size.md)
   * [Add One to Number](problem-solutions/1d-array-problems/add-one-to-number.md)
   * [Median of Two Sorted Arrays](problem-solutions/1d-array-problems/median-of-two-sorted-arrays.md)
   * [Pascal's Triangle & Kth row of Pascal Triangle](problem-solutions/1d-array-problems/pascals-triangle.md)
