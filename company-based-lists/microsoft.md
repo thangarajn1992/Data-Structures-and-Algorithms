@@ -59,6 +59,7 @@
 * [Vertical Traversal of Binary Tree](../problem-solutions/tree-problems/vertical-traversal-of-binary-tree.md)
 * [Print BST elements in given range](../problem-solutions/tree-problems/print-bst-elements-in-given-range.md)
 * [Lowest Common Ancestor in a Binary Tree](../problem-solutions/tree-problems/lowest-common-ancestor-in-a-binary-tree.md)
+* [Count Number of SubTrees having given Sum](../problem-solutions/tree-problems/count-number-of-subtrees-having-given-sum.md)
 
 ## Stacks
 

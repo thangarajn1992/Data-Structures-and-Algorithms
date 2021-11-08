@@ -18,6 +18,7 @@
 * [Redistribute the coins across Nodes such that each node has 1 coin](redistribute-the-coins-across-nodes-such-that-each-node-has-1-coin.md)
 * [Lowest Common Ancestor in a Binary Tree](lowest-common-ancestor-in-a-binary-tree.md)
 * [Is Binary Tree a Max Heap](is-binary-tree-a-max-heap.md)
+* [Count Number of SubTrees having given Sum](count-number-of-subtrees-having-given-sum.md)
 
 ### **Binary Search Tree**
 

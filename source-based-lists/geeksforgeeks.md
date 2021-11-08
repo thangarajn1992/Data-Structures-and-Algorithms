@@ -54,6 +54,7 @@
 * [Maximum Path Sum between 2 Leaf Nodes](../problem-solutions/tree-problems/maximum-path-sum-between-2-leaf-nodes.md)
 * [Merge Two Binary Search Trees](../problem-solutions/tree-problems/merge-two-binary-search-trees.md)
 * [Is Binary Tree a Max Heap](../problem-solutions/tree-problems/is-binary-tree-a-max-heap.md)
+* [Count Number of SubTrees having given Sum](../problem-solutions/tree-problems/count-number-of-subtrees-having-given-sum.md)
 
 ## Stacks
 
