@@ -1,6 +1,6 @@
 # Quick Sort
 
-The algorithm was developed by a British computer scientist Tony Hoare in 1959. The name "Quick Sort" comes from the fact that, quick sort is capable of sorting a list of data elements significantly faster \(twice or thrice faster\) than any of the common sorting algorithms. It is one of the most efficient sorting algorithms and is based on the splitting of an array \(partition\) into smaller ones and swapping \(exchange\) based on the comparison with 'pivot' element selected. Due to this, quick sort is also called as "**Partition Exchange**" sort. Like Merge sort, Quick sort also falls into the category of divide and conquer approach of problem-solving methodology.
+The algorithm was developed by a British computer scientist Tony Hoare in 1959. The name "Quick Sort" comes from the fact that, quick sort is capable of sorting a list of data elements significantly faster (twice or thrice faster) than any of the common sorting algorithms. It is one of the most efficient sorting algorithms and is based on the splitting of an array (partition) into smaller ones and swapping (exchange) based on the comparison with 'pivot' element selected. Due to this, quick sort is also called as "**Partition Exchange**" sort. Like Merge sort, Quick sort also falls into the category of divide and conquer approach of problem-solving methodology.
 
 ### Applications
 
@@ -23,14 +23,14 @@ Taking the analogical view in perspective, consider a situation where one had to
 5. The approach used here is **reduction** at each split to get to the single-element array.
 6. At every split, the pile was divided and then the same approach was used for the smaller piles by using the method of recursion.
 
-Technically, quick sort follows the below steps:  
-**Step 1** − Make any element as pivot  
-**Step 2** − Partition the array on the basis of pivot  
+Technically, quick sort follows the below steps:\
+**Step 1** − Make any element as pivot\
+**Step 2** − Partition the array on the basis of pivot\
 **Step 3** − Apply quick sort on left partition recursively
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](<../../.gitbook/assets/image (24).png>)
 
-### Implemetation
+### Implementation
 
 ```cpp
 #include<iostream>
@@ -41,20 +41,20 @@ using namespace std;
 // Swapping two values.
 void swap(int *a, int *b)
 {
-		int temp; 
-		temp = *a;
-		*a = *b;
-		*b = temp;
+     int temp; 
+     temp = *a;
+     *a = *b;
+     *b = temp;
 }
  
 // Partitioning the array on the basis of values at high as pivot value.
 int Partition(int a[], int low, int high)
 {
-		int pivot, index, i;
-		index = low;
-		pivot = high;
+     int pivot, index, i;
+     index = low;
+     pivot = high;
  
-		// Getting index of the pivot.
+     // Getting index of the pivot.
 		for(i = low; i < high; i++)
 		{
 				if(a[i] < a[pivot])
@@ -85,8 +85,8 @@ int RandomPivotPartition(int a[], int low, int high)
  
 int QuickSort(int a[], int low, int high)
 {
-		int pindex;
-		if(low < high)
+     int pindex;
+     if(low < high)
 		{
 				// Partitioning array using randomized pivot.
 				pindex = RandomPivotPartition(a, low, high);
@@ -121,26 +121,25 @@ int main()
 }
 ```
 
-#### Complexity Analysis <a id="h827ske1ht0ea2fcemd1dxxl7u1ndu40q"></a>
+#### Complexity Analysis <a href="h827ske1ht0ea2fcemd1dxxl7u1ndu40q" id="h827ske1ht0ea2fcemd1dxxl7u1ndu40q"></a>
 
 **Time Complexity of Quick sort**
 
-* **Best case scenario:** The best case scenario occurs when the partitions are as evenly balanced as possible, i.e their sizes on either side of the pivot element are either are equal or are have size difference of 1 of each other.
+*   **Best case scenario:** The best case scenario occurs when the partitions are as evenly balanced as possible, i.e their sizes on either side of the pivot element are either are equal or are have size difference of 1 of each other.
 
-  * Case 1: The case when sizes of sub-list on either side of pivot becomes equal occurs when the subarray has an odd number of elements and the pivot is right in the middle after partitioning. Each partition will have `(n-1)/2` elements.
-  * Case 2: The size difference of 1 between the two sub-lists on either side of pivot happens if the sub-array has an even number, `n`, of elements. One partition will have `n/2` elements with the other having `(n/2)-1`.
+    * Case 1: The case when sizes of sub-list on either side of pivot becomes equal occurs when the subarray has an odd number of elements and the pivot is right in the middle after partitioning. Each partition will have `(n-1)/2` elements.
+    * Case 2: The size difference of 1 between the two sub-lists on either side of pivot happens if the sub-array has an even number, `n`, of elements. One partition will have `n/2` elements with the other having `(n/2)-1`.
 
-  In either of these cases, each partition will have at most `n/2` elements, and the tree representation of the sub-problem sizes will be as below:
+    In either of these cases, each partition will have at most `n/2` elements, and the tree representation of the sub-problem sizes will be as below:
 
-![Best Case](https://s3.ap-south-1.amazonaws.com/myinterviewtrainer-domestic/public_assets/assets/000/000/285/original/quick-sort.png?1617203748)
+![Best Case](https://s3.ap-south-1.amazonaws.com/myinterviewtrainer-domestic/public\_assets/assets/000/000/285/original/quick-sort.png?1617203748)
 
-The best-case complexity of the quick sort algorithm is O\(n log\(n\)\)
+The best-case complexity of the quick sort algorithm is O(n log(n))
 
-* **Worst case scenario:** This happens when we encounter the most unbalanced partitions possible, then the original call takes `n` time, the recursive call on `n-1` elements will take `(n-1)` time, the recursive call on `(n-2)` elements will take `(n-2)` time, and so on. The worst case time complexity of Quick Sort would be **O\(n2\)**.
+* **Worst case scenario:** This happens when we encounter the most unbalanced partitions possible, then the original call takes `n` time, the recursive call on `n-1` elements will take `(n-1)` time, the recursive call on `(n-2)` elements will take `(n-2)` time, and so on. The worst case time complexity of Quick Sort would be **O(n2)**.
 
 ![Quick Sort - Worst Case](https://i.pinimg.com/564x/49/3c/2e/493c2ea77dc9ea4ce978b485b8b46bae.jpg)
 
 **Space Complexity of Quick sort**
 
 The space complexity is calculated based on the space used in the recursion stack. The worst case space used will be `O(n)` . The average case space used will be of the order `O(log n)`. The worst case space complexity becomes `O(n)`, when the algorithm encounters its worst case where for getting a sorted list, we need to make `n` recursive calls.
-
