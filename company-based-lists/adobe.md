@@ -5,7 +5,7 @@
 * [Combination Sum - Input distinct Output Sorted Unique Subset Repeated Numbers](../problem-solutions/1d-array-problems/combination-sum-input-distinct-output-unique-subset-repeated-numbers.md)
 * [Span of Stock on each day](../problem-solutions/1d-array-problems/span-of-stock-on-each-day.md)
 * [Missing number in array with elements 1 to n](../problem-solutions/1d-array-problems/missing-number-in-array-with-elements-1-to-n.md)
-* [Rearrange array into 3 parts based on given pivot \( &lt; , = , &gt; pivot\) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
+* [Rearrange array into 3 parts based on given pivot ( < , = , > pivot) Dutch Flag Partitioning](../problem-solutions/1d-array-problems/rearrange-array-into-3-parts-based-on-given-pivot-less-than-greater-than-pivot-dutch-flag-partitioni.md)
 
 ## nD Arrays
 
@@ -18,6 +18,7 @@
 * [Remove loop in Linked List](../problem-solutions/linked-list-problems/remove-loop-in-linked-list.md)
 * [Intersection Point in Y Shaped Linked Lists](../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
 * [Detect Loop in Linked List](../problem-solutions/linked-list-problems/detect-loop-in-linked-list.md)
+* [Is Palindrome Linked List](../problem-solutions/linked-list-problems/is-palindrome-linked-list.md)
 
 ## Trees
 
@@ -40,8 +41,6 @@
 ## Mathematics
 
 ## Bit Manipulation
-
-
 
 
 

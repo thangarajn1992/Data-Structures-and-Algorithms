@@ -3,8 +3,13 @@
 ### Sources
 
 * [Leetcode 234](https://leetcode.com/problems/palindrome-linked-list/)
+* [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1#)
 
 ### Companies
+
+* [Amazon](../../company-based-lists/amazon.md)
+* [Microsoft](../../company-based-lists/microsoft.md)
+* [Adobe](../../company-based-lists/adobe.md)
 
 ### Problem Statement
 

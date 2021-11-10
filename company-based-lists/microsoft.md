@@ -49,6 +49,7 @@
 * [Remove loop in Linked List](../problem-solutions/linked-list-problems/remove-loop-in-linked-list.md)
 * [Intersection Point in Y Shaped Linked Lists](../problem-solutions/linked-list-problems/intersection-point-in-y-shaped-linked-lists.md)
 * [Merge 2 sorted linked list in reverse order](../problem-solutions/linked-list-problems/merge-2-sorted-linked-list-in-reverse-order.md)
+* [Is Palindrome Linked List](../problem-solutions/linked-list-problems/is-palindrome-linked-list.md)
 
 ## Trees
 
