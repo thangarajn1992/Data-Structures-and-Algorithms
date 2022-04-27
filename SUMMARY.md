@@ -35,6 +35,8 @@
 * [Trees](data-structures/trees/README.md)
   * [Binary Search Trees](data-structures/trees/binary-search-trees.md)
   * [Binary Tree](data-structures/trees/binary-tree-theory/README.md)
+    * [Tree Properties](data-structures/trees/binary-tree-theory/tree-properties.md)
+    * [Tree Traversals](data-structures/trees/binary-tree-theory/tree-traversals.md)
     * [Solving Tree Problems Recursively](data-structures/trees/binary-tree-theory/solving-tree-problems-recursively.md)
 * [Heap / Priority Queues](data-structures/heap/README.md)
   * [Heap/Priority Queue Problems](data-structures/heap/heap-priority-queue-problems.md)

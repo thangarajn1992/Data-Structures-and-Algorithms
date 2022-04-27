@@ -20,9 +20,9 @@ Given a weighted, undirected and connected graph of **V** vertices and **E** edg
 
 **Example 1:**
 
-****![](<../../.gitbook/assets/image (59).png>)****
+****![](<../../.gitbook/assets/image (59) (1).png>)****
 
-****![](<../../.gitbook/assets/image (60).png>)****
+****![](<../../.gitbook/assets/image (60) (1).png>)****
 
 ```
 Output:
@@ -34,7 +34,7 @@ of 4 is shown above.
 
 **Example 2:**
 
-****![](<../../.gitbook/assets/image (58).png>)****
+****![](<../../.gitbook/assets/image (58) (1).png>)****
 
 ```
 Output:

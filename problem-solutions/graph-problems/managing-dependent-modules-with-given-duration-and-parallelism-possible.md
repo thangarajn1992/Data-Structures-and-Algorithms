@@ -37,7 +37,7 @@ the project will be completed when Module
 1 is completed which takes 8 months.
 ```
 
-****![](<../../.gitbook/assets/image (56).png>)****
+****![](<../../.gitbook/assets/image (56) (1).png>)****
 
 **Example 2:**
 
