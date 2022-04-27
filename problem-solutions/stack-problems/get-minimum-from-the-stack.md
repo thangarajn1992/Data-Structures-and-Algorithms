@@ -13,7 +13,7 @@
 
 ### Problem Statement
 
-You are given **N** elements and your task is to Implement a Stack in which you can get minimum element in O(1) time. You are required to complete the three methods **push()** which take one argument an integer **'x'** to be pushed into the stack, **pop()** which returns a integer poped out from the stack and **getMin()** which returns the min element from the stack. (-1 will be returned if for **pop() and getMin() **the stack is empty.)
+You are given **N** elements and your task is to Implement a Stack in which you can get minimum element in O(1) time. You are required to complete the three methods **push()** which take one argument an integer **'x'** to be pushed into the stack, **pop()** which returns a integer poped out from the stack and **getMin()** which returns the min element from the stack. (-1 will be returned if for **pop() and getMin()** the stack is empty.)
 
 **Example 1:**
 
@@ -41,12 +41,12 @@ getMin() min element will be 1
 **Expected Auixilliary Space** : O(1) for all the 3 methods.
 
 **Constraints:**\
- 1 <= Number of queries <= 100\
- 1 <= values of the stack <= 100
+&#x20;1 <= Number of queries <= 100\
+&#x20;1 <= values of the stack <= 100
 
 ### Solution
 
-_The trick would be to keep track of second minimum when we are removing(poping) the minimum from the stack. For that, while inserting a new minimum into the stack, instead of inserting the actual minimum we will insert` 2*value - curr_minimum` . That way when we are poping the minimum, we can find the next minimum using `2*cur_minimum - value.`_
+_The trick would be to keep track of second minimum when we are removing(poping) the minimum from the stack. For that, while inserting a new minimum into the stack, instead of inserting the actual minimum we will insert `2*value - curr_minimum` . That way when we are poping the minimum, we can find the next minimum using `2*cur_minimum - value.`_
 
 ```cpp
 /*

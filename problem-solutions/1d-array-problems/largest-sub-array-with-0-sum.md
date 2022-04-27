@@ -24,8 +24,8 @@ Explanation: The largest subarray with
 sum 0 will be -2 2 -8 1 7.
 ```
 
-**Expected Time Complexity: **O(N).\
-**Expected Auxiliary Space: **O(N).
+**Expected Time Complexity:** O(N).\
+**Expected Auxiliary Space:** O(N).
 
 **Constraints:**\
 1 <= N <= 10^5\
@@ -33,13 +33,13 @@ sum 0 will be -2 2 -8 1 7.
 
 ### Solution
 
-**Algorithm:**  
+**Algorithm:** &#x20;
 
 1. Create a variable (sum), length (maxLen), and a hash map (hm) to store the sum-index pair as a key-value pair.
 2. Move along the input array from the start to the end.
 3. For every index, update the value of sum = sum + array\[i].
 4. Check every index, if the current sum is present in the hash map or not.
-5. If present, update the value of maxLen to a maximum difference of two indices (current index and index in the hash-map) and max_len.
+5. If present, update the value of maxLen to a maximum difference of two indices (current index and index in the hash-map) and max\_len.
 6. Else, put the value (sum) in the hash map, with the index as a key-value pair.
 7. Print the maximum length (maxLen).
 

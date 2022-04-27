@@ -12,11 +12,11 @@
 
 ### Problem Statement
 
-There is **one** meeting room in a firm. There are **N** meetings in the form of **(start\[i], end\[i])** where **start\[i] **is start time of meeting **i** and **end\[i]** is finish time of meeting **i.**\
- What is the **maximum** number of meetings that can be accommodated in the meeting room when only one meeting can be held in the meeting room at a particular time? **Note:** Start time of one chosen meeting can't be equal to the end time of the other chosen meeting. Complete the function **maxMeetings()**_ _that takes two arrays **start\[]** and **end\[]** along with their size **N** as input parameters and returns the **maximum** number of meetings that can be held in the meeting room.
+There is **one** meeting room in a firm. There are **N** meetings in the form of **(start\[i], end\[i])** where **start\[i]** is start time of meeting **i** and **end\[i]** is finish time of meeting **i.**\
+&#x20;What is the **maximum** number of meetings that can be accommodated in the meeting room when only one meeting can be held in the meeting room at a particular time? **Note:** Start time of one chosen meeting can't be equal to the end time of the other chosen meeting. Complete the function **maxMeetings()** __ that takes two arrays **start\[]** and **end\[]** along with their size **N** as input parameters and returns the **maximum** number of meetings that can be held in the meeting room.
 
 \
- **Example 1:**
+&#x20;**Example 1:**
 
 ```
 Input:
@@ -49,9 +49,9 @@ with given start and end timings.
 **Expected Auxilliary Space** : O(N)
 
 \
- **Constraints:**\
- 1 ≤ N ≤ 10^5\
- 0 ≤ **star**t**\[i]** < **end\[i]** ≤ 10^5
+&#x20;**Constraints:**\
+&#x20;1 ≤ N ≤ 10^5\
+&#x20;0 ≤ **star**t**\[i]** < **end\[i]** ≤ 10^5
 
 ### Solution
 

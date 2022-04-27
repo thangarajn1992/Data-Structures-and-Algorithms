@@ -47,10 +47,10 @@ which has a weight of 5.
 &#x20;
 
 **Your task:**\
-Since this is a functional problem you don't have to worry about input, you just have to complete the function  **spanningTree()** which takes number of vertices V** **and** **an adjacency matrix adj as input parameters and returns an integer denoting the sum of weights of the edges of the Minimum Spanning Tree. Here adj\[i] contains a list of lists containing two integers where the first integer a\[i]\[0] denotes that there is an edge between i and a\[i]\[0] and second integer a\[i]\[1] denotes that the distance between edge i and a\[i]\[0] is a\[i]\[1].
+Since this is a functional problem you don't have to worry about input, you just have to complete the function  **spanningTree()** which takes number of vertices V **** and **** an adjacency matrix adj as input parameters and returns an integer denoting the sum of weights of the edges of the Minimum Spanning Tree. Here adj\[i] contains a list of lists containing two integers where the first integer a\[i]\[0] denotes that there is an edge between i and a\[i]\[0] and second integer a\[i]\[1] denotes that the distance between edge i and a\[i]\[0] is a\[i]\[1].
 
-**Expected Time Complexity: **O(ElogV).\
-**Expected Auxiliary Space: **O(V**^**2).\
+**Expected Time Complexity:** O(ElogV).\
+**Expected Auxiliary Space:** O(V**^**2).\
 &#x20;
 
 **Constraints:**\

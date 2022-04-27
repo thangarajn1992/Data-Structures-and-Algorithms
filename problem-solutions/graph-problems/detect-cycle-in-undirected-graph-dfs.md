@@ -14,7 +14,7 @@
 
 ### Problem Statement
 
-Given an undirected graph with V vertices and E edges, check whether it contains any cycle or not.** **![](https://c/Users/Mukul%20kumar/Desktop/GFG_PIC.JPG)
+Given an undirected graph with V vertices and E edges, check whether it contains any cycle or not. **** ![](https://c/Users/Mukul%20kumar/Desktop/GFG\_PIC.JPG)
 
 **Example 1:**
 
@@ -35,15 +35,15 @@ Explanation: No cycle in the graph.
 ```
 
 **Your Task:**\
- You don't need to read or print anything. Your task is to complete the function **isCycle() **which takes V denoting the number of vertices and adjacency list as input parameters and returns a boolean value denoting if the undirected graph contains any cycle or not, return 1 if a cycle is present else return 0.
+&#x20;You don't need to read or print anything. Your task is to complete the function **isCycle()** which takes V denoting the number of vertices and adjacency list as input parameters and returns a boolean value denoting if the undirected graph contains any cycle or not, return 1 if a cycle is present else return 0.
 
-**NOTE: **The adjacency list denotes the edges of the graph where edges\[i]\[0] and edges\[i]\[1] represent an edge.
+**NOTE:** The adjacency list denotes the edges of the graph where edges\[i]\[0] and edges\[i]\[1] represent an edge.
 
-**Expected Time Complexity: **O(V + E)\
-**Expected Space Complexity: **O(V)
+**Expected Time Complexity:** O(V + E)\
+**Expected Space Complexity:** O(V)
 
 **Constraints:**\
- 1 ≤ V, E ≤ 10^5
+&#x20;1 ≤ V, E ≤ 10^5
 
 ### Solution
 

@@ -13,7 +13,7 @@
 Given two strings, one is a text string, **txt** and other is a pattern string, **pat**. The task is to print the indexes of all the occurrences of pattern string in the text string. For printing, Starting Index of a string should be taken as 1.
 
 \
- **Example 1:**
+&#x20;**Example 1:**
 
 ```
 Input:
@@ -34,12 +34,12 @@ Explanation: There's not substring "edu"
 present in txt.
 ```
 
-**Expected Time Complexity: **O(|txt|).\
-**Expected Auxiliary Space: **O(|txt|).
+**Expected Time Complexity:** O(|txt|).\
+**Expected Auxiliary Space:** O(|txt|).
 
 **Constraints:**\
- 1 ≤ |txt| ≤ 10^5\
- 1 ≤ |pat| < |S|
+&#x20;1 ≤ |txt| ≤ 10^5\
+&#x20;1 ≤ |pat| < |S|
 
 ### Solution
 

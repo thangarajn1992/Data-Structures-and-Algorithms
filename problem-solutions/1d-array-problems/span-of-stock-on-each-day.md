@@ -2,7 +2,7 @@
 
 ### Source
 
-* [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#) 
+* [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#)&#x20;
 
 ### Companies
 
@@ -14,7 +14,7 @@
 ### Problem Statement
 
 The stock span problem is a financial problem where we have a series of **n** daily price quotes for a stock and we need to calculate the span of stock’s price for all **n** days. **The span Si of the stock’s price on a given day i is defined as the maximum number of consecutive days just before the given day, for which the price of the stock on the current day is less than or equal to its price on the given day.**\
- For example, if an array of 7 days prices is given as {100, 80, 60, 70, 60, 75, 85}, then the span values for corresponding 7 days are {1, 1, 1, 2, 1, 4, 6}.
+&#x20;For example, if an array of 7 days prices is given as {100, 80, 60, 70, 60, 75, 85}, then the span values for corresponding 7 days are {1, 1, 1, 2, 1, 4, 6}.
 
 **Example 1:**
 
@@ -45,14 +45,14 @@ Traversing the given input span for 10 will be 1,
 Hence, the output will be 1 1 2 4 5 1.
 ```
 
-**Expected Time Complexity: **O(N).\
-**Expected Auxiliary Space: **O(N).
+**Expected Time Complexity:** O(N).\
+**Expected Auxiliary Space:** O(N).
 
 **Constraints:**\
 1 ≤ N ≤ 10^5\
 1 ≤ C\[i] ≤ 10^5
 
-![](https://contribute.geeksforgeeks.org/wp-content/uploads/Stock_span.png)
+![](https://contribute.geeksforgeeks.org/wp-content/uploads/Stock\_span.png)
 
 ### Solution
 

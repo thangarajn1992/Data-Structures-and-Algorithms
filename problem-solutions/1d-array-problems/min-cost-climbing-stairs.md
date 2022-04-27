@@ -13,7 +13,7 @@
 
 Given an array of integers **cost\[]** of length **N**, where **cost\[i]** is the cost of the ith step on a staircase. Once the cost is paid, you can either climb one or two steps. You can either start from the step with index 0, or the step with index 1. Return the minimum cost to reach the top of the floor.\
 \
- **Example 1:**
+&#x20;**Example 1:**
 
 ```
 Input:
@@ -27,7 +27,7 @@ pay that cost, and go to the top.
 ```
 
 \
- **Example 2:**
+&#x20;**Example 2:**
 
 ```
 Input:
@@ -40,12 +40,12 @@ Cheapest option is to start on cost[0],
 and only step on 1s, skipping cost[3].
 ```
 
-**Expected Time Complexity: **O(N).\
-**Expected Auxiliary Space: **O(1).\
+**Expected Time Complexity:** O(N).\
+**Expected Auxiliary Space:** O(1).\
 \
- **Constraints:**\
- 2 ≤ N ≤ 10^3\
- 0 ≤ cost\[i] ≤ 999
+&#x20;**Constraints:**\
+&#x20;2 ≤ N ≤ 10^3\
+&#x20;0 ≤ cost\[i] ≤ 999
 
 ### Solution
 

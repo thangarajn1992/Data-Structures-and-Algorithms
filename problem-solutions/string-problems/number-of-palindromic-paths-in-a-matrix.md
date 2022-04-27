@@ -11,7 +11,7 @@
 ### Problem Statement
 
 Given a **matrix** containing lower alphabetical characters only of size **n\*m**. We need to count the number of palindromic paths in the given matrix.\
- A path is defined as a sequence of cells starting from top-left cell and ending at bottom-right cell. We are allowed to move to **right** and **down** only from current cell.
+&#x20;A path is defined as a sequence of cells starting from top-left cell and ending at bottom-right cell. We are allowed to move to **right** and **down** only from current cell.
 
 **Example 1:**
 
@@ -36,9 +36,9 @@ Output: 0
 Explanation: There is no palindromic paths.
 ```
 
-**Expected Time Complexity: **O(n^2\*m^2)\
-**Space Complexity: **O(n\*m)\
-**Constraints: **1 ≤ n, m ≤ 100
+**Expected Time Complexity:** O(n^2\*m^2)\
+**Space Complexity:** O(n\*m)\
+**Constraints:** 1 ≤ n, m ≤ 100
 
 ### Solution
 

@@ -66,8 +66,8 @@ Input:
 Output: 40 20 60 30
 ```
 
-**Expected Time Complexity: **O(N).\
-**Expected Auxiliary Space: **O(N).
+**Expected Time Complexity:** O(N).\
+**Expected Auxiliary Space:** O(N).
 
 **Constraints:**\
 &#x20;1 <= Number of nodes <= 10^5\

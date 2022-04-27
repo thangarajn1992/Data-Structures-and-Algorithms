@@ -38,7 +38,7 @@ If strong components are to be represented by appointing a separate root vertex 
       2. For each in-neighbor v of u, do Assign(v,root).
    2. Otherwise do nothing
 
-Vertices are prepended to the list L in post-order relative to the search tree being explored. They key point of algorithm is that, **if there is a forward path from u to v, then u will appear before v on the final list L ( unless u and v both belong to the same strong component, in which case their relative order in L is arbitrary). **
+Vertices are prepended to the list L in post-order relative to the search tree being explored. They key point of algorithm is that, **if there is a forward path from u to v, then u will appear before v on the final list L ( unless u and v both belong to the same strong component, in which case their relative order in L is arbitrary).**&#x20;
 
 This algorithm in short can be understood as identifying the **strong component of a vertex u as the set of vertices which are reachable from u both by backwards and forwards traversal.**
 

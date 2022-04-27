@@ -20,7 +20,7 @@ You may assume that the input format is always valid.
 
 * For example, it could never contain two consecutive commas, such as `"1,,3"`.
 
-**Note: **You are not allowed to reconstruct the tree.
+**Note:** You are not allowed to reconstruct the tree.
 
 **Example 1:**
 

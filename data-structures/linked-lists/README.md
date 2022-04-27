@@ -1,6 +1,6 @@
 # Linked Lists
 
-Similar to the array, the linked list is also a** linear** data structure. Here is an example:
+Similar to the array, the linked list is also a **linear** data structure. Here is an example:
 
 ![Singly Linked List](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/04/12/screen-shot-2018-04-12-at-152754.png)
 
@@ -31,7 +31,7 @@ But it is a little different to `delete a given node` (including the last node).
 
 Here we provide a comparison of `time complexity` between the linked list and the [array](../arrays/).
 
-![](https://assets.leetcode.com/uploads/2020/10/02/comparison_of_time_complexity.png)
+![](https://assets.leetcode.com/uploads/2020/10/02/comparison\_of\_time\_complexity.png)
 
 After this comparison, it is not difficult to come up with our conclusion:
 
@@ -43,26 +43,26 @@ After this comparison, it is not difficult to come up with our conclusion:
 
 ### C++ Standard Library
 
-For singly linked list, we have [**forward_list**](https://app.gitbook.com/@thangarajn1992/s/cpp-dictionary/containers/forward-list)** **library. The key functions to remember in this library are
+For singly linked list, we have [**forward\_list**](https://app.gitbook.com/@thangarajn1992/s/cpp-dictionary/containers/forward-list) **** library. The key functions to remember in this library are
 
-* push_front
-* pop_front
-* emplace_front
-* insert_after
-* emplace_after
-* erase_after
-* splice_after
+* push\_front
+* pop\_front
+* emplace\_front
+* insert\_after
+* emplace\_after
+* erase\_after
+* splice\_after
 * reverse
 * sort
 
-For doubly linked list, we have [**list**](https://app.gitbook.com/@thangarajn1992/s/cpp-dictionary/containers/list)** **library. The key functions to remember in this library are
+For doubly linked list, we have [**list**](https://app.gitbook.com/@thangarajn1992/s/cpp-dictionary/containers/list) **** library. The key functions to remember in this library are
 
-* push_front
-* emplace_front
-* pop_front
-* push_back
-* emplace_back
-* pop_back
+* push\_front
+* emplace\_front
+* pop\_front
+* push\_back
+* emplace\_back
+* pop\_back
 * splice
 * reverse
 * sort

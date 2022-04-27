@@ -11,7 +11,7 @@
 
 ### Problem Statement
 
-Given an array **arr\[] **of length **n. **Find all possible unique permutations of the array.
+Given an array **arr\[]** of length **n.** Find all possible unique permutations of the array.
 
 \
 **Example 1:**
@@ -42,7 +42,7 @@ Output:
 
 \
 **Your Task:**\
-You don't need to read input or print anything. You only need to complete the function** uniquePerms() **that takes an integer n, and an array arr of size n as input and returns a sorted list of lists containing all unique permutations of the array.
+You don't need to read input or print anything. You only need to complete the function **uniquePerms()** that takes an integer n, and an array arr of size n as input and returns a sorted list of lists containing all unique permutations of the array.
 
 \
 **Expected Time Complexity:**  O(n\*n!)\

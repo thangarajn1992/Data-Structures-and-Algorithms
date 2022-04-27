@@ -17,7 +17,7 @@ Time complexity of above method is `O(E*(V+E))` for a graph represented using ad
 
 \
 **A O(V+E) algorithm to find all Bridges** \
-The idea is similar to [O(V+E) algorithm for Articulation Points](articulation-point.md). We do DFS traversal of the given graph. In DFS tree **an edge (u, v) (u is parent of v in DFS tree) is bridge if there does not exist any other alternative to reach u or an ancestor of u from sub-tree rooted with v**. The value low\[v] indicates earliest visited vertex reachable from sub-tree rooted with v. **The condition for an edge (u, v) to be a bridge is, “low\[v] > disc\[u]”. **
+The idea is similar to [O(V+E) algorithm for Articulation Points](articulation-point.md). We do DFS traversal of the given graph. In DFS tree **an edge (u, v) (u is parent of v in DFS tree) is bridge if there does not exist any other alternative to reach u or an ancestor of u from sub-tree rooted with v**. The value low\[v] indicates earliest visited vertex reachable from sub-tree rooted with v. **The condition for an edge (u, v) to be a bridge is, “low\[v] > disc\[u]”.**&#x20;
 
 ### **Implementation**
 

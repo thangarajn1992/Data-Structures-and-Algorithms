@@ -18,11 +18,11 @@ Inserting a new element into an Array can take many forms:
 2. Inserting a new element at the beginning of the Array.
 3. Inserting a new element at any given index inside the Array.
 
-#### Inserting at the End of an Array <a href="inserting-at-the-end-of-an-array" id="inserting-at-the-end-of-an-array"></a>
+#### Inserting at the End of an Array <a href="#inserting-at-the-end-of-an-array" id="inserting-at-the-end-of-an-array"></a>
 
 At any point in time, we know the index of the last element of the Array, as we've kept track of it in our `length` variable. All we need to do for inserting an element at the end is to assign the new element to one index past the current last element.
 
-![](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/Figures/Array_Explore/Array_Insertion\_1.png)
+![](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/Figures/Array\_Explore/Array\_Insertion\_1.png)
 
 This is pretty much the same as we've already seen. Here's the code to make a new Array that can hold up to `6` items, and then add items into the first `3` three indexes.
 
@@ -82,11 +82,11 @@ Index 4 contains 0.
 Index 5 contains 0.
 ```
 
-#### Inserting at the Start of an Array <a href="inserting-at-the-start-of-an-array" id="inserting-at-the-start-of-an-array"></a>
+#### Inserting at the Start of an Array <a href="#inserting-at-the-start-of-an-array" id="inserting-at-the-start-of-an-array"></a>
 
-To insert an element at the start of an Array, we'll need to shift all other elements in the Array to the right by one index to create space for the new element. This is a very costly operation, since each of the existing elements has to be shifted one step to the right. The need to shift everything implies that this is not a constant time operation. In fact, the time taken for insertion at the beginning of an Array will be proportional to the length of the Array. In terms of time complexity analysis, this is a linear time complexity:`O(N)` , where`  N  `is the length of the Array.
+To insert an element at the start of an Array, we'll need to shift all other elements in the Array to the right by one index to create space for the new element. This is a very costly operation, since each of the existing elements has to be shifted one step to the right. The need to shift everything implies that this is not a constant time operation. In fact, the time taken for insertion at the beginning of an Array will be proportional to the length of the Array. In terms of time complexity analysis, this is a linear time complexity:`O(N)` , where `N` is the length of the Array.
 
-![](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/Figures/Array_Explore/Array_Insertion\_2.png)
+![](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/Figures/Array\_Explore/Array\_Insertion\_2.png)
 
 Here's what this looks like in code.
 
@@ -115,11 +115,11 @@ Index 4 contains 10.
 Index 5 contains 0.
 ```
 
-#### Inserting Anywhere in the Array <a href="inserting-anywhere-in-the-array" id="inserting-anywhere-in-the-array"></a>
+#### Inserting Anywhere in the Array <a href="#inserting-anywhere-in-the-array" id="inserting-anywhere-in-the-array"></a>
 
 Similarly, for inserting at any given index, we first need to shift all the elements from that index till one position to the right. Once the space is created for the new element, we proceed with the insertion. If you think about it, insertion at the beginning is basically a special case of inserting an element at a given index—in that case, the given index was `0`.
 
-![](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/Figures/Array_Explore/Array_Insertion\_3.png)
+![](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/Figures/Array\_Explore/Array\_Insertion\_3.png)
 
 Again, this is also a costly operation since we could _potentially_ have to shift almost all the other elements to the right before actually inserting the new element. As your saw above, shifting lots of elements one place to the right adds to the time complexity of the insertion task.
 
@@ -162,11 +162,11 @@ Deletion in an Array works in a very similar manner to insertion, and has the sa
 2. Deleting the first element of the Array.
 3. Deletion at any given index.
 
-#### Deleting From the End of an Array <a href="deleting-from-the-end-of-an-array" id="deleting-from-the-end-of-an-array"></a>
+#### Deleting From the End of an Array <a href="#deleting-from-the-end-of-an-array" id="deleting-from-the-end-of-an-array"></a>
 
 Deletion at the end of an Array is similar to people standing in a line, also known as a `queue`. The person who most recently joined the queue (at the end) can leave at any time without disturbing the rest of the queue. Deleting from the end of an Array is the least time consuming of the three cases. Recall that insertion at the end of an Array was also the least time-consuming case for insertion.
 
-![](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/Figures/Array_Explore/Array_Deletion\_1.png)
+![](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/Figures/Array\_Explore/Array\_Deletion\_1.png)
 
 So, how does this work in code? Before we look at this, let's quickly remind ourselves what the `length` of an Array means. Here is some code that creates an Array with room for 10 elements, and then adds elements into the first 6 indexes of it.
 
@@ -225,11 +225,11 @@ Index 4 contains 4.
 
 Yup, that's it! Even though we call it a deletion, its not like we actually freed up the space for a new element, right? This is because **we don't actually need to free up any space**. Simply overwriting the value at a certain index deletes the element at that index. Seeing as the length variable in our examples tells us the next index where we can insert a new element, reducing it by one ensures the next new element is written over the deleted one. This also indicates that the Array now contains one less element, which is exactly what we want programmatically.
 
-#### Deleting From the Start of an Array <a href="deleting-from-the-start-of-an-array" id="deleting-from-the-start-of-an-array"></a>
+#### Deleting From the Start of an Array <a href="#deleting-from-the-start-of-an-array" id="deleting-from-the-start-of-an-array"></a>
 
 Next comes the costliest of all deletion operations for an Array—deleting the first element. If we want to delete the first element of the Array, that will create a vacant spot at the `0th` index. To fill that spot, we will shift the element at index `1` one step to the left. Going by the ripple effect, every element all the way to the last one will be shifted one place to the left. This shift of elements takesO(N)O(N)O(N) time, whereNNN is the number of elements in the Array.
 
-![](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/Figures/Array_Explore/Array_Deletion\_2.png)
+![](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/Figures/Array\_Explore/Array\_Deletion\_2.png)
 
 Here is how deleting the first element looks in code.
 
@@ -259,11 +259,11 @@ Index 2 contains 3.
 Index 3 contains 4.
 ```
 
-#### Deleting From Anywhere in the Array <a href="deleting-from-anywhere-in-the-array" id="deleting-from-anywhere-in-the-array"></a>
+#### Deleting From Anywhere in the Array <a href="#deleting-from-anywhere-in-the-array" id="deleting-from-anywhere-in-the-array"></a>
 
-For deletion at any given index, the empty space created by the deleted item will need to be filled. Each of the elements to the _right_ of the index we're deleting at will get shifted to the _left_ by one. Deleting the first element of an Array is a special case of deletion at a given index, where the index is `0`. This shift of elements takes `O(K)` time where `K` is the number of elements to the right of the given index. Since _potentially _`K = N`, we say that the time complexity of this operation is also `O(N)`
+For deletion at any given index, the empty space created by the deleted item will need to be filled. Each of the elements to the _right_ of the index we're deleting at will get shifted to the _left_ by one. Deleting the first element of an Array is a special case of deletion at a given index, where the index is `0`. This shift of elements takes `O(K)` time where `K` is the number of elements to the right of the given index. Since _potentially_ `K = N`, we say that the time complexity of this operation is also `O(N)`
 
-![](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/Figures/Array_Explore/Array_Deletion\_3.png)
+![](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/Figures/Array\_Explore/Array\_Deletion\_3.png)
 
 Here is the code to delete the element at index 1. To do this, we'll need to move over the elements after it in the Array.
 

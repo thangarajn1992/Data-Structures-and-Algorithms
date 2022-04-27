@@ -46,10 +46,10 @@ in every row. We get "GSGSEKFREKEOE"
 ```
 
 **Your Task:**\
-You need not read input or print anything. Your task is to complete the function **convert() **which takes 2 arguments(string str, integer n) and returns the resultant string.
+You need not read input or print anything. Your task is to complete the function **convert()** which takes 2 arguments(string str, integer n) and returns the resultant string.
 
-**Expected Time Complexity: **O(|str|).\
-**Expected Auxiliary Space: **O(|str|).
+**Expected Time Complexity:** O(|str|).\
+**Expected Auxiliary Space:** O(|str|).
 
 **Constraints:**\
 1 ≤ N ≤ 10^5

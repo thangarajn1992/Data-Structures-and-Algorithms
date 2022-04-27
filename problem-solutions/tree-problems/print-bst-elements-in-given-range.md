@@ -12,7 +12,7 @@
 
 ### Problem Statement
 
-Given a Binary Search Tree** **and a range **\[low, high]**. Find all the numbers in the BST that lie in the given range. **Note:** Element greater than or equal to root go to the right side. Complete the function **printNearNodes()** which takes the root Node of the BST and the range elements low and high as inputs and returns an array that contains the BST elements in the given range low to high (inclusive) in **non-decreasing **order.
+Given a Binary Search Tree **** and a range **\[low, high]**. Find all the numbers in the BST that lie in the given range. **Note:** Element greater than or equal to root go to the right side. Complete the function **printNearNodes()** which takes the root Node of the BST and the range elements low and high as inputs and returns an array that contains the BST elements in the given range low to high (inclusive) in **non-decreasing** order.
 
 **Example 1:**
 
@@ -44,8 +44,8 @@ Output: 16 20
 **Expected Auxiliary Space:** O(Height of the BST).
 
 **Constraints:**\
- 1 ≤ Number of nodes ≤ 10^4\
- 1 ≤ l ≤ h ≤ 10^5
+&#x20;1 ≤ Number of nodes ≤ 10^4\
+&#x20;1 ≤ l ≤ h ≤ 10^5
 
 ### Solution
 

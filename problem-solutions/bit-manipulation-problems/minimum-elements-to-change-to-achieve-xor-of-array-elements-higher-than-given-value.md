@@ -38,10 +38,10 @@ Output:
 ```
 
 **Your Task:**\
-You don't need to read input or print anything. Your task is to complete the function **count( )** which takes **N**, **A\[ ] **and **X** as input parameters and returns the minimum number of operations required.
+You don't need to read input or print anything. Your task is to complete the function **count( )** which takes **N**, **A\[ ]** and **X** as input parameters and returns the minimum number of operations required.
 
-**Expected Time Complexity: **O(N \* Log(max(A\[ ])))\
-**Expected Auxiliary Space: **O(1)
+**Expected Time Complexity:** O(N \* Log(max(A\[ ])))\
+**Expected Auxiliary Space:** O(1)
 
 **Constraints:**\
 1 ≤ N ≤ 10^5\

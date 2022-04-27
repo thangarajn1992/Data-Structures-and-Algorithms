@@ -8,7 +8,7 @@ Given an array of real numbers greater than zero in form of strings. Find if the
 
 **Example:**
 
-Given`  [0.6, 0.7, 0.8, 1.2, 0.4]  `, You should return **`1` **as `0.6+0.7+0.4=1.7`  `1<1.7<2`
+Given `[0.6, 0.7, 0.8, 1.2, 0.4]` , You should return **`1` ** as `0.6+0.7+0.4=1.7`  `1<1.7<2`
 
 **O(n)** solution is expected.
 

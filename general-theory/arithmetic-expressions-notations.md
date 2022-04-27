@@ -61,7 +61,7 @@ At any point of time in expression evaluation, the order can be altered by using
 
 ### **Postfix Evaluation Algorithm**
 
-****[**Stacks**](../data-structures/stacks/)** **are used to evaluate postfix expression.
+****[**Stacks**](../data-structures/stacks/) **** are used to evaluate postfix expression.
 
 1. Scan the expression from Left to Right
 2. If operand, push it to stack

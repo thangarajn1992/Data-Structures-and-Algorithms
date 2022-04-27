@@ -10,10 +10,10 @@
 
 ### Problem Statement
 
-Given an array **arr\[] **of size, **N.** Find the subarray with maximum XOR. A subarray is a contiguous part of the array.
+Given an array **arr\[]** of size, **N.** Find the subarray with maximum XOR. A subarray is a contiguous part of the array.
 
 \
- **Example 1:**
+&#x20;**Example 1:**
 
 ```
 Input:
@@ -31,14 +31,14 @@ value equal to 7.
 **Expected Auxiliary Space:** O(N
 
 **Constraints:**\
- 1 <= N <= 10^5\
- 1 <= arr\[i] <= 10^5
+&#x20;1 <= N <= 10^5\
+&#x20;1 <= arr\[i] <= 10^5
 
 ### Solution
 
 #### Trie Based Approach
 
-An **Efficient Solution** can solve the above problem in O(n) time under the assumption that integers take fixed number of bits to store. The idea is to use Trie Data Structure. Below is algorithm.  
+An **Efficient Solution** can solve the above problem in O(n) time under the assumption that integers take fixed number of bits to store. The idea is to use Trie Data Structure. Below is algorithm. &#x20;
 
 ```
 1) Create an empty Trie.  Every node of Trie is going to 
@@ -61,7 +61,7 @@ We can observe from above algorithm that we build a Trie that contains XOR of al
 i) The prefix itself has the maximum XOR value ending with arr\[i]. For example if i=2 in {8, 2, 1, 12}, then the maximum subarray xor ending with arr\[2] is the whole prefix. \
 ii) We need to remove some prefix (ending at index from 0 to i-1). For example if i=3 in {8, 2, 1, 12}, then the maximum subarray xor ending with arr\[3] starts with arr\[1] and we need to remove arr\[0].\
 To find the prefix to be removed, we find the entry in Trie that has maximum XOR value with current prefix. If we do XOR of such previous prefix with current prefix, we get the maximum XOR value ending with arr\[i]. \
-If there is no prefix to be removed (case i), then we return 0 (that’s why we inserted 0 in Trie). 
+If there is no prefix to be removed (case i), then we return 0 (that’s why we inserted 0 in Trie).&#x20;
 
 ```cpp
 class TrieNode {

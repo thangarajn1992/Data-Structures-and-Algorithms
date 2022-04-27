@@ -1,8 +1,8 @@
 # 1D vs 2D Array
 
-##  1D Array
+## &#x20;1D Array
 
-Array is a collection of same types. 
+Array is a collection of same types.&#x20;
 
 #### Why we need Array?
 
@@ -21,7 +21,7 @@ for(int i = 0; i < 100; i++)
     sum += m[i];
 ```
 
-The array elements are stored contiguous memory. First element has array index of '0'. 
+The array elements are stored contiguous memory. First element has array index of '0'.&#x20;
 
 `m`points to the location of the first element of the array. But this is not a pointer variable, so we cannot do increment/decrement like `m++`.  `*m` will be value of the first element
 
@@ -31,7 +31,7 @@ The array elements are stored contiguous memory. First element has array index o
 
 `datatype variablename[array_size]; Eg: int m[100];`
 
- **Access/Modify element of Array**
+&#x20;**Access/Modify element of Array**
 
 To Access any element, we can use `Base + offset`, hence it is O(1) for accessing or modifying. Eg: To access 4th  element, we can use either `m[3] or *(m+3)`
 
@@ -45,17 +45,17 @@ Two-Dimensional (2D) arrays are simply a matrix. We have an array of array of sa
 
 **Memory Orientation of 2D Array**
 
-** **m\[0] is one 1D array with 100 elements. 5 such array of 100 elements in 2D array. In memory, `m[0][0]...m[0][99]` and then we will have `m[1][0]...m[1][99]` and so on. Once we declare this array, we will have contiguous memory allocated for this array to hold 500 integers.
+&#x20;**** m\[0] is one 1D array with 100 elements. 5 such array of 100 elements in 2D array. In memory, `m[0][0]...m[0][99]` and then we will have `m[1][0]...m[1][99]` and so on. Once we declare this array, we will have contiguous memory allocated for this array to hold 500 integers.
 
 **Pointer to 2D Array**
 
-`int *p = m  `   => Gives pointer to base address of first element (works in 1D array). So this will throw compilation error. So we need to do as
+`int *p = m`   => Gives pointer to base address of first element (works in 1D array). So this will throw compilation error. So we need to do as
 
 `int *p[100] = m`   => Gives pointer to first 1D array of size 100.
 
 `*(m+1)` will add the size of one array of 100 elements, So after this the pointer will be at 2nd 1D array `&m[1][0]`
 
-`*(m+1)+2 ` equivalent to `&m[1][0] + 2 => &m[1][2]`
+`*(m+1)+2` equivalent to `&m[1][0] + 2 => &m[1][2]`
 
 `*(*(m+1)) equivalent to value at m[1][0]`
 

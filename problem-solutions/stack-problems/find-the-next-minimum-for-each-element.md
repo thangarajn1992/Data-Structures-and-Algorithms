@@ -40,7 +40,7 @@ None of the students can find a classmate who has
 a higher roll number and less marks than them.
 ```
 
-**Your Task: ** \
+**Your Task:** \
 You don't need to read input or print anything. Complete the function **help\_classmate()** which takes the array arr\[] and size of array N as input parameters and returns a list of numbers. If a student is unable to find anyone then output is -1.
 
 **Expected Time Complexity:** O(N)\

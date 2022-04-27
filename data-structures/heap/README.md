@@ -6,8 +6,8 @@ A Heap is a special-tree based structure in which the tree is a complete tree. A
 
 A Heap data structure should not be confused with the heap, a pool of memory used for dynamic memory allocation. The common implementation of Heap is the binary heap, which is basically a binary tree with two additional properties
 
-* **Structural property : **A binary heap is a complete binary tree, i.e., all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right.
-* **Heap property: **The key stored in each node is either "greater than or equal to" (max-heap)  or "lesser than or equal to" (min-heap) the keys in the node's children.
+* **Structural property :** A binary heap is a complete binary tree, i.e., all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right.
+* **Heap property:** The key stored in each node is either "greater than or equal to" (max-heap)  or "lesser than or equal to" (min-heap) the keys in the node's children.
 
 #### Min Heap and Max Heap
 
@@ -41,15 +41,15 @@ Max Heap Property: A[PARENT[i]] >= A[i]
 
 ### Heapify Operation
 
-Heapify operation forms the crux of all major heap operations. It can be implemented as **heapify-up **and **heapify-down.**
+Heapify operation forms the crux of all major heap operations. It can be implemented as **heapify-up** and **heapify-down.**
 
 #### Heapify-down(i)
 
-It can be invoked if element `A[i]` violates the heap property with its two direct children. It converts the binary tree rooted at index i into a heap by moving `A[i] `down the tree.
+It can be invoked if element `A[i]` violates the heap property with its two direct children. It converts the binary tree rooted at index i into a heap by moving `A[i]` down the tree.
 
-It does so by comparing A\[i] with its left & right child and swapping A\[i] with the smaller child for min-heaps & the larger child for max-heaps, and then calling _heapify-down _on the corresponding child. The process is repeated till the heap propery is fixed. The complexity of the heapify-down operation is **O(log(n))**
+It does so by comparing A\[i] with its left & right child and swapping A\[i] with the smaller child for min-heaps & the larger child for max-heaps, and then calling _heapify-down_ on the corresponding child. The process is repeated till the heap propery is fixed. The complexity of the heapify-down operation is **O(log(n))**
 
-**heapify-down **is used in pop() operation of the binary heap. The idea is to replace the heap's root with the last element on the last level and call heapify-down on the root. The following diagram illustrates the process:
+**heapify-down** is used in pop() operation of the binary heap. The idea is to replace the heap's root with the last element on the last level and call heapify-down on the root. The following diagram illustrates the process:
 
 ![heapfiy-down used in pop()](<../../.gitbook/assets/Screenshot 2021-05-31 at 8.53.30 PM.png>)
 

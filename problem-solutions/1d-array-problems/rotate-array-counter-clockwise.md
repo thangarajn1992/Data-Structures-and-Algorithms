@@ -38,8 +38,8 @@ when rotated by 3 elements, it becomes
 
 
 
-**Expected Time Complexity: **O(N)\
-&#x20;**Expected Auxiliary Space: **O(1)
+**Expected Time Complexity:** O(N)\
+&#x20;**Expected Auxiliary Space:** O(1)
 
 **Constraints:**\
 &#x20;1 <= N <= 10^7\

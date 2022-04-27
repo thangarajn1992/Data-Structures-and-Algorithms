@@ -35,11 +35,11 @@ Repeated characters in the string cannot be rearranged such that there should no
 be any adjacent repeated character.
 ```
 
-**Note: **The generated output is 1 if the string is successfully rearranged and is 0 if rearranging is not possible.
+**Note:** The generated output is 1 if the string is successfully rearranged and is 0 if rearranging is not possible.
 
 * **Expected Time Complexity :** O(NlogN), N = length of String
 * **Expected Auxiliary Space :** O(number of English alphabets)
-* **Constraints : **1 <= length of string <= 10^4
+* **Constraints :** 1 <= length of string <= 10^4
 
 ### Solution
 

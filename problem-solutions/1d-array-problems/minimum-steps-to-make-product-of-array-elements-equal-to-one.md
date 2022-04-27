@@ -42,17 +42,17 @@ So, we don't need to change anything.
 ```
 
 \
- **Your Task:  **\
- You don't need to read input or print anything. Your task is to complete the function **makeProductOne()** which takes an integer N and an array arr of size N as input and returns the minimum steps required.
+&#x20;**Your Task:**  \
+&#x20;You don't need to read input or print anything. Your task is to complete the function **makeProductOne()** which takes an integer N and an array arr of size N as input and returns the minimum steps required.
 
 \
- **Expected Time Complexity:** O(N)\
- **Expected Auxiliary Space:** O(1)
+&#x20;**Expected Time Complexity:** O(N)\
+&#x20;**Expected Auxiliary Space:** O(1)
 
 \
- **Constraints:**\
- 1 ≤ N ≤ 10^5\
- \-10^3 ≤ arr\[i] ≤ 10^3
+&#x20;**Constraints:**\
+&#x20;1 ≤ N ≤ 10^5\
+&#x20;\-10^3 ≤ arr\[i] ≤ 10^3
 
 ### Solution
 

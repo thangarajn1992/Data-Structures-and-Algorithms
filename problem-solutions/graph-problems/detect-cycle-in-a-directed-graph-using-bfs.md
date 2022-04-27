@@ -8,19 +8,19 @@ Given a directed graph, check whether the graph contains a cycle or not.
 
 Idea is simply to use [Kahn's Algorithm for topological sorting](../../data-structures/graphs/graph-algorithms/kahns-algorithm-topological-sorting-for-directed-acyclic-graph-dag.md).
 
-**Step 1: **Compute in-degree ( number of incoming edges) for each of the vertex present in the graph and initialize the count of visited nodes as 0.
+**Step 1:** Compute in-degree ( number of incoming edges) for each of the vertex present in the graph and initialize the count of visited nodes as 0.
 
-**Step 2: **Pick all the vertices with in-degree as 0 and add them into the queue.
+**Step 2:** Pick all the vertices with in-degree as 0 and add them into the queue.
 
-**Step 3: **Remove a vertex from the queue and then
+**Step 3:** Remove a vertex from the queue and then
 
 1. Increment count of visited nodes by 1.
 2. Decrease in-degree by 1 for all its neighboring nodes.
 3. If in-degree of neighboring nodes is reduced to zero, then add it to queue.
 
-**Step 4: **Repeat Step 3 until the queue is empty
+**Step 4:** Repeat Step 3 until the queue is empty
 
-**Step 5: **If count of visited nodes is not equal to the number of nodes in the graph then it has cycle, otherwise not.
+**Step 5:** If count of visited nodes is not equal to the number of nodes in the graph then it has cycle, otherwise not.
 
 #### How to find in-degree of each node?
 

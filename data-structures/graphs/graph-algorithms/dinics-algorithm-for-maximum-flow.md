@@ -19,7 +19,7 @@ Like Ford Fulkerson, Dinic's algorithm uses following concepts:
 2. BFS is used in a loop. There is difference though in the way we use BFS in both algorithms. Here we use BFS to check if more flow is possible and to construct level graph.
 3. In **Level graph,** we assign levels to all nodes, level of a node is shortest distannce(in terms of number of edges) of the node from source. Once level graph is constructed, we send multiple flows using this level graph.
 
-A flow is **Blocking flow **if no more flow can be sent using level graph, i.e., no more s-t path exists such that path vertices have current levels 0,1,2... in order.
+A flow is **Blocking flow** if no more flow can be sent using level graph, i.e., no more s-t path exists such that path vertices have current levels 0,1,2... in order.
 
 ![Initial Residual Graph](<../../../.gitbook/assets/image (13).png>)
 

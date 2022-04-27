@@ -6,7 +6,7 @@
 
 ### Problem Statement
 
-You are given two arrays **A\[]** and **B\[]**, each of size **N** . Let's consider an integer **X** is the count of all different pairs of **Ai** and **Bj**, such that **Ai XOR Bj** is present in any of the two arrays. Return "**Yes" **(case-sensitive)** **if **X** is even, else return **"No"**.
+You are given two arrays **A\[]** and **B\[]**, each of size **N** . Let's consider an integer **X** is the count of all different pairs of **Ai** and **Bj**, such that **Ai XOR Bj** is present in any of the two arrays. Return "**Yes"** (case-sensitive) **** if **X** is even, else return **"No"**.
 
 **Example 1:**
 
@@ -56,8 +56,8 @@ Hence the output is "Yes".
 **Expected Auxiliary Space:** O(1)
 
 **Constraints:**\
- 1 <= N <= 10^5\
- 1 <= A\[i],B\[i] <= 10^9
+&#x20;1 <= N <= 10^5\
+&#x20;1 <= A\[i],B\[i] <= 10^9
 
 ### Solution
 

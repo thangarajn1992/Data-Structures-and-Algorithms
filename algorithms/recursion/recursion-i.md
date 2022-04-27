@@ -11,7 +11,7 @@ A recursive function should have the following properties so that it does not re
 
 Note that there could be multiple places where the function may call itself.
 
-#### Example <a href="example" id="example"></a>
+#### Example <a href="#example" id="example"></a>
 
 Let's start with a simple programming problem:
 
@@ -61,11 +61,11 @@ private static void helper(int index, char [] str) {
 
 For a problem, if there exists a recursive solution, we can follow the guidelines below to implement it.&#x20;
 
-For instance, we define the problem as the function` F(X)` to implement, where` X` is the input of the function which also defines the scope of the problem.
+For instance, we define the problem as the function `F(X)` to implement, where `X` is the input of the function which also defines the scope of the problem.
 
 Then, in the function `F(X)`, we will:
 
-1. Break the problem down into smaller scopes, such as `x0 ∈ X, x1∈ X ,..., xn ∈ X `
+1. Break the problem down into smaller scopes, such as `x0 ∈ X, x1∈ X ,..., xn ∈ X`&#x20;
 2. Call function `F(x0), F(x1),...,F(xn)` _**recursively**_ to solve the sub-problems of `X`
 3. Finally, process the results from the recursive function calls to solve the problem corresponding to `X.`
 
@@ -102,31 +102,31 @@ To explain the above points, let's look at a classic problem, `Pascal's Triangle
 
 ![](<../../.gitbook/assets/Screenshot 2021-10-05 at 10.43.59 PM.png>)
 
-#### Recurrence Relation <a href="recurrence-relation" id="recurrence-relation"></a>
+#### Recurrence Relation <a href="#recurrence-relation" id="recurrence-relation"></a>
 
 &#x20;Let's start with the recurrence relation within the Pascal's Triangle.
 
-First of all, we define a function` f(i,j)` which returns the number in the Pascal's Triangle in the `i-th` row and `j-th` column.
+First of all, we define a function `f(i,j)` which returns the number in the Pascal's Triangle in the `i-th` row and `j-th` column.
 
-We then can represent the recurrence relation with the following formula:`f(i,j) = f(i−1,j−1) + f(i−1,j) `
+We then can represent the recurrence relation with the following formula:`f(i,j) = f(i−1,j−1) + f(i−1,j)`&#x20;
 
-#### Base Case <a href="base-case" id="base-case"></a>
+#### Base Case <a href="#base-case" id="base-case"></a>
 
 As one can see, the leftmost and rightmost numbers of each row are the `base cases` in this problem, which are always equal to 1.
 
-As a result, we can define the base case as follows: `f(i,j) = 1 where j = 1 or j = i `
+As a result, we can define the base case as follows: `f(i,j) = 1 where j = 1 or j = i`&#x20;
 
 As one can see, once we define the `recurrence relation` and the `base case`, it becomes much more intuitive to implement the recursive function, especially when we formulate these two elements in terms of mathematical formulas.
 
-Starting from `f(5,3)` , we can break it down as `f(5,3)=f(4,2)+f(4,3)`, we then call `f(4,2) `and `f(4,3`) recursively:
+Starting from `f(5,3)` , we can break it down as `f(5,3)=f(4,2)+f(4,3)`, we then call `f(4,2)` and `f(4,3`) recursively:
 
 * For the call of `f(4,2)`, we could extend it further until we reach the base cases, as follows:`f(4, 2) = f(3, 1) + f(3, 2) = f(3, 1) + (f(2, 1) + f(2, 2)) = 1 + (1 + 1) = 3`
 * For the call of `f(4,3)`, similarly we break it down as: `f(4, 3) = f(3, 2) + f(3, 3) = (f(2, 1) + f(2, 2)) + f(3, 3) = (1 + 1) + 1 = 3`
 * Finally we combine the results of the above sub-problems: `f(5, 3) = f(4, 2) + f(4, 3) = 3 + 3 = 6`
 
-In the above example, you might have noticed that the recursive solution can incur some duplicate calculations, _i.e._ we compute the same intermediate numbers repeatedly in order to obtain numbers in the last row. For instance, in order to obtain the result for the number `f(5,3)`, we calculate the number `f(3,2)` twice both in the calls of `f(4, 2)` and` f(4,3)`.
+In the above example, you might have noticed that the recursive solution can incur some duplicate calculations, _i.e._ we compute the same intermediate numbers repeatedly in order to obtain numbers in the last row. For instance, in order to obtain the result for the number `f(5,3)`, we calculate the number `f(3,2)` twice both in the calls of `f(4, 2)` and `f(4,3)`.
 
-We will discuss how to avoid these `duplicate calculations `in memoization chapter
+We will discuss how to avoid these `duplicate calculations` in memoization chapter
 
 ## Duplicate Calculation in Recursion
 
@@ -136,7 +136,7 @@ In this article we will look closer into the duplicate calculations problem that
 
 To demonstrate another problem with duplicate calculations, let's look at an example that most people might be familiar with, the [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci\_number). If we define the function `F(n)` to represent the Fibonacci number at the index of `n`, then you can derive the following recurrence relation:
 
-`F(n) = F(n - 1) + F(n - 2) `with the base cases:`F(0) = 0, F(1) = 1`
+`F(n) = F(n - 1) + F(n - 2)` with the base cases:`F(0) = 0, F(1) = 1`
 
 Given the definition of a Fibonacci number, one can implement the function as follows:
 
@@ -176,7 +176,7 @@ Here is the tree that shows all the duplicate calculations (grouped by colors) t
 
 ![](https://leetcode.com/explore/learn/card/recursion-i/255/recursion-memoization/Figures/recursion/fibonacci.png)
 
-#### Memoization <a href="memoization" id="memoization"></a>
+#### Memoization <a href="#memoization" id="memoization"></a>
 
 To eliminate the duplicate calculation in the above case, as many of you would have figured out, one of the ideas would be to **store** the intermediate results in the cache so that we could reuse them later without re-calculation.
 
@@ -257,7 +257,7 @@ As you might recall, in the problem of [printReverse](https://leetcode.com/explo
 
 where `str[1...n]` is the sub-string of the input string `str`, without the leading character `str[0]`.
 
-As you can see, the function would be recursively invoked `n` times, where `n` is the size of the input string. At the end of each recursion, we simply print the leading character, therefore the time complexity of this particular operation is constant, _i.e. _O(1) .
+As you can see, the function would be recursively invoked `n` times, where `n` is the size of the input string. At the end of each recursion, we simply print the leading character, therefore the time complexity of this particular operation is constant, _i.e._ O(1) .
 
 To sum up, the overall time complexity of our recursive function `printReverse(str)` would be `O(printReverse) = n * O(1) = O(n)`
 
@@ -401,7 +401,7 @@ For example, for the sequence of recursion calls `f(x1) -> f(x2) -> f(x3)`, if t
 
 ![](https://assets.leetcode.com/uploads/2019/01/26/card\_recursion\_tail.png)
 
-Note that** in tail recursion, we know that as soon as we return from the recursive call we are going to immediately return as well, so we can skip the entire chain of recursive calls returning and return straight to the original caller. That means we don't need a call stack at all for all of the recursive calls, which saves us space.**
+Note that **in tail recursion, we know that as soon as we return from the recursive call we are going to immediately return as well, so we can skip the entire chain of recursive calls returning and return straight to the original caller. That means we don't need a call stack at all for all of the recursive calls, which saves us space.**
 
 For example, in step (1), a space in the stack would be allocated for `f(x1)` in order to call `f(x2)`. Then in step (2), the function `f(x2)` would recursively call `f(x3)`. However, instead of allocating new space on the stack, the system could simply reuse the space allocated earlier for this second recursion call. Finally, in the function `f(x3)`, we reach the base case, and the function could simply return the result to the original caller without going back to the previous function calls.
 

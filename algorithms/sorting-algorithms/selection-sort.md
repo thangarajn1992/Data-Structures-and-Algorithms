@@ -10,51 +10,51 @@ We perform the steps given below until the unsorted sub-array becomes empty:
 
 1. Pick the minimum element from the unsorted sub-array.
 2. Swap it with the leftmost element of the unsorted sub-array.
-3. Now the leftmost element of unsorted sub-array becomes a part \(rightmost\) of sorted sub-array and will not be a part of unsorted sub-array.
+3. Now the leftmost element of unsorted sub-array becomes a part (rightmost) of sorted sub-array and will not be a part of unsorted sub-array.
 
 #### Example
 
-### A selection sort works as follows: 
+### A selection sort works as follows:&#x20;
 
- ![](https://tutorials-image.s3-us-west-2.amazonaws.com/unsorted+array.png)  Part of unsorted array
+&#x20;<img src="https://tutorials-image.s3-us-west-2.amazonaws.com/unsorted+array.png" alt="" data-size="line">  Part of unsorted array
 
- ![](https://tutorials-image.s3-us-west-2.amazonaws.com/sorted+array.png)  Part of sorted array
+&#x20;<img src="https://tutorials-image.s3-us-west-2.amazonaws.com/sorted+array.png" alt="" data-size="line">  Part of sorted array
 
- ![](https://tutorials-image.s3-us-west-2.amazonaws.com/Leftmost+element+in+unsorted+array.png)  Leftmost element in unsorted array
+&#x20;<img src="https://tutorials-image.s3-us-west-2.amazonaws.com/Leftmost+element+in+unsorted+array.png" alt="" data-size="line">  Leftmost element in unsorted array
 
- ![](https://tutorials-image.s3-us-west-2.amazonaws.com/Minimum+element+in+unsorted+array.png)  Minimum element in unsorted array
+&#x20;<img src="https://tutorials-image.s3-us-west-2.amazonaws.com/Minimum+element+in+unsorted+array.png" alt="" data-size="line">  Minimum element in unsorted array
 
 ![](https://tutorials-image.s3-us-west-2.amazonaws.com/Selection+Sort.png)
 
-This is our initial array A = \[5, 2, 6, 7, 2, 1, 0, 3\]
+This is our initial array A = \[5, 2, 6, 7, 2, 1, 0, 3]
 
 ![](https://s3-us-west-2.amazonaws.com/tutorials-image/selection+sort+algorithm.png)
 
-We will swap A\[0\] and A\[6\] then, make A\[0\] part of sorted sub-array.
+We will swap A\[0] and A\[6] then, make A\[0] part of sorted sub-array.
 
 ![](https://s3-us-west-2.amazonaws.com/tutorials-image/selection+sort4.png)
 
-We will swap A\[1\] and A\[5\] then, make A\[1\] part of sorted sub-array.
+We will swap A\[1] and A\[5] then, make A\[1] part of sorted sub-array.
 
 ![](https://s3-us-west-2.amazonaws.com/tutorials-image/selection+sort2.png)
 
-We will swap A\[2\] and A\[4\] then, make A\[2\] part of sorted sub-array.
+We will swap A\[2] and A\[4] then, make A\[2] part of sorted sub-array.
 
 ![](https://s3-us-west-2.amazonaws.com/tutorials-image/selection+sort3.png)
 
-We will swap A\[3\] and A\[5\] then, make A\[3\] part of sorted sub-array.
+We will swap A\[3] and A\[5] then, make A\[3] part of sorted sub-array.
 
 ![](https://s3-us-west-2.amazonaws.com/tutorials-image/selection+sort6.png)
 
-We will swap A\[4\] and A\[7\] then, make A\[4\] part of sorted sub-array.
+We will swap A\[4] and A\[7] then, make A\[4] part of sorted sub-array.
 
 ![](https://s3-us-west-2.amazonaws.com/tutorials-image/selection+sort5.png)
 
-We will swap A\[5\] and A\[6\] then, make A\[5\] part of sorted sub-array.
+We will swap A\[5] and A\[6] then, make A\[5] part of sorted sub-array.
 
 ![](https://s3-us-west-2.amazonaws.com/tutorials-image/selection+sort1.png)
 
-We will swap A\[6\] and A\[7\] then, make A\[6\] part of sorted sub-array.
+We will swap A\[6] and A\[7] then, make A\[6] part of sorted sub-array.
 
 ![](https://s3-us-west-2.amazonaws.com/tutorials-image/final+sorted+arrary+selection+sort.png)
 
@@ -107,7 +107,6 @@ int main() {
 
 #### Complexity Analysis
 
-Time Complexity : O\(n^2\)
+Time Complexity : O(n^2)
 
-Space Complexity: O\(1\)
-
+Space Complexity: O(1)

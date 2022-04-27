@@ -8,8 +8,8 @@
 
 ### Problem Statement
 
-Given a string **str** and another string **patt**. Find the first position (considering 0-based indexing) of the character in **patt** that is present at the minimum index in **str**. Complete the function **minIndexChar() **that returns the index of answer in str or returns -1 in case no character of patt is present in str.\
- **Example 1:**
+Given a string **str** and another string **patt**. Find the first position (considering 0-based indexing) of the character in **patt** that is present at the minimum index in **str**. Complete the function **minIndexChar()** that returns the index of answer in str or returns -1 in case no character of patt is present in str.\
+&#x20;**Example 1:**
 
 ```
 Input:
@@ -34,12 +34,12 @@ characters which is common in patt
 and str.
 ```
 
- **Expected Time Complexity: **O(N).\
- **Expected Auxiliary Space: **O(Number of distinct characters).
+&#x20;**Expected Time Complexity:** O(N).\
+&#x20;**Expected Auxiliary Space:** O(Number of distinct characters).
 
 \
- **Constraints:**\
- 1 ≤ |str| , |patt| ≤ 10^5
+&#x20;**Constraints:**\
+&#x20;1 ≤ |str| , |patt| ≤ 10^5
 
 ### Solution
 

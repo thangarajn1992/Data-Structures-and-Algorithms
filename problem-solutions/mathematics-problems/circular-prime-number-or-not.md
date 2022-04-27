@@ -8,7 +8,7 @@
 
 ### Problem Statement
 
-A prime number is a [**Circular Prime Number **](https://en.wikipedia.org/wiki/Circular\_prime)if all of its possible rotations are itself prime numbers. Now given a number N check if it is Circular Prime or Not.
+A prime number is a [**Circular Prime Number** ](https://en.wikipedia.org/wiki/Circular\_prime)if all of its possible rotations are itself prime numbers. Now given a number N check if it is Circular Prime or Not.
 
 **Example 1:**
 
@@ -34,8 +34,8 @@ not a prime number.
 You don't need to read or print anything. Your task is to complete the function **isCircularPrime()** which takes N as input parameter and returns 1 if it is Circular Prime otherwise returns 0.\
 &#x20;
 
-**Expected Time Complexity: **O(Nlog(log(N))\
-**Expected Space Complexity: **O(N)\
+**Expected Time Complexity:** O(Nlog(log(N))\
+**Expected Space Complexity:** O(N)\
 &#x20;
 
 **Constraints:**\

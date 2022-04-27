@@ -17,10 +17,10 @@ Given a linked list of **N** nodes such that it may contain a loop.
 
 > A loop here means that the last node of the link list is connected to the node at position X. If the link list does not have any loop, X=0.
 
-Remove the loop from the linked list, if it is present. Complete the function **removeLoop**() which takes the head of the linked list as input parameter. Simply remove the loop in the list (if present) without disconnecting any nodes from the list. **Note:** The generated output will be **1 **if your submitted code is correct.
+Remove the loop from the linked list, if it is present. Complete the function **removeLoop**() which takes the head of the linked list as input parameter. Simply remove the loop in the list (if present) without disconnecting any nodes from the list. **Note:** The generated output will be **1** if your submitted code is correct.
 
 \
- **Example 1:**
+&#x20;**Example 1:**
 
 ```
 Input:
@@ -37,7 +37,7 @@ successfully, the answer will be 1.
 ```
 
 \
- **Example 2:**
+&#x20;**Example 2:**
 
 ```
 Input:
@@ -50,9 +50,9 @@ contains any loop.
 ```
 
 **Expected time complexity :** O(N)\
-**Expected auxiliary space : **O(1)\
+**Expected auxiliary space :** O(1)\
 **Constraints:**\
- 1 ≤ N ≤ 10^4
+&#x20;1 ≤ N ≤ 10^4
 
 ### Solution
 

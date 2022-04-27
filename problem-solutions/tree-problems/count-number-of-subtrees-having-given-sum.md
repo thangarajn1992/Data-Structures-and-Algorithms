@@ -58,8 +58,8 @@ to 5.
 **Your Task:**\
 You don't need to read input or print anything. Your task is to complete the function **countSubtreesWithSumX**() which takes the root node and an integer X as inputs and returns the number of subtrees of the given Binary Tree having sum exactly equal to X.
 
-**Expected Time Complexity: **O(N).\
-**Expected Auxiliary Space: **O(Height of the Tree).
+**Expected Time Complexity:** O(N).\
+**Expected Auxiliary Space:** O(Height of the Tree).
 
 **Constraints:**\
 1 <= N <= 10^3\

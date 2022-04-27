@@ -1,4 +1,4 @@
-# Binary Tree Theory
+# Binary Tree
 
 A `tree` is a frequently-used data structure to simulate a hierarchical tree structure.
 
@@ -12,19 +12,19 @@ Each node of the tree will have a root value and a list of references to other n
 
 Pre-order traversal is to visit the root first. Then traverse the left subtree. Finally, traverse the right subtree. Here is an example:
 
-![](<../../.gitbook/assets/Screenshot 2021-10-04 at 5.29.43 PM.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-10-04 at 5.29.43 PM.png>)
 
 ### In Order Traversal
 
 In-order traversal is to traverse the left subtree first. Then visit the root. Finally, traverse the right subtree. Typically, for `binary search tree`, we can retrieve all the data in sorted order using in-order traversal.
 
-![](<../../.gitbook/assets/Screenshot 2021-10-04 at 5.30.22 PM.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-10-04 at 5.30.22 PM.png>)
 
 ### Post Order Traversal
 
 Post-order traversal is to traverse the left subtree first. Then traverse the right subtree. Finally, visit the root.
 
-![](<../../.gitbook/assets/Screenshot 2021-10-04 at 5.31.35 PM.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-10-04 at 5.31.35 PM.png>)
 
 It is worth noting that when you delete nodes in a tree, deletion process will be in post-order. That is to say, when you delete a node, you will delete its left child and its right child before you delete the node itself.
 
@@ -44,5 +44,5 @@ Level-order traversal is to traverse the tree level by level.
 
 When we do breadth-first search in a tree, the order of the nodes we visited is in level order. Typically, we use a queue to help us to do BFS.
 
-![](<../../.gitbook/assets/Screenshot 2021-10-04 at 6.27.49 PM.png>)
+![](<../../../.gitbook/assets/Screenshot 2021-10-04 at 6.27.49 PM.png>)
 

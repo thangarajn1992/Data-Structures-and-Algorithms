@@ -16,7 +16,7 @@
 Given a dictionary of words and an M x N board where every cell has one character. Find all possible different words from the dictionary that can be formed by a sequence of adjacent characters on the board. We can move to any of 8 adjacent characters, but a word should not have multiple instances of the same cell. (**NOTE**: All words returned must be different even it occurs multiple times in the dictionary).
 
 \
- **Example 1:**
+&#x20;**Example 1:**
 
 ```
 Input: 
@@ -51,11 +51,11 @@ Words we got is denoted using same color.
 ```
 
 **Expected Time Complexity:** O(4^(N^2))\
-**Expected Auxiliary Space: **O(N^2)\
+**Expected Auxiliary Space:** O(N^2)\
 **Constraints:**\
- 1 ≤ N ≤ 15\
- 1 ≤ R, C ≤ 50\
- 1 ≤ length of Word ≤ 60
+&#x20;1 ≤ N ≤ 15\
+&#x20;1 ≤ R, C ≤ 50\
+&#x20;1 ≤ length of Word ≤ 60
 
 All words of Dictionary and all characters of board are in uppercase letters from **'A'** to **'Z'**
 

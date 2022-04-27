@@ -40,16 +40,16 @@ Explanation: Both strings are same.
 ```
 
 **Your Task:**\
- You don't need to read or print anything. Your task is to complete the function **editDistance() **which takes strings s and t as input parameters and returns the minimum number of operation required to make both strings equal. 
+&#x20;You don't need to read or print anything. Your task is to complete the function **editDistance()** which takes strings s and t as input parameters and returns the minimum number of operation required to make both strings equal.&#x20;
 
 \
- **Expected Time Complexity: **O(|s|\*|t|)\
- **Expected Space Complexity: **O(|s|\*|t|)
+&#x20;**Expected Time Complexity:** O(|s|\*|t|)\
+&#x20;**Expected Space Complexity:** O(|s|\*|t|)
 
 \
- **Constraints:**\
- 1 ≤ Length of both strings ≤ 100\
- Both the strings are in lowercase.
+&#x20;**Constraints:**\
+&#x20;1 ≤ Length of both strings ≤ 100\
+&#x20;Both the strings are in lowercase.
 
 ### Solution
 

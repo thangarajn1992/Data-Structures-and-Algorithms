@@ -12,7 +12,7 @@
 
 ### Problem Statement
 
-Given an array of positive integers. Find the length of the longest sub-sequence such that elements in the sub-sequence are consecutive integers, the **consecutive numbers can be in any order. **complete the function **findLongestConseqSubseq()** which takes the array arr\[] and the size of the array as inputs and returns the length of the longest sub-sequence of consecutive integers.\
+Given an array of positive integers. Find the length of the longest sub-sequence such that elements in the sub-sequence are consecutive integers, the **consecutive numbers can be in any order.** complete the function **findLongestConseqSubseq()** which takes the array arr\[] and the size of the array as inputs and returns the length of the longest sub-sequence of consecutive integers.\
 &#x20;&#x20;
 
 **Example 1:**

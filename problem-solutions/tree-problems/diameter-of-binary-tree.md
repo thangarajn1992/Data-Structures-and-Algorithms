@@ -38,12 +38,12 @@ Input:
 Output: 4
 ```
 
-**Expected Time Complexity: **O(N).\
-**Expected Auxiliary Space: **O(Height of the Tree).
+**Expected Time Complexity:** O(N).\
+**Expected Auxiliary Space:** O(Height of the Tree).
 
 **Constraints:**\
- 1 <= Number of nodes <= 10000\
- 1 <= Data of a node <= 1000
+&#x20;1 <= Number of nodes <= 10000\
+&#x20;1 <= Data of a node <= 1000
 
 ### Solution
 

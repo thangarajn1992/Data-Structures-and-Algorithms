@@ -37,11 +37,11 @@ Explanation: After reversing the list,
 elements are 10->9->8->7->2.
 ```
 
-**Expected Time Complexity: **O(N).\
-**Expected Auxiliary Space: **O(1).
+**Expected Time Complexity:** O(N).\
+**Expected Auxiliary Space:** O(1).
 
 **Constraints:**\
- 1 <= N <= 10^4
+&#x20;1 <= N <= 10^4
 
 ### Solution
 

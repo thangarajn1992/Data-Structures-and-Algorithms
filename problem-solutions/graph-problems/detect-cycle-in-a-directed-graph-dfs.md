@@ -38,8 +38,8 @@ Output: 0
 Explanation: no cycle in the graph
 ```
 
-**Expected Time Complexity: **O(V + E)\
-**Expected Auxiliary Space: **O(V)\
+**Expected Time Complexity:** O(V + E)\
+**Expected Auxiliary Space:** O(V)\
 **Constraints:**\
 &#x20;1 ≤ V, E ≤ 10**^**5
 

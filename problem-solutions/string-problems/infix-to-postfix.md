@@ -14,7 +14,7 @@ Given an infix expression in the form of string **str**. Convert this infix expr
 
 * **Infix expression:** The expression of the form a **op** b. When an operator is in-between every pair of operands.
 * **Postfix expression:** The expression of the form a b **op**. When an operator is followed for every pair of operands.\
-  **Note:** The order of precedence is: ^ **greater than** \* **equals to** / **greater than** + **equals to** -. 
+  **Note:** The order of precedence is: ^ **greater than** \* **equals to** / **greater than** + **equals to** -.&#x20;
 
 **Example 1:**
 
@@ -39,13 +39,13 @@ expression will be ABC+*D/
 ```
 
 **Your Task:**\
- This is a **function** problem. You only need to complete the function **infixToPostfix() **that takes a **string**(Infix Expression) as a **parameter** and **returns** a **string(**postfix expression**)**. The **printing** is done **automatically** by the **driver code**.
+&#x20;This is a **function** problem. You only need to complete the function **infixToPostfix()** that takes a **string**(Infix Expression) as a **parameter** and **returns** a **string(**postfix expression**)**. The **printing** is done **automatically** by the **driver code**.
 
-**Expected Time Complexity: **O(|str|).\
- **Expected Auxiliary Space: **O(|str|).
+**Expected Time Complexity:** O(|str|).\
+&#x20;**Expected Auxiliary Space:** O(|str|).
 
 **Constraints:**\
- 1 ≤ |str| ≤ 10^5
+&#x20;1 ≤ |str| ≤ 10^5
 
 ### Solution
 

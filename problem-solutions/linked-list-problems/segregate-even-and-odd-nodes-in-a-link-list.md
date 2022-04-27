@@ -10,7 +10,7 @@
 
 Given a link list of size N, modify the list such that all the even numbers appear before all the odd numbers in the modified list. The order of appearance of numbers within each segregation should be same as that in the original list.
 
-**NOTE: **Don't create a new linked list, instead rearrange the provided one.
+**NOTE:** Don't create a new linked list, instead rearrange the provided one.
 
 \
 **Example 1:**
@@ -45,10 +45,10 @@ So ne need for modification.
 
 \
 **Your Task:**\
-You do not need to read input or print anything. Your task is to complete the function **divide() **which takes N and head of Link List as input parameters and returns the head of modified link list. Don't create a new linked list, instead rearrange the provided one.
+You do not need to read input or print anything. Your task is to complete the function **divide()** which takes N and head of Link List as input parameters and returns the head of modified link list. Don't create a new linked list, instead rearrange the provided one.
 
 \
-**Expected Time Complexity: **O(N)\
+**Expected Time Complexity:** O(N)\
 **Expected Auxiliary Space:** O(1)
 
 \

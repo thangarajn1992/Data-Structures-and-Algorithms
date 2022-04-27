@@ -11,7 +11,7 @@
 
 ### Problem Statement
 
-Given a stack, the task is to sort it such that the top of the stack has the greatest element.Your task is to complete the function **sort() **which sorts the elements present in the given stack.
+Given a stack, the task is to sort it such that the top of the stack has the greatest element.Your task is to complete the function **sort()** which sorts the elements present in the given stack.
 
 **Example 1:**
 
@@ -33,7 +33,7 @@ Output: 41 32 11 3 2
 **Expected Auxiliary Space**: O(N) recursive.
 
 **Constraints:**\
- 1<= N <=100
+&#x20;1<= N <=100
 
 ### Solution
 

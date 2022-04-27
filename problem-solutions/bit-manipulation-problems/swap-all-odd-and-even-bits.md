@@ -34,7 +34,7 @@ is 10 after swapping 01 = 1 in decimal.
 ```
 
 \
-**Your Task: **Your task is to complete the function **swapBits**() which takes an integer and **returns an **integer with all the odd and even bits swapped.
+**Your Task:** Your task is to complete the function **swapBits**() which takes an integer and **returns an** integer with all the odd and even bits swapped.
 
 \
 **Expected Time Complexity:** O(1).\

@@ -10,7 +10,7 @@ Graphs can either be directed or undirected. While directed edges are like one-w
 
 The graph might consist of multiple isolated sub-graphs. If there is a path between every pair of vertices, it is called **connected graph.**
 
-The graph can also have cycles (or not). An **acyclic graph **is the one without cycles.
+The graph can also have cycles (or not). An **acyclic graph** is the one without cycles.
 
 
 

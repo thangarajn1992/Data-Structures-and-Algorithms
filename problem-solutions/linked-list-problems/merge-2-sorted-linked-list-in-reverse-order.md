@@ -13,25 +13,25 @@
 Given two linked lists of size **N** and **M**, which are sorted in non-decreasing order. The task is to merge them in such a way that the resulting list is in decreasing order. Return the pointer to the merged linked list which is in non-increasing order.
 
 **Constraints:**\
- 1 <=T<= 50\
- 1 <= N, M <= 1000
+&#x20;1 <=T<= 50\
+&#x20;1 <= N, M <= 1000
 
 **Example:**\
-** Input:**\
- 2\
- 4 3\
- 5 10 15 40 \
- 2 3 20\
- 2 2\
- 1 1\
- 2 4
+&#x20;**Input:**\
+&#x20;2\
+&#x20;4 3\
+&#x20;5 10 15 40 \
+&#x20;2 3 20\
+&#x20;2 2\
+&#x20;1 1\
+&#x20;2 4
 
 **Output:**\
- 40 20 15 10 5 3 2\
- 4 2 1 1 
+&#x20;40 20 15 10 5 3 2\
+&#x20;4 2 1 1&#x20;
 
 **Explanation:**\
-** Testcase 1:** After merging the two lists in decreasing order, we have new lists as 40->20->15->10->5->3->2.
+&#x20;**Testcase 1:** After merging the two lists in decreasing order, we have new lists as 40->20->15->10->5->3->2.
 
 ### Solution
 

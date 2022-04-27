@@ -7,13 +7,13 @@ A directed graph is strongly connected if there is a path between all pairs of v
 
 We have discussed [Kosaraju’s algorithm for strongly connected components](kosarajus-algorithm.md). The previously discussed algorithm requires two DFS traversals of a Graph. Tarjan’s algorithm requires only one DFS traversal.
 
-**Tarjan Algorithm is based on following facts: **\
+**Tarjan Algorithm is based on following facts:** \
 1\. DFS search produces a DFS tree/forest \
 2\. Strongly Connected Components form sub-trees of the DFS tree. \
 3\. If we can find the head of such sub-trees, we can print/store all the nodes in that sub-tree (including head) and that will be one SCC. \
 4\. There is no back edge from one SCC to another (There can be cross edges, but cross edges will not be used while processing the graph).
 
-To find head of a SCC, we calculate disc and low array (as done for [articulation point](https://www.geeksforgeeks.org/articulation-points-or-cut-vertices-in-a-graph/), [bridge](https://www.geeksforgeeks.org/bridge-in-a-graph/), [bi connected component](https://www.geeksforgeeks.org/biconnectivity-in-a-graph/)).** low\[u] indicates earliest visited vertex (the vertex with minimum discovery time) that can be reached from sub-tree rooted with u**. **A node u is head if disc\[u] = low\[u].**
+To find head of a SCC, we calculate disc and low array (as done for [articulation point](https://www.geeksforgeeks.org/articulation-points-or-cut-vertices-in-a-graph/), [bridge](https://www.geeksforgeeks.org/bridge-in-a-graph/), [bi connected component](https://www.geeksforgeeks.org/biconnectivity-in-a-graph/)). **low\[u] indicates earliest visited vertex (the vertex with minimum discovery time) that can be reached from sub-tree rooted with u**. **A node u is head if disc\[u] = low\[u].**
 
 ![](<../../../.gitbook/assets/image (27).png>)
 
@@ -34,12 +34,12 @@ For any node u, when DFS starts, Low will be set to its Disc 1st. Then later on 
 
 **Case 1 (Tree Edge):** &#x20;
 
-If node v is not visited already, then after DFS of v is complete, then minimum of low\[u] and low\[v] will be updated to low\[u]. `low[u] = min(low[u], low[v]); `\
+If node v is not visited already, then after DFS of v is complete, then minimum of low\[u] and low\[v] will be updated to low\[u]. `low[u] = min(low[u], low[v]);` \
 
 
 **Case 2 (Back Edge):**&#x20;
 
-When child v is already visited, then minimum of low\[u] and Disc\[v] will be updated to low\[u].`low[u] = min(low[u], disc[v]); `
+When child v is already visited, then minimum of low\[u] and Disc\[v] will be updated to low\[u].`low[u] = min(low[u], disc[v]);`&#x20;
 
 In case two, can we take low\[v] instead of disc\[v] ?? . Answer is **NO**. If you can think why answer is **NO**, you probably understood the Low and Disc concept.
 
@@ -48,7 +48,7 @@ To track the sub-tree rooted at head, we can use a stack (keep pushing node whil
 
 **To make sure, we don’t consider cross edges, when we reach a node which is already visited, we should process the visited node only if it is present in stack, else ignore the node.** &#x20;
 
-**Time Complexity : O(V+E) **
+**Time Complexity : O(V+E)**&#x20;
 
 ```cpp
 // A C++ program to find strongly connected components in a given

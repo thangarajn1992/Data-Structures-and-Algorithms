@@ -38,13 +38,13 @@ output: {{1, 2},
          {3, 4}}
 ```
 
-**Expected Time Complexity: **O(n \* m)\
-**Expected Space Complexity: **O(n \* m)\
+**Expected Time Complexity:** O(n \* m)\
+**Expected Space Complexity:** O(n \* m)\
 &#x20;&#x20;
 
 **Constraints:**\
 &#x20;`1 ≤ n, m ≤ 100`\
-&#x20;`1 ≤ matrix[i][j] ≤ 100`, where`  0 ≤ i ≤ n  `and `0 ≤ j ≤ m`
+&#x20;`1 ≤ matrix[i][j] ≤ 100`, where `0 ≤ i ≤ n` and `0 ≤ j ≤ m`
 
 ### Solution
 

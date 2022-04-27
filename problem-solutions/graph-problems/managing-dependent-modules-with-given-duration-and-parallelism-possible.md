@@ -8,8 +8,8 @@
 
 ### Problem Statement
 
-An IT company is working on a large project. The project is broken into **N** modules and distributed to different teams. Each team can work parallel. The amount of time (in months) required to complete each module is given in an array **duration\[ ]** _i.e._ time needed to complete** ith **module is **duration\[i]** months. \
-You are also given **M** **dependencies** such that for each i (1 ≤ i ≤ M)  **dependencies\[i]\[1]th **module can be started after **dependencies\[i]\[0]th **module is completed.\
+An IT company is working on a large project. The project is broken into **N** modules and distributed to different teams. Each team can work parallel. The amount of time (in months) required to complete each module is given in an array **duration\[ ]** _i.e._ time needed to complete **ith** module is **duration\[i]** months. \
+You are also given **M** **dependencies** such that for each i (1 ≤ i ≤ M)  **dependencies\[i]\[1]th** module can be started after **dependencies\[i]\[0]th** module is completed.\
 As the project manager, compute the minimum time required to complete the project.\
 **Note**: It is guaranteed that a module is not dependent on itself.
 

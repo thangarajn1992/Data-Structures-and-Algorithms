@@ -17,7 +17,7 @@ Greedy Algorithm won't provide us the best possible solution, hence we need to u
 
 ### Residual Graph
 
-Residual Graph of a flow network is a graph which indicates additional possible flow. If there is a path from source to sink in residual graph, then it is possible to add flow. Every edge of a residual graph has a value called **Residual Capacity, **which is equal to original capcacity of the edge minus current flow. It is basically the current capacity of the edge.
+Residual Graph of a flow network is a graph which indicates additional possible flow. If there is a path from source to sink in residual graph, then it is possible to add flow. Every edge of a residual graph has a value called **Residual Capacity,** which is equal to original capcacity of the edge minus current flow. It is basically the current capacity of the edge.
 
 ### Implementation
 
@@ -28,7 +28,7 @@ Residual Graph of a flow network is a graph which indicates additional possible 
    3. We later add found path flow to overall flow.
 3. Important thing is, we need to update residual capcacities in the residual graph. We substract path flow from all edges along the path and we add path flow along the reverse edges because may be later need to send flow in reverse direction.
 
-**Time Complexity: **O(max\_flow \* E). We run a loop while there is an augmenting path. In worst case, we may add 1 unit flow in every iteration.
+**Time Complexity:** O(max\_flow \* E). We run a loop while there is an augmenting path. In worst case, we may add 1 unit flow in every iteration.
 
 **Applications:**
 

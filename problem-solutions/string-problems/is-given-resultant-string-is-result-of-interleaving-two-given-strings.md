@@ -51,7 +51,7 @@ XY and X.
 ```
 
 **Your Task:**\
-Complete the function **isInterleave() **which takes three strings A, B and C as input and returns true if C is an interleaving of A and B else returns false. (1 is printed by the driver code if the returned value is true, otherwise 0.)
+Complete the function **isInterleave()** which takes three strings A, B and C as input and returns true if C is an interleaving of A and B else returns false. (1 is printed by the driver code if the returned value is true, otherwise 0.)
 
 **Expected Time Complexity:** O(N \* M)\
 **Expected Auxiliary Space:** O(N \* M)\

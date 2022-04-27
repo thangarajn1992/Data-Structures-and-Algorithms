@@ -243,11 +243,11 @@ Trie empty!!
 
 ### Complexity
 
-**Time Complexity:  **
+**Time Complexity:** &#x20;
 
 Insert  O(n) ;  Delete O(n) ; Search O(n), where n is the key length
 
-**Space Complexity: **O(N \* M \* C)  
+**Space Complexity:** O(N \* M \* C) &#x20;
 
 N - Total number of Strings
 

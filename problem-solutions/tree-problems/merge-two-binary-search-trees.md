@@ -13,7 +13,7 @@
 ### Problem Statement
 
 Given two BSTs, return elements of both BSTs in **sorted** form.\
- **Example 1:**
+&#x20;**Example 1:**
 
 ```
 Input:
@@ -59,12 +59,12 @@ After merging and sorting the
 two BST we get 2 5 6 8 9 10 11 12.
 ```
 
-**Expected Time Complexity: **O(M+N) where M and N are the sizes if the two BSTs.\
-**Expected Auxiliary Space: **O(Height of BST1 + Height of BST2).
+**Expected Time Complexity:** O(M+N) where M and N are the sizes if the two BSTs.\
+**Expected Auxiliary Space:** O(Height of BST1 + Height of BST2).
 
 \
- **Constraints:**\
- 1 ≤ Number of Nodes ≤ 10^5
+&#x20;**Constraints:**\
+&#x20;1 ≤ Number of Nodes ≤ 10^5
 
 ### Solution
 
