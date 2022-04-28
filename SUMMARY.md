@@ -36,6 +36,7 @@
   * [Binary Search Trees](data-structures/trees/binary-search-trees.md)
   * [Binary Tree](data-structures/trees/binary-tree-theory/README.md)
     * [Tree Properties](data-structures/trees/binary-tree-theory/tree-properties.md)
+    * [Binary Tree Types](data-structures/trees/binary-tree-theory/binary-tree-types.md)
     * [Tree Traversals](data-structures/trees/binary-tree-theory/tree-traversals.md)
     * [Solving Tree Problems Recursively](data-structures/trees/binary-tree-theory/solving-tree-problems-recursively.md)
 * [Heap / Priority Queues](data-structures/heap/README.md)
@@ -70,7 +71,8 @@
   * [Trie - C Implementation](data-structures/trie/trie-c-implementation.md)
   * [Trie - C++ Implementation](data-structures/trie/trie-c++-implementation.md)
   * [Tree - C++ Memory Efficient](data-structures/trie/tree-c++-memory-efficient.md)
-* [Mathematics](data-structures/mathematics.md)
+* [Mathematics](data-structures/mathematics/README.md)
+  * [nth Catalan Number](data-structures/mathematics/nth-catalan-number.md)
 
 ## Algorithms
 

@@ -8,25 +8,25 @@ description: Different Types of Traversals in Tree
 
 Pre-order traversal is to visit the root first. Then traverse the left sub-tree. Finally, traverse the right sub-tree. Here is an example:
 
-![Pre order Traversal](<../../../.gitbook/assets/image (59).png>)
+![Pre order Traversal](<../../../.gitbook/assets/image (62).png>)
 
 ### In-Order Traversal
 
 In-order traversal is to traverse the left sub-tree first. Then visit the root. Finally, traverse the right sub-tree. Typically, for `binary search tree`, we can retrieve all the data in sorted order using in-order traversal.
 
-![In order Traversal](<../../../.gitbook/assets/image (56).png>)
+![In order Traversal](<../../../.gitbook/assets/image (57).png>)
 
 ### Post Order Traversal
 
 Post-order traversal is to traverse the left sub-tree first. Then traverse the right sub-tree. Finally, visit the root.
 
-![Post Order Traversal](<../../../.gitbook/assets/image (57).png>)
+![Post Order Traversal](<../../../.gitbook/assets/image (58).png>)
 
 It is worth noting that when you delete nodes in a tree, deletion process will be in post-order. That is to say, when you delete a node, you will delete its left child and its right child before you delete the node itself.
 
 Also, post-order is widely use in mathematical expression. It is easier to write a program to parse a post-order expression. Here is an example:
 
-![Post Order Mathematical Expression](<../../../.gitbook/assets/image (61).png>)
+![Post Order Mathematical Expression](<../../../.gitbook/assets/image (65).png>)
 
 You can easily figure out the original expression using the in-order traversal. However, it is not easy for a program to handle this expression since you have to check the priorities of operations.
 
@@ -40,7 +40,7 @@ Level-order traversal is to traverse the tree level by level.
 
 When we do breadth-first search in a tree, the order of the nodes we visited is in level order. Typically, we use a queue to help us to do BFS.
 
-![Level Order Traversal](<../../../.gitbook/assets/image (58).png>)
+![Level Order Traversal](<../../../.gitbook/assets/image (60).png>)
 
 ### Zig-Zag Traversal
 
