@@ -72,6 +72,7 @@
   * [Trie - C++ Implementation](data-structures/trie/trie-c++-implementation.md)
   * [Tree - C++ Memory Efficient](data-structures/trie/tree-c++-memory-efficient.md)
 * [Mathematics](data-structures/mathematics/README.md)
+  * [Statistics](data-structures/mathematics/statistics.md)
   * [nth Catalan Number](data-structures/mathematics/nth-catalan-number.md)
 
 ## Algorithms

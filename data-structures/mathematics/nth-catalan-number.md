@@ -10,6 +10,28 @@ The first Catalan numbers for _n_ = 0, 1, 2, 3, ... are
 
 1, 1, 2, 5, 14, 42, 132, 429, 1430, 4862, 16796, 58786, ...
 
+
+
+Catalan Number must satisfy this recursive formula&#x20;
+
+![](https://www.geeksforgeeks.org/wp-content/ql-cache/quicklatex.com-6e37684751c57a980ebaca5148b4736a\_l3.svg)
+
+Nth Catalan Number can be found using binomial Coefficient formula&#x20;
+
+![](https://www.geeksforgeeks.org/wp-content/ql-cache/quicklatex.com-1dc3446f4c92ede8d4294503706b36ea\_l3.svg)
+
+When we expand binomial coefficient in the above formula, we can rewrite it as&#x20;
+
+$$
+C_{n} = \frac{2n!}{n! \left ( n+1 \right )!}
+$$
+
+We can calculate next Catalan Number from current catalan Number using formula&#x20;
+
+$$
+C_{n} = C_{n-1} \frac {\left ( 4n - 2 \right )}{\left ( n+1 \right )}
+$$
+
 ### Applications
 
 * Number of expressions containing n pairs of parentheses which are correctly matched. For n = 3, possible expressions are ((())), ()(()), ()()(), (())(), (()()).
