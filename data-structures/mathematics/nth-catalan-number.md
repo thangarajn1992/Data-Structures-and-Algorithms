@@ -42,7 +42,7 @@ $$
 * Number of different Unlabeled Binary Trees can be there with n nodes.
 * Number of ways a convex polygon of n+2 sides can split into triangles by connecting vertices.
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (66) (1).png>)
 
 * The number of paths with 2n steps on a rectangular grid from bottom left, i.e., (n-1, 0) to top right (0, n-1) that do not cross above the main diagonal
 

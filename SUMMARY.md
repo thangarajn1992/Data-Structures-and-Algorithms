@@ -35,6 +35,7 @@
 * [Trees](data-structures/trees/README.md)
   * [Binary Search Trees](data-structures/trees/binary-search-trees.md)
   * [Binary Tree](data-structures/trees/binary-tree-theory/README.md)
+    * [Tree Representation](data-structures/trees/binary-tree-theory/tree-representation.md)
     * [Tree Properties](data-structures/trees/binary-tree-theory/tree-properties.md)
     * [Binary Tree Types](data-structures/trees/binary-tree-theory/binary-tree-types.md)
     * [Tree Traversals](data-structures/trees/binary-tree-theory/tree-traversals.md)
